@@ -1,0 +1,79 @@
+[
+	{
+		"name": "E6-BU",
+		"location": "0862",
+		"description": "Dozent: FTZ",
+		"start": "2024-10-10T15:55:00",
+		"end": "2024-10-10T19:10:00"
+	},
+	{
+		"name": "E6-BU",
+		"location": "0801",
+		"description": "Dozent: FTZ",
+		"start": "2024-10-17T15:55:00",
+		"end": "2024-10-17T19:10:00"
+	},
+	{
+		"name": "E6-BU",
+		"location": "0801",
+		"description": "Dozent: FTZ",
+		"start": "2024-10-24T15:55:00",
+		"end": "2024-10-24T19:10:00"
+	},
+	{
+		"name": "E6-BU",
+		"location": "0801",
+		"description": "Dozent: FTZ",
+		"start": "2024-10-31T15:55:00",
+		"end": "2024-10-31T19:10:00"
+	},
+	{
+		"name": "E6-BU",
+		"location": "0801",
+		"description": "Dozent: FTZ",
+		"start": "2024-11-07T15:55:00",
+		"end": "2024-11-07T19:10:00"
+	},
+	{
+		"name": "E6-BU",
+		"location": "0801",
+		"description": "Dozent: FTZ",
+		"start": "2024-11-14T15:55:00",
+		"end": "2024-11-14T19:10:00"
+	},
+	{
+		"name": "E6-BU",
+		"location": "0801",
+		"description": "Dozent: FTZ",
+		"start": "2024-11-21T15:55:00",
+		"end": "2024-11-21T19:10:00"
+	},
+	{
+		"name": "E6-BU",
+		"location": "0801, 0861",
+		"description": "Dozent: FTZ",
+		"start": "2024-12-05T15:55:00",
+		"end": "2024-12-05T19:10:00"
+	},
+	{
+		"name": "E6-BU",
+		"location": "0801, 0861",
+		"description": "Dozent: FTZ",
+		"start": "2025-01-09T15:55:00",
+		"end": "2025-01-09T19:10:00"
+	},
+	{
+		"name": "E6-BU",
+		"location": "0801, 0861",
+		"description": "Dozent: FTZ",
+		"start": "2024-12-12T15:55:00",
+		"end": "2024-12-12T19:10:00"
+	},
+	{
+		"name": "E6-BU",
+		"location": "0801, 0861",
+		"description": "Dozent: FTZ",
+		"start": "2025-01-16T15:55:00",
+		"end": "2025-01-16T19:10:00"
+	}
+]

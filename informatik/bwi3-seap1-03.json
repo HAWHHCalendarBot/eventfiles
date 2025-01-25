@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BWI3-SEAP1/03",
+		"location": "1102",
+		"description": "Dozent: STF/[Dal]",
+		"start": "2024-11-05T08:15:00",
+		"end": "2024-11-05T11:30:00"
+	},
+	{
+		"name": "BWI3-SEAP1/03",
+		"location": "1102",
+		"description": "Dozent: STF/[Dal]",
+		"start": "2024-12-17T08:15:00",
+		"end": "2024-12-17T11:30:00"
+	},
+	{
+		"name": "BWI3-SEAP1/03",
+		"location": "1102",
+		"description": "Dozent: STF/[Dal]",
+		"start": "2024-11-26T08:15:00",
+		"end": "2024-11-26T11:30:00"
+	},
+	{
+		"name": "BWI3-SEAP1/03",
+		"location": "1102",
+		"description": "Dozent: STF/[Dal]",
+		"start": "2025-01-21T08:15:00",
+		"end": "2025-01-21T11:30:00"
+	}
+]

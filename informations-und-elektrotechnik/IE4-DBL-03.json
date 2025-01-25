@@ -1,0 +1,30 @@
+[
+	{
+		"name": "IE4-DBL-03",
+		"location": "0360, 1360, 1365",
+		"description": "Dozent: HST",
+		"start": "2024-10-24T12:10:00",
+		"end": "2024-10-24T15:40:00"
+	},
+	{
+		"name": "IE4-DBL-03",
+		"location": "1365",
+		"description": "Dozent: HST",
+		"start": "2024-11-28T12:10:00",
+		"end": "2024-11-28T15:40:00"
+	},
+	{
+		"name": "IE4-DBL-03",
+		"location": "1365",
+		"description": "Dozent: HST",
+		"start": "2024-12-19T12:10:00",
+		"end": "2024-12-19T15:40:00"
+	},
+	{
+		"name": "IE4-DBL-03",
+		"location": "1365",
+		"description": "Dozent: HST",
+		"start": "2025-01-23T12:10:00",
+		"end": "2025-01-23T15:40:00"
+	}
+]

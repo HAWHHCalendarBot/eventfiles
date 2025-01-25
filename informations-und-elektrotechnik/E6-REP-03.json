@@ -1,0 +1,30 @@
+[
+	{
+		"name": "E6-REP-03",
+		"location": "NB 01.13",
+		"description": "Dozent: RTH",
+		"start": "2024-11-07T12:10:00",
+		"end": "2024-11-07T15:40:00"
+	},
+	{
+		"name": "E6-REP-03",
+		"location": "0303",
+		"description": "Dozent: WNK/SZNY",
+		"start": "2024-11-28T12:10:00",
+		"end": "2024-11-28T15:40:00"
+	},
+	{
+		"name": "E6-REP-03",
+		"location": "0303",
+		"description": "Dozent: WNK/SZNY",
+		"start": "2024-12-19T12:10:00",
+		"end": "2024-12-19T15:40:00"
+	},
+	{
+		"name": "E6-REP-03",
+		"location": "0303",
+		"description": "Dozent: WNK/SZNY",
+		"start": "2025-01-23T12:10:00",
+		"end": "2025-01-23T15:40:00"
+	}
+]

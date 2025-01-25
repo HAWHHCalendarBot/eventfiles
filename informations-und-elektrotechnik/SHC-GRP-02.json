@@ -1,0 +1,30 @@
+[
+	{
+		"name": "SHC-GRP-02",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-11-28T15:55:00",
+		"end": "2024-11-28T19:25:00"
+	},
+	{
+		"name": "SHC-GRP-02",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-12-04T12:10:00",
+		"end": "2024-12-04T15:40:00"
+	},
+	{
+		"name": "SHC-GRP-02",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-12-10T15:55:00",
+		"end": "2024-12-10T19:25:00"
+	},
+	{
+		"name": "SHC-GRP-02",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-12-11T15:55:00",
+		"end": "2024-12-11T19:25:00"
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"name": "SHC-EAP-02",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2024-12-10T08:10:00",
+		"end": "2024-12-10T11:25:00"
+	},
+	{
+		"name": "SHC-EAP-02",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2024-12-19T12:10:00",
+		"end": "2024-12-19T15:40:00"
+	},
+	{
+		"name": "SHC-EAP-02",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2025-01-14T08:10:00",
+		"end": "2025-01-14T11:25:00"
+	},
+	{
+		"name": "SHC-EAP-02",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2025-01-23T12:10:00",
+		"end": "2025-01-23T15:40:00"
+	}
+]

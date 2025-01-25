@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BITS3-SSÜ/01",
+		"location": "0761",
+		"description": "Dozent: KSC",
+		"start": "2024-10-25T08:15:00",
+		"end": "2024-10-25T11:30:00"
+	},
+	{
+		"name": "BITS3-SSÜ/01",
+		"location": "0761",
+		"description": "Dozent: KSC",
+		"start": "2024-11-22T08:15:00",
+		"end": "2024-11-22T11:30:00"
+	},
+	{
+		"name": "BITS3-SSÜ/01",
+		"location": "0761",
+		"description": "Dozent: KSC",
+		"start": "2025-01-17T08:15:00",
+		"end": "2025-01-17T11:30:00"
+	},
+	{
+		"name": "BITS3-SSÜ/01",
+		"location": "0761",
+		"description": "Dozent: KSC",
+		"start": "2024-12-13T08:15:00",
+		"end": "2024-12-13T11:30:00"
+	}
+]

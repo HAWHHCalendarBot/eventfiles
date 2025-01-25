@@ -1,0 +1,1017 @@
+[
+	{
+		"name": "SHC-LE",
+		"location": "NB 01.13",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-08T12:10:00",
+		"end": "2024-10-08T15:40:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "1065",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-07T08:10:00",
+		"end": "2024-10-07T11:25:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1065",
+		"description": "Dozent: Antosch",
+		"start": "2024-10-08T15:55:00",
+		"end": "2024-10-08T19:10:00"
+	},
+	{
+		"name": "SHC-Begruessung",
+		"location": "1281",
+		"description": "Dozent: RTH/[Pot]",
+		"start": "2024-10-10T16:00:00",
+		"end": "2024-10-10T17:00:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "1281",
+		"description": "Dozent: WSTK",
+		"start": "2024-10-09T08:10:00",
+		"end": "2024-10-09T11:25:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1281",
+		"description": "Dozent: Antosch",
+		"start": "2024-10-10T17:15:00",
+		"end": "2024-10-10T20:30:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1065",
+		"description": "Dozent: Kruk",
+		"start": "2024-10-07T14:30:00",
+		"end": "2024-10-07T17:45:00"
+	},
+	{
+		"name": "SHC-VP1",
+		"location": "0405",
+		"description": "Dozent: [Pot]",
+		"start": "2024-10-09T12:10:00",
+		"end": "2024-10-09T15:40:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: WSSL",
+		"start": "2024-10-07T12:10:00",
+		"end": "2024-10-07T15:40:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "NB 01.13",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-15T12:10:00",
+		"end": "2024-10-15T15:40:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: WSSL",
+		"start": "2024-10-14T14:30:00",
+		"end": "2024-10-14T17:45:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "1065",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-14T08:10:00",
+		"end": "2024-10-14T11:25:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "0660",
+		"description": "Dozent: WSTK",
+		"start": "2024-10-16T08:10:00",
+		"end": "2024-10-16T11:25:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1065",
+		"description": "Dozent: Antosch",
+		"start": "2024-10-15T15:55:00",
+		"end": "2024-10-15T19:10:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2024-10-14T14:30:00",
+		"end": "2024-10-14T17:45:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1281",
+		"description": "Dozent: Antosch",
+		"start": "2024-10-17T15:55:00",
+		"end": "2024-10-17T19:10:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "NB 01.13",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-22T12:10:00",
+		"end": "2024-10-22T15:40:00"
+	},
+	{
+		"name": "SHC-LEP-02",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Pot]",
+		"start": "2024-10-23T12:10:00",
+		"end": "2024-10-23T15:40:00"
+	},
+	{
+		"name": "SHC-LEP-01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Pot]",
+		"start": "2024-10-24T12:10:00",
+		"end": "2024-10-24T15:40:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: WSSL",
+		"start": "2024-10-21T14:30:00",
+		"end": "2024-10-21T17:45:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "1065",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-21T08:10:00",
+		"end": "2024-10-21T11:25:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "0660",
+		"description": "Dozent: WSTK",
+		"start": "2024-10-23T08:10:00",
+		"end": "2024-10-23T11:25:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1065",
+		"description": "Dozent: Antosch",
+		"start": "2024-10-22T15:55:00",
+		"end": "2024-10-22T19:10:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "1281",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-25T12:10:00",
+		"end": "2024-10-25T15:40:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2024-10-21T14:30:00",
+		"end": "2024-10-21T17:45:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1281",
+		"description": "Dozent: Antosch",
+		"start": "2024-10-24T15:55:00",
+		"end": "2024-10-24T19:10:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "NB 01.13",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-29T12:10:00",
+		"end": "2024-10-29T15:40:00"
+	},
+	{
+		"name": "SHC-LEP-02",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Pot]",
+		"start": "2024-10-30T12:10:00",
+		"end": "2024-10-30T15:40:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: WSSL",
+		"start": "2024-10-28T14:30:00",
+		"end": "2024-10-28T17:45:00"
+	},
+	{
+		"name": "SHC-LEP-01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Pot]",
+		"start": "2024-10-29T08:10:00",
+		"end": "2024-10-29T11:25:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "1065",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-28T08:10:00",
+		"end": "2024-10-28T11:25:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "0660",
+		"description": "Dozent: WSTK",
+		"start": "2024-10-30T08:10:00",
+		"end": "2024-10-30T11:25:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1065",
+		"description": "Dozent: Antosch",
+		"start": "2024-10-29T15:55:00",
+		"end": "2024-10-29T19:10:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2024-10-28T14:30:00",
+		"end": "2024-10-28T17:45:00"
+	},
+	{
+		"name": "SHC-VP1",
+		"location": "1281",
+		"description": "Dozent: [Pot]",
+		"start": "2024-10-30T16:00:00",
+		"end": "2024-10-30T18:30:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "NB 01.13",
+		"description": "Dozent: GNZ",
+		"start": "2024-11-05T12:10:00",
+		"end": "2024-11-05T15:40:00"
+	},
+	{
+		"name": "SHC-LEP-02",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Pot]",
+		"start": "2024-11-06T12:10:00",
+		"end": "2024-11-06T15:40:00"
+	},
+	{
+		"name": "SHC-LEP-01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Pot]",
+		"start": "2024-11-07T12:10:00",
+		"end": "2024-11-07T15:40:00"
+	},
+	{
+		"name": "SHC-PRP2-02",
+		"location": "1360",
+		"description": "Dozent: AHSD",
+		"start": "2024-11-07T12:10:00",
+		"end": "2024-11-07T15:40:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "0660",
+		"description": "Dozent: WSTK",
+		"start": "2024-11-06T08:10:00",
+		"end": "2024-11-06T11:25:00"
+	},
+	{
+		"name": "SHC-LEP-03",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Pot]",
+		"start": "2024-11-08T08:10:00",
+		"end": "2024-11-08T11:25:00"
+	},
+	{
+		"name": "SHC-LEP-02",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Pot]",
+		"start": "2024-11-08T12:10:00",
+		"end": "2024-11-08T15:40:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1065",
+		"description": "Dozent: Antosch",
+		"start": "2024-11-05T15:55:00",
+		"end": "2024-11-05T19:10:00"
+	},
+	{
+		"name": "SHC-PRP2-01",
+		"location": "1365",
+		"description": "Dozent: AHSD",
+		"start": "2024-11-07T08:10:00",
+		"end": "2024-11-07T11:25:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2024-11-04T14:30:00",
+		"end": "2024-11-04T17:45:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1281",
+		"description": "Dozent: Antosch",
+		"start": "2024-11-07T15:55:00",
+		"end": "2024-11-07T19:10:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-11-04T14:30:00",
+		"end": "2024-11-04T17:45:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "NB 01.13",
+		"description": "Dozent: GNZ",
+		"start": "2024-11-12T12:10:00",
+		"end": "2024-11-12T15:40:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-13T15:55:00",
+		"end": "2024-11-13T17:25:00"
+	},
+	{
+		"name": "SHC-PRP3-01",
+		"location": "1360",
+		"description": "Dozent: KRAU",
+		"start": "2024-11-12T15:55:00",
+		"end": "2024-11-12T19:10:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "1065",
+		"description": "Dozent: GNZ",
+		"start": "2024-11-11T08:10:00",
+		"end": "2024-11-11T11:25:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-13T12:10:00",
+		"end": "2024-11-13T15:40:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "0660",
+		"description": "Dozent: WSTK",
+		"start": "2024-11-13T08:10:00",
+		"end": "2024-11-13T11:25:00"
+	},
+	{
+		"name": "SHC-LEP-01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Pot]",
+		"start": "2024-11-15T08:10:00",
+		"end": "2024-11-15T11:25:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2024-11-11T14:30:00",
+		"end": "2024-11-11T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-11-11T14:30:00",
+		"end": "2024-11-11T17:45:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b, 1365",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-15T12:10:00",
+		"end": "2024-11-15T15:40:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-14T12:10:00",
+		"end": "2024-11-14T15:40:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b, 1365",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-14T15:55:00",
+		"end": "2024-11-14T17:25:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b, 1365",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-15T15:55:00",
+		"end": "2024-11-15T17:25:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-20T15:55:00",
+		"end": "2024-11-20T17:25:00"
+	},
+	{
+		"name": "SHC-PRP3-02",
+		"location": "1360",
+		"description": "Dozent: KRAU",
+		"start": "2024-11-19T15:55:00",
+		"end": "2024-11-19T19:10:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "1065",
+		"description": "Dozent: VPL",
+		"start": "2024-11-18T08:10:00",
+		"end": "2024-11-18T11:25:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-20T12:10:00",
+		"end": "2024-11-20T15:40:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "0660",
+		"description": "Dozent: WSTK",
+		"start": "2024-11-20T08:10:00",
+		"end": "2024-11-20T11:25:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "NB 01.13",
+		"description": "Dozent: VPL",
+		"start": "2024-11-19T12:10:00",
+		"end": "2024-11-19T15:40:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2024-11-18T14:30:00",
+		"end": "2024-11-18T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-11-18T14:30:00",
+		"end": "2024-11-18T17:45:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b, 1365",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-22T12:10:00",
+		"end": "2024-11-22T15:40:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-21T12:10:00",
+		"end": "2024-11-21T15:40:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b, 1365",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-21T15:55:00",
+		"end": "2024-11-21T17:25:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b, 1365",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-22T15:55:00",
+		"end": "2024-11-22T17:25:00"
+	},
+	{
+		"name": "SHC-GRP-02",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-11-28T15:55:00",
+		"end": "2024-11-28T19:25:00"
+	},
+	{
+		"name": "SHC-GRP-01",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-11-29T15:55:00",
+		"end": "2024-11-29T19:25:00"
+	},
+	{
+		"name": "SHC-PRP3-01",
+		"location": "1360",
+		"description": "Dozent: KRAU",
+		"start": "2024-11-26T15:55:00",
+		"end": "2024-11-26T19:10:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "1065",
+		"description": "Dozent: VPL",
+		"start": "2024-11-25T08:10:00",
+		"end": "2024-11-25T11:25:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-27T12:10:00",
+		"end": "2024-11-27T15:40:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "0660",
+		"description": "Dozent: WSTK",
+		"start": "2024-11-27T08:10:00",
+		"end": "2024-11-27T11:25:00"
+	},
+	{
+		"name": "SHC-GRP-01",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-11-27T15:55:00",
+		"end": "2024-11-27T19:25:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "NB 01.13",
+		"description": "Dozent: VPL",
+		"start": "2024-11-26T12:10:00",
+		"end": "2024-11-26T15:40:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2024-11-25T14:30:00",
+		"end": "2024-11-25T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-11-25T14:30:00",
+		"end": "2024-11-25T17:45:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281, 1303a, 1303b, 1365",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-29T12:10:00",
+		"end": "2024-11-29T15:40:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1281",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-11-28T12:10:00",
+		"end": "2024-11-28T15:40:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "1281",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2024-11-28T09:55:00",
+		"end": "2024-11-28T11:25:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "1465",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2024-11-29T09:55:00",
+		"end": "2024-11-29T11:25:00"
+	},
+	{
+		"name": "SHC-PRP3-02",
+		"location": "1360",
+		"description": "Dozent: KRAU",
+		"start": "2024-12-03T15:55:00",
+		"end": "2024-12-03T19:10:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "1065",
+		"description": "Dozent: VPL",
+		"start": "2024-12-02T08:10:00",
+		"end": "2024-12-02T11:25:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "0660",
+		"description": "Dozent: WSTK",
+		"start": "2024-12-04T08:10:00",
+		"end": "2024-12-04T11:25:00"
+	},
+	{
+		"name": "SHC-EAP-01",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2024-12-03T08:10:00",
+		"end": "2024-12-03T11:25:00"
+	},
+	{
+		"name": "SHC-GRP-01",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-12-04T15:55:00",
+		"end": "2024-12-04T19:25:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "NB 01.13",
+		"description": "Dozent: VPL",
+		"start": "2024-12-03T12:10:00",
+		"end": "2024-12-03T15:40:00"
+	},
+	{
+		"name": "SHC-PRP2-01",
+		"location": "1365",
+		"description": "Dozent: AHSD",
+		"start": "2024-12-05T08:10:00",
+		"end": "2024-12-05T11:25:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2024-12-02T14:30:00",
+		"end": "2024-12-02T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-12-02T14:30:00",
+		"end": "2024-12-02T17:45:00"
+	},
+	{
+		"name": "SHC-GRP-02",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-12-04T12:10:00",
+		"end": "2024-12-04T15:40:00"
+	},
+	{
+		"name": "SHC-LE",
+		"location": "1060",
+		"description": "Dozent: GNZ",
+		"start": "2024-12-06T08:10:00",
+		"end": "2024-12-06T11:25:00"
+	},
+	{
+		"name": "SHC-PRP2-02",
+		"location": "1365",
+		"description": "Dozent: AHSD",
+		"start": "2024-12-05T12:10:00",
+		"end": "2024-12-05T15:40:00"
+	},
+	{
+		"name": "SHC-EAP-02",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2024-12-10T08:10:00",
+		"end": "2024-12-10T11:25:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "1065",
+		"description": "Dozent: VPL",
+		"start": "2024-12-09T08:10:00",
+		"end": "2024-12-09T11:25:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "0660",
+		"description": "Dozent: WSTK",
+		"start": "2024-12-11T08:10:00",
+		"end": "2024-12-11T11:25:00"
+	},
+	{
+		"name": "SHC-GRP-01",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-12-11T12:10:00",
+		"end": "2024-12-11T15:40:00"
+	},
+	{
+		"name": "SHC-GRP-02",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-12-10T15:55:00",
+		"end": "2024-12-10T19:25:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "NB 01.13",
+		"description": "Dozent: VPL",
+		"start": "2024-12-10T12:10:00",
+		"end": "2024-12-10T15:40:00"
+	},
+	{
+		"name": "SHC-EAP-03",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2024-12-12T12:10:00",
+		"end": "2024-12-12T15:40:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2024-12-09T14:30:00",
+		"end": "2024-12-09T17:45:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1281",
+		"description": "Dozent: Antosch",
+		"start": "2024-12-12T15:55:00",
+		"end": "2024-12-12T19:10:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-12-09T14:30:00",
+		"end": "2024-12-09T17:45:00"
+	},
+	{
+		"name": "SHC-GRP-02",
+		"location": "0606",
+		"description": "Dozent: Bruce-Boye/[Pot]",
+		"start": "2024-12-11T15:55:00",
+		"end": "2024-12-11T19:25:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "1065",
+		"description": "Dozent: VPL",
+		"start": "2024-12-16T08:10:00",
+		"end": "2024-12-16T11:25:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "0660",
+		"description": "Dozent: WSTK",
+		"start": "2024-12-18T08:10:00",
+		"end": "2024-12-18T11:25:00"
+	},
+	{
+		"name": "SHC-EAP-01",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2024-12-17T08:10:00",
+		"end": "2024-12-17T11:25:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "NB 01.13",
+		"description": "Dozent: VPL",
+		"start": "2024-12-17T12:10:00",
+		"end": "2024-12-17T15:40:00"
+	},
+	{
+		"name": "SHC-EAP-02",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2024-12-19T12:10:00",
+		"end": "2024-12-19T15:40:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2024-12-16T14:30:00",
+		"end": "2024-12-16T17:45:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1281",
+		"description": "Dozent: Antosch",
+		"start": "2024-12-19T15:55:00",
+		"end": "2024-12-19T19:10:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-12-16T14:30:00",
+		"end": "2024-12-16T17:45:00"
+	},
+	{
+		"name": "SHC-GR",
+		"location": "1283, 1303a, 1303b",
+		"description": "Dozent: Bruce-Boye",
+		"start": "2024-12-20T10:00:00",
+		"end": "2024-12-20T12:00:00"
+	},
+	{
+		"name": "SHC-EAP-03",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2025-01-07T08:10:00",
+		"end": "2025-01-07T11:25:00"
+	},
+	{
+		"name": "SHC-PRP3-01",
+		"location": "1360",
+		"description": "Dozent: KRAU",
+		"start": "2025-01-07T15:55:00",
+		"end": "2025-01-07T19:10:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "1065",
+		"description": "Dozent: VPL",
+		"start": "2025-01-06T08:10:00",
+		"end": "2025-01-06T11:25:00"
+	},
+	{
+		"name": "SHC-PR2",
+		"location": "0660",
+		"description": "Dozent: WSTK",
+		"start": "2025-01-08T08:10:00",
+		"end": "2025-01-08T11:25:00"
+	},
+	{
+		"name": "SHC-EA",
+		"location": "NB 01.13",
+		"description": "Dozent: VPL",
+		"start": "2025-01-07T12:10:00",
+		"end": "2025-01-07T15:40:00"
+	},
+	{
+		"name": "SHC-EAP-01",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2025-01-09T12:10:00",
+		"end": "2025-01-09T15:40:00"
+	},
+	{
+		"name": "SHC-PRP2-01",
+		"location": "1365",
+		"description": "Dozent: AHSD",
+		"start": "2025-01-09T08:10:00",
+		"end": "2025-01-09T11:25:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2025-01-06T14:30:00",
+		"end": "2025-01-06T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2025-01-06T14:30:00",
+		"end": "2025-01-06T17:45:00"
+	},
+	{
+		"name": "SHC-PRP2-02",
+		"location": "1365",
+		"description": "Dozent: AHSD",
+		"start": "2025-01-09T12:10:00",
+		"end": "2025-01-09T15:40:00"
+	},
+	{
+		"name": "SHC-EAP-02",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2025-01-14T08:10:00",
+		"end": "2025-01-14T11:25:00"
+	},
+	{
+		"name": "SHC-PRP3-02",
+		"location": "1360",
+		"description": "Dozent: KRAU",
+		"start": "2025-01-14T15:55:00",
+		"end": "2025-01-14T19:10:00"
+	},
+	{
+		"name": "SHC-EAP-03",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2025-01-16T12:10:00",
+		"end": "2025-01-16T15:40:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2025-01-13T14:30:00",
+		"end": "2025-01-13T17:45:00"
+	},
+	{
+		"name": "SHC-PR3",
+		"location": "1281",
+		"description": "Dozent: Antosch",
+		"start": "2025-01-16T15:55:00",
+		"end": "2025-01-16T19:10:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2025-01-13T14:30:00",
+		"end": "2025-01-13T17:45:00"
+	},
+	{
+		"name": "SHC-PRP3-01",
+		"location": "1360",
+		"description": "Dozent: KRAU",
+		"start": "2025-01-21T15:55:00",
+		"end": "2025-01-21T19:10:00"
+	},
+	{
+		"name": "SHC-EAP-01",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2025-01-21T08:10:00",
+		"end": "2025-01-21T11:25:00"
+	},
+	{
+		"name": "SHC-EAP-02",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2025-01-23T12:10:00",
+		"end": "2025-01-23T15:40:00"
+	},
+	{
+		"name": "SHC-EAP-03",
+		"location": "0301",
+		"description": "Dozent: VPL/[Pot]",
+		"start": "2025-01-20T08:10:00",
+		"end": "2025-01-20T11:25:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2025-01-20T14:30:00",
+		"end": "2025-01-20T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2025-01-20T14:30:00",
+		"end": "2025-01-20T17:45:00"
+	},
+	{
+		"name": "SHC-PRP3-02",
+		"location": "1360",
+		"description": "Dozent: KRAU",
+		"start": "2025-01-28T15:55:00",
+		"end": "2025-01-28T19:10:00"
+	},
+	{
+		"name": "SHC-PRP2-01",
+		"location": "1365",
+		"description": "Dozent: AHSD",
+		"start": "2025-01-30T08:10:00",
+		"end": "2025-01-30T11:25:00"
+	},
+	{
+		"name": "SHC-DE-01",
+		"location": "1283",
+		"description": "Dozent: Kruk",
+		"start": "2025-01-27T14:30:00",
+		"end": "2025-01-27T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2025-01-27T14:30:00",
+		"end": "2025-01-27T17:45:00"
+	},
+	{
+		"name": "SHC-PRP2-02",
+		"location": "1365",
+		"description": "Dozent: AHSD",
+		"start": "2025-01-30T12:10:00",
+		"end": "2025-01-30T15:40:00"
+	}
+]

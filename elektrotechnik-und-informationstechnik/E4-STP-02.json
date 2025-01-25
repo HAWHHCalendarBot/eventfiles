@@ -1,0 +1,30 @@
+[
+	{
+		"name": "E4-STP-02",
+		"location": "0402",
+		"description": "Dozent: MNR/[Huss]",
+		"start": "2024-11-04T14:10:00",
+		"end": "2024-11-04T15:40:00"
+	},
+	{
+		"name": "E4-STP-02",
+		"location": "0402",
+		"description": "Dozent: MNR/[Huss]",
+		"start": "2024-11-27T08:10:00",
+		"end": "2024-11-27T11:25:00"
+	},
+	{
+		"name": "E4-STP-02",
+		"location": "0402",
+		"description": "Dozent: MNR/[Huss]",
+		"start": "2024-12-18T08:10:00",
+		"end": "2024-12-18T11:25:00"
+	},
+	{
+		"name": "E4-STP-02",
+		"location": "0402",
+		"description": "Dozent: MNR/[Huss]",
+		"start": "2025-01-22T08:10:00",
+		"end": "2025-01-22T11:25:00"
+	}
+]

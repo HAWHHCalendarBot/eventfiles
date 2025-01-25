@@ -1,0 +1,415 @@
+[
+	{
+		"name": "BMT6-LE",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-08T08:10:00",
+		"end": "2024-10-08T11:25:00"
+	},
+	{
+		"name": "BMT6-SN",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-10-07T08:10:00",
+		"end": "2024-10-07T11:25:00"
+	},
+	{
+		"name": "BMT6-LE",
+		"location": "0861",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-07T12:10:00",
+		"end": "2024-10-07T15:25:00"
+	},
+	{
+		"name": "BMT6-LE",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-15T08:10:00",
+		"end": "2024-10-15T11:25:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2024-10-14T12:30:00",
+		"end": "2024-10-14T15:45:00"
+	},
+	{
+		"name": "BMT6-SN",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-10-14T08:10:00",
+		"end": "2024-10-14T11:25:00"
+	},
+	{
+		"name": "BMT6-LE",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
+		"start": "2024-10-22T08:10:00",
+		"end": "2024-10-22T11:25:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2024-10-21T12:30:00",
+		"end": "2024-10-21T15:45:00"
+	},
+	{
+		"name": "BMT6-SN",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-10-21T08:10:00",
+		"end": "2024-10-21T11:25:00"
+	},
+	{
+		"name": "BMT6-SNP-01",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-10-22T12:10:00",
+		"end": "2024-10-22T15:40:00"
+	},
+	{
+		"name": "BMT6-SNP-02",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-10-22T12:10:00",
+		"end": "2024-10-22T15:40:00"
+	},
+	{
+		"name": "BMT6-BVP-01",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2024-10-29T08:15:00",
+		"end": "2024-10-29T11:30:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2024-10-28T12:30:00",
+		"end": "2024-10-28T15:45:00"
+	},
+	{
+		"name": "BMT6-SN",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-10-28T08:10:00",
+		"end": "2024-10-28T11:25:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2024-11-04T12:30:00",
+		"end": "2024-11-04T15:45:00"
+	},
+	{
+		"name": "BMT6-SN",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-11-04T08:10:00",
+		"end": "2024-11-04T11:25:00"
+	},
+	{
+		"name": "Nachhaltigkeitstag",
+		"location": "",
+		"description": "",
+		"start": "2024-11-06T08:10:00",
+		"end": "2024-11-06T18:00:00"
+	},
+	{
+		"name": "BMT6-LEP-01",
+		"location": "0301, 1465",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2024-11-05T08:10:00",
+		"end": "2024-11-05T11:25:00"
+	},
+	{
+		"name": "BMT6-LEP-02",
+		"location": "0301, 1465",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2024-11-05T08:10:00",
+		"end": "2024-11-05T11:25:00"
+	},
+	{
+		"name": "BMT6-LE",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
+		"start": "2024-11-12T08:10:00",
+		"end": "2024-11-12T11:25:00"
+	},
+	{
+		"name": "BMT6-LE",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
+		"start": "2024-12-03T08:10:00",
+		"end": "2024-12-03T11:25:00"
+	},
+	{
+		"name": "BMT6-LE",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
+		"start": "2025-01-07T08:10:00",
+		"end": "2025-01-07T11:25:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2024-11-11T12:30:00",
+		"end": "2024-11-11T15:45:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2024-12-02T12:30:00",
+		"end": "2024-12-02T15:45:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2025-01-06T12:30:00",
+		"end": "2025-01-06T15:45:00"
+	},
+	{
+		"name": "BMT6-SNP-01",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-11-12T12:10:00",
+		"end": "2024-11-12T15:40:00"
+	},
+	{
+		"name": "BMT6-SNP-01",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-12-03T12:10:00",
+		"end": "2024-12-03T15:40:00"
+	},
+	{
+		"name": "BMT6-SNP-01",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2025-01-07T12:10:00",
+		"end": "2025-01-07T15:40:00"
+	},
+	{
+		"name": "BMT6-SN",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-11-11T08:10:00",
+		"end": "2024-11-11T11:25:00"
+	},
+	{
+		"name": "BMT6-SN",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-12-02T08:10:00",
+		"end": "2024-12-02T11:25:00"
+	},
+	{
+		"name": "BMT6-SN",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2025-01-06T08:10:00",
+		"end": "2025-01-06T11:25:00"
+	},
+	{
+		"name": "BMT6-SNP-02",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-11-19T12:10:00",
+		"end": "2024-11-19T15:40:00"
+	},
+	{
+		"name": "BMT6-SNP-02",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-12-10T12:10:00",
+		"end": "2024-12-10T15:40:00"
+	},
+	{
+		"name": "BMT6-SNP-02",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2025-01-14T12:10:00",
+		"end": "2025-01-14T15:40:00"
+	},
+	{
+		"name": "BMT6-BVP-01",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2024-11-19T08:15:00",
+		"end": "2024-11-19T11:30:00"
+	},
+	{
+		"name": "BMT6-BVP-01",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2024-12-10T08:15:00",
+		"end": "2024-12-10T11:30:00"
+	},
+	{
+		"name": "BMT6-BVP-01",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2025-01-14T08:15:00",
+		"end": "2025-01-14T11:30:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2024-11-18T12:30:00",
+		"end": "2024-11-18T15:45:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2024-12-09T12:30:00",
+		"end": "2024-12-09T15:45:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2025-01-13T12:30:00",
+		"end": "2025-01-13T15:45:00"
+	},
+	{
+		"name": "BMT6-LEP-01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2024-11-19T12:10:00",
+		"end": "2024-11-19T15:40:00"
+	},
+	{
+		"name": "BMT6-LEP-01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2024-12-10T12:10:00",
+		"end": "2024-12-10T15:40:00"
+	},
+	{
+		"name": "BMT6-LEP-01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2025-01-14T12:10:00",
+		"end": "2025-01-14T15:40:00"
+	},
+	{
+		"name": "BMT6-BVP-02",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2024-11-18T08:15:00",
+		"end": "2024-11-18T11:30:00"
+	},
+	{
+		"name": "BMT6-BVP-02",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2024-12-09T08:15:00",
+		"end": "2024-12-09T11:30:00"
+	},
+	{
+		"name": "BMT6-BVP-02",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2025-01-13T08:15:00",
+		"end": "2025-01-13T11:30:00"
+	},
+	{
+		"name": "BMT6-LEP-02",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2024-11-26T12:10:00",
+		"end": "2024-11-26T15:40:00"
+	},
+	{
+		"name": "BMT6-LEP-02",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2024-12-17T12:10:00",
+		"end": "2024-12-17T15:40:00"
+	},
+	{
+		"name": "BMT6-LEP-02",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2025-01-21T12:10:00",
+		"end": "2025-01-21T15:40:00"
+	},
+	{
+		"name": "BMT6-LE",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
+		"start": "2024-11-26T08:10:00",
+		"end": "2024-11-26T11:25:00"
+	},
+	{
+		"name": "BMT6-LE",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
+		"start": "2024-12-17T08:10:00",
+		"end": "2024-12-17T11:25:00"
+	},
+	{
+		"name": "BMT6-LE",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
+		"start": "2025-01-21T08:10:00",
+		"end": "2025-01-21T11:25:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2024-11-25T12:30:00",
+		"end": "2024-11-25T15:45:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2024-12-16T12:30:00",
+		"end": "2024-12-16T15:45:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: DHL",
+		"start": "2025-01-20T12:30:00",
+		"end": "2025-01-20T15:45:00"
+	},
+	{
+		"name": "BMT6-SN",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-11-25T08:10:00",
+		"end": "2024-11-25T11:25:00"
+	},
+	{
+		"name": "BMT6-SN",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2024-12-16T08:10:00",
+		"end": "2024-12-16T11:25:00"
+	},
+	{
+		"name": "BMT6-SN",
+		"location": "0804, 0865",
+		"description": "Dozent: RTT",
+		"start": "2025-01-20T08:10:00",
+		"end": "2025-01-20T11:25:00"
+	},
+	{
+		"name": "BMT6-BVP-02",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2025-01-27T12:30:00",
+		"end": "2025-01-27T15:45:00"
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"name": "IE4-MCL-01",
+		"location": "0880",
+		"description": "Dozent: SHRR",
+		"start": "2024-11-01T08:10:00",
+		"end": "2024-11-01T11:25:00"
+	},
+	{
+		"name": "IE4-MCL-01",
+		"location": "0880",
+		"description": "Dozent: SHRR",
+		"start": "2024-11-15T08:10:00",
+		"end": "2024-11-15T11:25:00"
+	},
+	{
+		"name": "IE4-MCL-01",
+		"location": "0880",
+		"description": "Dozent: Haarring",
+		"start": "2024-12-13T08:10:00",
+		"end": "2024-12-13T11:25:00"
+	},
+	{
+		"name": "IE4-MCL-01",
+		"location": "0880",
+		"description": "Dozent: Haarring",
+		"start": "2025-01-10T08:10:00",
+		"end": "2025-01-10T11:25:00"
+	},
+	{
+		"name": "IE4-MCL-01",
+		"location": "0880",
+		"description": "Dozent: Haarring",
+		"start": "2025-01-17T08:10:00",
+		"end": "2025-01-17T11:25:00"
+	}
+]

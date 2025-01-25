@@ -1,0 +1,86 @@
+[
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0765",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2024-10-21T12:30:00",
+		"end": "2024-10-21T15:45:00"
+	},
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0765",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2024-10-28T12:30:00",
+		"end": "2024-10-28T15:45:00"
+	},
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0701",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2024-11-04T16:00:00",
+		"end": "2024-11-04T17:30:00"
+	},
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0701",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2024-11-18T16:00:00",
+		"end": "2024-11-18T17:30:00"
+	},
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0701",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2024-12-02T16:00:00",
+		"end": "2024-12-02T17:30:00"
+	},
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0701",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2025-01-13T16:00:00",
+		"end": "2025-01-13T17:30:00"
+	},
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0765",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2024-11-11T12:30:00",
+		"end": "2024-11-11T15:45:00"
+	},
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0765",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2024-11-25T12:30:00",
+		"end": "2024-11-25T15:45:00"
+	},
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0765",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2024-12-09T12:30:00",
+		"end": "2024-12-09T15:45:00"
+	},
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0765",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2025-01-20T12:30:00",
+		"end": "2025-01-20T15:45:00"
+	},
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0701",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2024-12-16T16:00:00",
+		"end": "2024-12-16T17:30:00"
+	},
+	{
+		"name": "BITS1-GTP/06",
+		"location": "0765",
+		"description": "Dozent: RST/[Ben]",
+		"start": "2025-01-06T12:30:00",
+		"end": "2025-01-06T15:45:00"
+	}
+]

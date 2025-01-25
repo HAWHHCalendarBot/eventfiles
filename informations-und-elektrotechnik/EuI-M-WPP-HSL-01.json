@@ -1,0 +1,23 @@
+[
+	{
+		"name": "EuI-M-WPP-HSL-01",
+		"location": "1360",
+		"description": "Dozent: HSL",
+		"start": "2024-11-18T08:10:00",
+		"end": "2024-11-18T11:25:00"
+	},
+	{
+		"name": "EuI-M-WPP-HSL-01",
+		"location": "1360",
+		"description": "Dozent: HSL",
+		"start": "2024-12-09T08:10:00",
+		"end": "2024-12-09T11:25:00"
+	},
+	{
+		"name": "EuI-M-WPP-HSL-01",
+		"location": "1360",
+		"description": "Dozent: HSL",
+		"start": "2025-01-13T08:10:00",
+		"end": "2025-01-13T11:25:00"
+	}
+]

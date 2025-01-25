@@ -1,0 +1,30 @@
+[
+	{
+		"name": "IE3-EME-01",
+		"location": "1465",
+		"description": "Dozent: SHOK",
+		"start": "2024-10-30T08:10:00",
+		"end": "2024-10-30T11:25:00"
+	},
+	{
+		"name": "IE3-EME-01",
+		"location": "1281",
+		"description": "Dozent: SHOK",
+		"start": "2024-11-13T08:10:00",
+		"end": "2024-11-13T11:25:00"
+	},
+	{
+		"name": "IE3-EME-01",
+		"location": "1281",
+		"description": "Dozent: SHOK",
+		"start": "2024-12-04T08:10:00",
+		"end": "2024-12-04T11:25:00"
+	},
+	{
+		"name": "IE3-EME-01",
+		"location": "1281",
+		"description": "Dozent: SHOK",
+		"start": "2025-01-08T08:10:00",
+		"end": "2025-01-08T11:25:00"
+	}
+]

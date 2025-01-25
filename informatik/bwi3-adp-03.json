@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BWI3-ADP/03",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2024-11-14T08:15:00",
+		"end": "2024-11-14T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/03",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2025-01-09T08:15:00",
+		"end": "2025-01-09T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/03",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2024-12-05T08:15:00",
+		"end": "2024-12-05T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/03",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2025-01-30T08:15:00",
+		"end": "2025-01-30T11:30:00"
+	}
+]

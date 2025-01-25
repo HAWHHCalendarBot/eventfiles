@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BAI5-VSP/01",
+		"location": "0765",
+		"description": "Dozent: KSS",
+		"start": "2024-11-04T16:00:00",
+		"end": "2024-11-04T19:15:00"
+	},
+	{
+		"name": "BAI5-VSP/01",
+		"location": "0765",
+		"description": "Dozent: KSS",
+		"start": "2024-11-25T16:00:00",
+		"end": "2024-11-25T19:15:00"
+	},
+	{
+		"name": "BAI5-VSP/01",
+		"location": "0765",
+		"description": "Dozent: KSS",
+		"start": "2024-12-16T16:00:00",
+		"end": "2024-12-16T19:15:00"
+	},
+	{
+		"name": "BAI5-VSP/01",
+		"location": "0765",
+		"description": "Dozent: KSS",
+		"start": "2025-01-20T16:00:00",
+		"end": "2025-01-20T19:15:00"
+	}
+]

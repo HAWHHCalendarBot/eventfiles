@@ -1,0 +1,51 @@
+[
+	{
+		"name": "INF-WPP-B2/01",
+		"location": "1165",
+		"description": "Dozent: HMN",
+		"start": "2024-10-23T08:15:00",
+		"end": "2024-10-23T11:30:00"
+	},
+	{
+		"name": "INF-WPP-B2/01",
+		"location": "1165",
+		"description": "Dozent: HMN",
+		"start": "2024-11-06T08:15:00",
+		"end": "2024-11-06T11:30:00"
+	},
+	{
+		"name": "INF-WPP-B2/01",
+		"location": "1165",
+		"description": "Dozent: HMN",
+		"start": "2024-11-20T08:15:00",
+		"end": "2024-11-20T11:30:00"
+	},
+	{
+		"name": "INF-WPP-B2/01",
+		"location": "1165",
+		"description": "Dozent: HMN",
+		"start": "2024-12-04T08:15:00",
+		"end": "2024-12-04T11:30:00"
+	},
+	{
+		"name": "INF-WPP-B2/01",
+		"location": "1165",
+		"description": "Dozent: HMN",
+		"start": "2024-12-18T08:15:00",
+		"end": "2024-12-18T11:30:00"
+	},
+	{
+		"name": "INF-WPP-B2/01",
+		"location": "1165",
+		"description": "Dozent: HMN",
+		"start": "2025-01-15T08:15:00",
+		"end": "2025-01-15T11:30:00"
+	},
+	{
+		"name": "INF-WPP-B2/01",
+		"location": "1165",
+		"description": "Dozent: HMN",
+		"start": "2025-01-29T08:15:00",
+		"end": "2025-01-29T11:30:00"
+	}
+]

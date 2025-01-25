@@ -1,0 +1,30 @@
+[
+	{
+		"name": "IE6-DPL-03",
+		"location": "0885",
+		"description": "Dozent: KRN/KPKE",
+		"start": "2024-11-06T09:55:00",
+		"end": "2024-11-06T11:25:00"
+	},
+	{
+		"name": "IE6-DPL-03",
+		"location": "0885",
+		"description": "Dozent: KRN/KPKE",
+		"start": "2024-11-13T08:10:00",
+		"end": "2024-11-13T11:25:00"
+	},
+	{
+		"name": "IE6-DPL-03",
+		"location": "0885",
+		"description": "Dozent: KRN/KPKE",
+		"start": "2024-12-04T08:10:00",
+		"end": "2024-12-04T11:25:00"
+	},
+	{
+		"name": "IE6-DPL-03",
+		"location": "0885",
+		"description": "Dozent: KRN/KPKE",
+		"start": "2025-01-08T08:10:00",
+		"end": "2025-01-08T11:25:00"
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"name": "IE2-SOL2-03",
+		"location": "1303a, 1303b",
+		"description": "Dozent: SHN",
+		"start": "2024-10-24T12:10:00",
+		"end": "2024-10-24T15:40:00"
+	},
+	{
+		"name": "IE2-SOL2-03",
+		"location": "1303a, 1303b",
+		"description": "Dozent: SHN",
+		"start": "2024-11-28T12:10:00",
+		"end": "2024-11-28T15:40:00"
+	},
+	{
+		"name": "IE2-SOL2-03",
+		"location": "1303a, 1303b",
+		"description": "Dozent: SHN",
+		"start": "2024-12-19T12:10:00",
+		"end": "2024-12-19T15:40:00"
+	},
+	{
+		"name": "IE2-SOL2-03",
+		"location": "1303a, 1303b",
+		"description": "Dozent: SHN",
+		"start": "2025-01-23T12:10:00",
+		"end": "2025-01-23T15:40:00"
+	}
+]

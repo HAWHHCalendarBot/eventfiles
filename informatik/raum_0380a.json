@@ -1,0 +1,387 @@
+[
+	{
+		"name": "INF-WP-C1",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2024-10-18T12:30:00",
+		"end": "2024-10-18T15:45:00"
+	},
+	{
+		"name": "INF-WPP-C1/01",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2024-10-25T12:30:00",
+		"end": "2024-10-25T15:45:00"
+	},
+	{
+		"name": "INF-WP-C1",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2024-11-01T12:30:00",
+		"end": "2024-11-01T15:45:00"
+	},
+	{
+		"name": "INF-WPP-C1/01",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2024-11-08T12:30:00",
+		"end": "2024-11-08T15:45:00"
+	},
+	{
+		"name": "INF-WP-C1",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2024-11-15T12:30:00",
+		"end": "2024-11-15T15:45:00"
+	},
+	{
+		"name": "INF-WPP-C1/01",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2024-11-22T12:30:00",
+		"end": "2024-11-22T15:45:00"
+	},
+	{
+		"name": "INF-WP-C1",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2024-11-29T12:30:00",
+		"end": "2024-11-29T15:45:00"
+	},
+	{
+		"name": "INF-WPP-C1/01",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2024-12-06T12:30:00",
+		"end": "2024-12-06T15:45:00"
+	},
+	{
+		"name": "INF-WP-C1",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2024-12-13T12:30:00",
+		"end": "2024-12-13T15:45:00"
+	},
+	{
+		"name": "INF-WPP-C1/01",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2024-12-20T12:30:00",
+		"end": "2024-12-20T15:45:00"
+	},
+	{
+		"name": "INF-WP-C1",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2025-01-10T12:30:00",
+		"end": "2025-01-10T15:45:00"
+	},
+	{
+		"name": "INF-WPP-C1/01",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2025-01-17T12:30:00",
+		"end": "2025-01-17T15:45:00"
+	},
+	{
+		"name": "INF-WP-C1",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2025-01-24T12:30:00",
+		"end": "2025-01-24T15:45:00"
+	},
+	{
+		"name": "INF-WPP-C1/01",
+		"location": "0380a",
+		"description": "Dozent: BKMN/STF",
+		"start": "2025-01-31T12:30:00",
+		"end": "2025-01-31T15:45:00"
+	},
+	{
+		"name": "INF-WPP-A4/01",
+		"location": "0380a",
+		"description": "Dozent: SHF",
+		"start": "2024-11-06T08:15:00",
+		"end": "2024-11-06T11:30:00"
+	},
+	{
+		"name": "INF-WPP-A4/01",
+		"location": "0380a",
+		"description": "Dozent: SHF",
+		"start": "2024-11-27T08:15:00",
+		"end": "2024-11-27T11:30:00"
+	},
+	{
+		"name": "INF-WPP-A4/01",
+		"location": "0380a",
+		"description": "Dozent: SHF",
+		"start": "2024-12-18T08:15:00",
+		"end": "2024-12-18T11:30:00"
+	},
+	{
+		"name": "INF-WPP-A4/01",
+		"location": "0380a",
+		"description": "Dozent: SHF",
+		"start": "2025-01-22T08:15:00",
+		"end": "2025-01-22T11:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2024-10-22T08:00:00",
+		"end": "2024-10-22T12:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2024-10-29T08:00:00",
+		"end": "2024-10-29T12:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2024-11-05T08:00:00",
+		"end": "2024-11-05T12:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2024-11-26T08:00:00",
+		"end": "2024-11-26T12:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2024-12-17T08:00:00",
+		"end": "2024-12-17T12:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2025-01-21T08:00:00",
+		"end": "2025-01-21T12:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2024-11-12T08:00:00",
+		"end": "2024-11-12T12:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2024-11-19T08:00:00",
+		"end": "2024-11-19T12:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2024-12-10T08:00:00",
+		"end": "2024-12-10T12:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2025-01-14T08:00:00",
+		"end": "2025-01-14T12:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2024-12-03T08:00:00",
+		"end": "2024-12-03T12:30:00"
+	},
+	{
+		"name": "BWI1-PTP Gruppen 01-04",
+		"location": "0380a",
+		"description": "Dozent: SML/SHF/[Bla]/[Kas]",
+		"start": "2025-01-07T08:00:00",
+		"end": "2025-01-07T12:30:00"
+	},
+	{
+		"name": "BWI3-ADP/01",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2024-10-24T08:15:00",
+		"end": "2024-10-24T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/02",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2024-11-07T08:15:00",
+		"end": "2024-11-07T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/02",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2024-12-19T08:15:00",
+		"end": "2024-12-19T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/03",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2024-11-14T08:15:00",
+		"end": "2024-11-14T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/03",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2025-01-09T08:15:00",
+		"end": "2025-01-09T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/01",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2024-11-21T08:15:00",
+		"end": "2024-11-21T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/01",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2025-01-16T08:15:00",
+		"end": "2025-01-16T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/02",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2024-11-28T08:15:00",
+		"end": "2024-11-28T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/02",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2025-01-23T08:15:00",
+		"end": "2025-01-23T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/03",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2024-12-05T08:15:00",
+		"end": "2024-12-05T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/01",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2024-12-12T08:15:00",
+		"end": "2024-12-12T11:30:00"
+	},
+	{
+		"name": "BWI3-ADP/03",
+		"location": "0380a",
+		"description": "Dozent: KLC",
+		"start": "2025-01-30T08:15:00",
+		"end": "2025-01-30T11:30:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2024-10-17T12:30:00",
+		"end": "2024-10-17T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2024-10-24T12:30:00",
+		"end": "2024-10-24T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2024-11-07T12:30:00",
+		"end": "2024-11-07T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2024-11-14T12:30:00",
+		"end": "2024-11-14T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2024-11-21T12:30:00",
+		"end": "2024-11-21T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2024-11-28T12:30:00",
+		"end": "2024-11-28T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2024-12-05T12:30:00",
+		"end": "2024-12-05T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2024-12-12T12:30:00",
+		"end": "2024-12-12T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2024-12-19T12:30:00",
+		"end": "2024-12-19T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2025-01-09T12:30:00",
+		"end": "2025-01-09T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2025-01-16T12:30:00",
+		"end": "2025-01-16T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2025-01-23T12:30:00",
+		"end": "2025-01-23T15:45:00"
+	},
+	{
+		"name": "M.I20_WS_DAD/DADP",
+		"location": "0380a",
+		"description": "Dozent: ZKN",
+		"start": "2025-01-30T12:30:00",
+		"end": "2025-01-30T15:45:00"
+	}
+]

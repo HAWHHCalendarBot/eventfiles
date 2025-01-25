@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BMT5-ATP2-01",
+		"location": "0606",
+		"description": "Dozent: EBEL/[Huss]",
+		"start": "2024-10-24T12:10:00",
+		"end": "2024-10-24T15:40:00"
+	},
+	{
+		"name": "BMT5-ATP2-01",
+		"location": "0606",
+		"description": "Dozent: EBEL/[Huss]",
+		"start": "2024-11-21T12:10:00",
+		"end": "2024-11-21T15:40:00"
+	},
+	{
+		"name": "BMT5-ATP2-01",
+		"location": "0606",
+		"description": "Dozent: EBEL/[Huss]",
+		"start": "2024-12-12T12:10:00",
+		"end": "2024-12-12T15:40:00"
+	},
+	{
+		"name": "BMT5-ATP2-01",
+		"location": "0606",
+		"description": "Dozent: EBEL/[Huss]",
+		"start": "2025-01-16T12:10:00",
+		"end": "2025-01-16T15:40:00"
+	}
+]

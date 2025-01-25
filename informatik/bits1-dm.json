@@ -1,0 +1,93 @@
+[
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2024-10-15T12:30:00",
+		"end": "2024-10-15T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2024-10-22T12:30:00",
+		"end": "2024-10-22T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2024-10-29T12:30:00",
+		"end": "2024-10-29T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2024-11-05T12:30:00",
+		"end": "2024-11-05T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2024-11-19T12:30:00",
+		"end": "2024-11-19T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2024-12-03T12:30:00",
+		"end": "2024-12-03T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2025-01-14T12:30:00",
+		"end": "2025-01-14T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2024-11-12T12:30:00",
+		"end": "2024-11-12T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2024-11-26T12:30:00",
+		"end": "2024-11-26T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2024-12-10T12:30:00",
+		"end": "2024-12-10T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2025-01-21T12:30:00",
+		"end": "2025-01-21T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2024-12-17T12:30:00",
+		"end": "2024-12-17T15:45:00"
+	},
+	{
+		"name": "BITS1-DM",
+		"location": "0660",
+		"description": "Dozent: KLC",
+		"start": "2025-01-07T12:30:00",
+		"end": "2025-01-07T15:45:00"
+	}
+]

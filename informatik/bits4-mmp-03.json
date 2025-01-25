@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BITS4-MMP/03",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2024-11-11T08:15:00",
+		"end": "2024-11-11T11:30:00"
+	},
+	{
+		"name": "BITS4-MMP/03",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2024-12-02T08:15:00",
+		"end": "2024-12-02T11:30:00"
+	},
+	{
+		"name": "BITS4-MMP/03",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2025-01-06T08:15:00",
+		"end": "2025-01-06T11:30:00"
+	},
+	{
+		"name": "BITS4-MMP/03",
+		"location": "0761",
+		"description": "Dozent: DHL/[DeG]",
+		"start": "2025-01-27T08:15:00",
+		"end": "2025-01-27T11:30:00"
+	}
+]

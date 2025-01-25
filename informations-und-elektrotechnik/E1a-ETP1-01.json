@@ -1,0 +1,30 @@
+[
+	{
+		"name": "E1a-ETP1-01",
+		"location": "0502, 0565",
+		"description": "Dozent: LHN/[Rac]",
+		"start": "2024-10-24T08:10:00",
+		"end": "2024-10-24T11:25:00"
+	},
+	{
+		"name": "E1a-ETP1-01",
+		"location": "0502, 0565",
+		"description": "Dozent: LHN/[Rac]",
+		"start": "2024-11-14T08:10:00",
+		"end": "2024-11-14T11:25:00"
+	},
+	{
+		"name": "E1a-ETP1-01",
+		"location": "0502, 0565",
+		"description": "Dozent: LHN/[Rac]",
+		"start": "2024-12-05T08:10:00",
+		"end": "2024-12-05T11:25:00"
+	},
+	{
+		"name": "E1a-ETP1-01",
+		"location": "0502, 0565",
+		"description": "Dozent: LHN/[Rac]",
+		"start": "2025-01-09T08:10:00",
+		"end": "2025-01-09T11:25:00"
+	}
+]

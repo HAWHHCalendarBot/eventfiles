@@ -1,0 +1,30 @@
+[
+	{
+		"name": "E4-RTP-03",
+		"location": "0606",
+		"description": "Dozent: CRLS/EBEL",
+		"start": "2024-10-22T12:10:00",
+		"end": "2024-10-22T13:40:00"
+	},
+	{
+		"name": "E4-RTP-03",
+		"location": "0606",
+		"description": "Dozent: CRLS/EBEL",
+		"start": "2024-11-12T12:10:00",
+		"end": "2024-11-12T15:40:00"
+	},
+	{
+		"name": "E4-RTP-03",
+		"location": "0606",
+		"description": "Dozent: CRLS/EBEL",
+		"start": "2024-12-03T12:10:00",
+		"end": "2024-12-03T15:40:00"
+	},
+	{
+		"name": "E4-RTP-03",
+		"location": "0606",
+		"description": "Dozent: CRLS/EBEL",
+		"start": "2025-01-07T12:10:00",
+		"end": "2025-01-07T15:40:00"
+	}
+]

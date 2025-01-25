@@ -1,0 +1,51 @@
+[
+	{
+		"name": "BMT6-LEP/01-02",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2024-11-05T08:10:00",
+		"end": "2024-11-05T11:25:00"
+	},
+	{
+		"name": "BMT6-LEP/01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2024-11-19T12:10:00",
+		"end": "2024-11-19T15:40:00"
+	},
+	{
+		"name": "BMT6-LEP/01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2024-12-10T12:10:00",
+		"end": "2024-12-10T15:40:00"
+	},
+	{
+		"name": "BMT6-LEP/01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2025-01-14T12:10:00",
+		"end": "2025-01-14T15:40:00"
+	},
+	{
+		"name": "BMT6-LEP/02 opt",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2024-11-26T12:10:00",
+		"end": "2024-11-26T15:40:00"
+	},
+	{
+		"name": "BMT6-LEP/02 opt",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2024-12-17T12:10:00",
+		"end": "2024-12-17T15:40:00"
+	},
+	{
+		"name": "BMT6-LEP/02 opt",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2025-01-21T12:10:00",
+		"end": "2025-01-21T15:40:00"
+	}
+]

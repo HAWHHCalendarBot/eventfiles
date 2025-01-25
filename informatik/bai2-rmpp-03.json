@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BAI2-RMPP/03",
+		"location": "0701",
+		"description": "Dozent: SCRZ/[DeG]",
+		"start": "2024-11-05T12:30:00",
+		"end": "2024-11-05T15:45:00"
+	},
+	{
+		"name": "BAI2-RMPP/03",
+		"location": "0701",
+		"description": "Dozent: SCRZ/[DeG]",
+		"start": "2024-12-17T12:30:00",
+		"end": "2024-12-17T15:45:00"
+	},
+	{
+		"name": "BAI2-RMPP/03",
+		"location": "0701",
+		"description": "Dozent: SCRZ/[DeG]",
+		"start": "2024-11-26T12:30:00",
+		"end": "2024-11-26T15:45:00"
+	},
+	{
+		"name": "BAI2-RMPP/03",
+		"location": "0701",
+		"description": "Dozent: SCRZ/[DeG]",
+		"start": "2025-01-21T12:30:00",
+		"end": "2025-01-21T15:45:00"
+	}
+]

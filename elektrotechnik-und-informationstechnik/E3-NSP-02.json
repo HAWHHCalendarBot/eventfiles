@@ -1,0 +1,30 @@
+[
+	{
+		"name": "E3-NSP-02",
+		"location": "1303a, 1303b",
+		"description": "Dozent: FRDL",
+		"start": "2024-10-29T12:10:00",
+		"end": "2024-10-29T15:40:00"
+	},
+	{
+		"name": "E3-NSP-02",
+		"location": "1303b",
+		"description": "Dozent: FRDL",
+		"start": "2024-11-19T12:10:00",
+		"end": "2024-11-19T15:40:00"
+	},
+	{
+		"name": "E3-NSP-02",
+		"location": "1303b",
+		"description": "Dozent: FRDL",
+		"start": "2024-12-10T12:10:00",
+		"end": "2024-12-10T15:40:00"
+	},
+	{
+		"name": "E3-NSP-02",
+		"location": "1303b",
+		"description": "Dozent: FRDL",
+		"start": "2025-01-14T12:10:00",
+		"end": "2025-01-14T15:40:00"
+	}
+]

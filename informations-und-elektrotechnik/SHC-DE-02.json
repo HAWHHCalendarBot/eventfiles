@@ -1,0 +1,107 @@
+[
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: WSSL",
+		"start": "2024-10-07T12:10:00",
+		"end": "2024-10-07T15:40:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: WSSL",
+		"start": "2024-10-14T14:30:00",
+		"end": "2024-10-14T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: WSSL",
+		"start": "2024-10-21T14:30:00",
+		"end": "2024-10-21T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: WSSL",
+		"start": "2024-10-28T14:30:00",
+		"end": "2024-10-28T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-11-04T14:30:00",
+		"end": "2024-11-04T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-11-11T14:30:00",
+		"end": "2024-11-11T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-11-18T14:30:00",
+		"end": "2024-11-18T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-11-25T14:30:00",
+		"end": "2024-11-25T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-12-02T14:30:00",
+		"end": "2024-12-02T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-12-09T14:30:00",
+		"end": "2024-12-09T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2024-12-16T14:30:00",
+		"end": "2024-12-16T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2025-01-06T14:30:00",
+		"end": "2025-01-06T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2025-01-13T14:30:00",
+		"end": "2025-01-13T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2025-01-20T14:30:00",
+		"end": "2025-01-20T17:45:00"
+	},
+	{
+		"name": "SHC-DE-02",
+		"location": "1486",
+		"description": "Dozent: HEIT",
+		"start": "2025-01-27T14:30:00",
+		"end": "2025-01-27T17:45:00"
+	}
+]

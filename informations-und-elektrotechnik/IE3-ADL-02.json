@@ -1,0 +1,30 @@
+[
+	{
+		"name": "IE3-ADL-02",
+		"location": "1360",
+		"description": "Dozent: GTF",
+		"start": "2024-10-22T08:10:00",
+		"end": "2024-10-22T11:25:00"
+	},
+	{
+		"name": "IE3-ADL-02",
+		"location": "1360",
+		"description": "Dozent: GTF",
+		"start": "2024-11-12T08:10:00",
+		"end": "2024-11-12T11:25:00"
+	},
+	{
+		"name": "IE3-ADL-02",
+		"location": "1360",
+		"description": "Dozent: GTF",
+		"start": "2024-12-03T08:10:00",
+		"end": "2024-12-03T11:25:00"
+	},
+	{
+		"name": "IE3-ADL-02",
+		"location": "1360",
+		"description": "Dozent: GTF",
+		"start": "2025-01-07T08:10:00",
+		"end": "2025-01-07T11:25:00"
+	}
+]

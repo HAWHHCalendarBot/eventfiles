@@ -1,0 +1,30 @@
+[
+	{
+		"name": "IE2-EEL2-04",
+		"location": "0501",
+		"description": "Dozent: RDT/WTMR",
+		"start": "2024-10-23T08:10:00",
+		"end": "2024-10-23T11:25:00"
+	},
+	{
+		"name": "IE2-EEL2-04",
+		"location": "0501",
+		"description": "Dozent: RDT/WTMR",
+		"start": "2024-11-13T15:55:00",
+		"end": "2024-11-13T19:10:00"
+	},
+	{
+		"name": "IE2-EEL2-04",
+		"location": "0501",
+		"description": "Dozent: RDT/WTMR",
+		"start": "2024-12-04T15:55:00",
+		"end": "2024-12-04T19:10:00"
+	},
+	{
+		"name": "IE2-EEL2-04",
+		"location": "0501",
+		"description": "Dozent: RDT/WTMR",
+		"start": "2025-01-08T15:55:00",
+		"end": "2025-01-08T19:10:00"
+	}
+]

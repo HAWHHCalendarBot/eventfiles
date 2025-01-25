@@ -1,0 +1,51 @@
+[
+	{
+		"name": "INF-WPP-A3/02",
+		"location": "0701",
+		"description": "Dozent: KSC",
+		"start": "2024-10-15T08:15:00",
+		"end": "2024-10-15T11:30:00"
+	},
+	{
+		"name": "INF-WPP-A3/02",
+		"location": "0701",
+		"description": "Dozent: KSC",
+		"start": "2024-10-29T08:15:00",
+		"end": "2024-10-29T11:30:00"
+	},
+	{
+		"name": "INF-WPP-A3/02",
+		"location": "0701",
+		"description": "Dozent: KSC",
+		"start": "2024-11-12T08:15:00",
+		"end": "2024-11-12T11:30:00"
+	},
+	{
+		"name": "INF-WPP-A3/02",
+		"location": "0701",
+		"description": "Dozent: KSC",
+		"start": "2024-11-26T08:15:00",
+		"end": "2024-11-26T11:30:00"
+	},
+	{
+		"name": "INF-WPP-A3/02",
+		"location": "0701",
+		"description": "Dozent: KSC",
+		"start": "2024-12-10T08:15:00",
+		"end": "2024-12-10T11:30:00"
+	},
+	{
+		"name": "INF-WPP-A3/02",
+		"location": "0701",
+		"description": "Dozent: KSC",
+		"start": "2025-01-07T08:15:00",
+		"end": "2025-01-07T11:30:00"
+	},
+	{
+		"name": "INF-WPP-A3/02",
+		"location": "0701",
+		"description": "Dozent: KSC",
+		"start": "2025-01-21T08:15:00",
+		"end": "2025-01-21T11:30:00"
+	}
+]

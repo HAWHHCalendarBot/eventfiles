@@ -1,0 +1,30 @@
+[
+	{
+		"name": "IE4-SEL1-02",
+		"location": "1301a, 1301b",
+		"description": "Dozent: EGR",
+		"start": "2024-10-30T08:10:00",
+		"end": "2024-10-30T11:25:00"
+	},
+	{
+		"name": "IE4-SEL1-02",
+		"location": "1365",
+		"description": "Dozent: EGR",
+		"start": "2024-11-27T08:10:00",
+		"end": "2024-11-27T11:25:00"
+	},
+	{
+		"name": "IE4-SEL1-02",
+		"location": "1365",
+		"description": "Dozent: EGR",
+		"start": "2024-12-18T08:10:00",
+		"end": "2024-12-18T11:25:00"
+	},
+	{
+		"name": "IE4-SEL1-02",
+		"location": "1365",
+		"description": "Dozent: EGR",
+		"start": "2025-01-22T08:10:00",
+		"end": "2025-01-22T11:25:00"
+	}
+]
