@@ -1,44 +1,44 @@
 [
 	{
 		"name": "E1a-EK-04",
-		"location": "1465",
+		"location": "1281",
 		"description": "Dozent: KASR",
-		"start": "2024-10-23T12:10:00",
-		"end": "2024-10-23T15:40:00"
+		"start": "2025-04-23T12:10:00",
+		"end": "2025-04-23T15:40:00"
 	},
 	{
 		"name": "E1a-EK-04",
-		"location": "1465",
+		"location": "1281",
 		"description": "Dozent: KASR",
-		"start": "2024-11-06T12:10:00",
-		"end": "2024-11-06T15:40:00"
+		"start": "2025-05-14T12:10:00",
+		"end": "2025-05-14T15:40:00"
 	},
 	{
 		"name": "E1a-EK-04",
-		"location": "1465",
+		"location": "1281",
 		"description": "Dozent: KASR",
-		"start": "2024-11-20T12:10:00",
-		"end": "2024-11-20T15:40:00"
+		"start": "2025-05-28T12:10:00",
+		"end": "2025-05-28T15:40:00"
 	},
 	{
 		"name": "E1a-EK-04",
-		"location": "1465",
+		"location": "1281",
 		"description": "Dozent: KASR",
-		"start": "2024-12-04T12:10:00",
-		"end": "2024-12-04T15:40:00"
+		"start": "2025-06-11T12:10:00",
+		"end": "2025-06-11T15:40:00"
 	},
 	{
 		"name": "E1a-EK-04",
-		"location": "1465",
+		"location": "1281",
 		"description": "Dozent: KASR",
-		"start": "2024-12-18T12:10:00",
-		"end": "2024-12-18T15:40:00"
+		"start": "2025-06-25T12:10:00",
+		"end": "2025-06-25T15:40:00"
 	},
 	{
 		"name": "E1a-EK-04",
-		"location": "1465",
+		"location": "1281",
 		"description": "Dozent: KASR",
-		"start": "2025-01-15T12:10:00",
-		"end": "2025-01-15T15:40:00"
+		"start": "2025-07-09T12:10:00",
+		"end": "2025-07-09T15:40:00"
 	}
 ]

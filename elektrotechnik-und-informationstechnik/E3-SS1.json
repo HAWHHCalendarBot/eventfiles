@@ -2,99 +2,92 @@
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2024-10-07T12:10:00",
-		"end": "2024-10-07T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-04-11T08:10:00",
+		"end": "2025-04-11T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2024-10-14T12:10:00",
-		"end": "2024-10-14T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-04-25T08:10:00",
+		"end": "2025-04-25T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2024-10-21T12:10:00",
-		"end": "2024-10-21T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-05-02T08:10:00",
+		"end": "2025-05-02T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2024-10-28T12:10:00",
-		"end": "2024-10-28T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-05-09T08:10:00",
+		"end": "2025-05-09T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2024-11-04T12:10:00",
-		"end": "2024-11-04T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-05-16T08:10:00",
+		"end": "2025-05-16T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2024-11-11T12:10:00",
-		"end": "2024-11-11T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-05-23T08:10:00",
+		"end": "2025-05-23T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2024-11-18T12:10:00",
-		"end": "2024-11-18T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-05-30T08:10:00",
+		"end": "2025-05-30T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2024-11-25T12:10:00",
-		"end": "2024-11-25T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-06-06T08:10:00",
+		"end": "2025-06-06T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2024-12-02T12:10:00",
-		"end": "2024-12-02T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-06-27T08:10:00",
+		"end": "2025-06-27T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2024-12-09T12:10:00",
-		"end": "2024-12-09T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-06-13T08:10:00",
+		"end": "2025-06-13T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2024-12-16T12:10:00",
-		"end": "2024-12-16T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-06-20T08:10:00",
+		"end": "2025-06-20T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2025-01-06T12:10:00",
-		"end": "2025-01-06T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-07-04T08:10:00",
+		"end": "2025-07-04T11:25:00"
 	},
 	{
 		"name": "E3-SS1",
 		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2025-01-13T12:10:00",
-		"end": "2025-01-13T15:40:00"
-	},
-	{
-		"name": "E3-SS1",
-		"location": "NB 01.13",
-		"description": "Dozent: KRN",
-		"start": "2025-01-20T12:10:00",
-		"end": "2025-01-20T15:40:00"
+		"description": "Dozent: ERD",
+		"start": "2025-07-11T08:10:00",
+		"end": "2025-07-11T11:25:00"
 	}
 ]

@@ -1,0 +1,30 @@
+[
+	{
+		"name": "B-REE6-EVP-02",
+		"location": "0303",
+		"description": "Dozent: SZNY/WNK",
+		"start": "2025-05-14T08:10:00",
+		"end": "2025-05-14T11:25:00"
+	},
+	{
+		"name": "B-REE6-EVP-02",
+		"location": "0303",
+		"description": "Dozent: SZNY/WNK",
+		"start": "2025-05-30T12:10:00",
+		"end": "2025-05-30T15:40:00"
+	},
+	{
+		"name": "B-REE6-EVP-02",
+		"location": "0303",
+		"description": "Dozent: SZNY/WNK",
+		"start": "2025-06-20T12:10:00",
+		"end": "2025-06-20T15:40:00"
+	},
+	{
+		"name": "B-REE6-EVP-02",
+		"location": "0303",
+		"description": "Dozent: SZNY/WNK",
+		"start": "2025-07-11T12:10:00",
+		"end": "2025-07-11T15:40:00"
+	}
+]

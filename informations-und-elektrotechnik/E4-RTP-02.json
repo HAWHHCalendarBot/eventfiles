@@ -2,29 +2,29 @@
 	{
 		"name": "E4-RTP-02",
 		"location": "0606",
-		"description": "Dozent: CRLS/EBEL",
-		"start": "2024-11-05T14:10:00",
-		"end": "2024-11-05T15:40:00"
+		"description": "Dozent: MNR/EBEL",
+		"start": "2025-04-30T14:10:00",
+		"end": "2025-04-30T15:40:00"
 	},
 	{
 		"name": "E4-RTP-02",
 		"location": "0606",
-		"description": "Dozent: CRLS/EBEL",
-		"start": "2024-11-26T12:10:00",
-		"end": "2024-11-26T15:40:00"
+		"description": "Dozent: MNR/EBEL",
+		"start": "2025-05-13T12:10:00",
+		"end": "2025-05-13T15:40:00"
 	},
 	{
 		"name": "E4-RTP-02",
 		"location": "0606",
-		"description": "Dozent: CRLS/EBEL",
-		"start": "2024-12-17T12:10:00",
-		"end": "2024-12-17T15:40:00"
+		"description": "Dozent: MNR/EBEL",
+		"start": "2025-06-03T12:10:00",
+		"end": "2025-06-03T15:40:00"
 	},
 	{
 		"name": "E4-RTP-02",
 		"location": "0606",
-		"description": "Dozent: CRLS/EBEL",
-		"start": "2025-01-21T12:10:00",
-		"end": "2025-01-21T15:40:00"
+		"description": "Dozent: MNR/EBEL",
+		"start": "2025-07-01T12:10:00",
+		"end": "2025-07-01T15:40:00"
 	}
 ]

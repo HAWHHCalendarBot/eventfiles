@@ -1,44 +1,44 @@
 [
 	{
 		"name": "E1a-LAUe-01",
-		"location": "0665",
-		"description": "Dozent: JNM",
-		"start": "2024-10-23T12:10:00",
-		"end": "2024-10-23T13:40:00"
+		"location": "1281",
+		"description": "Dozent: FRDL",
+		"start": "2025-04-15T15:55:00",
+		"end": "2025-04-15T17:25:00"
 	},
 	{
 		"name": "E1a-LAUe-01",
-		"location": "0665",
-		"description": "Dozent: JNM",
-		"start": "2024-11-06T12:10:00",
-		"end": "2024-11-06T13:40:00"
+		"location": "1281",
+		"description": "Dozent: FRDL",
+		"start": "2025-04-29T15:55:00",
+		"end": "2025-04-29T17:25:00"
 	},
 	{
 		"name": "E1a-LAUe-01",
-		"location": "0665",
-		"description": "Dozent: JNM",
-		"start": "2024-11-20T12:10:00",
-		"end": "2024-11-20T13:40:00"
+		"location": "1281",
+		"description": "Dozent: FRDL",
+		"start": "2025-05-13T15:55:00",
+		"end": "2025-05-13T17:25:00"
 	},
 	{
 		"name": "E1a-LAUe-01",
-		"location": "0665",
-		"description": "Dozent: JNM",
-		"start": "2024-12-04T12:10:00",
-		"end": "2024-12-04T13:40:00"
+		"location": "1281",
+		"description": "Dozent: FRDL",
+		"start": "2025-05-27T15:55:00",
+		"end": "2025-05-27T17:25:00"
 	},
 	{
 		"name": "E1a-LAUe-01",
-		"location": "0665",
-		"description": "Dozent: JNM",
-		"start": "2024-12-18T12:10:00",
-		"end": "2024-12-18T13:40:00"
+		"location": "1281",
+		"description": "Dozent: FRDL",
+		"start": "2025-06-17T15:55:00",
+		"end": "2025-06-17T17:25:00"
 	},
 	{
 		"name": "E1a-LAUe-01",
-		"location": "0665",
-		"description": "Dozent: JNM",
-		"start": "2025-01-15T12:10:00",
-		"end": "2025-01-15T13:40:00"
+		"location": "1281",
+		"description": "Dozent: FRDL",
+		"start": "2025-07-01T15:55:00",
+		"end": "2025-07-01T17:25:00"
 	}
 ]

@@ -1,0 +1,30 @@
+[
+	{
+		"name": "B-REE4-RTP-02",
+		"location": "0606",
+		"description": "Dozent: ERD/[Huss]",
+		"start": "2025-05-02T14:10:00",
+		"end": "2025-05-02T15:40:00"
+	},
+	{
+		"name": "B-REE4-RTP-02",
+		"location": "0606",
+		"description": "Dozent: ERD/[Huss]",
+		"start": "2025-05-16T12:10:00",
+		"end": "2025-05-16T15:40:00"
+	},
+	{
+		"name": "B-REE4-RTP-02",
+		"location": "0606",
+		"description": "Dozent: ERD/[Huss]",
+		"start": "2025-06-06T12:10:00",
+		"end": "2025-06-06T15:40:00"
+	},
+	{
+		"name": "B-REE4-RTP-02",
+		"location": "0606",
+		"description": "Dozent: ERD/[Huss]",
+		"start": "2025-07-04T12:10:00",
+		"end": "2025-07-04T15:40:00"
+	}
+]

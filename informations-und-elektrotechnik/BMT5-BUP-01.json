@@ -2,29 +2,29 @@
 	{
 		"name": "BMT5-BUP-01",
 		"location": "0401, 0402",
-		"description": "Dozent: WSTK/STKR",
-		"start": "2024-11-07T12:10:00",
-		"end": "2024-11-07T15:40:00"
+		"description": "Dozent: NN1/EBEL",
+		"start": "2025-04-30T12:10:00",
+		"end": "2025-04-30T15:40:00"
 	},
 	{
 		"name": "BMT5-BUP-01",
 		"location": "0401, 0402",
-		"description": "Dozent: WSTK/STKR",
-		"start": "2024-11-14T12:10:00",
-		"end": "2024-11-14T15:40:00"
+		"description": "Dozent: NN1/EBEL",
+		"start": "2025-05-23T12:10:00",
+		"end": "2025-05-23T15:40:00"
 	},
 	{
 		"name": "BMT5-BUP-01",
 		"location": "0401, 0402",
-		"description": "Dozent: WSTK/STKR",
-		"start": "2024-12-05T12:10:00",
-		"end": "2024-12-05T15:40:00"
+		"description": "Dozent: NN1/EBEL",
+		"start": "2025-06-13T12:10:00",
+		"end": "2025-06-13T15:40:00"
 	},
 	{
 		"name": "BMT5-BUP-01",
 		"location": "0401, 0402",
-		"description": "Dozent: WSTK/STKR",
-		"start": "2025-01-09T12:10:00",
-		"end": "2025-01-09T15:40:00"
+		"description": "Dozent: NN1/EBEL",
+		"start": "2025-07-04T12:10:00",
+		"end": "2025-07-04T15:40:00"
 	}
 ]

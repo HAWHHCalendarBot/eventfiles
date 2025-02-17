@@ -2,29 +2,29 @@
 	{
 		"name": "E6-RYP-01",
 		"location": "0601",
-		"description": "Dozent: MAA/[Huss]",
-		"start": "2024-11-05T12:10:00",
-		"end": "2024-11-05T13:40:00"
+		"description": "Dozent: ERD/[Huss]",
+		"start": "2025-04-30T08:10:00",
+		"end": "2025-04-30T09:40:00"
 	},
 	{
 		"name": "E6-RYP-01",
 		"location": "0601",
-		"description": "Dozent: MAA/[Huss]",
-		"start": "2024-11-25T08:10:00",
-		"end": "2024-11-25T11:25:00"
+		"description": "Dozent: ERD/[Huss]",
+		"start": "2025-05-26T08:10:00",
+		"end": "2025-05-26T11:25:00"
 	},
 	{
 		"name": "E6-RYP-01",
 		"location": "0601",
-		"description": "Dozent: MAA/[Huss]",
-		"start": "2024-12-16T08:10:00",
-		"end": "2024-12-16T11:25:00"
+		"description": "Dozent: ERD/[Huss]",
+		"start": "2025-06-16T08:10:00",
+		"end": "2025-06-16T11:25:00"
 	},
 	{
 		"name": "E6-RYP-01",
 		"location": "0601",
-		"description": "Dozent: MAA/[Huss]",
-		"start": "2025-01-20T08:10:00",
-		"end": "2025-01-20T11:25:00"
+		"description": "Dozent: ERD/[Huss]",
+		"start": "2025-07-07T08:10:00",
+		"end": "2025-07-07T11:25:00"
 	}
 ]

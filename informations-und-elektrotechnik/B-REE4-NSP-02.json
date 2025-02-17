@@ -1,0 +1,30 @@
+[
+	{
+		"name": "B-REE4-NSP-02",
+		"location": "1303a, 1303b",
+		"description": "Dozent: JNM",
+		"start": "2025-05-02T08:10:00",
+		"end": "2025-05-02T11:25:00"
+	},
+	{
+		"name": "B-REE4-NSP-02",
+		"location": "1360",
+		"description": "Dozent: JNM",
+		"start": "2025-05-22T08:10:00",
+		"end": "2025-05-22T11:25:00"
+	},
+	{
+		"name": "B-REE4-NSP-02",
+		"location": "1360",
+		"description": "Dozent: JNM",
+		"start": "2025-06-19T08:10:00",
+		"end": "2025-06-19T11:25:00"
+	},
+	{
+		"name": "B-REE4-NSP-02",
+		"location": "1360",
+		"description": "Dozent: JNM",
+		"start": "2025-07-10T08:10:00",
+		"end": "2025-07-10T11:25:00"
+	}
+]

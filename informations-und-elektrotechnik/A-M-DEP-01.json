@@ -1,0 +1,30 @@
+[
+	{
+		"name": "A-M-DEP-01",
+		"location": "1303a, 1303b",
+		"description": "Dozent: VPL/SZNY",
+		"start": "2025-04-28T12:10:00",
+		"end": "2025-04-28T15:40:00"
+	},
+	{
+		"name": "A-M-DEP-01",
+		"location": "1303a, 1303b",
+		"description": "Dozent: VPL/SZNY",
+		"start": "2025-05-12T12:10:00",
+		"end": "2025-05-12T15:40:00"
+	},
+	{
+		"name": "A-M-DEP-01",
+		"location": "1303a, 1303b",
+		"description": "Dozent: VPL/SZNY",
+		"start": "2025-06-02T12:10:00",
+		"end": "2025-06-02T15:40:00"
+	},
+	{
+		"name": "A-M-DEP-01",
+		"location": "1303a, 1303b",
+		"description": "Dozent: VPL/SZNY",
+		"start": "2025-06-23T12:10:00",
+		"end": "2025-06-23T15:40:00"
+	}
+]

@@ -1,856 +1,842 @@
 [
 	{
 		"name": "IE3-EL2",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: LAP",
-		"start": "2024-10-08T12:10:00",
-		"end": "2024-10-08T15:40:00"
-	},
-	{
-		"name": "IE3-EM",
-		"location": "1281",
-		"description": "Dozent: SHOK",
-		"start": "2024-10-07T08:10:00",
-		"end": "2024-10-07T11:25:00"
-	},
-	{
-		"name": "IE3-AD",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GTF",
-		"start": "2024-10-11T12:10:00",
-		"end": "2024-10-11T15:25:00"
-	},
-	{
-		"name": "IE3-DI",
-		"location": "1260",
-		"description": "Dozent: SCZ",
-		"start": "2024-10-10T08:10:00",
-		"end": "2024-10-10T11:25:00"
-	},
-	{
-		"name": "IE3-SS1",
-		"location": "1065",
-		"description": "Dozent: LHN",
-		"start": "2024-10-09T12:10:00",
-		"end": "2024-10-09T15:40:00"
-	},
-	{
-		"name": "IE3-EL2",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: LAP",
-		"start": "2024-10-15T12:10:00",
-		"end": "2024-10-15T15:40:00"
-	},
-	{
-		"name": "IE3-DI",
-		"location": "1060",
-		"description": "Dozent: SCZ",
-		"start": "2024-10-17T08:10:00",
-		"end": "2024-10-17T11:25:00"
-	},
-	{
-		"name": "IE3-SS1",
 		"location": "0560",
-		"description": "Dozent: LHN",
-		"start": "2024-10-16T12:10:00",
-		"end": "2024-10-16T15:40:00"
-	},
-	{
-		"name": "IE3-AD",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GTF",
-		"start": "2024-10-18T12:10:00",
-		"end": "2024-10-18T15:25:00"
-	},
-	{
-		"name": "IE3-EL2",
-		"location": "SteinD94 R0.02",
 		"description": "Dozent: LAP",
-		"start": "2024-10-22T12:10:00",
-		"end": "2024-10-22T15:40:00"
+		"start": "2025-04-08T12:10:00",
+		"end": "2025-04-08T15:40:00"
 	},
 	{
 		"name": "IE3-DI",
-		"location": "1060",
+		"location": "1260",
 		"description": "Dozent: SCZ",
-		"start": "2024-10-24T08:10:00",
-		"end": "2024-10-24T11:25:00"
-	},
-	{
-		"name": "IE3-AD",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GTF",
-		"start": "2024-10-25T12:10:00",
-		"end": "2024-10-25T15:25:00"
-	},
-	{
-		"name": "IE3-ADL-01",
-		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2024-10-22T08:10:00",
-		"end": "2024-10-22T11:25:00"
-	},
-	{
-		"name": "IE3-ADL-02",
-		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2024-10-22T08:10:00",
-		"end": "2024-10-22T11:25:00"
-	},
-	{
-		"name": "IE3-ADL-03",
-		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2024-10-22T08:10:00",
-		"end": "2024-10-22T11:25:00"
+		"start": "2025-04-09T12:10:00",
+		"end": "2025-04-09T15:40:00"
 	},
 	{
 		"name": "IE3-SS1",
-		"location": "1260",
-		"description": "Dozent: LHN",
-		"start": "2024-10-23T12:10:00",
-		"end": "2024-10-23T15:40:00"
-	},
-	{
-		"name": "IE3-EL2",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: LAP",
-		"start": "2024-10-29T12:10:00",
-		"end": "2024-10-29T15:40:00"
-	},
-	{
-		"name": "IE3-ELL2-01",
-		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2024-10-28T12:10:00",
-		"end": "2024-10-28T15:40:00"
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-04-11T08:10:00",
+		"end": "2025-04-11T11:25:00"
 	},
 	{
 		"name": "IE3-EM",
-		"location": "1281",
+		"location": "1260",
 		"description": "Dozent: SHOK",
-		"start": "2024-10-28T08:10:00",
-		"end": "2024-10-28T11:25:00"
+		"start": "2025-04-09T08:10:00",
+		"end": "2025-04-09T11:25:00"
 	},
 	{
 		"name": "IE3-AD",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GTF",
-		"start": "2024-11-01T12:10:00",
-		"end": "2024-11-01T15:25:00"
-	},
-	{
-		"name": "IE3-EME-01",
-		"location": "1465",
-		"description": "Dozent: SHOK",
-		"start": "2024-10-30T08:10:00",
-		"end": "2024-10-30T11:25:00"
-	},
-	{
-		"name": "IE3-EME-02",
-		"location": "1465",
-		"description": "Dozent: SHOK",
-		"start": "2024-10-30T08:10:00",
-		"end": "2024-10-30T11:25:00"
-	},
-	{
-		"name": "IE3-EME-03",
-		"location": "1465",
-		"description": "Dozent: SHOK",
-		"start": "2024-10-30T08:10:00",
-		"end": "2024-10-30T11:25:00"
-	},
-	{
-		"name": "IE3-SSL1-01",
-		"location": "1303a, 1303b",
-		"description": "Dozent: LHN",
-		"start": "2024-10-30T12:10:00",
-		"end": "2024-10-30T15:40:00"
-	},
-	{
-		"name": "IE3-SSL1-02",
-		"location": "1303a, 1303b",
-		"description": "Dozent: LHN",
-		"start": "2024-10-30T12:10:00",
-		"end": "2024-10-30T15:40:00"
-	},
-	{
-		"name": "IE3-SSL1-03",
-		"location": "1303a, 1303b",
-		"description": "Dozent: LHN",
-		"start": "2024-10-30T12:10:00",
-		"end": "2024-10-30T15:40:00"
+		"location": "1260",
+		"description": "Dozent: HST",
+		"start": "2025-04-10T08:10:00",
+		"end": "2025-04-10T11:25:00"
 	},
 	{
 		"name": "IE3-EL2",
-		"location": "SteinD94 R0.02",
+		"location": "0560",
 		"description": "Dozent: LAP",
-		"start": "2024-11-05T12:10:00",
-		"end": "2024-11-05T15:40:00"
+		"start": "2025-04-15T12:10:00",
+		"end": "2025-04-15T15:40:00"
 	},
 	{
 		"name": "IE3-DI",
-		"location": "1060",
+		"location": "1260",
 		"description": "Dozent: SCZ",
-		"start": "2024-11-07T08:10:00",
-		"end": "2024-11-07T11:25:00"
-	},
-	{
-		"name": "IE3-ELL2-02",
-		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2024-11-04T12:10:00",
-		"end": "2024-11-04T15:40:00"
-	},
-	{
-		"name": "IE3-ELL2-03",
-		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2024-11-05T08:10:00",
-		"end": "2024-11-05T11:25:00"
+		"start": "2025-04-16T12:10:00",
+		"end": "2025-04-16T15:40:00"
 	},
 	{
 		"name": "IE3-EM",
-		"location": "1281",
+		"location": "1260",
 		"description": "Dozent: SHOK",
-		"start": "2024-11-04T08:10:00",
-		"end": "2024-11-04T11:25:00"
+		"start": "2025-04-16T08:10:00",
+		"end": "2025-04-16T11:25:00"
 	},
 	{
 		"name": "IE3-AD",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GTF",
-		"start": "2024-11-08T12:10:00",
-		"end": "2024-11-08T15:25:00"
+		"location": "1260",
+		"description": "Dozent: HST",
+		"start": "2025-04-17T08:10:00",
+		"end": "2025-04-17T11:25:00"
 	},
 	{
-		"name": "Nachhaltigkeitstag",
-		"location": "",
-		"description": "",
-		"start": "2024-11-06T08:10:00",
-		"end": "2024-11-06T18:00:00"
+		"name": "IE3-EL2",
+		"location": "0560",
+		"description": "Dozent: LAP",
+		"start": "2025-04-22T12:10:00",
+		"end": "2025-04-22T15:40:00"
 	},
 	{
-		"name": "IE3-DIL-01",
-		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2024-11-06T08:10:00",
-		"end": "2024-11-06T11:25:00"
-	},
-	{
-		"name": "IE3-DIL-02",
-		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2024-11-06T08:10:00",
-		"end": "2024-11-06T11:25:00"
-	},
-	{
-		"name": "IE3-DIL-03",
-		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2024-11-06T08:10:00",
-		"end": "2024-11-06T11:25:00"
+		"name": "IE3-DI",
+		"location": "1260",
+		"description": "Dozent: SCZ",
+		"start": "2025-04-23T12:10:00",
+		"end": "2025-04-23T15:40:00"
 	},
 	{
 		"name": "IE3-SS1",
-		"location": "1260",
-		"description": "Dozent: LHN",
-		"start": "2024-11-06T12:10:00",
-		"end": "2024-11-06T15:40:00"
-	},
-	{
-		"name": "IE3-EL2",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: LAP",
-		"start": "2024-11-12T12:10:00",
-		"end": "2024-11-12T15:40:00"
-	},
-	{
-		"name": "IE3-DI",
-		"location": "1060",
-		"description": "Dozent: SCZ",
-		"start": "2024-11-14T08:10:00",
-		"end": "2024-11-14T11:25:00"
-	},
-	{
-		"name": "IE3-DIL-03",
-		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2024-11-13T08:10:00",
-		"end": "2024-11-13T11:25:00"
-	},
-	{
-		"name": "IE3-ELL2-01",
-		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2024-11-11T12:10:00",
-		"end": "2024-11-11T15:40:00"
-	},
-	{
-		"name": "IE3-SSL1-03",
-		"location": "1360",
-		"description": "Dozent: LHN",
-		"start": "2024-11-11T12:10:00",
-		"end": "2024-11-11T15:40:00"
-	},
-	{
-		"name": "IE3-ADL-02",
-		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2024-11-12T08:10:00",
-		"end": "2024-11-12T11:25:00"
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-04-25T08:10:00",
+		"end": "2025-04-25T11:25:00"
 	},
 	{
 		"name": "IE3-EM",
-		"location": "1281",
+		"location": "1260",
 		"description": "Dozent: SHOK",
-		"start": "2024-11-11T08:10:00",
-		"end": "2024-11-11T11:25:00"
+		"start": "2025-04-23T08:10:00",
+		"end": "2025-04-23T11:25:00"
+	},
+	{
+		"name": "IE3-AD",
+		"location": "1260",
+		"description": "Dozent: HST",
+		"start": "2025-04-24T08:10:00",
+		"end": "2025-04-24T11:25:00"
 	},
 	{
 		"name": "IE3-EME-01",
 		"location": "1281",
 		"description": "Dozent: SHOK",
-		"start": "2024-11-13T08:10:00",
-		"end": "2024-11-13T11:25:00"
-	},
-	{
-		"name": "IE3-AD",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GTF",
-		"start": "2024-11-15T12:10:00",
-		"end": "2024-11-15T15:25:00"
-	},
-	{
-		"name": "IE3-SS1",
-		"location": "1260",
-		"description": "Dozent: LHN",
-		"start": "2024-11-13T12:10:00",
-		"end": "2024-11-13T15:40:00"
-	},
-	{
-		"name": "IE3-ADL-03",
-		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2024-11-19T08:10:00",
-		"end": "2024-11-19T11:25:00"
-	},
-	{
-		"name": "IE3-DIL-01",
-		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2024-11-20T08:10:00",
-		"end": "2024-11-20T11:25:00"
+		"start": "2025-04-22T08:10:00",
+		"end": "2025-04-22T11:25:00"
 	},
 	{
 		"name": "IE3-EME-02",
 		"location": "1281",
 		"description": "Dozent: SHOK",
-		"start": "2024-11-20T08:10:00",
-		"end": "2024-11-20T11:25:00"
-	},
-	{
-		"name": "IE3-ELL2-02",
-		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2024-11-18T12:10:00",
-		"end": "2024-11-18T15:40:00"
-	},
-	{
-		"name": "IE3-EM",
-		"location": "1281",
-		"description": "Dozent: SHOK",
-		"start": "2024-11-18T08:10:00",
-		"end": "2024-11-18T11:25:00"
-	},
-	{
-		"name": "IE3-SSL1-01",
-		"location": "1360",
-		"description": "Dozent: LHN",
-		"start": "2024-11-18T12:10:00",
-		"end": "2024-11-18T15:40:00"
-	},
-	{
-		"name": "IE3-AD",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GTF",
-		"start": "2024-11-22T12:10:00",
-		"end": "2024-11-22T15:25:00"
-	},
-	{
-		"name": "IE3-SS1",
-		"location": "1260",
-		"description": "Dozent: LHN",
-		"start": "2024-11-20T12:10:00",
-		"end": "2024-11-20T15:40:00"
-	},
-	{
-		"name": "IE3-EL2",
-		"location": "0405, SteinD94 R0.02",
-		"description": "Dozent: LAP",
-		"start": "2024-11-19T12:10:00",
-		"end": "2024-11-19T15:40:00"
-	},
-	{
-		"name": "IE3-DIL-02",
-		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2024-11-27T08:10:00",
-		"end": "2024-11-27T11:25:00"
-	},
-	{
-		"name": "IE3-DI",
-		"location": "1060",
-		"description": "Dozent: SCZ",
-		"start": "2024-11-28T08:10:00",
-		"end": "2024-11-28T11:25:00"
-	},
-	{
-		"name": "IE3-ELL2-01",
-		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2024-11-25T12:10:00",
-		"end": "2024-11-25T15:40:00"
-	},
-	{
-		"name": "IE3-SSL1-02",
-		"location": "1360",
-		"description": "Dozent: LHN",
-		"start": "2024-11-25T12:10:00",
-		"end": "2024-11-25T15:40:00"
-	},
-	{
-		"name": "IE3-ADL-01",
-		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2024-11-26T08:10:00",
-		"end": "2024-11-26T11:25:00"
-	},
-	{
-		"name": "IE3-ELL2-03",
-		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2024-11-26T08:10:00",
-		"end": "2024-11-26T11:25:00"
-	},
-	{
-		"name": "IE3-EM",
-		"location": "1281",
-		"description": "Dozent: SHOK",
-		"start": "2024-11-25T08:10:00",
-		"end": "2024-11-25T11:25:00"
+		"start": "2025-04-22T08:10:00",
+		"end": "2025-04-22T11:25:00"
 	},
 	{
 		"name": "IE3-EME-03",
 		"location": "1281",
 		"description": "Dozent: SHOK",
-		"start": "2024-11-27T08:10:00",
-		"end": "2024-11-27T11:25:00"
-	},
-	{
-		"name": "IE3-AD",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GTF",
-		"start": "2024-11-29T12:10:00",
-		"end": "2024-11-29T15:25:00"
-	},
-	{
-		"name": "IE3-SS1",
-		"location": "1260",
-		"description": "Dozent: LHN",
-		"start": "2024-11-27T12:10:00",
-		"end": "2024-11-27T15:40:00"
+		"start": "2025-04-22T08:10:00",
+		"end": "2025-04-22T11:25:00"
 	},
 	{
 		"name": "IE3-EL2",
-		"location": "0405, SteinD94 R0.02",
+		"location": "0560",
 		"description": "Dozent: LAP",
-		"start": "2024-11-26T12:10:00",
-		"end": "2024-11-26T15:40:00"
+		"start": "2025-04-29T12:10:00",
+		"end": "2025-04-29T15:40:00"
 	},
 	{
-		"name": "IE3-DI",
-		"location": "1060",
-		"description": "Dozent: SCZ",
-		"start": "2024-12-05T08:10:00",
-		"end": "2024-12-05T11:25:00"
+		"name": "IE3-SS1",
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-05-02T08:10:00",
+		"end": "2025-05-02T11:25:00"
+	},
+	{
+		"name": "IE3-AD",
+		"location": "1260",
+		"description": "Dozent: HST",
+		"start": "2025-04-30T08:10:00",
+		"end": "2025-04-30T11:25:00"
+	},
+	{
+		"name": "IE3-DIL-01",
+		"location": "0801",
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-04-29T08:10:00",
+		"end": "2025-04-29T11:25:00"
+	},
+	{
+		"name": "IE3-DIL-02",
+		"location": "0801",
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-04-29T08:10:00",
+		"end": "2025-04-29T11:25:00"
 	},
 	{
 		"name": "IE3-DIL-03",
 		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2024-12-04T08:10:00",
-		"end": "2024-12-04T11:25:00"
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-04-29T08:10:00",
+		"end": "2025-04-29T11:25:00"
+	},
+	{
+		"name": "IE3-SSL1-01",
+		"location": "1303a, 1303b, 1365",
+		"description": "Dozent: LGE",
+		"start": "2025-04-28T08:10:00",
+		"end": "2025-04-28T11:25:00"
+	},
+	{
+		"name": "IE3-SSL1-02",
+		"location": "1303a, 1303b, 1365",
+		"description": "Dozent: LGE",
+		"start": "2025-04-28T08:10:00",
+		"end": "2025-04-28T11:25:00"
 	},
 	{
 		"name": "IE3-SSL1-03",
-		"location": "1360",
-		"description": "Dozent: LHN",
-		"start": "2024-12-02T12:10:00",
-		"end": "2024-12-02T15:40:00"
+		"location": "1303a, 1303b, 1365",
+		"description": "Dozent: LGE",
+		"start": "2025-04-28T08:10:00",
+		"end": "2025-04-28T11:25:00"
 	},
 	{
-		"name": "IE3-ADL-02",
-		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2024-12-03T08:10:00",
-		"end": "2024-12-03T11:25:00"
+		"name": "IE3-EL2",
+		"location": "0560",
+		"description": "Dozent: LAP",
+		"start": "2025-05-06T12:10:00",
+		"end": "2025-05-06T15:40:00"
 	},
 	{
-		"name": "IE3-ELL2-02",
+		"name": "IE3-DI",
+		"location": "1260",
+		"description": "Dozent: SCZ",
+		"start": "2025-05-07T12:10:00",
+		"end": "2025-05-07T15:40:00"
+	},
+	{
+		"name": "IE3-DIL-03",
+		"location": "0801",
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-05-06T08:10:00",
+		"end": "2025-05-06T11:25:00"
+	},
+	{
+		"name": "IE3-ELL2-01",
 		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2024-12-02T12:10:00",
-		"end": "2024-12-02T15:40:00"
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-05-05T08:10:00",
+		"end": "2025-05-05T11:25:00"
+	},
+	{
+		"name": "IE3-SS1",
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-05-09T08:10:00",
+		"end": "2025-05-09T11:25:00"
 	},
 	{
 		"name": "IE3-EM",
-		"location": "1281",
+		"location": "1260",
 		"description": "Dozent: SHOK",
-		"start": "2024-12-02T08:10:00",
-		"end": "2024-12-02T11:25:00"
+		"start": "2025-05-07T08:10:00",
+		"end": "2025-05-07T11:25:00"
 	},
 	{
 		"name": "IE3-EME-01",
 		"location": "1281",
 		"description": "Dozent: SHOK",
-		"start": "2024-12-04T08:10:00",
-		"end": "2024-12-04T11:25:00"
+		"start": "2025-05-06T08:10:00",
+		"end": "2025-05-06T11:25:00"
 	},
 	{
 		"name": "IE3-AD",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GTF",
-		"start": "2024-12-06T12:10:00",
-		"end": "2024-12-06T15:25:00"
-	},
-	{
-		"name": "IE3-SS1",
 		"location": "1260",
-		"description": "Dozent: LHN",
-		"start": "2024-12-04T12:10:00",
-		"end": "2024-12-04T15:40:00"
+		"description": "Dozent: HST",
+		"start": "2025-05-08T08:10:00",
+		"end": "2025-05-08T11:25:00"
 	},
 	{
-		"name": "IE3-EL2",
-		"location": "0405, SteinD94 R0.02",
-		"description": "Dozent: LAP",
-		"start": "2024-12-03T12:10:00",
-		"end": "2024-12-03T15:40:00"
+		"name": "IE3-ADL-01",
+		"location": "1301a, 1301b, 1303a, 1303b",
+		"description": "Dozent: HST",
+		"start": "2025-05-05T12:10:00",
+		"end": "2025-05-05T15:40:00"
+	},
+	{
+		"name": "IE3-ADL-02",
+		"location": "1301a, 1301b, 1303a, 1303b",
+		"description": "Dozent: HST",
+		"start": "2025-05-05T12:10:00",
+		"end": "2025-05-05T15:40:00"
 	},
 	{
 		"name": "IE3-ADL-03",
-		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2024-12-10T08:10:00",
-		"end": "2024-12-10T11:25:00"
+		"location": "1301a, 1301b, 1303a, 1303b",
+		"description": "Dozent: HST",
+		"start": "2025-05-05T12:10:00",
+		"end": "2025-05-05T15:40:00"
+	},
+	{
+		"name": "IE3-EL2",
+		"location": "0560",
+		"description": "Dozent: LAP",
+		"start": "2025-05-13T12:10:00",
+		"end": "2025-05-13T15:40:00"
 	},
 	{
 		"name": "IE3-DI",
-		"location": "1060",
+		"location": "1260",
 		"description": "Dozent: SCZ",
-		"start": "2024-12-12T08:10:00",
-		"end": "2024-12-12T11:25:00"
+		"start": "2025-05-14T12:10:00",
+		"end": "2025-05-14T15:40:00"
 	},
 	{
 		"name": "IE3-DIL-01",
 		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2024-12-11T08:10:00",
-		"end": "2024-12-11T11:25:00"
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-05-13T08:10:00",
+		"end": "2025-05-13T11:25:00"
 	},
 	{
-		"name": "IE3-ELL2-01",
-		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2024-12-09T12:10:00",
-		"end": "2024-12-09T15:40:00"
-	},
-	{
-		"name": "IE3-SSL1-02",
+		"name": "IE3-ADL-02",
 		"location": "1360",
-		"description": "Dozent: LHN",
-		"start": "2024-12-09T12:10:00",
-		"end": "2024-12-09T15:40:00"
+		"description": "Dozent: HST",
+		"start": "2025-05-12T12:10:00",
+		"end": "2025-05-12T15:40:00"
 	},
 	{
 		"name": "IE3-EME-02",
 		"location": "1281",
 		"description": "Dozent: SHOK",
-		"start": "2024-12-11T08:10:00",
-		"end": "2024-12-11T11:25:00"
-	},
-	{
-		"name": "IE3-EM",
-		"location": "1281",
-		"description": "Dozent: SHOK",
-		"start": "2024-12-09T08:10:00",
-		"end": "2024-12-09T11:25:00"
+		"start": "2025-05-13T08:10:00",
+		"end": "2025-05-13T11:25:00"
 	},
 	{
 		"name": "IE3-SS1",
-		"location": "1260",
-		"description": "Dozent: LHN",
-		"start": "2024-12-11T12:10:00",
-		"end": "2024-12-11T15:40:00"
-	},
-	{
-		"name": "IE3-EL2",
-		"location": "0405, SteinD94 R0.02",
-		"description": "Dozent: LAP",
-		"start": "2024-12-10T12:10:00",
-		"end": "2024-12-10T15:40:00"
-	},
-	{
-		"name": "IE3-DIL-02",
-		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2024-12-18T08:10:00",
-		"end": "2024-12-18T11:25:00"
-	},
-	{
-		"name": "IE3-DI",
-		"location": "1060",
-		"description": "Dozent: SCZ",
-		"start": "2024-12-19T08:10:00",
-		"end": "2024-12-19T11:25:00"
-	},
-	{
-		"name": "IE3-ADL-01",
-		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2024-12-17T08:10:00",
-		"end": "2024-12-17T11:25:00"
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-05-16T08:10:00",
+		"end": "2025-05-16T11:25:00"
 	},
 	{
 		"name": "IE3-ELL2-02",
 		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2024-12-16T12:10:00",
-		"end": "2024-12-16T15:40:00"
-	},
-	{
-		"name": "IE3-ELL2-03",
-		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2024-12-17T08:10:00",
-		"end": "2024-12-17T11:25:00"
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-05-12T08:10:00",
+		"end": "2025-05-12T11:25:00"
 	},
 	{
 		"name": "IE3-EM",
-		"location": "1281",
+		"location": "1260",
 		"description": "Dozent: SHOK",
-		"start": "2024-12-16T08:10:00",
-		"end": "2024-12-16T11:25:00"
+		"start": "2025-05-14T08:10:00",
+		"end": "2025-05-14T11:25:00"
+	},
+	{
+		"name": "IE3-ELL2-03",
+		"location": "0505",
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-05-16T12:10:00",
+		"end": "2025-05-16T15:40:00"
+	},
+	{
+		"name": "IE3-SSL1-01",
+		"location": "1360",
+		"description": "Dozent: LGE",
+		"start": "2025-05-12T08:10:00",
+		"end": "2025-05-12T11:25:00"
+	},
+	{
+		"name": "IE3-AD",
+		"location": "1260",
+		"description": "Dozent: HST",
+		"start": "2025-05-15T08:10:00",
+		"end": "2025-05-15T11:25:00"
+	},
+	{
+		"name": "IE3-DIL-02",
+		"location": "0801",
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-05-20T08:10:00",
+		"end": "2025-05-20T11:25:00"
+	},
+	{
+		"name": "IE3-EL2",
+		"location": "0560",
+		"description": "Dozent: LAP",
+		"start": "2025-05-20T12:10:00",
+		"end": "2025-05-20T15:40:00"
+	},
+	{
+		"name": "IE3-DI",
+		"location": "1260",
+		"description": "Dozent: SCZ",
+		"start": "2025-05-21T12:10:00",
+		"end": "2025-05-21T15:40:00"
+	},
+	{
+		"name": "IE3-ELL2-01",
+		"location": "0505, 0804",
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-05-19T08:10:00",
+		"end": "2025-05-19T11:25:00"
+	},
+	{
+		"name": "IE3-SSL1-02",
+		"location": "1360",
+		"description": "Dozent: LGE",
+		"start": "2025-05-19T08:10:00",
+		"end": "2025-05-19T11:25:00"
+	},
+	{
+		"name": "IE3-ADL-03",
+		"location": "1360",
+		"description": "Dozent: HST",
+		"start": "2025-05-19T12:10:00",
+		"end": "2025-05-19T15:40:00"
+	},
+	{
+		"name": "IE3-SS1",
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-05-23T08:10:00",
+		"end": "2025-05-23T11:25:00"
+	},
+	{
+		"name": "IE3-EM",
+		"location": "1260",
+		"description": "Dozent: SHOK",
+		"start": "2025-05-21T08:10:00",
+		"end": "2025-05-21T11:25:00"
 	},
 	{
 		"name": "IE3-EME-03",
 		"location": "1281",
 		"description": "Dozent: SHOK",
-		"start": "2024-12-18T08:10:00",
-		"end": "2024-12-18T11:25:00"
-	},
-	{
-		"name": "IE3-SSL1-01",
-		"location": "1360",
-		"description": "Dozent: LHN",
-		"start": "2024-12-16T12:10:00",
-		"end": "2024-12-16T15:40:00"
+		"start": "2025-05-20T08:10:00",
+		"end": "2025-05-20T11:25:00"
 	},
 	{
 		"name": "IE3-AD",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GTF",
-		"start": "2024-12-20T12:10:00",
-		"end": "2024-12-20T15:25:00"
+		"location": "1260",
+		"description": "Dozent: HST",
+		"start": "2025-05-22T08:10:00",
+		"end": "2025-05-22T11:25:00"
 	},
 	{
-		"name": "IE3-SS1",
-		"location": "1260",
-		"description": "Dozent: LHN",
-		"start": "2024-12-18T12:10:00",
-		"end": "2024-12-18T15:40:00"
+		"name": "IE3-ADL-01",
+		"location": "1360",
+		"description": "Dozent: HST",
+		"start": "2025-05-26T12:10:00",
+		"end": "2025-05-26T15:40:00"
 	},
 	{
 		"name": "IE3-EL2",
-		"location": "0405, SteinD94 R0.02",
+		"location": "0560",
 		"description": "Dozent: LAP",
-		"start": "2024-12-17T12:10:00",
-		"end": "2024-12-17T15:40:00"
+		"start": "2025-05-27T12:10:00",
+		"end": "2025-05-27T15:40:00"
 	},
 	{
 		"name": "IE3-DI",
-		"location": "1060",
+		"location": "1260",
 		"description": "Dozent: SCZ",
-		"start": "2025-01-09T08:10:00",
-		"end": "2025-01-09T11:25:00"
+		"start": "2025-05-28T12:10:00",
+		"end": "2025-05-28T15:40:00"
 	},
 	{
 		"name": "IE3-DIL-03",
 		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2025-01-08T08:10:00",
-		"end": "2025-01-08T11:25:00"
-	},
-	{
-		"name": "IE3-ELL2-01",
-		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2025-01-06T12:10:00",
-		"end": "2025-01-06T15:40:00"
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-05-27T08:10:00",
+		"end": "2025-05-27T11:25:00"
 	},
 	{
 		"name": "IE3-SSL1-03",
 		"location": "1360",
-		"description": "Dozent: LHN",
-		"start": "2025-01-06T12:10:00",
-		"end": "2025-01-06T15:40:00"
+		"description": "Dozent: LGE",
+		"start": "2025-05-26T08:10:00",
+		"end": "2025-05-26T11:25:00"
 	},
 	{
-		"name": "IE3-ADL-02",
-		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2025-01-07T08:10:00",
-		"end": "2025-01-07T11:25:00"
+		"name": "IE3-SS1",
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-05-30T08:10:00",
+		"end": "2025-05-30T11:25:00"
 	},
 	{
-		"name": "IE3-ELL2-03",
+		"name": "IE3-ELL2-02",
 		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2025-01-07T08:10:00",
-		"end": "2025-01-07T11:25:00"
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-05-26T08:10:00",
+		"end": "2025-05-26T11:25:00"
+	},
+	{
+		"name": "IE3-EM",
+		"location": "1260",
+		"description": "Dozent: SHOK",
+		"start": "2025-05-28T08:10:00",
+		"end": "2025-05-28T11:25:00"
 	},
 	{
 		"name": "IE3-EME-01",
 		"location": "1281",
 		"description": "Dozent: SHOK",
-		"start": "2025-01-08T08:10:00",
-		"end": "2025-01-08T11:25:00"
+		"start": "2025-05-27T08:10:00",
+		"end": "2025-05-27T11:25:00"
 	},
 	{
-		"name": "IE3-AD",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GTF",
-		"start": "2025-01-10T12:10:00",
-		"end": "2025-01-10T15:25:00"
-	},
-	{
-		"name": "IE3-SS1",
-		"location": "1260",
-		"description": "Dozent: LHN",
-		"start": "2025-01-08T12:10:00",
-		"end": "2025-01-08T15:40:00"
+		"name": "IE3-ELL2-03",
+		"location": "0505",
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-05-30T12:10:00",
+		"end": "2025-05-30T15:40:00"
 	},
 	{
 		"name": "IE3-EL2",
-		"location": "0405, SteinD94 R0.02",
+		"location": "0560",
 		"description": "Dozent: LAP",
-		"start": "2025-01-07T12:10:00",
-		"end": "2025-01-07T15:40:00"
-	},
-	{
-		"name": "IE3-ADL-03",
-		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2025-01-14T08:10:00",
-		"end": "2025-01-14T11:25:00"
+		"start": "2025-06-03T12:10:00",
+		"end": "2025-06-03T15:40:00"
 	},
 	{
 		"name": "IE3-DI",
-		"location": "1060",
+		"location": "1260",
 		"description": "Dozent: SCZ",
-		"start": "2025-01-16T08:10:00",
-		"end": "2025-01-16T11:25:00"
+		"start": "2025-06-04T12:10:00",
+		"end": "2025-06-04T15:40:00"
 	},
 	{
 		"name": "IE3-DIL-01",
 		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2025-01-15T08:10:00",
-		"end": "2025-01-15T11:25:00"
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-06-03T08:10:00",
+		"end": "2025-06-03T11:25:00"
+	},
+	{
+		"name": "IE3-ELL2-01",
+		"location": "0505, 0804",
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-06-02T08:10:00",
+		"end": "2025-06-02T11:25:00"
+	},
+	{
+		"name": "IE3-SSL1-02",
+		"location": "1360",
+		"description": "Dozent: LGE",
+		"start": "2025-06-02T08:10:00",
+		"end": "2025-06-02T11:25:00"
+	},
+	{
+		"name": "IE3-ADL-03",
+		"location": "1360",
+		"description": "Dozent: HST",
+		"start": "2025-06-02T12:10:00",
+		"end": "2025-06-02T15:40:00"
 	},
 	{
 		"name": "IE3-EME-02",
 		"location": "1281",
 		"description": "Dozent: SHOK",
-		"start": "2025-01-15T08:10:00",
-		"end": "2025-01-15T11:25:00"
+		"start": "2025-06-03T08:10:00",
+		"end": "2025-06-03T11:25:00"
+	},
+	{
+		"name": "IE3-SS1",
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-06-06T08:10:00",
+		"end": "2025-06-06T11:25:00"
+	},
+	{
+		"name": "IE3-EM",
+		"location": "1260",
+		"description": "Dozent: SHOK",
+		"start": "2025-06-04T08:10:00",
+		"end": "2025-06-04T11:25:00"
+	},
+	{
+		"name": "IE3-AD",
+		"location": "1260",
+		"description": "Dozent: HST",
+		"start": "2025-06-05T08:10:00",
+		"end": "2025-06-05T11:25:00"
+	},
+	{
+		"name": "IE3-DI",
+		"location": "1260",
+		"description": "Dozent: SCZ",
+		"start": "2025-06-11T12:10:00",
+		"end": "2025-06-11T15:40:00"
+	},
+	{
+		"name": "IE3-ADL-02",
+		"location": "1360",
+		"description": "Dozent: HST",
+		"start": "2025-06-10T12:10:00",
+		"end": "2025-06-10T15:40:00"
+	},
+	{
+		"name": "IE3-SS1",
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-06-13T08:10:00",
+		"end": "2025-06-13T11:25:00"
 	},
 	{
 		"name": "IE3-ELL2-02",
 		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2025-01-13T12:10:00",
-		"end": "2025-01-13T15:40:00"
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-06-10T08:10:00",
+		"end": "2025-06-10T11:25:00"
 	},
 	{
 		"name": "IE3-EM",
-		"location": "1281",
+		"location": "1260",
 		"description": "Dozent: SHOK",
-		"start": "2025-01-13T08:10:00",
-		"end": "2025-01-13T11:25:00"
+		"start": "2025-06-11T08:10:00",
+		"end": "2025-06-11T11:25:00"
+	},
+	{
+		"name": "IE3-ELL2-03",
+		"location": "0505",
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-06-13T12:10:00",
+		"end": "2025-06-13T15:40:00"
 	},
 	{
 		"name": "IE3-SSL1-01",
 		"location": "1360",
-		"description": "Dozent: LHN",
-		"start": "2025-01-13T12:10:00",
-		"end": "2025-01-13T15:40:00"
+		"description": "Dozent: LGE",
+		"start": "2025-06-10T08:10:00",
+		"end": "2025-06-10T11:25:00"
 	},
 	{
-		"name": "IE3-EL2",
-		"location": "0405, SteinD94 R0.02",
-		"description": "Dozent: LAP",
-		"start": "2025-01-14T12:10:00",
-		"end": "2025-01-14T15:40:00"
+		"name": "IE3-AD",
+		"location": "1260",
+		"description": "Dozent: HST",
+		"start": "2025-06-12T08:10:00",
+		"end": "2025-06-12T11:25:00"
 	},
 	{
 		"name": "IE3-DIL-02",
 		"location": "0801",
-		"description": "Dozent: SCZ/SHRR",
-		"start": "2025-01-22T08:10:00",
-		"end": "2025-01-22T11:25:00"
-	},
-	{
-		"name": "IE3-SSL1-02",
-		"location": "1360",
-		"description": "Dozent: LHN",
-		"start": "2025-01-20T12:10:00",
-		"end": "2025-01-20T15:40:00"
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-06-17T08:10:00",
+		"end": "2025-06-17T11:25:00"
 	},
 	{
 		"name": "IE3-ADL-01",
 		"location": "1360",
-		"description": "Dozent: GTF",
-		"start": "2025-01-21T08:10:00",
-		"end": "2025-01-21T11:25:00"
+		"description": "Dozent: HST",
+		"start": "2025-06-16T12:10:00",
+		"end": "2025-06-16T15:40:00"
 	},
 	{
-		"name": "IE3-ELL2-03",
+		"name": "IE3-EL2",
+		"location": "0560",
+		"description": "Dozent: LAP",
+		"start": "2025-06-17T12:10:00",
+		"end": "2025-06-17T15:40:00"
+	},
+	{
+		"name": "IE3-DI",
+		"location": "1260",
+		"description": "Dozent: SCZ",
+		"start": "2025-06-18T12:10:00",
+		"end": "2025-06-18T15:40:00"
+	},
+	{
+		"name": "IE3-ELL2-01",
 		"location": "0505, 0804",
-		"description": "Dozent: CMPN/WTMR",
-		"start": "2025-01-21T08:10:00",
-		"end": "2025-01-21T11:25:00"
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-06-16T08:10:00",
+		"end": "2025-06-16T11:25:00"
+	},
+	{
+		"name": "IE3-SSL1-03",
+		"location": "1360",
+		"description": "Dozent: LGE",
+		"start": "2025-06-16T08:10:00",
+		"end": "2025-06-16T11:25:00"
+	},
+	{
+		"name": "IE3-SS1",
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-06-20T08:10:00",
+		"end": "2025-06-20T11:25:00"
 	},
 	{
 		"name": "IE3-EM",
-		"location": "1281",
+		"location": "1260",
 		"description": "Dozent: SHOK",
-		"start": "2025-01-20T08:10:00",
-		"end": "2025-01-20T11:25:00"
+		"start": "2025-06-18T08:10:00",
+		"end": "2025-06-18T11:25:00"
 	},
 	{
 		"name": "IE3-EME-03",
 		"location": "1281",
 		"description": "Dozent: SHOK",
-		"start": "2025-01-22T08:10:00",
-		"end": "2025-01-22T11:25:00"
+		"start": "2025-06-17T08:10:00",
+		"end": "2025-06-17T11:25:00"
+	},
+	{
+		"name": "IE3-AD",
+		"location": "1260",
+		"description": "Dozent: HST",
+		"start": "2025-06-19T08:10:00",
+		"end": "2025-06-19T11:25:00"
 	},
 	{
 		"name": "IE3-EL2",
-		"location": "0405, SteinD94 R0.02",
+		"location": "0560",
 		"description": "Dozent: LAP",
-		"start": "2025-01-21T12:10:00",
-		"end": "2025-01-21T15:40:00"
+		"start": "2025-06-24T12:10:00",
+		"end": "2025-06-24T15:40:00"
+	},
+	{
+		"name": "IE3-DI",
+		"location": "1260",
+		"description": "Dozent: SCZ",
+		"start": "2025-06-25T12:10:00",
+		"end": "2025-06-25T15:40:00"
+	},
+	{
+		"name": "IE3-DIL-03",
+		"location": "0801",
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-06-24T08:10:00",
+		"end": "2025-06-24T11:25:00"
+	},
+	{
+		"name": "IE3-ADL-02",
+		"location": "1360",
+		"description": "Dozent: HST",
+		"start": "2025-06-23T12:10:00",
+		"end": "2025-06-23T15:40:00"
+	},
+	{
+		"name": "IE3-SS1",
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-06-27T08:10:00",
+		"end": "2025-06-27T11:25:00"
+	},
+	{
+		"name": "IE3-ELL2-02",
+		"location": "0505, 0804",
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-06-23T08:10:00",
+		"end": "2025-06-23T11:25:00"
+	},
+	{
+		"name": "IE3-ELL2-03",
+		"location": "0804",
+		"description": "Dozent: AHSD/[Gassinez]",
+		"start": "2025-06-23T12:10:00",
+		"end": "2025-06-23T15:40:00"
+	},
+	{
+		"name": "IE3-EM",
+		"location": "1260",
+		"description": "Dozent: SHOK",
+		"start": "2025-06-25T08:10:00",
+		"end": "2025-06-25T11:25:00"
+	},
+	{
+		"name": "IE3-EME-01",
+		"location": "1281",
+		"description": "Dozent: SHOK",
+		"start": "2025-06-24T08:10:00",
+		"end": "2025-06-24T11:25:00"
+	},
+	{
+		"name": "IE3-SSL1-01",
+		"location": "1360",
+		"description": "Dozent: LGE",
+		"start": "2025-06-23T08:10:00",
+		"end": "2025-06-23T11:25:00"
+	},
+	{
+		"name": "IE3-AD",
+		"location": "1260",
+		"description": "Dozent: HST",
+		"start": "2025-06-26T08:10:00",
+		"end": "2025-06-26T11:25:00"
+	},
+	{
+		"name": "IE3-EL2",
+		"location": "0560",
+		"description": "Dozent: LAP",
+		"start": "2025-07-01T12:10:00",
+		"end": "2025-07-01T15:40:00"
+	},
+	{
+		"name": "IE3-DIL-01",
+		"location": "0801",
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-07-01T08:10:00",
+		"end": "2025-07-01T11:25:00"
+	},
+	{
+		"name": "IE3-ELL2-01",
+		"location": "0505, 0804",
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-06-30T08:10:00",
+		"end": "2025-06-30T11:25:00"
+	},
+	{
+		"name": "IE3-SSL1-02",
+		"location": "1360",
+		"description": "Dozent: LGE",
+		"start": "2025-06-30T08:10:00",
+		"end": "2025-06-30T11:25:00"
+	},
+	{
+		"name": "IE3-ADL-03",
+		"location": "1360",
+		"description": "Dozent: HST",
+		"start": "2025-06-30T12:10:00",
+		"end": "2025-06-30T15:40:00"
+	},
+	{
+		"name": "IE3-EME-02",
+		"location": "1281",
+		"description": "Dozent: SHOK",
+		"start": "2025-07-01T08:10:00",
+		"end": "2025-07-01T11:25:00"
+	},
+	{
+		"name": "IE3-DIL-02",
+		"location": "0801",
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-07-08T08:10:00",
+		"end": "2025-07-08T11:25:00"
+	},
+	{
+		"name": "IE3-ADL-01",
+		"location": "1360",
+		"description": "Dozent: HST",
+		"start": "2025-07-07T12:10:00",
+		"end": "2025-07-07T15:40:00"
+	},
+	{
+		"name": "IE3-EL2",
+		"location": "0560",
+		"description": "Dozent: LAP",
+		"start": "2025-07-08T12:10:00",
+		"end": "2025-07-08T15:40:00"
+	},
+	{
+		"name": "IE3-SSL1-03",
+		"location": "1360",
+		"description": "Dozent: LGE",
+		"start": "2025-07-07T08:10:00",
+		"end": "2025-07-07T11:25:00"
+	},
+	{
+		"name": "IE3-ELL2-02",
+		"location": "0505, 0804",
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-07-07T08:10:00",
+		"end": "2025-07-07T11:25:00"
+	},
+	{
+		"name": "IE3-ELL2-03",
+		"location": "0804",
+		"description": "Dozent: AHSD/[Gassinez]",
+		"start": "2025-07-07T12:10:00",
+		"end": "2025-07-07T15:40:00"
+	},
+	{
+		"name": "IE3-EME-03",
+		"location": "1281",
+		"description": "Dozent: SHOK",
+		"start": "2025-07-08T08:10:00",
+		"end": "2025-07-08T11:25:00"
 	}
 ]

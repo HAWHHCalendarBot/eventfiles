@@ -1,51 +1,44 @@
 [
 	{
 		"name": "IE1-LSE1-01",
-		"location": "1283",
+		"location": "1281",
 		"description": "Dozent: MCCB",
-		"start": "2024-10-24T12:10:00",
-		"end": "2024-10-24T15:40:00"
+		"start": "2025-04-17T12:10:00",
+		"end": "2025-04-17T15:40:00"
 	},
 	{
 		"name": "IE1-LSE1-01",
-		"location": "1283",
+		"location": "1281",
 		"description": "Dozent: MCCB",
-		"start": "2024-11-14T12:10:00",
-		"end": "2024-11-14T15:40:00"
+		"start": "2025-04-30T12:10:00",
+		"end": "2025-04-30T15:40:00"
 	},
 	{
 		"name": "IE1-LSE1-01",
-		"location": "1283",
+		"location": "1281",
 		"description": "Dozent: MCCB",
-		"start": "2024-11-28T12:10:00",
-		"end": "2024-11-28T15:40:00"
+		"start": "2025-05-15T12:10:00",
+		"end": "2025-05-15T15:40:00"
 	},
 	{
 		"name": "IE1-LSE1-01",
-		"location": "1283",
+		"location": "1281",
 		"description": "Dozent: MCCB",
-		"start": "2024-12-12T12:10:00",
-		"end": "2024-12-12T15:40:00"
+		"start": "2025-06-05T12:10:00",
+		"end": "2025-06-05T15:40:00"
 	},
 	{
 		"name": "IE1-LSE1-01",
-		"location": "1283",
+		"location": "1281",
 		"description": "Dozent: MCCB",
-		"start": "2024-12-12T08:10:00",
-		"end": "2024-12-12T11:25:00"
+		"start": "2025-06-19T12:10:00",
+		"end": "2025-06-19T15:40:00"
 	},
 	{
 		"name": "IE1-LSE1-01",
-		"location": "1281, 1283",
+		"location": "1281",
 		"description": "Dozent: MCCB",
-		"start": "2025-01-09T12:10:00",
-		"end": "2025-01-09T15:40:00"
-	},
-	{
-		"name": "IE1-LSE1-01",
-		"location": "1281, 1283",
-		"description": "Dozent: MCCB",
-		"start": "2025-01-23T12:10:00",
-		"end": "2025-01-23T15:40:00"
+		"start": "2025-07-03T12:10:00",
+		"end": "2025-07-03T15:40:00"
 	}
 ]

@@ -1,30 +1,30 @@
 [
 	{
 		"name": "E4-ELP3-02",
-		"location": "0801",
+		"location": "0804",
 		"description": "Dozent: FTZ/[Gassinez]",
-		"start": "2024-10-28T12:10:00",
-		"end": "2024-10-28T15:40:00"
+		"start": "2025-04-22T12:10:00",
+		"end": "2025-04-22T15:40:00"
 	},
 	{
 		"name": "E4-ELP3-02",
-		"location": "0801",
+		"location": "0804",
 		"description": "Dozent: FTZ/[Gassinez]",
-		"start": "2024-11-18T12:10:00",
-		"end": "2024-11-18T15:40:00"
+		"start": "2025-05-06T12:10:00",
+		"end": "2025-05-06T15:40:00"
 	},
 	{
 		"name": "E4-ELP3-02",
-		"location": "0801",
+		"location": "0804",
 		"description": "Dozent: FTZ/[Gassinez]",
-		"start": "2024-12-09T12:10:00",
-		"end": "2024-12-09T15:40:00"
+		"start": "2025-05-27T12:10:00",
+		"end": "2025-05-27T15:40:00"
 	},
 	{
 		"name": "E4-ELP3-02",
-		"location": "0801",
+		"location": "0804",
 		"description": "Dozent: FTZ/[Gassinez]",
-		"start": "2025-01-13T12:10:00",
-		"end": "2025-01-13T15:40:00"
+		"start": "2025-06-24T12:10:00",
+		"end": "2025-06-24T15:40:00"
 	}
 ]

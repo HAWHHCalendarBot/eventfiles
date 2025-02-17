@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BMT2-PRP2-03",
+		"location": "0701",
+		"description": "Dozent: ALTB/[Chr]",
+		"start": "2025-05-12T12:30:00",
+		"end": "2025-05-12T15:45:00"
+	},
+	{
+		"name": "BMT2-PRP2-03",
+		"location": "0701",
+		"description": "Dozent: ALTB/[Chr]",
+		"start": "2025-06-02T12:30:00",
+		"end": "2025-06-02T15:45:00"
+	},
+	{
+		"name": "BMT2-PRP2-03",
+		"location": "0701",
+		"description": "Dozent: ALTB/[Chr]",
+		"start": "2025-06-23T12:30:00",
+		"end": "2025-06-23T15:45:00"
+	},
+	{
+		"name": "BMT2-PRP2-03",
+		"location": "0701",
+		"description": "Dozent: ALTB/[Chr]",
+		"start": "2025-07-14T12:30:00",
+		"end": "2025-07-14T15:45:00"
+	}
+]
