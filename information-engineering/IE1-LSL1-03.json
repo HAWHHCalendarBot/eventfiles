@@ -1,0 +1,23 @@
+[
+	{
+		"name": "IE1-LSL1-03",
+		"location": "1486",
+		"description": "Dozent: LTL",
+		"start": "2025-05-13T08:10:00",
+		"end": "2025-05-13T11:25:00"
+	},
+	{
+		"name": "IE1-LSL1-03",
+		"location": "1486",
+		"description": "Dozent: LTL",
+		"start": "2025-05-27T08:10:00",
+		"end": "2025-05-27T11:25:00"
+	},
+	{
+		"name": "IE1-LSL1-03",
+		"location": "1486",
+		"description": "Dozent: LTL",
+		"start": "2025-06-17T08:10:00",
+		"end": "2025-06-17T11:25:00"
+	}
+]
