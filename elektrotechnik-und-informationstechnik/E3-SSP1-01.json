@@ -1,0 +1,23 @@
+[
+	{
+		"name": "E3-SSP1-01",
+		"location": "1365",
+		"description": "Dozent: ERD",
+		"start": "2025-05-12T12:10:00",
+		"end": "2025-05-12T13:40:00"
+	},
+	{
+		"name": "E3-SSP1-01",
+		"location": "1365",
+		"description": "Dozent: ERD",
+		"start": "2025-06-02T12:10:00",
+		"end": "2025-06-02T13:40:00"
+	},
+	{
+		"name": "E3-SSP1-01",
+		"location": "1365",
+		"description": "Dozent: ERD",
+		"start": "2025-06-23T12:10:00",
+		"end": "2025-06-23T13:40:00"
+	}
+]
