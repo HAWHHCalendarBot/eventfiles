@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BAI3-ADP/02",
+		"location": "0380b",
+		"description": "Dozent: [Bla]",
+		"start": "2025-05-07T12:30:00",
+		"end": "2025-05-07T15:45:00"
+	},
+	{
+		"name": "BAI3-ADP/02",
+		"location": "0380b",
+		"description": "Dozent: [Bla]",
+		"start": "2025-05-28T12:30:00",
+		"end": "2025-05-28T15:45:00"
+	},
+	{
+		"name": "BAI3-ADP/02",
+		"location": "0380b",
+		"description": "Dozent: [Bla]",
+		"start": "2025-06-18T12:30:00",
+		"end": "2025-06-18T15:45:00"
+	},
+	{
+		"name": "BAI3-ADP/02",
+		"location": "0380b",
+		"description": "Dozent: [Bla]",
+		"start": "2025-07-09T12:30:00",
+		"end": "2025-07-09T15:45:00"
+	}
+]

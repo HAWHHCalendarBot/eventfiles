@@ -1,0 +1,506 @@
+[
+	{
+		"name": "BAI2-RMPP/03",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-04-23T08:15:00",
+		"end": "2025-04-23T11:30:00"
+	},
+	{
+		"name": "BAI2-RMPP/01",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-05-07T08:15:00",
+		"end": "2025-05-07T11:30:00"
+	},
+	{
+		"name": "BAI2-RMPP/01",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-06-18T08:15:00",
+		"end": "2025-06-18T11:30:00"
+	},
+	{
+		"name": "BAI2-RMPP/02",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-05-14T08:15:00",
+		"end": "2025-05-14T11:30:00"
+	},
+	{
+		"name": "BAI2-RMPP/02",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-06-25T08:15:00",
+		"end": "2025-06-25T11:30:00"
+	},
+	{
+		"name": "BAI2-RMPP/03",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-05-21T08:15:00",
+		"end": "2025-05-21T11:30:00"
+	},
+	{
+		"name": "BAI2-RMPP/03",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-07-02T08:15:00",
+		"end": "2025-07-02T11:30:00"
+	},
+	{
+		"name": "BAI2-RMPP/01",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-05-28T08:15:00",
+		"end": "2025-05-28T11:30:00"
+	},
+	{
+		"name": "BAI2-RMPP/02",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-06-04T08:15:00",
+		"end": "2025-06-04T11:30:00"
+	},
+	{
+		"name": "BAI2-RMPP/03",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-06-11T08:15:00",
+		"end": "2025-06-11T11:30:00"
+	},
+	{
+		"name": "BAI2-RMPP/01",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-07-09T08:15:00",
+		"end": "2025-07-09T11:30:00"
+	},
+	{
+		"name": "BAI2-RMPP/02",
+		"location": "0765",
+		"description": "Dozent: TDM/[DeG]",
+		"start": "2025-07-16T08:15:00",
+		"end": "2025-07-16T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/01",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-04-22T08:15:00",
+		"end": "2025-04-22T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/02",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-04-29T08:15:00",
+		"end": "2025-04-29T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/03",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-05-06T08:15:00",
+		"end": "2025-05-06T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/01",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-05-13T08:15:00",
+		"end": "2025-05-13T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/02",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-05-20T08:15:00",
+		"end": "2025-05-20T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/03",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-05-27T08:15:00",
+		"end": "2025-05-27T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/01",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-06-03T08:15:00",
+		"end": "2025-06-03T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/02",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-06-17T08:15:00",
+		"end": "2025-06-17T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/03",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-06-24T08:15:00",
+		"end": "2025-06-24T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/01",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-07-01T08:15:00",
+		"end": "2025-07-01T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/02",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-07-08T08:15:00",
+		"end": "2025-07-08T11:30:00"
+	},
+	{
+		"name": "BAI4-RNP/03",
+		"location": "0765",
+		"description": "Dozent: BCK",
+		"start": "2025-07-15T08:15:00",
+		"end": "2025-07-15T11:30:00"
+	},
+	{
+		"name": "BITS4-RNP/01",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-04-23T12:30:00",
+		"end": "2025-04-23T15:45:00"
+	},
+	{
+		"name": "BITS4-RNP/02",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-05-07T12:30:00",
+		"end": "2025-05-07T15:45:00"
+	},
+	{
+		"name": "BITS4-RNP/03",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-05-14T12:30:00",
+		"end": "2025-05-14T15:45:00"
+	},
+	{
+		"name": "BITS4-RNP/01",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-05-21T12:30:00",
+		"end": "2025-05-21T15:45:00"
+	},
+	{
+		"name": "BITS4-RNP/02",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-05-28T12:30:00",
+		"end": "2025-05-28T15:45:00"
+	},
+	{
+		"name": "BITS4-RNP/03",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-06-04T12:30:00",
+		"end": "2025-06-04T15:45:00"
+	},
+	{
+		"name": "BITS4-RNP/01",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-06-11T12:30:00",
+		"end": "2025-06-11T15:45:00"
+	},
+	{
+		"name": "BITS4-RNP/02",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-06-18T12:30:00",
+		"end": "2025-06-18T15:45:00"
+	},
+	{
+		"name": "BITS4-RNP/03",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-06-25T12:30:00",
+		"end": "2025-06-25T15:45:00"
+	},
+	{
+		"name": "BITS4-RNP/01",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-07-02T12:30:00",
+		"end": "2025-07-02T15:45:00"
+	},
+	{
+		"name": "BITS4-RNP/02",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-07-09T12:30:00",
+		"end": "2025-07-09T15:45:00"
+	},
+	{
+		"name": "BITS4-RNP/03",
+		"location": "0765",
+		"description": "Dozent: SMD/[Mat]",
+		"start": "2025-07-16T12:30:00",
+		"end": "2025-07-16T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/01",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-04-24T12:30:00",
+		"end": "2025-04-24T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/02",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-04-30T12:30:00",
+		"end": "2025-04-30T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/03",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-05-08T12:30:00",
+		"end": "2025-05-08T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/01",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-05-15T12:30:00",
+		"end": "2025-05-15T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/02",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-05-22T12:30:00",
+		"end": "2025-05-22T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/03",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-06-05T12:30:00",
+		"end": "2025-06-05T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/01",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-06-12T12:30:00",
+		"end": "2025-06-12T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/02",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-06-19T12:30:00",
+		"end": "2025-06-19T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/03",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-06-26T12:30:00",
+		"end": "2025-06-26T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/01",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-07-03T12:30:00",
+		"end": "2025-07-03T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/02",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-07-10T12:30:00",
+		"end": "2025-07-10T15:45:00"
+	},
+	{
+		"name": "BITS5-VSP/03",
+		"location": "0765",
+		"description": "Dozent: BCK/[Mat]/[Wag]",
+		"start": "2025-07-17T12:30:00",
+		"end": "2025-07-17T15:45:00"
+	},
+	{
+		"name": "BITS6-CPSP/01",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-04-24T08:15:00",
+		"end": "2025-04-24T11:30:00"
+	},
+	{
+		"name": "BITS6-CPSP/02",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-04-30T08:15:00",
+		"end": "2025-04-30T11:30:00"
+	},
+	{
+		"name": "BITS6-CPSP/03",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-05-08T08:15:00",
+		"end": "2025-05-08T11:30:00"
+	},
+	{
+		"name": "BITS6-CPSP/01",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-05-15T08:15:00",
+		"end": "2025-05-15T11:30:00"
+	},
+	{
+		"name": "BITS6-CPSP/02",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-05-22T08:15:00",
+		"end": "2025-05-22T11:30:00"
+	},
+	{
+		"name": "BITS6-CPSP/03",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-06-05T08:15:00",
+		"end": "2025-06-05T11:30:00"
+	},
+	{
+		"name": "BITS6-CPSP/01",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-06-12T08:15:00",
+		"end": "2025-06-12T11:30:00"
+	},
+	{
+		"name": "BITS6-CPSP/02",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-06-19T08:15:00",
+		"end": "2025-06-19T11:30:00"
+	},
+	{
+		"name": "BITS6-CPSP/03",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-06-26T08:15:00",
+		"end": "2025-06-26T11:30:00"
+	},
+	{
+		"name": "BITS6-CPSP/01",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-07-03T08:15:00",
+		"end": "2025-07-03T11:30:00"
+	},
+	{
+		"name": "BITS6-CPSP/02",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-07-10T08:15:00",
+		"end": "2025-07-10T11:30:00"
+	},
+	{
+		"name": "BITS6-CPSP/03",
+		"location": "0765",
+		"description": "Dozent: SKT/[Mat]",
+		"start": "2025-07-17T08:15:00",
+		"end": "2025-07-17T11:30:00"
+	},
+	{
+		"name": "BWI4-RBP/01",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-04-28T12:30:00",
+		"end": "2025-04-28T15:45:00"
+	},
+	{
+		"name": "BWI4-RBP/02",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-05-05T12:30:00",
+		"end": "2025-05-05T15:45:00"
+	},
+	{
+		"name": "BWI4-RBP/03",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-05-12T12:30:00",
+		"end": "2025-05-12T15:45:00"
+	},
+	{
+		"name": "BWI4-RBP/01",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-05-19T12:30:00",
+		"end": "2025-05-19T15:45:00"
+	},
+	{
+		"name": "BWI4-RBP/02",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-05-26T12:30:00",
+		"end": "2025-05-26T15:45:00"
+	},
+	{
+		"name": "BWI4-RBP/03",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-06-02T12:30:00",
+		"end": "2025-06-02T15:45:00"
+	},
+	{
+		"name": "BWI4-RBP/03",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-06-23T12:30:00",
+		"end": "2025-06-23T15:45:00"
+	},
+	{
+		"name": "BWI4-RBP/01",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-06-10T12:30:00",
+		"end": "2025-06-10T15:45:00"
+	},
+	{
+		"name": "BWI4-RBP/02",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-06-16T12:30:00",
+		"end": "2025-06-16T15:45:00"
+	},
+	{
+		"name": "BWI4-RBP/02",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-07-07T12:30:00",
+		"end": "2025-07-07T15:45:00"
+	},
+	{
+		"name": "BWI4-RBP/01",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-06-30T12:30:00",
+		"end": "2025-06-30T15:45:00"
+	},
+	{
+		"name": "BWI4-RBP/03",
+		"location": "0765",
+		"description": "Dozent: KEIL/[Wag]",
+		"start": "2025-07-14T12:30:00",
+		"end": "2025-07-14T15:45:00"
+	}
+]

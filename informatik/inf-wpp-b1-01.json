@@ -1,0 +1,44 @@
+[
+	{
+		"name": "INF-WPP-B1/01",
+		"location": "1102",
+		"description": "Dozent: SRS",
+		"start": "2025-05-07T12:30:00",
+		"end": "2025-05-07T15:45:00"
+	},
+	{
+		"name": "INF-WPP-B1/01",
+		"location": "1102",
+		"description": "Dozent: SRS",
+		"start": "2025-05-21T12:30:00",
+		"end": "2025-05-21T15:45:00"
+	},
+	{
+		"name": "INF-WPP-B1/01",
+		"location": "1102",
+		"description": "Dozent: SRS",
+		"start": "2025-06-04T12:30:00",
+		"end": "2025-06-04T15:45:00"
+	},
+	{
+		"name": "INF-WPP-B1/01",
+		"location": "1102",
+		"description": "Dozent: SRS",
+		"start": "2025-06-18T12:30:00",
+		"end": "2025-06-18T15:45:00"
+	},
+	{
+		"name": "INF-WPP-B1/01",
+		"location": "1102",
+		"description": "Dozent: SRS",
+		"start": "2025-07-02T12:30:00",
+		"end": "2025-07-02T15:45:00"
+	},
+	{
+		"name": "INF-WPP-B1/01",
+		"location": "1102",
+		"description": "Dozent: SRS",
+		"start": "2025-07-16T12:30:00",
+		"end": "2025-07-16T15:45:00"
+	}
+]

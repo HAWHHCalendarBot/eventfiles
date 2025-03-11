@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BAI5-VSP/01",
+		"location": "1101a",
+		"description": "Dozent: KLC",
+		"start": "2025-05-08T08:15:00",
+		"end": "2025-05-08T11:30:00"
+	},
+	{
+		"name": "BAI5-VSP/01",
+		"location": "1101a",
+		"description": "Dozent: KLC",
+		"start": "2025-06-05T08:15:00",
+		"end": "2025-06-05T11:30:00"
+	},
+	{
+		"name": "BAI5-VSP/01",
+		"location": "1101a",
+		"description": "Dozent: KLC",
+		"start": "2025-06-26T08:15:00",
+		"end": "2025-06-26T11:30:00"
+	},
+	{
+		"name": "BAI5-VSP/01",
+		"location": "1101a",
+		"description": "Dozent: KLC",
+		"start": "2025-07-17T08:15:00",
+		"end": "2025-07-17T11:30:00"
+	}
+]

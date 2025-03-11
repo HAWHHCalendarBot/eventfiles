@@ -1,0 +1,86 @@
+[
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-04-17T08:15:00",
+		"end": "2025-04-17T11:30:00"
+	},
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-04-24T08:15:00",
+		"end": "2025-04-24T11:30:00"
+	},
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-04-30T08:15:00",
+		"end": "2025-04-30T11:30:00"
+	},
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-05-08T08:15:00",
+		"end": "2025-05-08T11:30:00"
+	},
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-05-15T08:15:00",
+		"end": "2025-05-15T11:30:00"
+	},
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-05-22T08:15:00",
+		"end": "2025-05-22T11:30:00"
+	},
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-06-05T08:15:00",
+		"end": "2025-06-05T11:30:00"
+	},
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-06-12T08:15:00",
+		"end": "2025-06-12T11:30:00"
+	},
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-06-19T08:15:00",
+		"end": "2025-06-19T11:30:00"
+	},
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-06-26T08:15:00",
+		"end": "2025-06-26T11:30:00"
+	},
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-07-03T08:15:00",
+		"end": "2025-07-03T11:30:00"
+	},
+	{
+		"name": "BITS4-RN",
+		"location": "0460",
+		"description": "Dozent: SMD",
+		"start": "2025-07-10T08:15:00",
+		"end": "2025-07-10T11:30:00"
+	}
+]

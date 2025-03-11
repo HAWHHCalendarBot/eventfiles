@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BWI2-PMP2/02",
+		"location": "1102",
+		"description": "Dozent: SML/[Bla]",
+		"start": "2025-04-29T08:45:00",
+		"end": "2025-04-29T12:00:00"
+	},
+	{
+		"name": "BWI2-PMP2/02",
+		"location": "1102",
+		"description": "Dozent: SML/[Bla]",
+		"start": "2025-05-20T08:45:00",
+		"end": "2025-05-20T12:00:00"
+	},
+	{
+		"name": "BWI2-PMP2/02",
+		"location": "1102",
+		"description": "Dozent: SML/[Bla]",
+		"start": "2025-07-08T08:45:00",
+		"end": "2025-07-08T12:00:00"
+	},
+	{
+		"name": "BWI2-PMP2/02",
+		"location": "1102",
+		"description": "Dozent: SML/[Bla]",
+		"start": "2025-06-17T08:45:00",
+		"end": "2025-06-17T12:00:00"
+	}
+]

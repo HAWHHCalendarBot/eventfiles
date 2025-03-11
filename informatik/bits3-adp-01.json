@@ -1,0 +1,30 @@
+[
+	{
+		"name": "BITS3-ADP/01",
+		"location": "1101b",
+		"description": "Dozent: KLC",
+		"start": "2025-04-22T08:15:00",
+		"end": "2025-04-22T11:30:00"
+	},
+	{
+		"name": "BITS3-ADP/01",
+		"location": "1101b",
+		"description": "Dozent: KLC",
+		"start": "2025-05-13T08:15:00",
+		"end": "2025-05-13T11:30:00"
+	},
+	{
+		"name": "BITS3-ADP/01",
+		"location": "1101b",
+		"description": "Dozent: KLC",
+		"start": "2025-06-03T08:15:00",
+		"end": "2025-06-03T11:30:00"
+	},
+	{
+		"name": "BITS3-ADP/01",
+		"location": "1101b",
+		"description": "Dozent: KLC",
+		"start": "2025-07-01T08:15:00",
+		"end": "2025-07-01T11:30:00"
+	}
+]

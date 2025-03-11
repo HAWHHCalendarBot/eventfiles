@@ -1,0 +1,23 @@
+[
+	{
+		"name": "BMT5-EAP/02 opt",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2025-05-14T12:10:00",
+		"end": "2025-05-14T15:40:00"
+	},
+	{
+		"name": "BMT5-EAP/02 opt",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2025-06-04T12:10:00",
+		"end": "2025-06-04T15:40:00"
+	},
+	{
+		"name": "BMT5-EAP/02 opt",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2025-06-25T12:10:00",
+		"end": "2025-06-25T15:40:00"
+	}
+]
