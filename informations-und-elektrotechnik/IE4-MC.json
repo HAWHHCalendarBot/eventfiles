@@ -8,6 +8,13 @@
 	},
 	{
 		"name": "IE4-MC",
+		"location": "1065",
+		"description": "Dozent: BCZ",
+		"start": "2025-04-15T12:10:00",
+		"end": "2025-04-15T15:40:00"
+	},
+	{
+		"name": "IE4-MC",
 		"location": "Stiftstr69  R110",
 		"description": "Dozent: BCZ",
 		"start": "2025-04-25T12:10:00",
@@ -19,6 +26,13 @@
 		"description": "Dozent: BCZ",
 		"start": "2025-05-02T12:10:00",
 		"end": "2025-05-02T15:40:00"
+	},
+	{
+		"name": "IE4-MC",
+		"location": "1065",
+		"description": "Dozent: BCZ",
+		"start": "2025-04-29T12:10:00",
+		"end": "2025-04-29T15:40:00"
 	},
 	{
 		"name": "IE4-MC",

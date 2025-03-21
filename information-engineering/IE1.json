@@ -70,25 +70,11 @@
 		"end": "2025-04-17T15:40:00"
 	},
 	{
-		"name": "IE1-MAE1-02",
-		"location": "0861",
-		"description": "Dozent: Maesaka",
-		"start": "2025-04-16T14:10:00",
-		"end": "2025-04-16T15:40:00"
-	},
-	{
 		"name": "IE1-MA1",
 		"location": "NB 01.13",
 		"description": "Dozent: NMN",
 		"start": "2025-04-16T08:10:00",
 		"end": "2025-04-16T11:25:00"
-	},
-	{
-		"name": "IE1-MAE1-01",
-		"location": "0861",
-		"description": "Dozent: Maesaka",
-		"start": "2025-04-16T12:10:00",
-		"end": "2025-04-16T13:40:00"
 	},
 	{
 		"name": "IE1-EE1",
@@ -112,6 +98,13 @@
 		"end": "2025-04-14T09:40:00"
 	},
 	{
+		"name": "IE1-Student_advisory",
+		"location": "NB 01.13",
+		"description": "Dozent: NMN",
+		"start": "2025-04-16T16:00:00",
+		"end": "2025-04-16T18:00:00"
+	},
+	{
 		"name": "IE1-SO1",
 		"location": "SteinD94 R0.02",
 		"description": "Dozent: SHN",
@@ -126,6 +119,13 @@
 		"end": "2025-04-24T15:40:00"
 	},
 	{
+		"name": "IE1-MAE1-02",
+		"location": "1265",
+		"description": "Dozent: Maesaka",
+		"start": "2025-04-25T14:10:00",
+		"end": "2025-04-25T15:40:00"
+	},
+	{
 		"name": "IE1-MA1",
 		"location": "1260",
 		"description": "Dozent: NMN",
@@ -138,6 +138,13 @@
 		"description": "Dozent: NMN",
 		"start": "2025-04-23T08:10:00",
 		"end": "2025-04-23T11:25:00"
+	},
+	{
+		"name": "IE1-MAE1-01",
+		"location": "1265",
+		"description": "Dozent: Maesaka",
+		"start": "2025-04-25T12:10:00",
+		"end": "2025-04-25T13:40:00"
 	},
 	{
 		"name": "IE1-EE1",
@@ -175,13 +182,6 @@
 		"end": "2025-04-29T15:40:00"
 	},
 	{
-		"name": "IE1-EE1",
-		"location": "NB 01.13",
-		"description": "Dozent: LAP",
-		"start": "2025-04-30T08:10:00",
-		"end": "2025-04-30T11:25:00"
-	},
-	{
 		"name": "IE1-GE-02",
 		"location": "1281",
 		"description": "Dozent: LZRB",
@@ -192,8 +192,8 @@
 		"name": "IE1-LSL1_Kickoff",
 		"location": "0560",
 		"description": "Dozent: HSS/LTL/RDT",
-		"start": "2025-04-30T12:10:00",
-		"end": "2025-04-30T15:40:00"
+		"start": "2025-04-30T08:10:00",
+		"end": "2025-04-30T11:40:00"
 	},
 	{
 		"name": "IE1-EEL1-01",
@@ -246,10 +246,10 @@
 	},
 	{
 		"name": "IE1-MAE1-02",
-		"location": "0861",
+		"location": "1265",
 		"description": "Dozent: Maesaka",
-		"start": "2025-05-07T14:10:00",
-		"end": "2025-05-07T15:40:00"
+		"start": "2025-05-09T14:10:00",
+		"end": "2025-05-09T15:40:00"
 	},
 	{
 		"name": "IE1-MA1",
@@ -267,10 +267,10 @@
 	},
 	{
 		"name": "IE1-MAE1-01",
-		"location": "0861",
+		"location": "1265",
 		"description": "Dozent: Maesaka",
-		"start": "2025-05-07T12:10:00",
-		"end": "2025-05-07T13:40:00"
+		"start": "2025-05-09T12:10:00",
+		"end": "2025-05-09T13:40:00"
 	},
 	{
 		"name": "IE1-EE1",
@@ -337,10 +337,10 @@
 	},
 	{
 		"name": "IE1-LSL1-02",
-		"location": "0862",
+		"location": "0861",
 		"description": "Dozent: HSS",
-		"start": "2025-05-13T12:10:00",
-		"end": "2025-05-13T15:40:00"
+		"start": "2025-05-14T12:10:00",
+		"end": "2025-05-14T15:40:00"
 	},
 	{
 		"name": "IE1-LSL1-03",
@@ -407,10 +407,10 @@
 	},
 	{
 		"name": "IE1-MAE1-02",
-		"location": "0861",
+		"location": "1265",
 		"description": "Dozent: Maesaka",
-		"start": "2025-05-21T14:10:00",
-		"end": "2025-05-21T15:40:00"
+		"start": "2025-05-23T14:10:00",
+		"end": "2025-05-23T15:40:00"
 	},
 	{
 		"name": "IE1-MA1",
@@ -428,10 +428,10 @@
 	},
 	{
 		"name": "IE1-MAE1-01",
-		"location": "0861",
+		"location": "1265",
 		"description": "Dozent: Maesaka",
-		"start": "2025-05-21T12:10:00",
-		"end": "2025-05-21T13:40:00"
+		"start": "2025-05-23T12:10:00",
+		"end": "2025-05-23T13:40:00"
 	},
 	{
 		"name": "IE1-EE1",
@@ -491,10 +491,10 @@
 	},
 	{
 		"name": "IE1-LSL1-02",
-		"location": "0862",
+		"location": "0861",
 		"description": "Dozent: HSS",
-		"start": "2025-05-27T12:10:00",
-		"end": "2025-05-27T15:40:00"
+		"start": "2025-05-28T12:10:00",
+		"end": "2025-05-28T15:40:00"
 	},
 	{
 		"name": "IE1-LSL1-03",
@@ -554,10 +554,10 @@
 	},
 	{
 		"name": "IE1-MAE1-02",
-		"location": "0861",
+		"location": "1265",
 		"description": "Dozent: Maesaka",
-		"start": "2025-06-04T14:10:00",
-		"end": "2025-06-04T15:40:00"
+		"start": "2025-06-06T14:10:00",
+		"end": "2025-06-06T15:40:00"
 	},
 	{
 		"name": "IE1-MA1",
@@ -568,10 +568,10 @@
 	},
 	{
 		"name": "IE1-MAE1-01",
-		"location": "0861",
+		"location": "1265",
 		"description": "Dozent: Maesaka",
-		"start": "2025-06-04T12:10:00",
-		"end": "2025-06-04T13:40:00"
+		"start": "2025-06-06T12:10:00",
+		"end": "2025-06-06T13:40:00"
 	},
 	{
 		"name": "IE1-EE1",
@@ -624,10 +624,17 @@
 	},
 	{
 		"name": "IE1-LSL1-02",
-		"location": "0862",
+		"location": "0861",
 		"description": "Dozent: HSS",
-		"start": "2025-06-10T12:10:00",
-		"end": "2025-06-10T15:40:00"
+		"start": "2025-06-11T12:10:00",
+		"end": "2025-06-11T15:40:00"
+	},
+	{
+		"name": "IE1-LSL1-01",
+		"location": "0861",
+		"description": "Dozent: RDT",
+		"start": "2025-06-13T12:10:00",
+		"end": "2025-06-13T15:40:00"
 	},
 	{
 		"name": "IE1-EE1",
@@ -680,10 +687,10 @@
 	},
 	{
 		"name": "IE1-MAE1-02",
-		"location": "0861",
+		"location": "1265",
 		"description": "Dozent: Maesaka",
-		"start": "2025-06-18T14:10:00",
-		"end": "2025-06-18T15:40:00"
+		"start": "2025-06-20T14:10:00",
+		"end": "2025-06-20T15:40:00"
 	},
 	{
 		"name": "IE1-SOL1-03",
@@ -707,18 +714,11 @@
 		"end": "2025-06-17T11:25:00"
 	},
 	{
-		"name": "IE1-LSL1-01",
-		"location": "0861",
-		"description": "Dozent: RDT",
-		"start": "2025-06-20T12:10:00",
-		"end": "2025-06-20T15:40:00"
-	},
-	{
 		"name": "IE1-MAE1-01",
-		"location": "0861",
+		"location": "1265",
 		"description": "Dozent: Maesaka",
-		"start": "2025-06-18T12:10:00",
-		"end": "2025-06-18T13:40:00"
+		"start": "2025-06-20T12:10:00",
+		"end": "2025-06-20T13:40:00"
 	},
 	{
 		"name": "IE1-EE1",
@@ -834,10 +834,10 @@
 	},
 	{
 		"name": "IE1-MAE1-02",
-		"location": "0861",
+		"location": "1265",
 		"description": "Dozent: Maesaka",
-		"start": "2025-07-02T14:10:00",
-		"end": "2025-07-02T15:40:00"
+		"start": "2025-07-04T14:10:00",
+		"end": "2025-07-04T15:40:00"
 	},
 	{
 		"name": "IE1-SOL1-03",
@@ -855,10 +855,17 @@
 	},
 	{
 		"name": "IE1-MAE1-01",
-		"location": "0861",
+		"location": "1265",
 		"description": "Dozent: Maesaka",
-		"start": "2025-07-02T12:10:00",
-		"end": "2025-07-02T13:40:00"
+		"start": "2025-07-04T12:10:00",
+		"end": "2025-07-04T13:40:00"
+	},
+	{
+		"name": "IE1-EE1",
+		"location": "NB 01.13",
+		"description": "Dozent: LAP",
+		"start": "2025-07-03T08:10:00",
+		"end": "2025-07-03T11:25:00"
 	},
 	{
 		"name": "IE1-GE-02",

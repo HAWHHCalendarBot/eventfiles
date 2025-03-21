@@ -133,6 +133,13 @@
 		"end": "2025-05-02T11:25:00"
 	},
 	{
+		"name": "IE3-EME-03",
+		"location": "1281",
+		"description": "Dozent: SHOK",
+		"start": "2025-04-29T08:10:00",
+		"end": "2025-04-29T11:25:00"
+	},
+	{
 		"name": "IE3-AD",
 		"location": "1260",
 		"description": "Dozent: HST",
@@ -143,22 +150,22 @@
 		"name": "IE3-DIL-01",
 		"location": "0801",
 		"description": "Dozent: SCZ/[Gassinez]",
-		"start": "2025-04-29T08:10:00",
-		"end": "2025-04-29T11:25:00"
+		"start": "2025-04-30T12:10:00",
+		"end": "2025-04-30T15:40:00"
 	},
 	{
 		"name": "IE3-DIL-02",
 		"location": "0801",
 		"description": "Dozent: SCZ/[Gassinez]",
-		"start": "2025-04-29T08:10:00",
-		"end": "2025-04-29T11:25:00"
+		"start": "2025-04-30T12:10:00",
+		"end": "2025-04-30T15:40:00"
 	},
 	{
 		"name": "IE3-DIL-03",
 		"location": "0801",
 		"description": "Dozent: SCZ/[Gassinez]",
-		"start": "2025-04-29T08:10:00",
-		"end": "2025-04-29T11:25:00"
+		"start": "2025-04-30T12:10:00",
+		"end": "2025-04-30T15:40:00"
 	},
 	{
 		"name": "IE3-SSL1-01",
@@ -791,13 +798,6 @@
 		"end": "2025-07-01T11:25:00"
 	},
 	{
-		"name": "IE3-DIL-02",
-		"location": "0801",
-		"description": "Dozent: SCZ/[Gassinez]",
-		"start": "2025-07-08T08:10:00",
-		"end": "2025-07-08T11:25:00"
-	},
-	{
 		"name": "IE3-ADL-01",
 		"location": "1360",
 		"description": "Dozent: HST",
@@ -833,10 +833,31 @@
 		"end": "2025-07-07T15:40:00"
 	},
 	{
+		"name": "IE3-EME-01",
+		"location": "1281",
+		"description": "Dozent: SHOK",
+		"start": "2025-07-08T08:10:00",
+		"end": "2025-07-08T11:25:00"
+	},
+	{
+		"name": "IE3-EME-02",
+		"location": "1281",
+		"description": "Dozent: SHOK",
+		"start": "2025-07-08T08:10:00",
+		"end": "2025-07-08T11:25:00"
+	},
+	{
 		"name": "IE3-EME-03",
 		"location": "1281",
 		"description": "Dozent: SHOK",
 		"start": "2025-07-08T08:10:00",
 		"end": "2025-07-08T11:25:00"
+	},
+	{
+		"name": "IE3-DIL-02",
+		"location": "0801",
+		"description": "Dozent: SCZ/[Gassinez]",
+		"start": "2025-07-09T12:10:00",
+		"end": "2025-07-09T15:40:00"
 	}
 ]

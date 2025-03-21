@@ -10,6 +10,13 @@
 		"name": "IE3-EME-03",
 		"location": "1281",
 		"description": "Dozent: SHOK",
+		"start": "2025-04-29T08:10:00",
+		"end": "2025-04-29T11:25:00"
+	},
+	{
+		"name": "IE3-EME-03",
+		"location": "1281",
+		"description": "Dozent: SHOK",
 		"start": "2025-05-20T08:10:00",
 		"end": "2025-05-20T11:25:00"
 	},

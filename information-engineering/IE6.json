@@ -84,6 +84,20 @@
 		"end": "2025-04-22T15:40:00"
 	},
 	{
+		"name": "IE6-OSL-01",
+		"location": "0880",
+		"description": "Dozent: WSTK/[Gassinez]",
+		"start": "2025-04-24T12:10:00",
+		"end": "2025-04-24T15:40:00"
+	},
+	{
+		"name": "IE6-OSL-02",
+		"location": "0880",
+		"description": "Dozent: WSTK/[Gassinez]",
+		"start": "2025-04-24T12:10:00",
+		"end": "2025-04-24T15:40:00"
+	},
+	{
 		"name": "IE5-SP",
 		"location": "1281",
 		"description": "Dozent: BECK",
@@ -138,20 +152,6 @@
 		"description": "Dozent: RTT",
 		"start": "2025-04-28T12:10:00",
 		"end": "2025-04-28T15:40:00"
-	},
-	{
-		"name": "IE6-OSL-01",
-		"location": "0880",
-		"description": "Dozent: WSTK/[Gassinez]",
-		"start": "2025-04-30T12:10:00",
-		"end": "2025-04-30T15:40:00"
-	},
-	{
-		"name": "IE6-OSL-02",
-		"location": "0880",
-		"description": "Dozent: WSTK/[Gassinez]",
-		"start": "2025-04-30T12:10:00",
-		"end": "2025-04-30T15:40:00"
 	},
 	{
 		"name": "IE5-SP",
@@ -212,14 +212,14 @@
 	{
 		"name": "IE6-DPL-01",
 		"location": "0885",
-		"description": "Dozent: KRN/KPKE",
+		"description": "Dozent: [Haarring]/KPKE",
 		"start": "2025-05-05T12:10:00",
 		"end": "2025-05-05T15:40:00"
 	},
 	{
 		"name": "IE6-DPL-02",
 		"location": "0885",
-		"description": "Dozent: KRN/KPKE",
+		"description": "Dozent: [Haarring]/KPKE",
 		"start": "2025-05-05T12:10:00",
 		"end": "2025-05-05T15:40:00"
 	},
@@ -338,7 +338,7 @@
 	{
 		"name": "IE6-DPL-01",
 		"location": "0885",
-		"description": "Dozent: KRN/KPKE",
+		"description": "Dozent: [Haarring]/KPKE",
 		"start": "2025-05-19T12:10:00",
 		"end": "2025-05-19T15:40:00"
 	},
@@ -359,7 +359,7 @@
 	{
 		"name": "IE6-DPL-02",
 		"location": "0885",
-		"description": "Dozent: KRN/KPKE",
+		"description": "Dozent: [Haarring]/KPKE",
 		"start": "2025-05-26T12:10:00",
 		"end": "2025-05-26T15:40:00"
 	},
@@ -450,7 +450,7 @@
 	{
 		"name": "IE6-DPL-01",
 		"location": "0885",
-		"description": "Dozent: KRN/KPKE",
+		"description": "Dozent: [Haarring]/KPKE",
 		"start": "2025-06-10T12:10:00",
 		"end": "2025-06-10T15:40:00"
 	},
@@ -471,7 +471,7 @@
 	{
 		"name": "IE6-DPL-02",
 		"location": "0885",
-		"description": "Dozent: KRN/KPKE",
+		"description": "Dozent: [Haarring]/KPKE",
 		"start": "2025-06-16T12:10:00",
 		"end": "2025-06-16T15:40:00"
 	},
@@ -562,7 +562,7 @@
 	{
 		"name": "IE6-DPL-01",
 		"location": "0885",
-		"description": "Dozent: KRN/KPKE",
+		"description": "Dozent: [Haarring]/KPKE",
 		"start": "2025-06-30T12:10:00",
 		"end": "2025-06-30T15:40:00"
 	},
@@ -583,7 +583,7 @@
 	{
 		"name": "IE6-DPL-02",
 		"location": "0885",
-		"description": "Dozent: KRN/KPKE",
+		"description": "Dozent: [Haarring]/KPKE",
 		"start": "2025-07-07T12:10:00",
 		"end": "2025-07-07T15:40:00"
 	},

@@ -112,6 +112,13 @@
 		"end": "2025-04-16T15:40:00"
 	},
 	{
+		"name": "E1-Studienfachberatung",
+		"location": "NB 01.13",
+		"description": "Dozent: NMN",
+		"start": "2025-04-14T16:00:00",
+		"end": "2025-04-14T18:00:00"
+	},
+	{
 		"name": "E1a-ANUe1-03",
 		"location": "Stiftstr69  R110",
 		"description": "Dozent: DRK",
@@ -630,13 +637,6 @@
 		"end": "2025-05-28T11:25:00"
 	},
 	{
-		"name": "E1a-PRP1-02",
-		"location": "1360",
-		"description": "Dozent: HST/NIDR",
-		"start": "2025-05-28T12:10:00",
-		"end": "2025-05-28T15:40:00"
-	},
-	{
 		"name": "E1a-ET1",
 		"location": "NB 01.13",
 		"description": "Dozent: HSE",
@@ -698,6 +698,13 @@
 		"description": "Dozent: NRMF",
 		"start": "2025-05-30T08:10:00",
 		"end": "2025-05-30T11:25:00"
+	},
+	{
+		"name": "E1a-PRP1-02",
+		"location": "1360",
+		"description": "Dozent: HST/NIDR",
+		"start": "2025-05-27T08:10:00",
+		"end": "2025-05-27T11:25:00"
 	},
 	{
 		"name": "E1a-ETP1-01",

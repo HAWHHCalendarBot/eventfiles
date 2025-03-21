@@ -70,6 +70,13 @@
 		"end": "2025-04-16T19:10:00"
 	},
 	{
+		"name": "IE4-MC",
+		"location": "1065",
+		"description": "Dozent: BCZ",
+		"start": "2025-04-15T12:10:00",
+		"end": "2025-04-15T15:40:00"
+	},
+	{
 		"name": "IE4-MCL-03",
 		"location": "0880",
 		"description": "Dozent: BCZ/[Gassinez]/SHRR",
@@ -210,6 +217,13 @@
 		"end": "2025-04-30T11:25:00"
 	},
 	{
+		"name": "IE4-MC",
+		"location": "1065",
+		"description": "Dozent: BCZ",
+		"start": "2025-04-29T12:10:00",
+		"end": "2025-04-29T15:40:00"
+	},
+	{
 		"name": "IE4-SS2",
 		"location": "0660",
 		"description": "Dozent: LHN",
@@ -344,7 +358,7 @@
 	},
 	{
 		"name": "IE4-DBL-01",
-		"location": "1303b",
+		"location": "1301a, 1301b",
 		"description": "Dozent: MLDH/YLDR",
 		"start": "2025-05-12T08:10:00",
 		"end": "2025-05-12T11:25:00"
@@ -372,7 +386,7 @@
 	},
 	{
 		"name": "IE4-DBL-02",
-		"location": "1303b",
+		"location": "1301a, 1301b",
 		"description": "Dozent: MLDH/YLDR",
 		"start": "2025-05-19T08:10:00",
 		"end": "2025-05-19T11:25:00"
@@ -442,7 +456,7 @@
 	},
 	{
 		"name": "IE4-DBL-03",
-		"location": "1303b",
+		"location": "1301a, 1301b",
 		"description": "Dozent: MLDH/YLDR",
 		"start": "2025-05-26T08:10:00",
 		"end": "2025-05-26T11:25:00"
@@ -547,7 +561,7 @@
 	},
 	{
 		"name": "IE4-DBL-01",
-		"location": "1303b",
+		"location": "1301a, 1301b",
 		"description": "Dozent: MLDH/YLDR",
 		"start": "2025-06-02T08:10:00",
 		"end": "2025-06-02T11:25:00"
@@ -589,7 +603,7 @@
 	},
 	{
 		"name": "IE4-DBL-02",
-		"location": "1303b",
+		"location": "1301a, 1301b",
 		"description": "Dozent: MLDH/YLDR",
 		"start": "2025-06-10T08:10:00",
 		"end": "2025-06-10T11:25:00"
@@ -645,7 +659,7 @@
 	},
 	{
 		"name": "IE4-DBL-03",
-		"location": "1303b",
+		"location": "1301a, 1301b",
 		"description": "Dozent: MLDH/YLDR",
 		"start": "2025-06-16T08:10:00",
 		"end": "2025-06-16T11:25:00"
@@ -764,7 +778,7 @@
 	},
 	{
 		"name": "IE4-DBL-01",
-		"location": "1303b",
+		"location": "1301a, 1301b",
 		"description": "Dozent: MLDH/YLDR",
 		"start": "2025-06-23T08:10:00",
 		"end": "2025-06-23T11:25:00"
@@ -785,7 +799,7 @@
 	},
 	{
 		"name": "IE4-DBL-02",
-		"location": "1303b",
+		"location": "1301a, 1301b",
 		"description": "Dozent: MLDH/YLDR",
 		"start": "2025-06-30T08:10:00",
 		"end": "2025-06-30T11:25:00"
@@ -827,7 +841,7 @@
 	},
 	{
 		"name": "IE4-DBL-03",
-		"location": "1303b",
+		"location": "1301a, 1301b",
 		"description": "Dozent: MLDH/YLDR",
 		"start": "2025-07-07T08:10:00",
 		"end": "2025-07-07T11:25:00"

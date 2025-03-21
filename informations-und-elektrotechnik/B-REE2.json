@@ -42,6 +42,13 @@
 		"end": "2025-04-09T15:40:00"
 	},
 	{
+		"name": "B-REE2-MA2-MAUe2",
+		"location": "0560",
+		"description": "Dozent: LND",
+		"start": "2025-04-10T08:10:00",
+		"end": "2025-04-10T11:25:00"
+	},
+	{
 		"name": "B-REE2-ET2",
 		"location": "1281",
 		"description": "Dozent: Rittwage",
@@ -98,6 +105,13 @@
 		"end": "2025-04-14T15:40:00"
 	},
 	{
+		"name": "B-REE2-MA2-MAUe2",
+		"location": "0560",
+		"description": "Dozent: LND",
+		"start": "2025-04-17T08:10:00",
+		"end": "2025-04-17T11:25:00"
+	},
+	{
 		"name": "B-REE2-PRP2-01",
 		"location": "0565",
 		"description": "Dozent: RNZ",
@@ -138,6 +152,13 @@
 		"description": "Dozent: LND",
 		"start": "2025-04-23T12:10:00",
 		"end": "2025-04-23T15:40:00"
+	},
+	{
+		"name": "B-REE2-MA2-MAUe2",
+		"location": "0560",
+		"description": "Dozent: LND",
+		"start": "2025-04-24T08:10:00",
+		"end": "2025-04-24T11:25:00"
 	},
 	{
 		"name": "B-REE2-ER1",
@@ -227,22 +248,29 @@
 		"name": "B-REE2-MA2-MAUe2",
 		"location": "0560",
 		"description": "Dozent: LND",
-		"start": "2025-05-05T12:10:00",
-		"end": "2025-05-05T15:40:00"
-	},
-	{
-		"name": "B-REE2-ER1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: HSE",
-		"start": "2025-05-05T08:10:00",
-		"end": "2025-05-05T11:25:00"
+		"start": "2025-05-07T12:10:00",
+		"end": "2025-05-07T15:40:00"
 	},
 	{
 		"name": "B-REE2-MA2-MAUe2",
 		"location": "0560",
 		"description": "Dozent: LND",
-		"start": "2025-05-07T12:10:00",
-		"end": "2025-05-07T15:40:00"
+		"start": "2025-05-08T08:10:00",
+		"end": "2025-05-08T11:25:00"
+	},
+	{
+		"name": "B-REE2-ER1",
+		"location": "0560",
+		"description": "Dozent: HSE",
+		"start": "2025-05-05T12:10:00",
+		"end": "2025-05-05T15:40:00"
+	},
+	{
+		"name": "B-REE2-MA2-MAUe2",
+		"location": "1303a, 1303b, 1365",
+		"description": "Dozent: LND",
+		"start": "2025-05-05T08:10:00",
+		"end": "2025-05-05T11:25:00"
 	},
 	{
 		"name": "B-REE2-ER1",
@@ -458,22 +486,29 @@
 		"name": "B-REE2-MA2-MAUe2",
 		"location": "0560",
 		"description": "Dozent: LND",
-		"start": "2025-06-02T12:10:00",
-		"end": "2025-06-02T15:40:00"
-	},
-	{
-		"name": "B-REE2-ER1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: HSE",
-		"start": "2025-06-02T08:10:00",
-		"end": "2025-06-02T11:25:00"
+		"start": "2025-06-04T12:10:00",
+		"end": "2025-06-04T15:40:00"
 	},
 	{
 		"name": "B-REE2-MA2-MAUe2",
 		"location": "0560",
 		"description": "Dozent: LND",
-		"start": "2025-06-04T12:10:00",
-		"end": "2025-06-04T15:40:00"
+		"start": "2025-06-05T08:10:00",
+		"end": "2025-06-05T11:25:00"
+	},
+	{
+		"name": "B-REE2-ER1",
+		"location": "0560",
+		"description": "Dozent: HSE",
+		"start": "2025-06-02T12:10:00",
+		"end": "2025-06-02T15:40:00"
+	},
+	{
+		"name": "B-REE2-MA2-MAUe2",
+		"location": "1303a, 1303b, 1365",
+		"description": "Dozent: LND",
+		"start": "2025-06-02T08:10:00",
+		"end": "2025-06-02T11:25:00"
 	},
 	{
 		"name": "B-REE2-ER1",
@@ -530,13 +565,6 @@
 		"description": "Dozent: [Kor]/SZNY",
 		"start": "2025-06-12T08:10:00",
 		"end": "2025-06-12T11:25:00"
-	},
-	{
-		"name": "B-REE2-MA2-MAUe2",
-		"location": "0560",
-		"description": "Dozent: LND",
-		"start": "2025-06-11T12:10:00",
-		"end": "2025-06-11T15:40:00"
 	},
 	{
 		"name": "B-REE2-ETP2-02",
@@ -682,8 +710,8 @@
 		"name": "B-REE2-MA2-MAUe2",
 		"location": "0560",
 		"description": "Dozent: LND",
-		"start": "2025-06-25T12:10:00",
-		"end": "2025-06-25T15:40:00"
+		"start": "2025-06-24T08:10:00",
+		"end": "2025-06-24T11:25:00"
 	},
 	{
 		"name": "B-REE2-PM-01",
@@ -771,16 +799,9 @@
 	},
 	{
 		"name": "B-REE2-MA2-MAUe2",
-		"location": "0560",
+		"location": "1303a, 1303b, 1365",
 		"description": "Dozent: LND",
 		"start": "2025-07-07T12:10:00",
 		"end": "2025-07-07T15:40:00"
-	},
-	{
-		"name": "B-REE2-MA2-MAUe2",
-		"location": "0560",
-		"description": "Dozent: LND",
-		"start": "2025-07-09T12:10:00",
-		"end": "2025-07-09T15:40:00"
 	}
 ]

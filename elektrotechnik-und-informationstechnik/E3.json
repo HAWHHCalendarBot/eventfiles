@@ -105,6 +105,27 @@
 		"end": "2025-04-16T11:25:00"
 	},
 	{
+		"name": "E3-REE4-Info",
+		"location": "0405",
+		"description": "Dozent: GNZ/HSL/HST/JNM/MNR/WDL",
+		"start": "2025-04-14T16:00:00",
+		"end": "2025-04-14T17:30:00"
+	},
+	{
+		"name": "E3-Laborbes__A_E",
+		"location": "0601, 0604, 0606, 0660",
+		"description": "Dozent: MNR",
+		"start": "2025-04-15T16:00:00",
+		"end": "2025-04-15T18:00:00"
+	},
+	{
+		"name": "E3-Laborbes__DI",
+		"location": "0801, 0804, 0865, 0880, 0885",
+		"description": "Dozent: LTL",
+		"start": "2025-04-16T16:00:00",
+		"end": "2025-04-16T18:00:00"
+	},
+	{
 		"name": "E3-TE-01",
 		"location": "0861",
 		"description": "Dozent: BRSK",
@@ -117,6 +138,13 @@
 		"description": "Dozent: KRN/LAP/NMN",
 		"start": "2025-04-14T12:10:00",
 		"end": "2025-04-14T15:40:00"
+	},
+	{
+		"name": "E3-Laborbes__K",
+		"location": "1401, 1405, 1485",
+		"description": "Dozent: WDL",
+		"start": "2025-04-17T16:00:00",
+		"end": "2025-04-17T18:00:00"
 	},
 	{
 		"name": "E3-OP",
@@ -701,7 +729,7 @@
 	},
 	{
 		"name": "E3-SSP1-05",
-		"location": "1365",
+		"location": "1301a, 1301b",
 		"description": "Dozent: ERD",
 		"start": "2025-05-26T12:10:00",
 		"end": "2025-05-26T13:40:00"
@@ -722,7 +750,7 @@
 	},
 	{
 		"name": "E3-SSP1-06",
-		"location": "1365",
+		"location": "1301a, 1301b",
 		"description": "Dozent: ERD",
 		"start": "2025-05-26T14:10:00",
 		"end": "2025-05-26T15:40:00"
@@ -1163,7 +1191,7 @@
 	},
 	{
 		"name": "E3-SSP1-05",
-		"location": "1365",
+		"location": "1301a, 1301b",
 		"description": "Dozent: ERD",
 		"start": "2025-06-16T12:10:00",
 		"end": "2025-06-16T13:40:00"
@@ -1184,7 +1212,7 @@
 	},
 	{
 		"name": "E3-SSP1-06",
-		"location": "1365",
+		"location": "1301a, 1301b",
 		"description": "Dozent: ERD",
 		"start": "2025-06-16T14:10:00",
 		"end": "2025-06-16T15:40:00"
@@ -1251,13 +1279,6 @@
 		"description": "Dozent: Kruse",
 		"start": "2025-07-03T12:10:00",
 		"end": "2025-07-03T15:40:00"
-	},
-	{
-		"name": "E3-SS1",
-		"location": "NB 01.13",
-		"description": "Dozent: ERD",
-		"start": "2025-07-04T08:10:00",
-		"end": "2025-07-04T11:25:00"
 	},
 	{
 		"name": "E3-DIP-02",
@@ -1344,6 +1365,13 @@
 		"end": "2025-07-02T09:40:00"
 	},
 	{
+		"name": "E3-SS1",
+		"location": "NB 01.13",
+		"description": "Dozent: ERD",
+		"start": "2025-07-01T08:10:00",
+		"end": "2025-07-01T11:25:00"
+	},
+	{
 		"name": "E3-OPP-02",
 		"location": "1360",
 		"description": "Dozent: SHTE",
@@ -1366,14 +1394,14 @@
 	},
 	{
 		"name": "E3-SSP1-05",
-		"location": "1365",
+		"location": "1301a, 1301b",
 		"description": "Dozent: ERD",
 		"start": "2025-07-07T12:10:00",
 		"end": "2025-07-07T13:40:00"
 	},
 	{
 		"name": "E3-SSP1-06",
-		"location": "1365",
+		"location": "1301a, 1301b",
 		"description": "Dozent: ERD",
 		"start": "2025-07-07T14:10:00",
 		"end": "2025-07-07T15:40:00"

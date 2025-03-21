@@ -22,10 +22,10 @@
 	},
 	{
 		"name": "B-REE2-ER1",
-		"location": "SteinD94 R0.02",
+		"location": "0560",
 		"description": "Dozent: HSE",
-		"start": "2025-05-05T08:10:00",
-		"end": "2025-05-05T11:25:00"
+		"start": "2025-05-05T12:10:00",
+		"end": "2025-05-05T15:40:00"
 	},
 	{
 		"name": "B-REE2-ER1",
@@ -50,10 +50,10 @@
 	},
 	{
 		"name": "B-REE2-ER1",
-		"location": "SteinD94 R0.02",
+		"location": "0560",
 		"description": "Dozent: HSE",
-		"start": "2025-06-02T08:10:00",
-		"end": "2025-06-02T11:25:00"
+		"start": "2025-06-02T12:10:00",
+		"end": "2025-06-02T15:40:00"
 	},
 	{
 		"name": "B-REE2-ER1",
