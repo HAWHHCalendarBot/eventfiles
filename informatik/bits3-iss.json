@@ -82,19 +82,5 @@
 		"description": "Dozent: DHL",
 		"start": "2025-06-03T12:30:00",
 		"end": "2025-06-03T15:45:00"
-	},
-	{
-		"name": "BITS3-ISS",
-		"location": "SteinD94 R0.01",
-		"description": "Dozent: DHL",
-		"start": "2025-06-10T12:30:00",
-		"end": "2025-06-10T15:45:00"
-	},
-	{
-		"name": "BITS3-ISS",
-		"location": "SteinD94 R0.01",
-		"description": "Dozent: DHL",
-		"start": "2025-07-15T12:30:00",
-		"end": "2025-07-15T15:45:00"
 	}
 ]

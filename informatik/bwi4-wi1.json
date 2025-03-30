@@ -73,15 +73,15 @@
 		"name": "BWI4-WI1",
 		"location": "0460",
 		"description": "Dozent: SCH",
-		"start": "2025-07-11T12:30:00",
-		"end": "2025-07-11T15:45:00"
+		"start": "2025-07-04T12:30:00",
+		"end": "2025-07-04T15:45:00"
 	},
 	{
 		"name": "BWI4-WI1",
 		"location": "0460",
 		"description": "Dozent: SCH",
-		"start": "2025-07-04T12:30:00",
-		"end": "2025-07-04T15:45:00"
+		"start": "2025-07-11T12:30:00",
+		"end": "2025-07-11T15:45:00"
 	},
 	{
 		"name": "BWI4-WI1",

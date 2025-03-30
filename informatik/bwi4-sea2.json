@@ -73,14 +73,14 @@
 		"name": "BWI4-SEA2",
 		"location": "SteinD94 R0.01",
 		"description": "Dozent: STF",
-		"start": "2025-07-07T08:15:00",
-		"end": "2025-07-07T11:30:00"
+		"start": "2025-06-30T08:15:00",
+		"end": "2025-06-30T11:30:00"
 	},
 	{
 		"name": "BWI4-SEA2",
 		"location": "SteinD94 R0.01",
 		"description": "Dozent: STF",
-		"start": "2025-06-30T08:15:00",
-		"end": "2025-06-30T11:30:00"
+		"start": "2025-07-07T08:15:00",
+		"end": "2025-07-07T11:30:00"
 	}
 ]

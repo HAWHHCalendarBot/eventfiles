@@ -163,7 +163,7 @@
 	{
 		"name": "BITS4-ESEP  Workshop",
 		"location": "0460",
-		"description": "Dozent: DAI/KRF/[Chr]",
+		"description": "Dozent: DAI/KRF/[Chr]/[Sta]",
 		"start": "2025-04-16T08:15:00",
 		"end": "2025-04-16T16:00:00"
 	},
@@ -194,13 +194,6 @@
 		"description": "Dozent: SMD",
 		"start": "2025-04-24T08:15:00",
 		"end": "2025-04-24T11:30:00"
-	},
-	{
-		"name": "BITS4-SY",
-		"location": "0460",
-		"description": "Dozent: KRF",
-		"start": "2025-04-30T16:00:00",
-		"end": "2025-04-30T19:15:00"
 	},
 	{
 		"name": "BITS4-RN",
@@ -271,6 +264,13 @@
 		"description": "Dozent: SMD",
 		"start": "2025-06-05T08:15:00",
 		"end": "2025-06-05T11:30:00"
+	},
+	{
+		"name": "BITS4-SY",
+		"location": "0460",
+		"description": "Dozent: KRF",
+		"start": "2025-06-11T16:00:00",
+		"end": "2025-06-11T19:15:00"
 	},
 	{
 		"name": "BITS4-RN",
@@ -577,15 +577,15 @@
 		"name": "BWI4-WI1",
 		"location": "0460",
 		"description": "Dozent: SCH",
-		"start": "2025-07-11T12:30:00",
-		"end": "2025-07-11T15:45:00"
+		"start": "2025-07-04T12:30:00",
+		"end": "2025-07-04T15:45:00"
 	},
 	{
 		"name": "BWI4-WI1",
 		"location": "0460",
 		"description": "Dozent: SCH",
-		"start": "2025-07-04T12:30:00",
-		"end": "2025-07-04T15:45:00"
+		"start": "2025-07-11T12:30:00",
+		"end": "2025-07-11T15:45:00"
 	},
 	{
 		"name": "BWI4-WI1",

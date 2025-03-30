@@ -133,25 +133,11 @@
 		"end": "2025-06-18T13:15:00"
 	},
 	{
-		"name": "BWI4-BWL4",
-		"location": "NB 01.11",
-		"description": "Dozent: STKP",
-		"start": "2025-07-09T10:00:00",
-		"end": "2025-07-09T13:15:00"
-	},
-	{
 		"name": "BWI4-BWLP4",
 		"location": "NB 01.11",
 		"description": "Dozent: STKP",
 		"start": "2025-06-18T14:00:00",
 		"end": "2025-06-18T17:15:00"
-	},
-	{
-		"name": "BWI4-BWLP4",
-		"location": "NB 01.11",
-		"description": "Dozent: STKP",
-		"start": "2025-07-09T14:00:00",
-		"end": "2025-07-09T17:15:00"
 	},
 	{
 		"name": "BWI4-BWL4",
@@ -166,6 +152,20 @@
 		"description": "Dozent: STKP",
 		"start": "2025-07-02T14:00:00",
 		"end": "2025-07-02T17:15:00"
+	},
+	{
+		"name": "BWI4-BWL4",
+		"location": "NB 01.11",
+		"description": "Dozent: STKP",
+		"start": "2025-07-09T10:00:00",
+		"end": "2025-07-09T13:15:00"
+	},
+	{
+		"name": "BWI4-BWLP4",
+		"location": "NB 01.11",
+		"description": "Dozent: STKP",
+		"start": "2025-07-09T14:00:00",
+		"end": "2025-07-09T17:15:00"
 	},
 	{
 		"name": "BWI4-BWL4",

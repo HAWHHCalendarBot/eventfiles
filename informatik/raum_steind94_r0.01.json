@@ -483,20 +483,6 @@
 		"end": "2025-06-03T15:45:00"
 	},
 	{
-		"name": "BITS3-ISS",
-		"location": "SteinD94 R0.01",
-		"description": "Dozent: DHL",
-		"start": "2025-06-10T12:30:00",
-		"end": "2025-06-10T15:45:00"
-	},
-	{
-		"name": "BITS3-ISS",
-		"location": "SteinD94 R0.01",
-		"description": "Dozent: DHL",
-		"start": "2025-07-15T12:30:00",
-		"end": "2025-07-15T15:45:00"
-	},
-	{
 		"name": "BITS4-MM",
 		"location": "SteinD94 R0.01",
 		"description": "Dozent: STG",
@@ -551,6 +537,13 @@
 		"description": "Dozent: STG",
 		"start": "2025-06-30T12:30:00",
 		"end": "2025-06-30T15:45:00"
+	},
+	{
+		"name": "BITS4-MM",
+		"location": "SteinD94 R0.01",
+		"description": "Dozent: STG",
+		"start": "2025-07-14T12:30:00",
+		"end": "2025-07-14T15:45:00"
 	},
 	{
 		"name": "BWI2-PM2",
@@ -710,14 +703,14 @@
 		"name": "BWI4-SEA2",
 		"location": "SteinD94 R0.01",
 		"description": "Dozent: STF",
-		"start": "2025-07-07T08:15:00",
-		"end": "2025-07-07T11:30:00"
+		"start": "2025-06-30T08:15:00",
+		"end": "2025-06-30T11:30:00"
 	},
 	{
 		"name": "BWI4-SEA2",
 		"location": "SteinD94 R0.01",
 		"description": "Dozent: STF",
-		"start": "2025-06-30T08:15:00",
-		"end": "2025-06-30T11:30:00"
+		"start": "2025-07-07T08:15:00",
+		"end": "2025-07-07T11:30:00"
 	}
 ]

@@ -259,6 +259,13 @@
 		"end": "2025-07-18T18:00:00"
 	},
 	{
+		"name": "B-Seminar_B",
+		"location": "0560",
+		"description": "Dozent: SML/STG",
+		"start": "2025-07-15T16:00:00",
+		"end": "2025-07-15T18:00:00"
+	},
+	{
 		"name": "BWI2-PM2",
 		"location": "0560",
 		"description": "Dozent: SML",

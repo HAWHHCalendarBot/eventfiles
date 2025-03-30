@@ -14,13 +14,6 @@
 		"end": "2025-04-23T11:30:00"
 	},
 	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-04-25T12:30:00",
-		"end": "2025-04-25T15:45:00"
-	},
-	{
 		"name": "BAI4-ENG/01",
 		"location": "1283",
 		"description": "Dozent: LANE-VHS",
@@ -35,13 +28,6 @@
 		"end": "2025-04-24T12:00:00"
 	},
 	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-05-02T12:30:00",
-		"end": "2025-05-02T15:45:00"
-	},
-	{
 		"name": "BAI4-ENG/01",
 		"location": "1283",
 		"description": "Dozent: LANE-VHS",
@@ -54,13 +40,6 @@
 		"description": "Dozent: LANE-VHS",
 		"start": "2025-04-30T10:15:00",
 		"end": "2025-04-30T12:00:00"
-	},
-	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-05-09T12:30:00",
-		"end": "2025-05-09T15:45:00"
 	},
 	{
 		"name": "GW SMHL",
@@ -98,13 +77,6 @@
 		"end": "2025-05-14T11:30:00"
 	},
 	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-05-16T12:30:00",
-		"end": "2025-05-16T15:45:00"
-	},
-	{
 		"name": "GW SMHL",
 		"location": "1283",
 		"description": "Dozent: Smhl",
@@ -133,13 +105,6 @@
 		"end": "2025-05-16T19:00:00"
 	},
 	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-05-23T12:30:00",
-		"end": "2025-05-23T15:45:00"
-	},
-	{
 		"name": "BAI4-ENG/01",
 		"location": "1283",
 		"description": "Dozent: LANE-VHS",
@@ -159,20 +124,6 @@
 		"description": "Dozent: PRG",
 		"start": "2025-05-28T08:15:00",
 		"end": "2025-05-28T11:30:00"
-	},
-	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-05-30T12:30:00",
-		"end": "2025-05-30T15:45:00"
-	},
-	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-06-06T12:30:00",
-		"end": "2025-06-06T15:45:00"
 	},
 	{
 		"name": "BAI4-ENG/01",
@@ -196,25 +147,11 @@
 		"end": "2025-06-11T11:30:00"
 	},
 	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-06-13T12:30:00",
-		"end": "2025-06-13T15:45:00"
-	},
-	{
 		"name": "GW SMHL",
 		"location": "1283",
 		"description": "Dozent: Smhl",
 		"start": "2025-06-14T10:00:00",
 		"end": "2025-06-14T16:00:00"
-	},
-	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-06-20T12:30:00",
-		"end": "2025-06-20T15:45:00"
 	},
 	{
 		"name": "GW SMHL",
@@ -245,13 +182,6 @@
 		"end": "2025-06-25T11:30:00"
 	},
 	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-06-27T12:30:00",
-		"end": "2025-06-27T15:45:00"
-	},
-	{
 		"name": "GW SMHL",
 		"location": "1283",
 		"description": "Dozent: Smhl",
@@ -271,13 +201,6 @@
 		"description": "Dozent: LANE-VHS",
 		"start": "2025-06-26T10:15:00",
 		"end": "2025-06-26T12:00:00"
-	},
-	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-07-04T12:30:00",
-		"end": "2025-07-04T15:45:00"
 	},
 	{
 		"name": "BAI4-ENG/01",
@@ -301,13 +224,6 @@
 		"end": "2025-07-09T11:30:00"
 	},
 	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-07-11T12:30:00",
-		"end": "2025-07-11T15:45:00"
-	},
-	{
 		"name": "BAI4-ENG/01",
 		"location": "1283",
 		"description": "Dozent: LANE-VHS",
@@ -320,13 +236,6 @@
 		"description": "Dozent: LANE-VHS",
 		"start": "2025-07-10T10:15:00",
 		"end": "2025-07-10T12:00:00"
-	},
-	{
-		"name": "INF-WP/WPP-C1",
-		"location": "1283",
-		"description": "Dozent: BKMN/STF",
-		"start": "2025-07-18T12:30:00",
-		"end": "2025-07-18T15:45:00"
 	},
 	{
 		"name": "B-Seminar_A",
