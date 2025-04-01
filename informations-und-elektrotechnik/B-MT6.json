@@ -7,7 +7,7 @@
 		"end": "2025-04-10T15:40:00"
 	},
 	{
-		"name": "BMT5-AK",
+		"name": "BMT5-AK-AKP",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: Plaumann",
 		"start": "2025-04-07T08:10:00",
@@ -24,22 +24,50 @@
 		"name": "BMT5-EA",
 		"location": "Stiftstr69  R110",
 		"description": "Dozent: GNZ",
+		"start": "2025-04-30T12:10:00",
+		"end": "2025-04-30T15:40:00"
+	},
+	{
+		"name": "BMT5-EA",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
 		"start": "2025-05-22T12:10:00",
 		"end": "2025-05-22T15:40:00"
 	},
 	{
-		"name": "BMT5-AK",
+		"name": "BMT5-EA",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
+		"start": "2025-06-12T12:10:00",
+		"end": "2025-06-12T15:40:00"
+	},
+	{
+		"name": "BMT5-AK-AKP",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: Plaumann",
 		"start": "2025-04-14T08:10:00",
 		"end": "2025-04-14T11:25:00"
 	},
 	{
-		"name": "BMT5-AK",
+		"name": "BMT5-AK-AKP",
+		"location": "Stiftstr69  R106",
+		"description": "Dozent: Plaumann",
+		"start": "2025-04-28T08:10:00",
+		"end": "2025-04-28T11:25:00"
+	},
+	{
+		"name": "BMT5-AK-AKP",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: Plaumann",
 		"start": "2025-05-19T08:10:00",
 		"end": "2025-05-19T11:25:00"
+	},
+	{
+		"name": "BMT5-AK-AKP",
+		"location": "Stiftstr69  R106",
+		"description": "Dozent: Plaumann",
+		"start": "2025-06-10T08:10:00",
+		"end": "2025-06-10T11:25:00"
 	},
 	{
 		"name": "BMT6-BV",
@@ -52,8 +80,22 @@
 		"name": "BMT6-BV",
 		"location": "0665",
 		"description": "Dozent: STG",
+		"start": "2025-04-28T12:30:00",
+		"end": "2025-04-28T15:45:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "0665",
+		"description": "Dozent: STG",
 		"start": "2025-05-19T12:30:00",
 		"end": "2025-05-19T15:45:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "0665",
+		"description": "Dozent: STG",
+		"start": "2025-06-10T12:30:00",
+		"end": "2025-06-10T15:45:00"
 	},
 	{
 		"name": "BMT5-EA",
@@ -61,41 +103,6 @@
 		"description": "Dozent: GNZ",
 		"start": "2025-04-24T12:10:00",
 		"end": "2025-04-24T15:40:00"
-	},
-	{
-		"name": "BMT5-EA",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GNZ",
-		"start": "2025-04-30T12:10:00",
-		"end": "2025-04-30T15:40:00"
-	},
-	{
-		"name": "BMT5-AK",
-		"location": "Stiftstr69  R106",
-		"description": "Dozent: Plaumann",
-		"start": "2025-04-28T08:10:00",
-		"end": "2025-04-28T11:25:00"
-	},
-	{
-		"name": "BMT6-BV",
-		"location": "0665",
-		"description": "Dozent: STG",
-		"start": "2025-04-28T12:30:00",
-		"end": "2025-04-28T15:45:00"
-	},
-	{
-		"name": "BMT5-AKP-01",
-		"location": "0601",
-		"description": "Dozent: Plaumann",
-		"start": "2025-04-28T12:15:00",
-		"end": "2025-04-28T15:30:00"
-	},
-	{
-		"name": "BMT5-AKP-02",
-		"location": "0601",
-		"description": "Dozent: Plaumann",
-		"start": "2025-04-28T12:15:00",
-		"end": "2025-04-28T15:30:00"
 	},
 	{
 		"name": "BMT6-BVP-01",
@@ -112,7 +119,7 @@
 		"end": "2025-05-08T15:40:00"
 	},
 	{
-		"name": "BMT5-AK",
+		"name": "BMT5-AK-AKP",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: Plaumann",
 		"start": "2025-05-05T08:10:00",
@@ -140,74 +147,11 @@
 		"end": "2025-05-07T15:40:00"
 	},
 	{
-		"name": "BMT5-AKP-01",
-		"location": "0601",
-		"description": "Dozent: Plaumann",
-		"start": "2025-05-08T08:10:00",
-		"end": "2025-05-08T11:25:00"
-	},
-	{
-		"name": "BMT5-AKP-02",
-		"location": "0601",
-		"description": "Dozent: Plaumann",
-		"start": "2025-05-15T08:10:00",
-		"end": "2025-05-15T11:25:00"
-	},
-	{
 		"name": "BMT5-EAP-02",
 		"location": "0301",
 		"description": "Dozent: GNZ/[Kor]",
 		"start": "2025-05-14T12:10:00",
 		"end": "2025-05-14T15:40:00"
-	},
-	{
-		"name": "BMT5-EA",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GNZ",
-		"start": "2025-05-15T12:10:00",
-		"end": "2025-05-15T15:40:00"
-	},
-	{
-		"name": "BMT5-AK",
-		"location": "Stiftstr69  R106",
-		"description": "Dozent: Plaumann",
-		"start": "2025-05-12T08:10:00",
-		"end": "2025-05-12T11:25:00"
-	},
-	{
-		"name": "BMT6-BV",
-		"location": "0665",
-		"description": "Dozent: STG",
-		"start": "2025-05-12T12:30:00",
-		"end": "2025-05-12T15:45:00"
-	},
-	{
-		"name": "BMT6-BVP-01",
-		"location": "0761",
-		"description": "Dozent: DHN/[DeG]",
-		"start": "2025-05-26T12:30:00",
-		"end": "2025-05-26T15:45:00"
-	},
-	{
-		"name": "BMT5-EAP-01",
-		"location": "0301",
-		"description": "Dozent: GNZ/[Kor]",
-		"start": "2025-05-28T12:10:00",
-		"end": "2025-05-28T15:40:00"
-	},
-	{
-		"name": "BMT5-AK",
-		"location": "Stiftstr69  R106",
-		"description": "Dozent: Plaumann",
-		"start": "2025-05-26T08:10:00",
-		"end": "2025-05-26T11:25:00"
-	},
-	{
-		"name": "BMT6-BV",
-		"location": "0665",
-		"description": "Dozent: STG",
-		"start": "2025-05-26T16:00:00",
-		"end": "2025-05-26T19:15:00"
 	},
 	{
 		"name": "BMT5-EAP-02",
@@ -227,6 +171,13 @@
 		"name": "BMT5-EA",
 		"location": "Stiftstr69  R110",
 		"description": "Dozent: GNZ",
+		"start": "2025-05-15T12:10:00",
+		"end": "2025-05-15T15:40:00"
+	},
+	{
+		"name": "BMT5-EA",
+		"location": "Stiftstr69  R110",
+		"description": "Dozent: GNZ",
 		"start": "2025-06-05T12:10:00",
 		"end": "2025-06-05T15:40:00"
 	},
@@ -238,18 +189,32 @@
 		"end": "2025-06-26T15:40:00"
 	},
 	{
-		"name": "BMT5-AK",
+		"name": "BMT5-AK-AKP",
+		"location": "Stiftstr69  R106",
+		"description": "Dozent: Plaumann",
+		"start": "2025-05-12T08:10:00",
+		"end": "2025-05-12T11:25:00"
+	},
+	{
+		"name": "BMT5-AK-AKP",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: Plaumann",
 		"start": "2025-06-02T08:10:00",
 		"end": "2025-06-02T11:25:00"
 	},
 	{
-		"name": "BMT5-AK",
+		"name": "BMT5-AK-AKP",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: Plaumann",
 		"start": "2025-06-23T08:10:00",
 		"end": "2025-06-23T11:25:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "0665",
+		"description": "Dozent: STG",
+		"start": "2025-05-12T12:30:00",
+		"end": "2025-05-12T15:45:00"
 	},
 	{
 		"name": "BMT6-BV",
@@ -266,46 +231,60 @@
 		"end": "2025-06-23T15:45:00"
 	},
 	{
-		"name": "BMT5-AKP-01",
-		"location": "0601",
-		"description": "Dozent: Plaumann",
-		"start": "2025-06-05T08:10:00",
-		"end": "2025-06-05T11:25:00"
+		"name": "BMT6-BVP-01",
+		"location": "0761",
+		"description": "Dozent: DHN/[DeG]",
+		"start": "2025-05-26T12:30:00",
+		"end": "2025-05-26T15:45:00"
 	},
 	{
-		"name": "BMT5-AKP-01",
-		"location": "0601",
-		"description": "Dozent: Plaumann",
-		"start": "2025-06-26T08:10:00",
-		"end": "2025-06-26T11:25:00"
+		"name": "BMT6-BVP-01",
+		"location": "0761",
+		"description": "Dozent: DHN/[DeG]",
+		"start": "2025-07-07T12:30:00",
+		"end": "2025-07-07T15:45:00"
 	},
 	{
-		"name": "BMT5-AKP-02",
-		"location": "0601",
-		"description": "Dozent: Plaumann",
-		"start": "2025-06-12T08:10:00",
-		"end": "2025-06-12T11:25:00"
+		"name": "BMT5-EAP-01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2025-05-28T12:10:00",
+		"end": "2025-05-28T15:40:00"
 	},
 	{
-		"name": "BMT5-EA",
-		"location": "Stiftstr69  R110",
-		"description": "Dozent: GNZ",
-		"start": "2025-06-12T12:10:00",
-		"end": "2025-06-12T15:40:00"
+		"name": "BMT5-EAP-01",
+		"location": "0301",
+		"description": "Dozent: GNZ/[Kor]",
+		"start": "2025-07-09T12:10:00",
+		"end": "2025-07-09T15:40:00"
 	},
 	{
-		"name": "BMT5-AK",
+		"name": "BMT5-AK-AKP",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: Plaumann",
-		"start": "2025-06-10T08:10:00",
-		"end": "2025-06-10T11:25:00"
+		"start": "2025-05-26T08:10:00",
+		"end": "2025-05-26T11:25:00"
+	},
+	{
+		"name": "BMT5-AK-AKP",
+		"location": "Stiftstr69  R106",
+		"description": "Dozent: Plaumann",
+		"start": "2025-07-07T08:10:00",
+		"end": "2025-07-07T11:25:00"
 	},
 	{
 		"name": "BMT6-BV",
 		"location": "0665",
 		"description": "Dozent: STG",
-		"start": "2025-06-10T12:30:00",
-		"end": "2025-06-10T15:45:00"
+		"start": "2025-05-26T16:00:00",
+		"end": "2025-05-26T19:15:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "0665",
+		"description": "Dozent: STG",
+		"start": "2025-07-07T16:00:00",
+		"end": "2025-07-07T19:15:00"
 	},
 	{
 		"name": "BMT6-BVP-01",
@@ -329,7 +308,7 @@
 		"end": "2025-06-18T15:40:00"
 	},
 	{
-		"name": "BMT5-AK",
+		"name": "BMT5-AK-AKP",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: Plaumann",
 		"start": "2025-06-16T08:10:00",
@@ -343,11 +322,11 @@
 		"end": "2025-06-16T19:15:00"
 	},
 	{
-		"name": "BMT5-AKP-02",
-		"location": "0601",
+		"name": "BMT5-AK-AKP",
+		"location": "Stiftstr69  R106",
 		"description": "Dozent: Plaumann",
-		"start": "2025-07-03T08:10:00",
-		"end": "2025-07-03T11:25:00"
+		"start": "2025-06-30T08:10:00",
+		"end": "2025-06-30T11:25:00"
 	},
 	{
 		"name": "BMT6-BV",
@@ -357,24 +336,10 @@
 		"end": "2025-06-30T15:45:00"
 	},
 	{
-		"name": "BMT6-BVP-01",
-		"location": "0761",
-		"description": "Dozent: DHN/[DeG]",
-		"start": "2025-07-07T12:30:00",
-		"end": "2025-07-07T15:45:00"
-	},
-	{
-		"name": "BMT5-EAP-01",
-		"location": "0301",
-		"description": "Dozent: GNZ/[Kor]",
-		"start": "2025-07-09T12:10:00",
-		"end": "2025-07-09T15:40:00"
-	},
-	{
 		"name": "BMT6-BV",
 		"location": "0665",
 		"description": "Dozent: STG",
-		"start": "2025-07-07T16:00:00",
-		"end": "2025-07-07T19:15:00"
+		"start": "2025-07-14T12:30:00",
+		"end": "2025-07-14T15:45:00"
 	}
 ]

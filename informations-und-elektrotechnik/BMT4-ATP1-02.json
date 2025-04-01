@@ -3,28 +3,28 @@
 		"name": "BMT4-ATP1-02",
 		"location": "0402",
 		"description": "Dozent: SLR",
-		"start": "2025-04-30T08:10:00",
-		"end": "2025-04-30T11:25:00"
+		"start": "2025-05-05T15:55:00",
+		"end": "2025-05-05T19:10:00"
 	},
 	{
 		"name": "BMT4-ATP1-02",
 		"location": "0402",
 		"description": "Dozent: SLR",
-		"start": "2025-05-15T08:10:00",
-		"end": "2025-05-15T11:25:00"
+		"start": "2025-05-19T15:55:00",
+		"end": "2025-05-19T19:10:00"
 	},
 	{
 		"name": "BMT4-ATP1-02",
 		"location": "0402",
 		"description": "Dozent: SLR",
-		"start": "2025-06-12T08:10:00",
-		"end": "2025-06-12T11:25:00"
+		"start": "2025-06-10T15:55:00",
+		"end": "2025-06-10T19:10:00"
 	},
 	{
 		"name": "BMT4-ATP1-02",
 		"location": "0402",
 		"description": "Dozent: SLR",
-		"start": "2025-07-03T08:10:00",
-		"end": "2025-07-03T11:25:00"
+		"start": "2025-06-30T15:55:00",
+		"end": "2025-06-30T19:10:00"
 	}
 ]
