@@ -283,6 +283,13 @@
 		"name": "BMT6-BV",
 		"location": "0665",
 		"description": "Dozent: STG",
+		"start": "2025-04-28T12:30:00",
+		"end": "2025-04-28T15:45:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "0665",
+		"description": "Dozent: STG",
 		"start": "2025-05-19T12:30:00",
 		"end": "2025-05-19T15:45:00"
 	},
@@ -290,8 +297,8 @@
 		"name": "BMT6-BV",
 		"location": "0665",
 		"description": "Dozent: STG",
-		"start": "2025-04-28T12:30:00",
-		"end": "2025-04-28T15:45:00"
+		"start": "2025-06-10T12:30:00",
+		"end": "2025-06-10T15:45:00"
 	},
 	{
 		"name": "BMT6-BV",
@@ -311,13 +318,6 @@
 		"name": "BMT6-BV",
 		"location": "0665",
 		"description": "Dozent: STG",
-		"start": "2025-05-26T16:00:00",
-		"end": "2025-05-26T19:15:00"
-	},
-	{
-		"name": "BMT6-BV",
-		"location": "0665",
-		"description": "Dozent: STG",
 		"start": "2025-06-02T12:30:00",
 		"end": "2025-06-02T15:45:00"
 	},
@@ -332,8 +332,15 @@
 		"name": "BMT6-BV",
 		"location": "0665",
 		"description": "Dozent: STG",
-		"start": "2025-06-10T12:30:00",
-		"end": "2025-06-10T15:45:00"
+		"start": "2025-05-26T16:00:00",
+		"end": "2025-05-26T19:15:00"
+	},
+	{
+		"name": "BMT6-BV",
+		"location": "0665",
+		"description": "Dozent: STG",
+		"start": "2025-07-07T16:00:00",
+		"end": "2025-07-07T19:15:00"
 	},
 	{
 		"name": "BMT6-BV",
@@ -348,13 +355,6 @@
 		"description": "Dozent: STG",
 		"start": "2025-06-30T12:30:00",
 		"end": "2025-06-30T15:45:00"
-	},
-	{
-		"name": "BMT6-BV",
-		"location": "0665",
-		"description": "Dozent: STG",
-		"start": "2025-07-07T16:00:00",
-		"end": "2025-07-07T19:15:00"
 	},
 	{
 		"name": "BMT6-BV",
