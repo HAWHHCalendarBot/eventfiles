@@ -14,13 +14,6 @@
 		"end": "2025-04-09T11:25:00"
 	},
 	{
-		"name": "B-REE2-PR2",
-		"location": "0560",
-		"description": "Dozent: RNZ",
-		"start": "2025-04-10T12:10:00",
-		"end": "2025-04-10T15:40:00"
-	},
-	{
 		"name": "B-REE2-MA2-MAUe2",
 		"location": "0560",
 		"description": "Dozent: LND",
@@ -42,11 +35,32 @@
 		"end": "2025-04-09T15:40:00"
 	},
 	{
+		"name": "B-REE2-PR2",
+		"location": "0560",
+		"description": "Dozent: RNZ",
+		"start": "2025-04-08T08:10:00",
+		"end": "2025-04-08T11:25:00"
+	},
+	{
+		"name": "B-REE2-PRP2-01",
+		"location": "0565",
+		"description": "Dozent: RNZ",
+		"start": "2025-04-10T08:10:00",
+		"end": "2025-04-10T09:40:00"
+	},
+	{
+		"name": "B-REE2-PRP2-02",
+		"location": "0565",
+		"description": "Dozent: RNZ",
+		"start": "2025-04-10T09:55:00",
+		"end": "2025-04-10T11:25:00"
+	},
+	{
 		"name": "B-REE2-MA2-MAUe2",
 		"location": "0560",
 		"description": "Dozent: LND",
-		"start": "2025-04-10T08:10:00",
-		"end": "2025-04-10T11:25:00"
+		"start": "2025-04-10T12:10:00",
+		"end": "2025-04-10T15:40:00"
 	},
 	{
 		"name": "B-REE2-ET2",
@@ -575,7 +589,7 @@
 	},
 	{
 		"name": "B-REE2-ET2",
-		"location": "1065",
+		"location": "1465",
 		"description": "Dozent: Rittwage",
 		"start": "2025-06-10T08:10:00",
 		"end": "2025-06-10T11:25:00"
@@ -775,20 +789,6 @@
 		"description": "Dozent: [Kor]/SZNY",
 		"start": "2025-07-10T08:10:00",
 		"end": "2025-07-10T11:25:00"
-	},
-	{
-		"name": "B-REE2-PRP2-01",
-		"location": "0565",
-		"description": "Dozent: RNZ",
-		"start": "2025-07-10T15:55:00",
-		"end": "2025-07-10T17:25:00"
-	},
-	{
-		"name": "B-REE2-PRP2-02",
-		"location": "0565",
-		"description": "Dozent: RNZ",
-		"start": "2025-07-10T17:40:00",
-		"end": "2025-07-10T19:10:00"
 	},
 	{
 		"name": "B-REE2-ET2",

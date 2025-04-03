@@ -127,13 +127,6 @@
 	},
 	{
 		"name": "IE1-MA1",
-		"location": "1260",
-		"description": "Dozent: NMN",
-		"start": "2025-04-22T15:55:00",
-		"end": "2025-04-22T19:10:00"
-	},
-	{
-		"name": "IE1-MA1",
 		"location": "NB 01.13",
 		"description": "Dozent: NMN",
 		"start": "2025-04-23T08:10:00",
@@ -156,7 +149,7 @@
 	{
 		"name": "IE1-SOL1-01",
 		"location": "1365",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-04-29T08:10:00",
 		"end": "2025-04-29T11:25:00"
 	},
@@ -177,9 +170,16 @@
 	{
 		"name": "IE1-SOL1-03",
 		"location": "1303a, 1303b",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-04-29T12:10:00",
 		"end": "2025-04-29T15:40:00"
+	},
+	{
+		"name": "IE1-MA1",
+		"location": "0360",
+		"description": "Dozent: NMN",
+		"start": "2025-05-02T12:10:00",
+		"end": "2025-05-02T15:40:00"
 	},
 	{
 		"name": "IE1-GE-02",
@@ -196,27 +196,6 @@
 		"end": "2025-04-30T11:40:00"
 	},
 	{
-		"name": "IE1-EEL1-01",
-		"location": "0501, 0565",
-		"description": "Dozent: LAP/WTMR",
-		"start": "2025-04-28T12:10:00",
-		"end": "2025-04-28T15:40:00"
-	},
-	{
-		"name": "IE1-EEL1-02",
-		"location": "0501, 0565",
-		"description": "Dozent: LAP/WTMR",
-		"start": "2025-04-28T12:10:00",
-		"end": "2025-04-28T15:40:00"
-	},
-	{
-		"name": "IE1-EEL1-03",
-		"location": "0501, 0565",
-		"description": "Dozent: LAP/WTMR",
-		"start": "2025-04-28T12:10:00",
-		"end": "2025-04-28T15:40:00"
-	},
-	{
 		"name": "IE1-GE-01",
 		"location": "1281",
 		"description": "Dozent: LZRB",
@@ -226,7 +205,7 @@
 	{
 		"name": "IE1-SOL1-02",
 		"location": "1365",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-05-06T08:10:00",
 		"end": "2025-05-06T11:25:00"
 	},
@@ -250,13 +229,6 @@
 		"description": "Dozent: Maesaka",
 		"start": "2025-05-09T14:10:00",
 		"end": "2025-05-09T15:40:00"
-	},
-	{
-		"name": "IE1-MA1",
-		"location": "1260",
-		"description": "Dozent: NMN",
-		"start": "2025-05-06T15:55:00",
-		"end": "2025-05-06T19:10:00"
 	},
 	{
 		"name": "IE1-MA1",
@@ -287,6 +259,27 @@
 		"end": "2025-05-05T11:25:00"
 	},
 	{
+		"name": "IE1-EEL1-01",
+		"location": "0501, 0565",
+		"description": "Dozent: LAP/WTMR",
+		"start": "2025-05-05T12:10:00",
+		"end": "2025-05-05T15:40:00"
+	},
+	{
+		"name": "IE1-EEL1-02",
+		"location": "0501, 0565",
+		"description": "Dozent: LAP/WTMR",
+		"start": "2025-05-05T12:10:00",
+		"end": "2025-05-05T15:40:00"
+	},
+	{
+		"name": "IE1-EEL1-03",
+		"location": "0501, 0565",
+		"description": "Dozent: LAP/WTMR",
+		"start": "2025-05-05T12:10:00",
+		"end": "2025-05-05T15:40:00"
+	},
+	{
 		"name": "IE1-GE-01",
 		"location": "1281",
 		"description": "Dozent: LZRB",
@@ -303,7 +296,7 @@
 	{
 		"name": "IE1-SOL1-01",
 		"location": "1365",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-05-13T08:10:00",
 		"end": "2025-05-13T11:25:00"
 	},
@@ -324,7 +317,7 @@
 	{
 		"name": "IE1-SOL1-03",
 		"location": "1303a, 1303b",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-05-13T12:10:00",
 		"end": "2025-05-13T15:40:00"
 	},
@@ -380,7 +373,7 @@
 	{
 		"name": "IE1-SOL1-02",
 		"location": "1365",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-05-20T08:10:00",
 		"end": "2025-05-20T11:25:00"
 	},
@@ -411,13 +404,6 @@
 		"description": "Dozent: Maesaka",
 		"start": "2025-05-23T14:10:00",
 		"end": "2025-05-23T15:40:00"
-	},
-	{
-		"name": "IE1-MA1",
-		"location": "1260",
-		"description": "Dozent: NMN",
-		"start": "2025-05-20T15:55:00",
-		"end": "2025-05-20T19:10:00"
 	},
 	{
 		"name": "IE1-MA1",
@@ -457,7 +443,7 @@
 	{
 		"name": "IE1-SOL1-01",
 		"location": "1365",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-05-27T08:10:00",
 		"end": "2025-05-27T11:25:00"
 	},
@@ -478,7 +464,7 @@
 	{
 		"name": "IE1-SOL1-03",
 		"location": "1303a, 1303b",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-05-27T12:10:00",
 		"end": "2025-05-27T15:40:00"
 	},
@@ -527,7 +513,7 @@
 	{
 		"name": "IE1-SOL1-02",
 		"location": "1365",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-06-03T08:10:00",
 		"end": "2025-06-03T11:25:00"
 	},
@@ -660,7 +646,7 @@
 	{
 		"name": "IE1-SOL1-01",
 		"location": "1365",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-06-17T08:10:00",
 		"end": "2025-06-17T11:25:00"
 	},
@@ -695,7 +681,7 @@
 	{
 		"name": "IE1-SOL1-03",
 		"location": "1303a, 1303b",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-06-17T12:10:00",
 		"end": "2025-06-17T15:40:00"
 	},
@@ -744,7 +730,7 @@
 	{
 		"name": "IE1-SOL1-02",
 		"location": "1365",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-06-24T08:10:00",
 		"end": "2025-06-24T11:25:00"
 	},
@@ -768,6 +754,13 @@
 		"description": "Dozent: MCCB",
 		"start": "2025-06-26T12:10:00",
 		"end": "2025-06-26T15:40:00"
+	},
+	{
+		"name": "IE1-MA1",
+		"location": "0360",
+		"description": "Dozent: NMN",
+		"start": "2025-06-27T12:10:00",
+		"end": "2025-06-27T15:40:00"
 	},
 	{
 		"name": "IE1-LSL1_Final",
@@ -807,7 +800,7 @@
 	{
 		"name": "IE1-SOL1-01",
 		"location": "1365",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-07-01T08:10:00",
 		"end": "2025-07-01T11:25:00"
 	},
@@ -842,7 +835,7 @@
 	{
 		"name": "IE1-SOL1-03",
 		"location": "1303a, 1303b",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-07-01T12:10:00",
 		"end": "2025-07-01T15:40:00"
 	},
@@ -884,7 +877,7 @@
 	{
 		"name": "IE1-SOL1-02",
 		"location": "1365",
-		"description": "Dozent: Pikora/VOEL",
+		"description": "Dozent: Pikora",
 		"start": "2025-07-08T08:10:00",
 		"end": "2025-07-08T11:25:00"
 	},
@@ -908,6 +901,13 @@
 		"description": "Dozent: LAP/WTMR",
 		"start": "2025-07-07T12:10:00",
 		"end": "2025-07-07T15:40:00"
+	},
+	{
+		"name": "IE1-MA1",
+		"location": "0360",
+		"description": "Dozent: NMN",
+		"start": "2025-07-11T12:10:00",
+		"end": "2025-07-11T15:40:00"
 	},
 	{
 		"name": "IE1-MA1",

@@ -3,13 +3,6 @@
 		"name": "E1a-PH1",
 		"location": "1260",
 		"description": "Dozent: NRMF",
-		"start": "2025-04-11T08:10:00",
-		"end": "2025-04-11T11:25:00"
-	},
-	{
-		"name": "E1a-PH1",
-		"location": "1260",
-		"description": "Dozent: NRMF",
 		"start": "2025-04-25T08:10:00",
 		"end": "2025-04-25T11:25:00"
 	},
@@ -89,5 +82,12 @@
 		"description": "Dozent: NRMF",
 		"start": "2025-07-11T08:10:00",
 		"end": "2025-07-11T11:25:00"
+	},
+	{
+		"name": "E1a-PH1",
+		"location": "1260",
+		"description": "Dozent: NRMF",
+		"start": "2025-07-07T12:10:00",
+		"end": "2025-07-07T15:40:00"
 	}
 ]

@@ -1,38 +1,31 @@
 [
 	{
 		"name": "E2-LP-IE2-LSL",
-		"location": "0501, 0804",
-		"description": "",
-		"start": "2025-04-08T08:10:00",
-		"end": "2025-04-08T16:00:00"
-	},
-	{
-		"name": "E2-LP-IE2-LSL",
-		"location": "0502, 0880",
+		"location": "0501, 0801",
 		"description": "",
 		"start": "2025-04-09T08:10:00",
 		"end": "2025-04-09T16:00:00"
 	},
 	{
 		"name": "E2-LP-IE2-LSL",
-		"location": "0505",
+		"location": "0502, 0804",
 		"description": "",
 		"start": "2025-04-10T08:10:00",
 		"end": "2025-04-10T16:00:00"
 	},
 	{
 		"name": "E2-LP-IE2-LSL",
-		"location": "0801",
+		"location": "0505, 0880",
 		"description": "",
 		"start": "2025-04-11T08:10:00",
 		"end": "2025-04-11T16:00:00"
 	},
 	{
 		"name": "E2-LP-IE2-LSL",
-		"location": "NB 01.13",
+		"location": "BT21 Aula",
 		"description": "",
-		"start": "2025-04-07T08:10:00",
-		"end": "2025-04-07T11:25:00"
+		"start": "2025-04-07T10:00:00",
+		"end": "2025-04-07T12:00:00"
 	},
 	{
 		"name": "E2-LP-IE2-LSL",
@@ -45,8 +38,36 @@
 		"name": "E2-LP-IE2-LSL",
 		"location": "0501, 0502, 0505, 0801, 0804, 0880",
 		"description": "",
+		"start": "2025-04-07T15:00:00",
+		"end": "2025-04-07T16:00:00"
+	},
+	{
+		"name": "E2-LP-IE2-LSL",
+		"location": "0501, 0502, 0505, 0801, 0804, 0880",
+		"description": "",
 		"start": "2025-04-07T12:10:00",
-		"end": "2025-04-07T17:25:00"
+		"end": "2025-04-07T14:00:00"
+	},
+	{
+		"name": "E2-LP-IE2-LSL",
+		"location": "BT21 Aula",
+		"description": "",
+		"start": "2025-04-07T14:00:00",
+		"end": "2025-04-07T15:00:00"
+	},
+	{
+		"name": "E2-LP-IE2-LSL",
+		"location": "0501, 0502, 0505, 0801, 0804, 0880",
+		"description": "",
+		"start": "2025-04-08T10:00:00",
+		"end": "2025-04-08T16:00:00"
+	},
+	{
+		"name": "E2-LP-IE2-LSL",
+		"location": "BT21 Aula",
+		"description": "",
+		"start": "2025-04-08T09:00:00",
+		"end": "2025-04-08T10:00:00"
 	},
 	{
 		"name": "E2a-ET2",
@@ -75,13 +96,6 @@
 		"description": "Dozent: LGE",
 		"start": "2025-04-17T08:10:00",
 		"end": "2025-04-17T11:25:00"
-	},
-	{
-		"name": "E2a-PH2",
-		"location": "1060",
-		"description": "Dozent: NRMF",
-		"start": "2025-04-14T08:10:00",
-		"end": "2025-04-14T11:25:00"
 	},
 	{
 		"name": "E2a-PR2",
@@ -929,6 +943,13 @@
 		"description": "Dozent: GTF",
 		"start": "2025-07-02T09:55:00",
 		"end": "2025-07-02T11:25:00"
+	},
+	{
+		"name": "E2a-PH2",
+		"location": "1060",
+		"description": "Dozent: NRMF",
+		"start": "2025-06-30T12:10:00",
+		"end": "2025-06-30T15:40:00"
 	},
 	{
 		"name": "E2a-ETP2-02",
