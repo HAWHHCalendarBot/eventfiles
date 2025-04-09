@@ -120,7 +120,7 @@
 	},
 	{
 		"name": "EuI-M-WP-VLM",
-		"location": "1401, 1465",
+		"location": "1401",
 		"description": "Dozent: VLM",
 		"start": "2025-04-14T08:10:00",
 		"end": "2025-04-14T11:25:00"
@@ -239,7 +239,7 @@
 	},
 	{
 		"name": "EuI-M-WP-VLM",
-		"location": "1401, 1465",
+		"location": "1401",
 		"description": "Dozent: VLM",
 		"start": "2025-04-28T08:10:00",
 		"end": "2025-04-28T11:25:00"
@@ -323,7 +323,7 @@
 	},
 	{
 		"name": "EuI-M-WP-VLM",
-		"location": "1401, 1465",
+		"location": "1401",
 		"description": "Dozent: VLM",
 		"start": "2025-05-05T08:10:00",
 		"end": "2025-05-05T11:25:00"
@@ -385,13 +385,6 @@
 		"end": "2025-05-16T15:40:00"
 	},
 	{
-		"name": "EuI-M-WP-VLM",
-		"location": "1401, 1465",
-		"description": "Dozent: VLM",
-		"start": "2025-05-12T08:10:00",
-		"end": "2025-05-12T11:25:00"
-	},
-	{
 		"name": "A-M-DE",
 		"location": "0861",
 		"description": "Dozent: VPL",
@@ -411,6 +404,13 @@
 		"description": "Dozent: WNC/EBEL",
 		"start": "2025-05-16T08:10:00",
 		"end": "2025-05-16T11:25:00"
+	},
+	{
+		"name": "EuI-M-WPP-VLM",
+		"location": "1365",
+		"description": "Dozent: VLM",
+		"start": "2025-05-12T08:10:00",
+		"end": "2025-05-12T11:25:00"
 	},
 	{
 		"name": "A-M-AS",
@@ -490,8 +490,8 @@
 		"end": "2025-05-23T15:40:00"
 	},
 	{
-		"name": "EuI-M-WPP-VLM",
-		"location": "",
+		"name": "EuI-M-WP-VLM",
+		"location": "1401",
 		"description": "Dozent: VLM",
 		"start": "2025-05-19T08:10:00",
 		"end": "2025-05-19T11:25:00"
@@ -547,7 +547,7 @@
 	},
 	{
 		"name": "EuI-M-WP-VLM",
-		"location": "1401, 1465",
+		"location": "1401",
 		"description": "Dozent: VLM",
 		"start": "2025-05-26T08:10:00",
 		"end": "2025-05-26T11:25:00"
@@ -616,8 +616,8 @@
 		"end": "2025-06-06T15:40:00"
 	},
 	{
-		"name": "EuI-M-WP-VLM",
-		"location": "1401, 1465",
+		"name": "EuI-M-WPP-VLM",
+		"location": "0565",
 		"description": "Dozent: VLM",
 		"start": "2025-06-02T08:10:00",
 		"end": "2025-06-02T11:25:00"
@@ -700,8 +700,8 @@
 		"end": "2025-06-13T15:40:00"
 	},
 	{
-		"name": "EuI-M-WPP-VLM",
-		"location": "",
+		"name": "EuI-M-WP-VLM",
+		"location": "1401",
 		"description": "Dozent: VLM",
 		"start": "2025-06-10T08:10:00",
 		"end": "2025-06-10T11:25:00"
@@ -757,7 +757,7 @@
 	},
 	{
 		"name": "EuI-M-WP-VLM",
-		"location": "1401, 1465",
+		"location": "1401",
 		"description": "Dozent: VLM",
 		"start": "2025-06-16T08:10:00",
 		"end": "2025-06-16T11:25:00"
@@ -819,13 +819,6 @@
 		"end": "2025-06-26T11:25:00"
 	},
 	{
-		"name": "EuI-M-WP-VLM",
-		"location": "1401, 1465",
-		"description": "Dozent: VLM",
-		"start": "2025-06-23T08:10:00",
-		"end": "2025-06-23T11:25:00"
-	},
-	{
 		"name": "EuI-M-WP-WNC",
 		"location": "0861",
 		"description": "Dozent: WNC",
@@ -838,6 +831,13 @@
 		"description": "Dozent: WNC/EBEL",
 		"start": "2025-06-27T08:10:00",
 		"end": "2025-06-27T11:25:00"
+	},
+	{
+		"name": "EuI-M-WPP-VLM",
+		"location": "1365",
+		"description": "Dozent: VLM",
+		"start": "2025-06-23T08:10:00",
+		"end": "2025-06-23T11:25:00"
 	},
 	{
 		"name": "EuI-M-WPP-WNK-01",
@@ -882,8 +882,8 @@
 		"end": "2025-07-03T11:25:00"
 	},
 	{
-		"name": "EuI-M-WPP-VLM",
-		"location": "",
+		"name": "EuI-M-WP-VLM",
+		"location": "1401",
 		"description": "Dozent: VLM",
 		"start": "2025-06-30T08:10:00",
 		"end": "2025-06-30T11:25:00"
@@ -918,7 +918,7 @@
 	},
 	{
 		"name": "EuI-M-WP-VLM",
-		"location": "1401, 1465",
+		"location": "1401",
 		"description": "Dozent: VLM",
 		"start": "2025-07-07T08:10:00",
 		"end": "2025-07-07T11:25:00"

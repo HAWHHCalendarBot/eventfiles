@@ -23,14 +23,14 @@
 	{
 		"name": "BMT5-BU",
 		"location": "Stiftstr69  R106",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-04-09T12:10:00",
 		"end": "2025-04-09T15:40:00"
 	},
 	{
 		"name": "BMT5-BU",
 		"location": "0560",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-04-11T12:10:00",
 		"end": "2025-04-11T15:40:00"
 	},
@@ -58,7 +58,7 @@
 	{
 		"name": "BMT5-BU",
 		"location": "Stiftstr69  R106",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-04-16T12:10:00",
 		"end": "2025-04-16T15:40:00"
 	},
@@ -86,7 +86,7 @@
 	{
 		"name": "BMT5-BU",
 		"location": "0560",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-04-25T12:10:00",
 		"end": "2025-04-25T15:40:00"
 	},
@@ -121,21 +121,21 @@
 	{
 		"name": "BMT5-BUP-01",
 		"location": "0401, 0402",
-		"description": "Dozent: NN1/EBEL",
+		"description": "Dozent: Wuerger/EBEL",
 		"start": "2025-04-30T12:10:00",
 		"end": "2025-04-30T15:40:00"
 	},
 	{
 		"name": "BMT5-BUP-02",
 		"location": "0401, 0402",
-		"description": "Dozent: NN1/EBEL",
+		"description": "Dozent: Wuerger/EBEL",
 		"start": "2025-04-30T12:10:00",
 		"end": "2025-04-30T15:40:00"
 	},
 	{
 		"name": "BMT5-BU",
 		"location": "0560",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-05-02T12:10:00",
 		"end": "2025-05-02T15:40:00"
 	},
@@ -163,7 +163,7 @@
 	{
 		"name": "BMT5-BU",
 		"location": "0560",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-05-09T12:10:00",
 		"end": "2025-05-09T15:40:00"
 	},
@@ -289,21 +289,21 @@
 	{
 		"name": "BMT5-BU",
 		"location": "0560",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-05-16T12:10:00",
 		"end": "2025-05-16T15:40:00"
 	},
 	{
 		"name": "BMT5-BU",
 		"location": "0560",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-06-06T12:10:00",
 		"end": "2025-06-06T15:40:00"
 	},
 	{
 		"name": "BMT5-BU",
 		"location": "0560",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-06-27T12:10:00",
 		"end": "2025-06-27T15:40:00"
 	},
@@ -331,7 +331,7 @@
 	{
 		"name": "BMT5-BUP-01",
 		"location": "0401, 0402",
-		"description": "Dozent: NN1/EBEL",
+		"description": "Dozent: Wuerger/EBEL",
 		"start": "2025-05-23T12:10:00",
 		"end": "2025-05-23T15:40:00"
 	},
@@ -359,7 +359,7 @@
 	{
 		"name": "BMT5-BUP-02",
 		"location": "0401, 0402",
-		"description": "Dozent: NN1/EBEL",
+		"description": "Dozent: Wuerger/EBEL",
 		"start": "2025-05-28T12:10:00",
 		"end": "2025-05-28T15:40:00"
 	},
@@ -373,7 +373,7 @@
 	{
 		"name": "BMT5-BU",
 		"location": "0560",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-05-30T12:10:00",
 		"end": "2025-05-30T15:40:00"
 	},
@@ -394,7 +394,7 @@
 	{
 		"name": "BMT5-BUP-01",
 		"location": "0401, 0402",
-		"description": "Dozent: NN1/EBEL",
+		"description": "Dozent: Wuerger/EBEL",
 		"start": "2025-06-13T12:10:00",
 		"end": "2025-06-13T15:40:00"
 	},
@@ -429,7 +429,7 @@
 	{
 		"name": "BMT5-BUP-02",
 		"location": "0401, 0402",
-		"description": "Dozent: NN1/EBEL",
+		"description": "Dozent: Wuerger/EBEL",
 		"start": "2025-06-18T12:10:00",
 		"end": "2025-06-18T15:40:00"
 	},
@@ -443,7 +443,7 @@
 	{
 		"name": "BMT5-BU",
 		"location": "0560",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-06-20T12:10:00",
 		"end": "2025-06-20T15:40:00"
 	},
@@ -457,7 +457,7 @@
 	{
 		"name": "BMT5-BUP-01",
 		"location": "0401, 0402",
-		"description": "Dozent: NN1/EBEL",
+		"description": "Dozent: Wuerger/EBEL",
 		"start": "2025-07-04T12:10:00",
 		"end": "2025-07-04T15:40:00"
 	},
@@ -478,7 +478,7 @@
 	{
 		"name": "BMT5-BUP-02",
 		"location": "0401, 0402",
-		"description": "Dozent: NN1/EBEL",
+		"description": "Dozent: Wuerger/EBEL",
 		"start": "2025-07-09T12:10:00",
 		"end": "2025-07-09T15:40:00"
 	},
@@ -492,7 +492,7 @@
 	{
 		"name": "BMT5-BU",
 		"location": "0560",
-		"description": "Dozent: NN1",
+		"description": "Dozent: Wuerger",
 		"start": "2025-07-11T12:10:00",
 		"end": "2025-07-11T15:40:00"
 	}

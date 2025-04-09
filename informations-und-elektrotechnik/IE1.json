@@ -168,13 +168,6 @@
 		"end": "2025-05-02T11:25:00"
 	},
 	{
-		"name": "IE1-LSE1-01",
-		"location": "1281",
-		"description": "Dozent: MCCB",
-		"start": "2025-04-30T12:10:00",
-		"end": "2025-04-30T15:40:00"
-	},
-	{
 		"name": "IE1-SOL1-03",
 		"location": "1303a, 1303b",
 		"description": "Dozent: Pikora",
@@ -201,6 +194,27 @@
 		"description": "Dozent: LZRB",
 		"start": "2025-04-28T08:10:00",
 		"end": "2025-04-28T09:40:00"
+	},
+	{
+		"name": "IE1-LSE1-01",
+		"location": "1281",
+		"description": "Dozent: MCCB",
+		"start": "2025-04-28T12:10:00",
+		"end": "2025-04-28T15:40:00"
+	},
+	{
+		"name": "IE1-EEL1-03",
+		"location": "0501, 0565",
+		"description": "Dozent: LAP/WTMR",
+		"start": "2025-04-30T12:10:00",
+		"end": "2025-04-30T15:40:00"
+	},
+	{
+		"name": "IE1-EEL1-04",
+		"location": "0501, 0565",
+		"description": "Dozent: LAP/WTMR",
+		"start": "2025-04-30T12:10:00",
+		"end": "2025-04-30T15:40:00"
 	},
 	{
 		"name": "IE1-SOL1-02",
@@ -267,13 +281,6 @@
 	},
 	{
 		"name": "IE1-EEL1-02",
-		"location": "0501, 0565",
-		"description": "Dozent: LAP/WTMR",
-		"start": "2025-05-05T12:10:00",
-		"end": "2025-05-05T15:40:00"
-	},
-	{
-		"name": "IE1-EEL1-03",
 		"location": "0501, 0565",
 		"description": "Dozent: LAP/WTMR",
 		"start": "2025-05-05T12:10:00",
@@ -441,6 +448,13 @@
 		"end": "2025-05-19T09:40:00"
 	},
 	{
+		"name": "IE1-EEL1-04",
+		"location": "0501, 1301a",
+		"description": "Dozent: LAP/WTMR",
+		"start": "2025-05-20T08:10:00",
+		"end": "2025-05-20T11:25:00"
+	},
+	{
 		"name": "IE1-SOL1-01",
 		"location": "1365",
 		"description": "Dozent: Pikora",
@@ -579,6 +593,13 @@
 		"description": "Dozent: LZRB",
 		"start": "2025-06-02T08:10:00",
 		"end": "2025-06-02T09:40:00"
+	},
+	{
+		"name": "IE1-EEL1-04",
+		"location": "0501, 1301a",
+		"description": "Dozent: LAP/WTMR",
+		"start": "2025-06-03T08:10:00",
+		"end": "2025-06-03T11:25:00"
 	},
 	{
 		"name": "IE1-EEL1-02",
@@ -929,5 +950,12 @@
 		"description": "Dozent: LZRB",
 		"start": "2025-07-07T08:10:00",
 		"end": "2025-07-07T09:40:00"
+	},
+	{
+		"name": "IE1-EEL1-04",
+		"location": "0501, 1301a",
+		"description": "Dozent: LAP/WTMR",
+		"start": "2025-07-08T08:10:00",
+		"end": "2025-07-08T11:25:00"
 	}
 ]

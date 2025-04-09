@@ -350,6 +350,13 @@
 		"end": "2025-05-08T15:40:00"
 	},
 	{
+		"name": "E1a-PR1_Tutorium",
+		"location": "1365",
+		"description": "",
+		"start": "2025-05-07T16:00:00",
+		"end": "2025-05-07T17:30:00"
+	},
+	{
 		"name": "E1a-LA",
 		"location": "NB 01.13",
 		"description": "Dozent: HSL",
@@ -455,6 +462,13 @@
 		"end": "2025-05-16T15:40:00"
 	},
 	{
+		"name": "E1a-PR1_Tutorium",
+		"location": "1365",
+		"description": "",
+		"start": "2025-05-14T16:00:00",
+		"end": "2025-05-14T17:30:00"
+	},
+	{
 		"name": "E1a-ANUe1-01",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: DRK",
@@ -544,6 +558,13 @@
 		"description": "Dozent: HSE",
 		"start": "2025-05-23T12:10:00",
 		"end": "2025-05-23T15:40:00"
+	},
+	{
+		"name": "E1a-PR1_Tutorium",
+		"location": "1365",
+		"description": "",
+		"start": "2025-05-21T16:00:00",
+		"end": "2025-05-21T17:30:00"
 	},
 	{
 		"name": "E1a-LA",
@@ -644,6 +665,13 @@
 		"end": "2025-05-30T15:40:00"
 	},
 	{
+		"name": "E1a-PR1_Tutorium",
+		"location": "1365",
+		"description": "",
+		"start": "2025-05-28T16:00:00",
+		"end": "2025-05-28T17:30:00"
+	},
+	{
 		"name": "E1a-LAUe-01",
 		"location": "1281",
 		"description": "Dozent: FRDL",
@@ -733,6 +761,13 @@
 		"description": "Dozent: AHSD/[Rac]",
 		"start": "2025-06-05T12:10:00",
 		"end": "2025-06-05T15:40:00"
+	},
+	{
+		"name": "E1a-PR1_Tutorium",
+		"location": "1365",
+		"description": "",
+		"start": "2025-06-04T16:00:00",
+		"end": "2025-06-04T17:30:00"
 	},
 	{
 		"name": "E1a-ANUe1-01",
@@ -840,6 +875,13 @@
 		"end": "2025-06-13T15:40:00"
 	},
 	{
+		"name": "E1a-PR1_Tutorium",
+		"location": "1365",
+		"description": "",
+		"start": "2025-06-11T16:00:00",
+		"end": "2025-06-11T17:30:00"
+	},
+	{
 		"name": "E1a-LA",
 		"location": "NB 01.13",
 		"description": "Dozent: HSL",
@@ -908,6 +950,13 @@
 		"description": "Dozent: HSE",
 		"start": "2025-06-20T12:10:00",
 		"end": "2025-06-20T15:40:00"
+	},
+	{
+		"name": "E1a-PR1_Tutorium",
+		"location": "1365",
+		"description": "",
+		"start": "2025-06-18T16:00:00",
+		"end": "2025-06-18T17:30:00"
 	},
 	{
 		"name": "E1a-ANUe1-01",
@@ -1029,6 +1078,13 @@
 		"end": "2025-06-26T15:40:00"
 	},
 	{
+		"name": "E1a-PR1_Tutorium",
+		"location": "1365",
+		"description": "",
+		"start": "2025-06-25T16:00:00",
+		"end": "2025-06-25T17:30:00"
+	},
+	{
 		"name": "E1a-LA",
 		"location": "NB 01.13",
 		"description": "Dozent: HSL",
@@ -1118,6 +1174,13 @@
 		"description": "Dozent: HSE",
 		"start": "2025-07-04T12:10:00",
 		"end": "2025-07-04T15:40:00"
+	},
+	{
+		"name": "E1a-PR1_Tutorium",
+		"location": "1365",
+		"description": "",
+		"start": "2025-07-02T16:00:00",
+		"end": "2025-07-02T17:30:00"
 	},
 	{
 		"name": "E1a-ANUe1-01",
@@ -1216,6 +1279,13 @@
 		"description": "Dozent: HSE",
 		"start": "2025-07-11T12:10:00",
 		"end": "2025-07-11T15:40:00"
+	},
+	{
+		"name": "E1a-PR1_Tutorium",
+		"location": "1365",
+		"description": "",
+		"start": "2025-07-09T16:00:00",
+		"end": "2025-07-09T17:30:00"
 	},
 	{
 		"name": "E1a-LAUe-02",

@@ -22,10 +22,10 @@
 	},
 	{
 		"name": "B-REE6-IK",
-		"location": "Stiftstr69  R106",
+		"location": "1265",
 		"description": "Dozent: EGR",
-		"start": "2025-04-29T12:10:00",
-		"end": "2025-04-29T15:40:00"
+		"start": "2025-04-23T08:10:00",
+		"end": "2025-04-23T11:25:00"
 	},
 	{
 		"name": "B-REE6-IK",
@@ -36,17 +36,17 @@
 	},
 	{
 		"name": "B-REE6-IK",
-		"location": "Stiftstr69  R106",
+		"location": "1265",
 		"description": "Dozent: EGR",
-		"start": "2025-05-13T12:10:00",
-		"end": "2025-05-13T15:40:00"
+		"start": "2025-05-07T08:10:00",
+		"end": "2025-05-07T11:25:00"
 	},
 	{
 		"name": "B-REE6-IK",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: EGR",
-		"start": "2025-05-20T12:10:00",
-		"end": "2025-05-20T15:40:00"
+		"start": "2025-05-13T12:10:00",
+		"end": "2025-05-13T15:40:00"
 	},
 	{
 		"name": "B-REE6-IK",
@@ -73,7 +73,7 @@
 		"name": "B-REE6-IK",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: EGR",
-		"start": "2025-06-17T12:10:00",
-		"end": "2025-06-17T15:40:00"
+		"start": "2025-07-01T12:10:00",
+		"end": "2025-07-01T15:40:00"
 	}
 ]

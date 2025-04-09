@@ -15,16 +15,16 @@
 	},
 	{
 		"name": "E4-ELP3-01",
-		"location": "0804",
+		"location": "0801",
 		"description": "Dozent: FTZ/[Gassinez]",
-		"start": "2025-06-17T12:10:00",
-		"end": "2025-06-17T15:40:00"
+		"start": "2025-06-10T12:10:00",
+		"end": "2025-06-10T15:40:00"
 	},
 	{
 		"name": "E4-ELP3-01",
-		"location": "0804",
+		"location": "0801",
 		"description": "Dozent: FTZ/[Gassinez]",
-		"start": "2025-07-08T12:10:00",
-		"end": "2025-07-08T15:40:00"
+		"start": "2025-06-30T12:10:00",
+		"end": "2025-06-30T15:40:00"
 	}
 ]
