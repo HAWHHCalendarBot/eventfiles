@@ -49,25 +49,11 @@
 		"end": "2025-05-08T15:45:00"
 	},
 	{
-		"name": "BAI2-LBP/01",
-		"location": "",
-		"description": "Dozent: HTMN",
-		"start": "2025-06-19T12:30:00",
-		"end": "2025-06-19T15:45:00"
-	},
-	{
 		"name": "BAI2-LB",
 		"location": "",
 		"description": "Dozent: HTMN",
 		"start": "2025-05-06T12:30:00",
 		"end": "2025-05-06T15:45:00"
-	},
-	{
-		"name": "BAI2-LB",
-		"location": "",
-		"description": "Dozent: HTMN",
-		"start": "2025-06-17T12:30:00",
-		"end": "2025-06-17T15:45:00"
 	},
 	{
 		"name": "BAI2-LBP/01",
@@ -105,25 +91,11 @@
 		"end": "2025-05-22T15:45:00"
 	},
 	{
-		"name": "BAI2-LBP/01",
-		"location": "",
-		"description": "Dozent: HTMN",
-		"start": "2025-07-03T12:30:00",
-		"end": "2025-07-03T15:45:00"
-	},
-	{
 		"name": "BAI2-LB",
 		"location": "",
 		"description": "Dozent: HTMN",
 		"start": "2025-05-20T12:30:00",
 		"end": "2025-05-20T15:45:00"
-	},
-	{
-		"name": "BAI2-LB",
-		"location": "",
-		"description": "Dozent: HTMN",
-		"start": "2025-07-01T12:30:00",
-		"end": "2025-07-01T15:45:00"
 	},
 	{
 		"name": "BAI2-LB",
@@ -157,6 +129,34 @@
 		"name": "BAI2-LBP/01",
 		"location": "",
 		"description": "Dozent: HTMN",
+		"start": "2025-06-19T12:30:00",
+		"end": "2025-06-19T15:45:00"
+	},
+	{
+		"name": "BAI2-LB",
+		"location": "",
+		"description": "Dozent: HTMN",
+		"start": "2025-06-17T12:30:00",
+		"end": "2025-06-17T15:45:00"
+	},
+	{
+		"name": "BAI2-LBP/01",
+		"location": "",
+		"description": "Dozent: HTMN",
+		"start": "2025-07-03T12:30:00",
+		"end": "2025-07-03T15:45:00"
+	},
+	{
+		"name": "BAI2-LB",
+		"location": "",
+		"description": "Dozent: HTMN",
+		"start": "2025-07-01T12:30:00",
+		"end": "2025-07-01T15:45:00"
+	},
+	{
+		"name": "BAI2-LBP/01",
+		"location": "",
+		"description": "Dozent: HTMN",
 		"start": "2025-07-10T12:30:00",
 		"end": "2025-07-10T15:45:00"
 	},
@@ -166,13 +166,6 @@
 		"description": "Dozent: HTMN",
 		"start": "2025-07-08T12:30:00",
 		"end": "2025-07-08T15:45:00"
-	},
-	{
-		"name": "BAI4-ENG Einstufung",
-		"location": "",
-		"description": "",
-		"start": "2025-04-10T12:30:00",
-		"end": "2025-04-10T15:45:00"
 	},
 	{
 		"name": "BAI4-ENG Einstufung",
@@ -385,13 +378,6 @@
 		"end": "2025-07-18T17:15:00"
 	},
 	{
-		"name": "BAI5-SWA",
-		"location": "",
-		"description": "Dozent: LCKE",
-		"start": "2025-04-14T08:15:00",
-		"end": "2025-04-14T09:45:00"
-	},
-	{
 		"name": "INF-PRO 7",
 		"location": "",
 		"description": "Dozent: [Chr]",
@@ -577,20 +563,6 @@
 		"name": "BITS3-BSP/02",
 		"location": "",
 		"description": "Dozent: LNS/[Wag]",
-		"start": "2025-04-30T08:15:00",
-		"end": "2025-04-30T11:30:00"
-	},
-	{
-		"name": "BITS3-BS",
-		"location": "",
-		"description": "Dozent: LNS",
-		"start": "2025-04-30T14:00:00",
-		"end": "2025-04-30T17:15:00"
-	},
-	{
-		"name": "BITS3-BSP/03",
-		"location": "",
-		"description": "Dozent: LNS/[Wag]",
 		"start": "2025-05-07T08:15:00",
 		"end": "2025-05-07T11:30:00"
 	},
@@ -602,7 +574,7 @@
 		"end": "2025-05-07T17:15:00"
 	},
 	{
-		"name": "BITS3-BSP/01",
+		"name": "BITS3-BSP/03",
 		"location": "",
 		"description": "Dozent: LNS/[Wag]",
 		"start": "2025-05-14T08:15:00",
@@ -616,18 +588,11 @@
 		"end": "2025-05-14T17:15:00"
 	},
 	{
-		"name": "BITS3-BSP/02",
+		"name": "BITS3-BSP/01",
 		"location": "",
 		"description": "Dozent: LNS/[Wag]",
 		"start": "2025-05-21T08:15:00",
 		"end": "2025-05-21T11:30:00"
-	},
-	{
-		"name": "BITS3-BSP/02",
-		"location": "",
-		"description": "Dozent: LNS/[Wag]",
-		"start": "2025-06-18T08:15:00",
-		"end": "2025-06-18T11:30:00"
 	},
 	{
 		"name": "BITS3-BS",
@@ -637,14 +602,7 @@
 		"end": "2025-05-21T17:15:00"
 	},
 	{
-		"name": "BITS3-BS",
-		"location": "",
-		"description": "Dozent: LNS",
-		"start": "2025-06-18T14:00:00",
-		"end": "2025-06-18T17:15:00"
-	},
-	{
-		"name": "BITS3-BSP/03",
+		"name": "BITS3-BSP/02",
 		"location": "",
 		"description": "Dozent: LNS/[Wag]",
 		"start": "2025-05-28T08:15:00",
@@ -658,7 +616,7 @@
 		"end": "2025-05-28T17:15:00"
 	},
 	{
-		"name": "BITS3-BSP/01",
+		"name": "BITS3-BSP/03",
 		"location": "",
 		"description": "Dozent: LNS/[Wag]",
 		"start": "2025-06-04T08:15:00",
@@ -670,6 +628,34 @@
 		"description": "Dozent: LNS",
 		"start": "2025-06-04T14:00:00",
 		"end": "2025-06-04T17:15:00"
+	},
+	{
+		"name": "BITS3-BSP/01",
+		"location": "",
+		"description": "Dozent: LNS/[Wag]",
+		"start": "2025-06-11T08:15:00",
+		"end": "2025-06-11T11:30:00"
+	},
+	{
+		"name": "BITS3-BS",
+		"location": "",
+		"description": "Dozent: LNS",
+		"start": "2025-06-11T14:00:00",
+		"end": "2025-06-11T17:15:00"
+	},
+	{
+		"name": "BITS3-BSP/02",
+		"location": "",
+		"description": "Dozent: LNS/[Wag]",
+		"start": "2025-06-18T08:15:00",
+		"end": "2025-06-18T11:30:00"
+	},
+	{
+		"name": "BITS3-BS",
+		"location": "",
+		"description": "Dozent: LNS",
+		"start": "2025-06-18T14:00:00",
+		"end": "2025-06-18T17:15:00"
 	},
 	{
 		"name": "BITS3-BSP/03",

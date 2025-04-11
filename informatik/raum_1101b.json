@@ -140,13 +140,6 @@
 		"end": "2025-06-19T19:15:00"
 	},
 	{
-		"name": "BAI3-SEP1/02",
-		"location": "1101b",
-		"description": "Dozent: TAHE/[Dal]",
-		"start": "2025-07-10T16:00:00",
-		"end": "2025-07-10T19:15:00"
-	},
-	{
 		"name": "BAI3-SEP1/03",
 		"location": "1101b",
 		"description": "Dozent: TAHE/[Dal]",
@@ -159,6 +152,13 @@
 		"description": "Dozent: TAHE/[Dal]",
 		"start": "2025-07-03T16:00:00",
 		"end": "2025-07-03T19:15:00"
+	},
+	{
+		"name": "BAI3-SEP1/02",
+		"location": "1101b",
+		"description": "Dozent: TAHE/[Dal]",
+		"start": "2025-07-10T16:00:00",
+		"end": "2025-07-10T19:15:00"
 	},
 	{
 		"name": "BAI3-SEP1/03",
@@ -455,13 +455,6 @@
 		"end": "2025-05-20T11:30:00"
 	},
 	{
-		"name": "BITS3-ADP/02",
-		"location": "1101b",
-		"description": "Dozent: KLC",
-		"start": "2025-06-17T08:15:00",
-		"end": "2025-06-17T11:30:00"
-	},
-	{
 		"name": "BITS3-ADP/03",
 		"location": "1101b",
 		"description": "Dozent: KLC",
@@ -474,6 +467,13 @@
 		"description": "Dozent: KLC",
 		"start": "2025-06-03T08:15:00",
 		"end": "2025-06-03T11:30:00"
+	},
+	{
+		"name": "BITS3-ADP/02",
+		"location": "1101b",
+		"description": "Dozent: KLC",
+		"start": "2025-06-17T08:15:00",
+		"end": "2025-06-17T11:30:00"
 	},
 	{
 		"name": "BITS3-ADP/03",

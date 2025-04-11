@@ -42,25 +42,11 @@
 		"end": "2025-05-09T11:30:00"
 	},
 	{
-		"name": "BAI2-DB",
-		"location": "0405",
-		"description": "Dozent: ZKN",
-		"start": "2025-06-20T08:15:00",
-		"end": "2025-06-20T11:30:00"
-	},
-	{
 		"name": "BAI2-PM2",
 		"location": "0405",
 		"description": "Dozent: WND",
 		"start": "2025-05-06T08:15:00",
 		"end": "2025-05-06T11:30:00"
-	},
-	{
-		"name": "BAI2-PM2",
-		"location": "0405",
-		"description": "Dozent: WND",
-		"start": "2025-06-17T08:15:00",
-		"end": "2025-06-17T11:30:00"
 	},
 	{
 		"name": "BAI2-DB",
@@ -98,25 +84,11 @@
 		"end": "2025-05-23T11:30:00"
 	},
 	{
-		"name": "BAI2-DB",
-		"location": "0405",
-		"description": "Dozent: ZKN",
-		"start": "2025-07-04T08:15:00",
-		"end": "2025-07-04T11:30:00"
-	},
-	{
 		"name": "BAI2-PM2",
 		"location": "0405",
 		"description": "Dozent: WND",
 		"start": "2025-05-20T08:15:00",
 		"end": "2025-05-20T11:30:00"
-	},
-	{
-		"name": "BAI2-PM2",
-		"location": "0405",
-		"description": "Dozent: WND",
-		"start": "2025-07-01T08:15:00",
-		"end": "2025-07-01T11:30:00"
 	},
 	{
 		"name": "BAI2-DB",
@@ -152,6 +124,34 @@
 		"description": "Dozent: ZKN",
 		"start": "2025-06-13T08:15:00",
 		"end": "2025-06-13T11:30:00"
+	},
+	{
+		"name": "BAI2-DB",
+		"location": "0405",
+		"description": "Dozent: ZKN",
+		"start": "2025-06-20T08:15:00",
+		"end": "2025-06-20T11:30:00"
+	},
+	{
+		"name": "BAI2-PM2",
+		"location": "0405",
+		"description": "Dozent: WND",
+		"start": "2025-06-17T08:15:00",
+		"end": "2025-06-17T11:30:00"
+	},
+	{
+		"name": "BAI2-DB",
+		"location": "0405",
+		"description": "Dozent: ZKN",
+		"start": "2025-07-04T08:15:00",
+		"end": "2025-07-04T11:30:00"
+	},
+	{
+		"name": "BAI2-PM2",
+		"location": "0405",
+		"description": "Dozent: WND",
+		"start": "2025-07-01T08:15:00",
+		"end": "2025-07-01T11:30:00"
 	},
 	{
 		"name": "BAI2-DB",
@@ -241,13 +241,6 @@
 		"name": "BAI3-AD",
 		"location": "0405",
 		"description": "Dozent: JNK",
-		"start": "2025-07-11T12:30:00",
-		"end": "2025-07-11T15:45:00"
-	},
-	{
-		"name": "BAI3-AD",
-		"location": "0405",
-		"description": "Dozent: JNK",
 		"start": "2025-06-27T12:30:00",
 		"end": "2025-06-27T15:45:00"
 	},
@@ -257,6 +250,13 @@
 		"description": "Dozent: JNK",
 		"start": "2025-07-04T12:30:00",
 		"end": "2025-07-04T15:45:00"
+	},
+	{
+		"name": "BAI3-AD",
+		"location": "0405",
+		"description": "Dozent: JNK",
+		"start": "2025-07-11T12:30:00",
+		"end": "2025-07-11T15:45:00"
 	},
 	{
 		"name": "BAI3-AD",

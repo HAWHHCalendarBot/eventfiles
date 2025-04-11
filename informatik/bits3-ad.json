@@ -38,13 +38,6 @@
 		"name": "BITS3-AD",
 		"location": "Stiftstr69 R304a",
 		"description": "Dozent: KLC",
-		"start": "2025-06-16T12:30:00",
-		"end": "2025-06-16T15:45:00"
-	},
-	{
-		"name": "BITS3-AD",
-		"location": "Stiftstr69 R304a",
-		"description": "Dozent: KLC",
 		"start": "2025-05-26T12:30:00",
 		"end": "2025-05-26T15:45:00"
 	},
@@ -61,6 +54,13 @@
 		"description": "Dozent: KLC",
 		"start": "2025-06-10T12:30:00",
 		"end": "2025-06-10T15:45:00"
+	},
+	{
+		"name": "BITS3-AD",
+		"location": "Stiftstr69 R304a",
+		"description": "Dozent: KLC",
+		"start": "2025-06-16T12:30:00",
+		"end": "2025-06-16T15:45:00"
 	},
 	{
 		"name": "BITS3-AD",

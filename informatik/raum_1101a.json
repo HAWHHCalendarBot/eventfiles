@@ -189,25 +189,11 @@
 		"end": "2025-05-09T14:00:00"
 	},
 	{
-		"name": "BAI2-DBP/03",
-		"location": "1101a",
-		"description": "Dozent: ZKN",
-		"start": "2025-06-20T12:30:00",
-		"end": "2025-06-20T14:00:00"
-	},
-	{
 		"name": "BAI2-DBP/04",
 		"location": "1101a",
 		"description": "Dozent: ZKN",
 		"start": "2025-05-09T14:15:00",
 		"end": "2025-05-09T15:45:00"
-	},
-	{
-		"name": "BAI2-DBP/04",
-		"location": "1101a",
-		"description": "Dozent: ZKN",
-		"start": "2025-06-20T14:15:00",
-		"end": "2025-06-20T15:45:00"
 	},
 	{
 		"name": "BAI2-DBP/01",
@@ -245,25 +231,11 @@
 		"end": "2025-05-23T14:00:00"
 	},
 	{
-		"name": "BAI2-DBP/03",
-		"location": "1101a",
-		"description": "Dozent: ZKN",
-		"start": "2025-07-04T12:30:00",
-		"end": "2025-07-04T14:00:00"
-	},
-	{
 		"name": "BAI2-DBP/04",
 		"location": "1101a",
 		"description": "Dozent: ZKN",
 		"start": "2025-05-23T14:15:00",
 		"end": "2025-05-23T15:45:00"
-	},
-	{
-		"name": "BAI2-DBP/04",
-		"location": "1101a",
-		"description": "Dozent: ZKN",
-		"start": "2025-07-04T14:15:00",
-		"end": "2025-07-04T15:45:00"
 	},
 	{
 		"name": "BAI2-DBP/01",
@@ -308,6 +280,34 @@
 		"end": "2025-06-13T15:45:00"
 	},
 	{
+		"name": "BAI2-DBP/03",
+		"location": "1101a",
+		"description": "Dozent: ZKN",
+		"start": "2025-06-20T12:30:00",
+		"end": "2025-06-20T14:00:00"
+	},
+	{
+		"name": "BAI2-DBP/04",
+		"location": "1101a",
+		"description": "Dozent: ZKN",
+		"start": "2025-06-20T14:15:00",
+		"end": "2025-06-20T15:45:00"
+	},
+	{
+		"name": "BAI2-DBP/03",
+		"location": "1101a",
+		"description": "Dozent: ZKN",
+		"start": "2025-07-04T12:30:00",
+		"end": "2025-07-04T14:00:00"
+	},
+	{
+		"name": "BAI2-DBP/04",
+		"location": "1101a",
+		"description": "Dozent: ZKN",
+		"start": "2025-07-04T14:15:00",
+		"end": "2025-07-04T15:45:00"
+	},
+	{
 		"name": "BAI2-DBP/01",
 		"location": "1101a",
 		"description": "Dozent: ZKN",
@@ -336,13 +336,6 @@
 		"end": "2025-07-18T15:45:00"
 	},
 	{
-		"name": "BAI3-GKAP/02",
-		"location": "1101a",
-		"description": "Dozent: BAR",
-		"start": "2025-04-29T08:15:00",
-		"end": "2025-04-29T11:30:00"
-	},
-	{
 		"name": "BAI3-GKAP/04",
 		"location": "1101a",
 		"description": "Dozent: BAR",
@@ -350,7 +343,7 @@
 		"end": "2025-05-06T11:30:00"
 	},
 	{
-		"name": "BAI3-GKAP/05 opt.",
+		"name": "BAI3-GKAP/05",
 		"location": "1101a",
 		"description": "Dozent: BAR",
 		"start": "2025-05-13T08:15:00",
@@ -364,25 +357,11 @@
 		"end": "2025-05-27T11:30:00"
 	},
 	{
-		"name": "BAI3-GKAP/05 opt.",
+		"name": "BAI3-GKAP/05",
 		"location": "1101a",
 		"description": "Dozent: BAR",
 		"start": "2025-06-03T08:15:00",
 		"end": "2025-06-03T11:30:00"
-	},
-	{
-		"name": "BAI3-GKAP/05 opt.",
-		"location": "1101a",
-		"description": "Dozent: BAR",
-		"start": "2025-06-17T08:15:00",
-		"end": "2025-06-17T11:30:00"
-	},
-	{
-		"name": "BAI3-GKAP/05 opt.",
-		"location": "1101a",
-		"description": "Dozent: BAR",
-		"start": "2025-07-08T08:15:00",
-		"end": "2025-07-08T11:30:00"
 	},
 	{
 		"name": "BAI3-GKAP/04",
@@ -392,11 +371,11 @@
 		"end": "2025-06-24T11:30:00"
 	},
 	{
-		"name": "BAI3-GKAP/04",
+		"name": "BAI3-GKAP/05",
 		"location": "1101a",
 		"description": "Dozent: BAR",
-		"start": "2025-07-15T08:15:00",
-		"end": "2025-07-15T11:30:00"
+		"start": "2025-07-08T08:15:00",
+		"end": "2025-07-08T11:30:00"
 	},
 	{
 		"name": "BAI5-VSP/02",

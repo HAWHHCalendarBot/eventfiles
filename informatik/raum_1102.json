@@ -42,6 +42,48 @@
 		"end": "2025-07-16T15:45:00"
 	},
 	{
+		"name": "INF-WPP-A2/03",
+		"location": "1102",
+		"description": "Dozent: HMN",
+		"start": "2025-04-29T12:30:00",
+		"end": "2025-04-29T15:45:00"
+	},
+	{
+		"name": "INF-WPP-A2/03",
+		"location": "1102",
+		"description": "Dozent: HMN",
+		"start": "2025-05-13T12:30:00",
+		"end": "2025-05-13T15:45:00"
+	},
+	{
+		"name": "INF-WPP-A2/03",
+		"location": "1102",
+		"description": "Dozent: HMN",
+		"start": "2025-05-27T12:30:00",
+		"end": "2025-05-27T15:45:00"
+	},
+	{
+		"name": "INF-WPP-A2/03",
+		"location": "1102",
+		"description": "Dozent: HMN",
+		"start": "2025-06-17T12:30:00",
+		"end": "2025-06-17T15:45:00"
+	},
+	{
+		"name": "INF-WPP-A2/03",
+		"location": "1102",
+		"description": "Dozent: HMN",
+		"start": "2025-07-01T12:30:00",
+		"end": "2025-07-01T15:45:00"
+	},
+	{
+		"name": "INF-WPP-A2/03",
+		"location": "1102",
+		"description": "Dozent: HMN",
+		"start": "2025-07-15T12:30:00",
+		"end": "2025-07-15T15:45:00"
+	},
+	{
 		"name": "BITS2-DBP/02",
 		"location": "1102",
 		"description": "Dozent: PLSK",

@@ -7,25 +7,11 @@
 		"end": "2025-04-15T19:15:00"
 	},
 	{
-		"name": "INF-WP-A2",
-		"location": "0665",
-		"description": "Dozent: HMN",
-		"start": "2025-04-15T12:30:00",
-		"end": "2025-04-15T15:45:00"
-	},
-	{
 		"name": "BAI4-SE2",
 		"location": "0665",
 		"description": "Dozent: BUSC",
 		"start": "2025-04-22T16:00:00",
 		"end": "2025-04-22T19:15:00"
-	},
-	{
-		"name": "INF-WP-A2",
-		"location": "0665",
-		"description": "Dozent: HMN",
-		"start": "2025-04-22T12:30:00",
-		"end": "2025-04-22T15:45:00"
 	},
 	{
 		"name": "BAI4-SE2",
@@ -40,13 +26,6 @@
 		"description": "Dozent: BUSC",
 		"start": "2025-05-06T16:00:00",
 		"end": "2025-05-06T19:15:00"
-	},
-	{
-		"name": "INF-WP-A2",
-		"location": "0665",
-		"description": "Dozent: HMN",
-		"start": "2025-05-06T12:30:00",
-		"end": "2025-05-06T15:45:00"
 	},
 	{
 		"name": "GW BRSK_TE",
@@ -77,13 +56,6 @@
 		"end": "2025-05-20T19:15:00"
 	},
 	{
-		"name": "INF-WP-A2",
-		"location": "0665",
-		"description": "Dozent: HMN",
-		"start": "2025-05-20T12:30:00",
-		"end": "2025-05-20T15:45:00"
-	},
-	{
 		"name": "GW BRSK_TE",
 		"location": "0665",
 		"description": "Dozent: BRSK",
@@ -105,13 +77,6 @@
 		"end": "2025-06-03T19:15:00"
 	},
 	{
-		"name": "INF-WP-A2",
-		"location": "0665",
-		"description": "Dozent: HMN",
-		"start": "2025-06-03T12:30:00",
-		"end": "2025-06-03T15:45:00"
-	},
-	{
 		"name": "BAI4-SE2",
 		"location": "0665",
 		"description": "Dozent: BUSC",
@@ -126,13 +91,6 @@
 		"end": "2025-06-24T19:15:00"
 	},
 	{
-		"name": "INF-WP-A2",
-		"location": "0665",
-		"description": "Dozent: HMN",
-		"start": "2025-06-24T12:30:00",
-		"end": "2025-06-24T15:45:00"
-	},
-	{
 		"name": "BAI4-SE2",
 		"location": "0665",
 		"description": "Dozent: BUSC",
@@ -145,13 +103,6 @@
 		"description": "Dozent: BUSC",
 		"start": "2025-07-08T16:00:00",
 		"end": "2025-07-08T19:15:00"
-	},
-	{
-		"name": "INF-WP-A2",
-		"location": "0665",
-		"description": "Dozent: HMN",
-		"start": "2025-07-08T12:30:00",
-		"end": "2025-07-08T15:45:00"
 	},
 	{
 		"name": "BAI4-SE2",

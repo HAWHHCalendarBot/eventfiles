@@ -17,14 +17,14 @@
 		"name": "BITS3-ISSP/03",
 		"location": "0709",
 		"description": "Dozent: DHL/[DeG]",
-		"start": "2025-07-01T08:15:00",
-		"end": "2025-07-01T11:30:00"
+		"start": "2025-06-03T08:15:00",
+		"end": "2025-06-03T11:30:00"
 	},
 	{
 		"name": "BITS3-ISSP/03",
 		"location": "0709",
 		"description": "Dozent: DHL/[DeG]",
-		"start": "2025-06-03T08:15:00",
-		"end": "2025-06-03T11:30:00"
+		"start": "2025-07-01T08:15:00",
+		"end": "2025-07-01T11:30:00"
 	}
 ]

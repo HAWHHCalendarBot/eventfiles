@@ -1,33 +1,5 @@
 [
 	{
-		"name": "BAI1-OE I",
-		"location": "1001",
-		"description": "",
-		"start": "2025-04-01T09:00:00",
-		"end": "2025-04-01T17:00:00"
-	},
-	{
-		"name": "BAI1-OE I",
-		"location": "1001",
-		"description": "",
-		"start": "2025-04-02T09:00:00",
-		"end": "2025-04-02T17:00:00"
-	},
-	{
-		"name": "BAI1-OE I",
-		"location": "1001",
-		"description": "",
-		"start": "2025-04-03T09:00:00",
-		"end": "2025-04-03T17:00:00"
-	},
-	{
-		"name": "BAI1-OE I",
-		"location": "1001",
-		"description": "",
-		"start": "2025-04-04T09:00:00",
-		"end": "2025-04-04T17:00:00"
-	},
-	{
 		"name": "BAI1-PM1",
 		"location": "1001",
 		"description": "Dozent: JNK",
@@ -178,13 +150,6 @@
 		"name": "BAI3-SE1",
 		"location": "1001",
 		"description": "Dozent: AWIS",
-		"start": "2025-07-09T16:00:00",
-		"end": "2025-07-09T19:15:00"
-	},
-	{
-		"name": "BAI3-SE1",
-		"location": "1001",
-		"description": "Dozent: AWIS",
 		"start": "2025-06-25T16:00:00",
 		"end": "2025-06-25T19:15:00"
 	},
@@ -194,6 +159,13 @@
 		"description": "Dozent: AWIS",
 		"start": "2025-07-02T16:00:00",
 		"end": "2025-07-02T19:15:00"
+	},
+	{
+		"name": "BAI3-SE1",
+		"location": "1001",
+		"description": "Dozent: AWIS",
+		"start": "2025-07-09T16:00:00",
+		"end": "2025-07-09T19:15:00"
 	},
 	{
 		"name": "GW HLLS",
@@ -710,13 +682,6 @@
 		"name": "BITS3-SS",
 		"location": "1001",
 		"description": "Dozent: KSC",
-		"start": "2025-06-16T08:15:00",
-		"end": "2025-06-16T11:30:00"
-	},
-	{
-		"name": "BITS3-SS",
-		"location": "1001",
-		"description": "Dozent: KSC",
 		"start": "2025-05-26T08:15:00",
 		"end": "2025-05-26T11:30:00"
 	},
@@ -733,6 +698,13 @@
 		"description": "Dozent: KSC",
 		"start": "2025-06-10T08:15:00",
 		"end": "2025-06-10T11:30:00"
+	},
+	{
+		"name": "BITS3-SS",
+		"location": "1001",
+		"description": "Dozent: KSC",
+		"start": "2025-06-16T08:15:00",
+		"end": "2025-06-16T11:30:00"
 	},
 	{
 		"name": "BITS3-SS",

@@ -45,13 +45,6 @@
 		"name": "BITS3-SE1",
 		"location": "SteinD94 R0.01",
 		"description": "Dozent: SRS",
-		"start": "2025-06-20T08:15:00",
-		"end": "2025-06-20T11:30:00"
-	},
-	{
-		"name": "BITS3-SE1",
-		"location": "SteinD94 R0.01",
-		"description": "Dozent: SRS",
 		"start": "2025-05-30T08:15:00",
 		"end": "2025-05-30T11:30:00"
 	},
@@ -68,6 +61,13 @@
 		"description": "Dozent: SRS",
 		"start": "2025-06-13T08:15:00",
 		"end": "2025-06-13T11:30:00"
+	},
+	{
+		"name": "BITS3-SE1",
+		"location": "SteinD94 R0.01",
+		"description": "Dozent: SRS",
+		"start": "2025-06-20T08:15:00",
+		"end": "2025-06-20T11:30:00"
 	},
 	{
 		"name": "BITS3-SE1",

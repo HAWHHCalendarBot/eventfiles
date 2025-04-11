@@ -31,13 +31,6 @@
 		"name": "BAI2-PM2",
 		"location": "0405",
 		"description": "Dozent: WND",
-		"start": "2025-06-17T08:15:00",
-		"end": "2025-06-17T11:30:00"
-	},
-	{
-		"name": "BAI2-PM2",
-		"location": "0405",
-		"description": "Dozent: WND",
 		"start": "2025-05-13T08:15:00",
 		"end": "2025-05-13T11:30:00"
 	},
@@ -59,13 +52,6 @@
 		"name": "BAI2-PM2",
 		"location": "0405",
 		"description": "Dozent: WND",
-		"start": "2025-07-01T08:15:00",
-		"end": "2025-07-01T11:30:00"
-	},
-	{
-		"name": "BAI2-PM2",
-		"location": "0405",
-		"description": "Dozent: WND",
 		"start": "2025-05-27T08:15:00",
 		"end": "2025-05-27T11:30:00"
 	},
@@ -75,6 +61,20 @@
 		"description": "Dozent: WND",
 		"start": "2025-06-03T08:15:00",
 		"end": "2025-06-03T11:30:00"
+	},
+	{
+		"name": "BAI2-PM2",
+		"location": "0405",
+		"description": "Dozent: WND",
+		"start": "2025-06-17T08:15:00",
+		"end": "2025-06-17T11:30:00"
+	},
+	{
+		"name": "BAI2-PM2",
+		"location": "0405",
+		"description": "Dozent: WND",
+		"start": "2025-07-01T08:15:00",
+		"end": "2025-07-01T11:30:00"
 	},
 	{
 		"name": "BAI2-PM2",

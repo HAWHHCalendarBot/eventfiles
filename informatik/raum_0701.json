@@ -91,20 +91,6 @@
 		"end": "2025-07-08T15:45:00"
 	},
 	{
-		"name": "BITS1-PT Vorkurs",
-		"location": "0701",
-		"description": "Dozent: [NN]",
-		"start": "2025-04-10T09:00:00",
-		"end": "2025-04-10T16:00:00"
-	},
-	{
-		"name": "BITS1-PT Vorkurs",
-		"location": "0701",
-		"description": "Dozent: [NN]",
-		"start": "2025-04-11T09:00:00",
-		"end": "2025-04-11T16:00:00"
-	},
-	{
 		"name": "BITS1-GTP/04-06",
 		"location": "0701",
 		"description": "Dozent: KRF/[Ben]",
