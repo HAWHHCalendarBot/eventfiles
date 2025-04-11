@@ -59,13 +59,6 @@
 		"name": "IE2-MA2",
 		"location": "1260",
 		"description": "Dozent: NIDR",
-		"start": "2025-06-06T12:10:00",
-		"end": "2025-06-06T15:40:00"
-	},
-	{
-		"name": "IE2-MA2",
-		"location": "1260",
-		"description": "Dozent: NIDR",
 		"start": "2025-05-23T12:10:00",
 		"end": "2025-05-23T15:40:00"
 	},
@@ -75,6 +68,13 @@
 		"description": "Dozent: NIDR",
 		"start": "2025-05-30T12:10:00",
 		"end": "2025-05-30T15:40:00"
+	},
+	{
+		"name": "IE2-MA2",
+		"location": "1260",
+		"description": "Dozent: NIDR",
+		"start": "2025-06-06T12:10:00",
+		"end": "2025-06-06T15:40:00"
 	},
 	{
 		"name": "IE2-MA2",

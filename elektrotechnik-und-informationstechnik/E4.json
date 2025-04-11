@@ -1008,6 +1008,13 @@
 		"end": "2025-05-27T11:25:00"
 	},
 	{
+		"name": "E4-ELP3-02",
+		"location": "0804",
+		"description": "Dozent: FTZ/[Gassinez]",
+		"start": "2025-05-27T12:10:00",
+		"end": "2025-05-27T15:40:00"
+	},
+	{
 		"name": "E4-GN",
 		"location": "1405, 1465",
 		"description": "Dozent: VLM/WDL",
@@ -1043,13 +1050,6 @@
 		"end": "2025-06-06T11:25:00"
 	},
 	{
-		"name": "E4-ELP3-02",
-		"location": "0801",
-		"description": "Dozent: FTZ/[Gassinez]",
-		"start": "2025-06-02T12:10:00",
-		"end": "2025-06-02T15:40:00"
-	},
-	{
 		"name": "E4-GN",
 		"location": "1405",
 		"description": "Dozent: VLM",
@@ -1062,13 +1062,6 @@
 		"description": "Dozent: FTZ",
 		"start": "2025-06-13T08:10:00",
 		"end": "2025-06-13T11:25:00"
-	},
-	{
-		"name": "E4-ELP3-01",
-		"location": "0801",
-		"description": "Dozent: FTZ/[Gassinez]",
-		"start": "2025-06-10T12:10:00",
-		"end": "2025-06-10T15:40:00"
 	},
 	{
 		"name": "E4-GNP-01",
@@ -1085,6 +1078,13 @@
 		"end": "2025-06-19T15:40:00"
 	},
 	{
+		"name": "E4-ELP3-01",
+		"location": "0804",
+		"description": "Dozent: FTZ/[Gassinez]",
+		"start": "2025-06-17T12:10:00",
+		"end": "2025-06-17T15:40:00"
+	},
+	{
 		"name": "E4-EL3",
 		"location": "0801, 0862",
 		"description": "Dozent: FTZ",
@@ -1092,18 +1092,18 @@
 		"end": "2025-06-20T11:25:00"
 	},
 	{
-		"name": "E4-ELP3-02",
-		"location": "0801",
-		"description": "Dozent: FTZ/[Gassinez]",
-		"start": "2025-06-16T12:10:00",
-		"end": "2025-06-16T15:40:00"
-	},
-	{
 		"name": "E4-GNP-02",
 		"location": "1401",
 		"description": "Dozent: VLM/NGBR",
 		"start": "2025-06-24T08:10:00",
 		"end": "2025-06-24T11:25:00"
+	},
+	{
+		"name": "E4-ELP3-02",
+		"location": "0804",
+		"description": "Dozent: FTZ/[Gassinez]",
+		"start": "2025-06-24T12:10:00",
+		"end": "2025-06-24T15:40:00"
 	},
 	{
 		"name": "E4-GN",
@@ -1127,17 +1127,17 @@
 		"end": "2025-07-03T15:40:00"
 	},
 	{
-		"name": "E4-ELP3-01",
-		"location": "0801",
-		"description": "Dozent: FTZ/[Gassinez]",
-		"start": "2025-06-30T12:10:00",
-		"end": "2025-06-30T15:40:00"
-	},
-	{
 		"name": "E4-GNP-01",
 		"location": "1401",
 		"description": "Dozent: VLM/NGBR",
 		"start": "2025-07-08T08:10:00",
 		"end": "2025-07-08T11:25:00"
+	},
+	{
+		"name": "E4-ELP3-01",
+		"location": "0804",
+		"description": "Dozent: FTZ/[Gassinez]",
+		"start": "2025-07-08T12:10:00",
+		"end": "2025-07-08T15:40:00"
 	}
 ]

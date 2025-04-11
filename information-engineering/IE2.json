@@ -147,13 +147,6 @@
 		"end": "2025-04-23T11:25:00"
 	},
 	{
-		"name": "IE2-ELL1-03",
-		"location": "0505",
-		"description": "Dozent: RDT",
-		"start": "2025-04-23T08:10:00",
-		"end": "2025-04-23T11:25:00"
-	},
-	{
 		"name": "IE2-MA2",
 		"location": "1260",
 		"description": "Dozent: NIDR",
@@ -168,22 +161,15 @@
 		"end": "2025-04-24T15:40:00"
 	},
 	{
-		"name": "IE2-SOL2-01",
-		"location": "1301a, 1301b, 1303a, 1303b",
-		"description": "Dozent: GTF",
-		"start": "2025-04-23T12:10:00",
-		"end": "2025-04-23T15:40:00"
-	},
-	{
-		"name": "IE2-SOL2-02",
-		"location": "1301a, 1301b, 1303a, 1303b",
-		"description": "Dozent: GTF",
-		"start": "2025-04-23T12:10:00",
-		"end": "2025-04-23T15:40:00"
-	},
-	{
 		"name": "IE2-SOL2-03",
-		"location": "1301a, 1301b, 1303a, 1303b",
+		"location": "1301a, 1301b",
+		"description": "Dozent: GTF",
+		"start": "2025-04-23T12:10:00",
+		"end": "2025-04-23T15:40:00"
+	},
+	{
+		"name": "IE2-SOL2-04",
+		"location": "1301a, 1301b",
 		"description": "Dozent: GTF",
 		"start": "2025-04-23T12:10:00",
 		"end": "2025-04-23T15:40:00"
@@ -243,6 +229,34 @@
 		"description": "Dozent: NIDR",
 		"start": "2025-04-30T09:55:00",
 		"end": "2025-04-30T11:25:00"
+	},
+	{
+		"name": "IE2-ELL1-03",
+		"location": "0505",
+		"description": "Dozent: RDT",
+		"start": "2025-04-28T12:10:00",
+		"end": "2025-04-28T15:40:00"
+	},
+	{
+		"name": "IE2-ELL1-04",
+		"location": "0505",
+		"description": "Dozent: RDT",
+		"start": "2025-04-28T12:10:00",
+		"end": "2025-04-28T15:40:00"
+	},
+	{
+		"name": "IE2-SOL2-01",
+		"location": "1301a, 1301b",
+		"description": "Dozent: GTF",
+		"start": "2025-04-28T12:10:00",
+		"end": "2025-04-28T15:40:00"
+	},
+	{
+		"name": "IE2-SOL2-02",
+		"location": "1301a, 1301b",
+		"description": "Dozent: GTF",
+		"start": "2025-04-28T12:10:00",
+		"end": "2025-04-28T15:40:00"
 	},
 	{
 		"name": "IE2-MA2",
@@ -322,18 +336,18 @@
 		"end": "2025-05-08T11:25:00"
 	},
 	{
-		"name": "IE2-EEL2-03",
-		"location": "0501",
-		"description": "Dozent: LHN/WTMR",
-		"start": "2025-05-14T12:10:00",
-		"end": "2025-05-14T15:40:00"
+		"name": "IE2-ELL1-04",
+		"location": "0505",
+		"description": "Dozent: RDT",
+		"start": "2025-05-06T08:10:00",
+		"end": "2025-05-06T11:25:00"
 	},
 	{
 		"name": "IE2-EEL2-03",
 		"location": "0501",
 		"description": "Dozent: LHN/WTMR",
-		"start": "2025-06-04T12:10:00",
-		"end": "2025-06-04T15:40:00"
+		"start": "2025-05-14T12:10:00",
+		"end": "2025-05-14T15:40:00"
 	},
 	{
 		"name": "IE2-ELL1-01",
@@ -343,25 +357,11 @@
 		"end": "2025-05-14T11:25:00"
 	},
 	{
-		"name": "IE2-ELL1-01",
-		"location": "0505",
-		"description": "Dozent: RDT",
-		"start": "2025-06-04T08:10:00",
-		"end": "2025-06-04T11:25:00"
-	},
-	{
 		"name": "IE2-EE2",
 		"location": "0660",
 		"description": "Dozent: LHN",
 		"start": "2025-05-12T08:10:00",
 		"end": "2025-05-12T11:25:00"
-	},
-	{
-		"name": "IE2-EE2",
-		"location": "0660",
-		"description": "Dozent: LHN",
-		"start": "2025-06-02T08:10:00",
-		"end": "2025-06-02T11:25:00"
 	},
 	{
 		"name": "IE2-SOL2-01",
@@ -371,25 +371,11 @@
 		"end": "2025-05-14T15:40:00"
 	},
 	{
-		"name": "IE2-SOL2-01",
-		"location": "1365",
-		"description": "Dozent: GTF",
-		"start": "2025-06-04T12:10:00",
-		"end": "2025-06-04T15:40:00"
-	},
-	{
 		"name": "IE2-IC-01",
 		"location": "1281",
 		"description": "Dozent: SHOK",
 		"start": "2025-05-15T08:10:00",
 		"end": "2025-05-15T11:25:00"
-	},
-	{
-		"name": "IE2-IC-01",
-		"location": "1281",
-		"description": "Dozent: SHOK",
-		"start": "2025-06-05T08:10:00",
-		"end": "2025-06-05T11:25:00"
 	},
 	{
 		"name": "IE2-SO2",
@@ -399,25 +385,11 @@
 		"end": "2025-05-13T15:40:00"
 	},
 	{
-		"name": "IE2-SO2",
-		"location": "1260",
-		"description": "Dozent: GTF",
-		"start": "2025-06-03T12:10:00",
-		"end": "2025-06-03T15:40:00"
-	},
-	{
 		"name": "IE2-MA2",
 		"location": "1260",
 		"description": "Dozent: NIDR",
 		"start": "2025-05-16T12:10:00",
 		"end": "2025-05-16T15:40:00"
-	},
-	{
-		"name": "IE2-MA2",
-		"location": "1260",
-		"description": "Dozent: NIDR",
-		"start": "2025-06-06T12:10:00",
-		"end": "2025-06-06T15:40:00"
 	},
 	{
 		"name": "IE2-EL1",
@@ -427,25 +399,11 @@
 		"end": "2025-05-15T15:40:00"
 	},
 	{
-		"name": "IE2-EL1",
-		"location": "1260",
-		"description": "Dozent: RDT",
-		"start": "2025-06-05T12:10:00",
-		"end": "2025-06-05T15:40:00"
-	},
-	{
 		"name": "IE2-MAE2-02",
 		"location": "1065",
 		"description": "Dozent: NIDR",
 		"start": "2025-05-15T09:55:00",
 		"end": "2025-05-15T11:25:00"
-	},
-	{
-		"name": "IE2-MAE2-02",
-		"location": "1065",
-		"description": "Dozent: NIDR",
-		"start": "2025-06-05T09:55:00",
-		"end": "2025-06-05T11:25:00"
 	},
 	{
 		"name": "IE2-ELL1-02",
@@ -511,6 +469,13 @@
 		"end": "2025-05-22T11:25:00"
 	},
 	{
+		"name": "IE2-SOL2-04",
+		"location": "1301a, 1301b",
+		"description": "Dozent: GTF",
+		"start": "2025-05-19T12:10:00",
+		"end": "2025-05-19T15:40:00"
+	},
+	{
 		"name": "IE2-EEL2-02",
 		"location": "0501",
 		"description": "Dozent: LHN/WTMR",
@@ -558,6 +523,76 @@
 		"description": "Dozent: NIDR",
 		"start": "2025-05-30T12:10:00",
 		"end": "2025-05-30T15:40:00"
+	},
+	{
+		"name": "IE2-EEL2-03",
+		"location": "0501",
+		"description": "Dozent: LHN/WTMR",
+		"start": "2025-06-04T12:10:00",
+		"end": "2025-06-04T15:40:00"
+	},
+	{
+		"name": "IE2-ELL1-01",
+		"location": "0505",
+		"description": "Dozent: RDT",
+		"start": "2025-06-04T08:10:00",
+		"end": "2025-06-04T11:25:00"
+	},
+	{
+		"name": "IE2-EE2",
+		"location": "0660",
+		"description": "Dozent: LHN",
+		"start": "2025-06-02T08:10:00",
+		"end": "2025-06-02T11:25:00"
+	},
+	{
+		"name": "IE2-SOL2-01",
+		"location": "1365",
+		"description": "Dozent: GTF",
+		"start": "2025-06-04T12:10:00",
+		"end": "2025-06-04T15:40:00"
+	},
+	{
+		"name": "IE2-IC-01",
+		"location": "1281",
+		"description": "Dozent: SHOK",
+		"start": "2025-06-05T08:10:00",
+		"end": "2025-06-05T11:25:00"
+	},
+	{
+		"name": "IE2-SO2",
+		"location": "1260",
+		"description": "Dozent: GTF",
+		"start": "2025-06-03T12:10:00",
+		"end": "2025-06-03T15:40:00"
+	},
+	{
+		"name": "IE2-MA2",
+		"location": "1260",
+		"description": "Dozent: NIDR",
+		"start": "2025-06-06T12:10:00",
+		"end": "2025-06-06T15:40:00"
+	},
+	{
+		"name": "IE2-EL1",
+		"location": "1260",
+		"description": "Dozent: RDT",
+		"start": "2025-06-05T12:10:00",
+		"end": "2025-06-05T15:40:00"
+	},
+	{
+		"name": "IE2-MAE2-02",
+		"location": "1065",
+		"description": "Dozent: NIDR",
+		"start": "2025-06-05T09:55:00",
+		"end": "2025-06-05T11:25:00"
+	},
+	{
+		"name": "IE2-ELL1-04",
+		"location": "0505",
+		"description": "Dozent: RDT",
+		"start": "2025-06-03T08:10:00",
+		"end": "2025-06-03T11:25:00"
 	},
 	{
 		"name": "IE2-ELL1-02",
@@ -614,6 +649,13 @@
 		"description": "Dozent: NIDR",
 		"start": "2025-06-12T09:55:00",
 		"end": "2025-06-12T11:25:00"
+	},
+	{
+		"name": "IE2-SOL2-04",
+		"location": "1301a, 1301b",
+		"description": "Dozent: GTF",
+		"start": "2025-06-10T12:10:00",
+		"end": "2025-06-10T15:40:00"
 	},
 	{
 		"name": "IE2-EEL2-02",
@@ -749,6 +791,13 @@
 		"end": "2025-06-26T11:25:00"
 	},
 	{
+		"name": "IE2-ELL1-04",
+		"location": "0505",
+		"description": "Dozent: RDT",
+		"start": "2025-06-24T08:10:00",
+		"end": "2025-06-24T11:25:00"
+	},
+	{
 		"name": "IE2-ELL1-02",
 		"location": "0505",
 		"description": "Dozent: RDT",
@@ -810,6 +859,13 @@
 		"description": "Dozent: NIDR",
 		"start": "2025-07-03T09:55:00",
 		"end": "2025-07-03T11:25:00"
+	},
+	{
+		"name": "IE2-SOL2-04",
+		"location": "1301a, 1301b",
+		"description": "Dozent: GTF",
+		"start": "2025-06-30T12:10:00",
+		"end": "2025-06-30T15:40:00"
 	},
 	{
 		"name": "IE2-EEL2-02",

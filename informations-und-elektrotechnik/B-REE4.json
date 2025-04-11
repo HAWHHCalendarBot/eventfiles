@@ -182,13 +182,6 @@
 		"end": "2025-04-30T15:40:00"
 	},
 	{
-		"name": "B-REE4-DIP-01",
-		"location": "0801",
-		"description": "Dozent: BHRW/SHRR",
-		"start": "2025-04-30T08:10:00",
-		"end": "2025-04-30T11:25:00"
-	},
-	{
 		"name": "B-REE4-NSP-01",
 		"location": "1303a, 1303b",
 		"description": "Dozent: JNM",
@@ -229,6 +222,20 @@
 		"description": "Dozent: ERD/[Huss]",
 		"start": "2025-05-02T14:10:00",
 		"end": "2025-05-02T15:40:00"
+	},
+	{
+		"name": "B-REE4-DIP-01",
+		"location": "0801",
+		"description": "Dozent: BHRW/[Haarring]/SHRR",
+		"start": "2025-04-30T08:10:00",
+		"end": "2025-04-30T11:25:00"
+	},
+	{
+		"name": "B-REE4-DIP-02",
+		"location": "0801",
+		"description": "Dozent: BHRW/[Haarring]/SHRR",
+		"start": "2025-04-30T08:10:00",
+		"end": "2025-04-30T11:25:00"
 	},
 	{
 		"name": "B-REE4-NS",
@@ -289,7 +296,7 @@
 	{
 		"name": "B-REE4-DIP-02",
 		"location": "0801",
-		"description": "Dozent: SHRR/[Zein]",
+		"description": "Dozent: [Haarring]/SHRR/[Zein]",
 		"start": "2025-05-15T15:55:00",
 		"end": "2025-05-15T19:10:00"
 	},
@@ -534,7 +541,7 @@
 	{
 		"name": "B-REE4-DIP-02",
 		"location": "0801",
-		"description": "Dozent: SHRR/[Zein]",
+		"description": "Dozent: [Haarring]/SHRR/[Zein]",
 		"start": "2025-06-12T15:55:00",
 		"end": "2025-06-12T19:10:00"
 	},
@@ -702,7 +709,7 @@
 	{
 		"name": "B-REE4-DIP-02",
 		"location": "0801",
-		"description": "Dozent: SHRR/[Zein]",
+		"description": "Dozent: [Haarring]/SHRR/[Zein]",
 		"start": "2025-07-03T15:55:00",
 		"end": "2025-07-03T19:10:00"
 	},
