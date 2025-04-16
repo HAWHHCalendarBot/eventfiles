@@ -10,13 +10,6 @@
 		"name": "E4-RT",
 		"location": "0660",
 		"description": "Dozent: MNR",
-		"start": "2025-06-11T08:10:00",
-		"end": "2025-06-11T11:25:00"
-	},
-	{
-		"name": "E4-RT",
-		"location": "0660",
-		"description": "Dozent: MNR",
 		"start": "2025-04-16T08:10:00",
 		"end": "2025-04-16T11:25:00"
 	},
@@ -82,5 +75,12 @@
 		"description": "Dozent: MNR",
 		"start": "2025-05-28T08:10:00",
 		"end": "2025-05-28T11:25:00"
+	},
+	{
+		"name": "E4-RT",
+		"location": "0660",
+		"description": "Dozent: MNR",
+		"start": "2025-06-11T08:10:00",
+		"end": "2025-06-11T11:25:00"
 	}
 ]

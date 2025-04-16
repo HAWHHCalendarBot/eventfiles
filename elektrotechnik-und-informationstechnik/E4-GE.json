@@ -10,13 +10,6 @@
 		"name": "E4-GE",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: WNK",
-		"start": "2025-06-13T08:10:00",
-		"end": "2025-06-13T11:25:00"
-	},
-	{
-		"name": "E4-GE",
-		"location": "Stiftstr69  R106",
-		"description": "Dozent: WNK",
 		"start": "2025-04-25T08:10:00",
 		"end": "2025-04-25T11:25:00"
 	},
@@ -75,5 +68,12 @@
 		"description": "Dozent: WNK",
 		"start": "2025-05-30T08:10:00",
 		"end": "2025-05-30T11:25:00"
+	},
+	{
+		"name": "E4-GE",
+		"location": "Stiftstr69  R106",
+		"description": "Dozent: WNK",
+		"start": "2025-06-13T08:10:00",
+		"end": "2025-06-13T11:25:00"
 	}
 ]
