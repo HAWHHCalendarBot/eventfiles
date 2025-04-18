@@ -45,13 +45,6 @@
 		"name": "M.I20_ForschW_2",
 		"location": "Stiftstr69  R205",
 		"description": "Dozent: KSS/SKT",
-		"start": "2025-06-18T12:30:00",
-		"end": "2025-06-18T15:45:00"
-	},
-	{
-		"name": "M.I20_ForschW_2",
-		"location": "Stiftstr69  R205",
-		"description": "Dozent: KSS/SKT",
 		"start": "2025-06-25T12:30:00",
 		"end": "2025-06-25T15:45:00"
 	},
@@ -82,5 +75,12 @@
 		"description": "Dozent: KSS/SKT",
 		"start": "2025-06-11T12:30:00",
 		"end": "2025-06-11T15:45:00"
+	},
+	{
+		"name": "M.I20_ForschW_2",
+		"location": "Stiftstr69  R205",
+		"description": "Dozent: KSS/SKT",
+		"start": "2025-06-18T12:30:00",
+		"end": "2025-06-18T15:45:00"
 	}
 ]

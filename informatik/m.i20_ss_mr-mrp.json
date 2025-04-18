@@ -52,13 +52,6 @@
 		"name": "M.I20_SS_MR/MRP",
 		"location": "1283",
 		"description": "Dozent: JNK",
-		"start": "2025-06-17T12:30:00",
-		"end": "2025-06-17T15:45:00"
-	},
-	{
-		"name": "M.I20_SS_MR/MRP",
-		"location": "1283",
-		"description": "Dozent: JNK",
 		"start": "2025-06-24T12:30:00",
 		"end": "2025-06-24T15:45:00"
 	},
@@ -82,5 +75,12 @@
 		"description": "Dozent: JNK",
 		"start": "2025-05-27T12:30:00",
 		"end": "2025-05-27T15:45:00"
+	},
+	{
+		"name": "M.I20_SS_MR/MRP",
+		"location": "1283",
+		"description": "Dozent: JNK",
+		"start": "2025-06-17T12:30:00",
+		"end": "2025-06-17T15:45:00"
 	}
 ]

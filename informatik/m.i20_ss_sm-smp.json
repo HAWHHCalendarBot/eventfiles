@@ -45,13 +45,6 @@
 		"name": "M.I20_SS_SM/SMP",
 		"location": "0560",
 		"description": "Dozent: SMD",
-		"start": "2025-06-18T08:15:00",
-		"end": "2025-06-18T11:30:00"
-	},
-	{
-		"name": "M.I20_SS_SM/SMP",
-		"location": "0560",
-		"description": "Dozent: SMD",
 		"start": "2025-06-25T08:15:00",
 		"end": "2025-06-25T11:30:00"
 	},
@@ -82,5 +75,12 @@
 		"description": "Dozent: SMD",
 		"start": "2025-06-11T08:15:00",
 		"end": "2025-06-11T11:30:00"
+	},
+	{
+		"name": "M.I20_SS_SM/SMP",
+		"location": "0560",
+		"description": "Dozent: SMD",
+		"start": "2025-06-18T08:15:00",
+		"end": "2025-06-18T11:30:00"
 	}
 ]

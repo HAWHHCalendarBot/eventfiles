@@ -546,6 +546,20 @@
 		"end": "2025-06-05T11:30:00"
 	},
 	{
+		"name": "BITS1-MSP/04",
+		"location": "0709",
+		"description": "Dozent: KSC",
+		"start": "2025-05-08T16:00:00",
+		"end": "2025-05-08T19:15:00"
+	},
+	{
+		"name": "BITS1-MSP/04",
+		"location": "0709",
+		"description": "Dozent: KSC",
+		"start": "2025-06-05T16:00:00",
+		"end": "2025-06-05T19:15:00"
+	},
+	{
 		"name": "BITS1-MSP/01",
 		"location": "0709",
 		"description": "Dozent: KSC/[DeG]",
@@ -581,6 +595,13 @@
 		"end": "2025-06-26T11:30:00"
 	},
 	{
+		"name": "BITS1-MSP/04",
+		"location": "0709",
+		"description": "Dozent: KSC",
+		"start": "2025-06-26T16:00:00",
+		"end": "2025-06-26T19:15:00"
+	},
+	{
 		"name": "BITS1-MSP/01",
 		"location": "0709",
 		"description": "Dozent: KSC/[DeG]",
@@ -602,11 +623,11 @@
 		"end": "2025-07-17T11:30:00"
 	},
 	{
-		"name": "BITS3-ISSP/03",
+		"name": "BITS1-MSP/04",
 		"location": "0709",
-		"description": "Dozent: DHL/[DeG]",
-		"start": "2025-04-22T08:15:00",
-		"end": "2025-04-22T11:30:00"
+		"description": "Dozent: KSC",
+		"start": "2025-07-17T16:00:00",
+		"end": "2025-07-17T19:15:00"
 	},
 	{
 		"name": "BITS3-ISSP/01",
@@ -623,13 +644,6 @@
 		"end": "2025-05-06T11:30:00"
 	},
 	{
-		"name": "BITS3-ISSP/03",
-		"location": "0709",
-		"description": "Dozent: DHL/[DeG]",
-		"start": "2025-05-13T08:15:00",
-		"end": "2025-05-13T11:30:00"
-	},
-	{
 		"name": "BITS3-ISSP/01",
 		"location": "0709",
 		"description": "Dozent: DHL/[DeG]",
@@ -642,13 +656,6 @@
 		"description": "Dozent: DHL/[DeG]",
 		"start": "2025-05-27T08:15:00",
 		"end": "2025-05-27T11:30:00"
-	},
-	{
-		"name": "BITS3-ISSP/03",
-		"location": "0709",
-		"description": "Dozent: DHL/[DeG]",
-		"start": "2025-06-03T08:15:00",
-		"end": "2025-06-03T11:30:00"
 	},
 	{
 		"name": "BITS3-ISSP/01",
@@ -670,13 +677,6 @@
 		"description": "Dozent: DHL/[DeG]",
 		"start": "2025-06-24T08:15:00",
 		"end": "2025-06-24T11:30:00"
-	},
-	{
-		"name": "BITS3-ISSP/03",
-		"location": "0709",
-		"description": "Dozent: DHL/[DeG]",
-		"start": "2025-07-01T08:15:00",
-		"end": "2025-07-01T11:30:00"
 	},
 	{
 		"name": "BITS3-ISSP/02",
