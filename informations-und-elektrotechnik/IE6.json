@@ -98,6 +98,13 @@
 		"end": "2025-04-24T15:40:00"
 	},
 	{
+		"name": "IE6-OSL-03",
+		"location": "0880",
+		"description": "Dozent: WSTK/[Gassinez]",
+		"start": "2025-04-24T12:10:00",
+		"end": "2025-04-24T15:40:00"
+	},
+	{
 		"name": "IE5-SP",
 		"location": "1281",
 		"description": "Dozent: BECK",
@@ -308,6 +315,13 @@
 		"end": "2025-05-16T15:40:00"
 	},
 	{
+		"name": "IE6-OSL-03",
+		"location": "0880",
+		"description": "Dozent: WSTK/[Gassinez]",
+		"start": "2025-05-15T08:10:00",
+		"end": "2025-05-15T11:25:00"
+	},
+	{
 		"name": "IE6-BUL-02",
 		"location": "0804, 0865",
 		"description": "Dozent: RTT",
@@ -511,6 +525,13 @@
 		"end": "2025-06-11T15:40:00"
 	},
 	{
+		"name": "IE6-OSL-03",
+		"location": "0880",
+		"description": "Dozent: WSTK/[Gassinez]",
+		"start": "2025-06-12T08:10:00",
+		"end": "2025-06-12T11:25:00"
+	},
+	{
 		"name": "IE6-DCL-02",
 		"location": "1485",
 		"description": "Dozent: SHN/NGBR",
@@ -607,6 +628,13 @@
 		"description": "Dozent: GRS",
 		"start": "2025-06-24T12:10:00",
 		"end": "2025-06-24T15:40:00"
+	},
+	{
+		"name": "IE6-OSL-03",
+		"location": "0880",
+		"description": "Dozent: WSTK/[Gassinez]",
+		"start": "2025-06-25T12:10:00",
+		"end": "2025-06-25T15:40:00"
 	},
 	{
 		"name": "IE6-BUL-02",

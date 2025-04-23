@@ -31,13 +31,6 @@
 		"name": "E4-MP",
 		"location": "NB 01.13",
 		"description": "Dozent: RMS",
-		"start": "2025-06-25T12:10:00",
-		"end": "2025-06-25T15:40:00"
-	},
-	{
-		"name": "E4-MP",
-		"location": "NB 01.13",
-		"description": "Dozent: RMS",
 		"start": "2025-05-14T12:10:00",
 		"end": "2025-05-14T15:40:00"
 	},
@@ -75,6 +68,13 @@
 		"description": "Dozent: RMS",
 		"start": "2025-06-11T12:10:00",
 		"end": "2025-06-11T15:40:00"
+	},
+	{
+		"name": "E4-MP",
+		"location": "NB 01.13",
+		"description": "Dozent: RMS",
+		"start": "2025-06-25T12:10:00",
+		"end": "2025-06-25T15:40:00"
 	},
 	{
 		"name": "E4-MP",

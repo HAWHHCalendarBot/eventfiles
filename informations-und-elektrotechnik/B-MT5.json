@@ -122,15 +122,8 @@
 		"name": "BMT5-BUP-01",
 		"location": "0401, 0402",
 		"description": "Dozent: Wuerger/EBEL",
-		"start": "2025-04-30T12:10:00",
-		"end": "2025-04-30T15:40:00"
-	},
-	{
-		"name": "BMT5-BUP-02",
-		"location": "0401, 0402",
-		"description": "Dozent: Wuerger/EBEL",
-		"start": "2025-04-30T12:10:00",
-		"end": "2025-04-30T15:40:00"
+		"start": "2025-04-30T15:55:00",
+		"end": "2025-04-30T17:25:00"
 	},
 	{
 		"name": "BMT5-BU",
@@ -357,13 +350,6 @@
 		"end": "2025-05-28T15:40:00"
 	},
 	{
-		"name": "BMT5-BUP-02",
-		"location": "0401, 0402",
-		"description": "Dozent: Wuerger/EBEL",
-		"start": "2025-05-28T12:10:00",
-		"end": "2025-05-28T15:40:00"
-	},
-	{
 		"name": "BMT5-AK-AKP",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: Plaumann",
@@ -427,13 +413,6 @@
 		"end": "2025-06-18T15:40:00"
 	},
 	{
-		"name": "BMT5-BUP-02",
-		"location": "0401, 0402",
-		"description": "Dozent: Wuerger/EBEL",
-		"start": "2025-06-18T12:10:00",
-		"end": "2025-06-18T15:40:00"
-	},
-	{
 		"name": "BMT5-AK-AKP",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: Plaumann",
@@ -472,13 +451,6 @@
 		"name": "BMT5-EAP-01",
 		"location": "0301",
 		"description": "Dozent: GNZ/[Kor]",
-		"start": "2025-07-09T12:10:00",
-		"end": "2025-07-09T15:40:00"
-	},
-	{
-		"name": "BMT5-BUP-02",
-		"location": "0401, 0402",
-		"description": "Dozent: Wuerger/EBEL",
 		"start": "2025-07-09T12:10:00",
 		"end": "2025-07-09T15:40:00"
 	},

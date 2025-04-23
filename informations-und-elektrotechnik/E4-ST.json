@@ -17,22 +17,15 @@
 		"name": "E4-ST",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: MNR",
-		"start": "2025-05-02T12:10:00",
-		"end": "2025-05-02T15:40:00"
-	},
-	{
-		"name": "E4-ST",
-		"location": "Stiftstr69  R106",
-		"description": "Dozent: MNR",
 		"start": "2025-05-09T12:10:00",
 		"end": "2025-05-09T15:40:00"
 	},
 	{
 		"name": "E4-ST",
-		"location": "Stiftstr69  R106",
+		"location": "1060",
 		"description": "Dozent: MNR",
-		"start": "2025-06-27T12:10:00",
-		"end": "2025-06-27T15:40:00"
+		"start": "2025-05-05T12:10:00",
+		"end": "2025-05-05T15:40:00"
 	},
 	{
 		"name": "E4-ST",
@@ -75,5 +68,12 @@
 		"description": "Dozent: MNR",
 		"start": "2025-06-13T12:10:00",
 		"end": "2025-06-13T15:40:00"
+	},
+	{
+		"name": "E4-ST",
+		"location": "Stiftstr69  R106",
+		"description": "Dozent: MNR",
+		"start": "2025-06-27T12:10:00",
+		"end": "2025-06-27T15:40:00"
 	}
 ]
