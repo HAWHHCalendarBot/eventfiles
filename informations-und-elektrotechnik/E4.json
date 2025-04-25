@@ -126,13 +126,6 @@
 		"end": "2025-04-30T11:25:00"
 	},
 	{
-		"name": "E4-GE",
-		"location": "Stiftstr69  R106",
-		"description": "Dozent: WNK",
-		"start": "2025-05-02T08:10:00",
-		"end": "2025-05-02T11:25:00"
-	},
-	{
 		"name": "E4-SSP2-01",
 		"location": "1365",
 		"description": "Dozent: KRN",
@@ -322,25 +315,11 @@
 		"end": "2025-05-13T11:25:00"
 	},
 	{
-		"name": "E4-MPP-02",
-		"location": "0880",
-		"description": "Dozent: [Haarring]/SHRR/[Zein]",
-		"start": "2025-06-03T08:10:00",
-		"end": "2025-06-03T11:25:00"
-	},
-	{
 		"name": "E4-SSP2-01",
 		"location": "1365",
 		"description": "Dozent: KRN",
 		"start": "2025-05-13T12:10:00",
 		"end": "2025-05-13T15:40:00"
-	},
-	{
-		"name": "E4-SSP2-01",
-		"location": "1365",
-		"description": "Dozent: KRN",
-		"start": "2025-06-03T12:10:00",
-		"end": "2025-06-03T15:40:00"
 	},
 	{
 		"name": "E4-SS2",
@@ -350,25 +329,11 @@
 		"end": "2025-05-15T11:25:00"
 	},
 	{
-		"name": "E4-SS2",
-		"location": "1265",
-		"description": "Dozent: KRN",
-		"start": "2025-06-05T09:00:00",
-		"end": "2025-06-05T11:25:00"
-	},
-	{
 		"name": "E4-RTP-02",
 		"location": "0606",
 		"description": "Dozent: MNR/EBEL",
 		"start": "2025-05-13T12:10:00",
 		"end": "2025-05-13T15:40:00"
-	},
-	{
-		"name": "E4-RTP-02",
-		"location": "0606",
-		"description": "Dozent: MNR/EBEL",
-		"start": "2025-06-03T12:10:00",
-		"end": "2025-06-03T15:40:00"
 	},
 	{
 		"name": "E4-GE",
@@ -378,13 +343,6 @@
 		"end": "2025-05-16T11:25:00"
 	},
 	{
-		"name": "E4-GE",
-		"location": "Stiftstr69  R106",
-		"description": "Dozent: WNK",
-		"start": "2025-06-06T08:10:00",
-		"end": "2025-06-06T11:25:00"
-	},
-	{
 		"name": "E4-GEP-01",
 		"location": "0301",
 		"description": "Dozent: [Kor]/SZNY",
@@ -392,25 +350,11 @@
 		"end": "2025-05-13T11:25:00"
 	},
 	{
-		"name": "E4-GEP-01",
-		"location": "0301",
-		"description": "Dozent: [Kor]/SZNY",
-		"start": "2025-06-03T08:10:00",
-		"end": "2025-06-03T11:25:00"
-	},
-	{
 		"name": "E4-STP-03",
 		"location": "0402",
 		"description": "Dozent: MNR",
 		"start": "2025-05-13T08:10:00",
 		"end": "2025-05-13T11:25:00"
-	},
-	{
-		"name": "E4-STP-03",
-		"location": "0402",
-		"description": "Dozent: MNR",
-		"start": "2025-06-03T08:10:00",
-		"end": "2025-06-03T11:25:00"
 	},
 	{
 		"name": "E4-RT",
@@ -420,25 +364,11 @@
 		"end": "2025-05-14T11:25:00"
 	},
 	{
-		"name": "E4-RT",
-		"location": "0660",
-		"description": "Dozent: MNR",
-		"start": "2025-06-04T08:10:00",
-		"end": "2025-06-04T11:25:00"
-	},
-	{
 		"name": "E4-MP",
 		"location": "NB 01.13",
 		"description": "Dozent: RMS",
 		"start": "2025-05-14T12:10:00",
 		"end": "2025-05-14T15:40:00"
-	},
-	{
-		"name": "E4-MP",
-		"location": "NB 01.13",
-		"description": "Dozent: RMS",
-		"start": "2025-06-04T12:10:00",
-		"end": "2025-06-04T15:40:00"
 	},
 	{
 		"name": "E4-ST",
@@ -448,11 +378,18 @@
 		"end": "2025-05-16T15:40:00"
 	},
 	{
-		"name": "E4-ST",
+		"name": "E4-GE",
 		"location": "Stiftstr69  R106",
-		"description": "Dozent: MNR",
-		"start": "2025-06-06T12:10:00",
-		"end": "2025-06-06T15:40:00"
+		"description": "Dozent: WNK",
+		"start": "2025-05-12T12:10:00",
+		"end": "2025-05-12T15:40:00"
+	},
+	{
+		"name": "E4-GE",
+		"location": "0660",
+		"description": "Dozent: WNK",
+		"start": "2025-05-12T15:55:00",
+		"end": "2025-05-12T19:25:00"
 	},
 	{
 		"name": "E4-GEP-02",
@@ -616,13 +553,6 @@
 		"end": "2025-05-27T15:40:00"
 	},
 	{
-		"name": "E4-GE",
-		"location": "Stiftstr69  R106",
-		"description": "Dozent: WNK",
-		"start": "2025-05-30T08:10:00",
-		"end": "2025-05-30T11:25:00"
-	},
-	{
 		"name": "E4-SSP2-03",
 		"location": "1365",
 		"description": "Dozent: KRN",
@@ -656,6 +586,76 @@
 		"description": "Dozent: MNR",
 		"start": "2025-05-30T12:10:00",
 		"end": "2025-05-30T15:40:00"
+	},
+	{
+		"name": "E4-MPP-02",
+		"location": "0880",
+		"description": "Dozent: [Haarring]/SHRR/[Zein]",
+		"start": "2025-06-03T08:10:00",
+		"end": "2025-06-03T11:25:00"
+	},
+	{
+		"name": "E4-SSP2-01",
+		"location": "1365",
+		"description": "Dozent: KRN",
+		"start": "2025-06-03T12:10:00",
+		"end": "2025-06-03T15:40:00"
+	},
+	{
+		"name": "E4-SS2",
+		"location": "1265",
+		"description": "Dozent: KRN",
+		"start": "2025-06-05T09:00:00",
+		"end": "2025-06-05T11:25:00"
+	},
+	{
+		"name": "E4-RTP-02",
+		"location": "0606",
+		"description": "Dozent: MNR/EBEL",
+		"start": "2025-06-03T12:10:00",
+		"end": "2025-06-03T15:40:00"
+	},
+	{
+		"name": "E4-GE",
+		"location": "Stiftstr69  R106",
+		"description": "Dozent: WNK",
+		"start": "2025-06-06T08:10:00",
+		"end": "2025-06-06T11:25:00"
+	},
+	{
+		"name": "E4-GEP-01",
+		"location": "0301",
+		"description": "Dozent: [Kor]/SZNY",
+		"start": "2025-06-03T08:10:00",
+		"end": "2025-06-03T11:25:00"
+	},
+	{
+		"name": "E4-STP-03",
+		"location": "0402",
+		"description": "Dozent: MNR",
+		"start": "2025-06-03T08:10:00",
+		"end": "2025-06-03T11:25:00"
+	},
+	{
+		"name": "E4-RT",
+		"location": "0660",
+		"description": "Dozent: MNR",
+		"start": "2025-06-04T08:10:00",
+		"end": "2025-06-04T11:25:00"
+	},
+	{
+		"name": "E4-MP",
+		"location": "NB 01.13",
+		"description": "Dozent: RMS",
+		"start": "2025-06-04T12:10:00",
+		"end": "2025-06-04T15:40:00"
+	},
+	{
+		"name": "E4-ST",
+		"location": "Stiftstr69  R106",
+		"description": "Dozent: MNR",
+		"start": "2025-06-06T12:10:00",
+		"end": "2025-06-06T15:40:00"
 	},
 	{
 		"name": "E4-SS2",
@@ -987,6 +987,13 @@
 		"end": "2025-05-23T15:40:00"
 	},
 	{
+		"name": "E4-EL3",
+		"location": "0801",
+		"description": "Dozent: FTZ",
+		"start": "2025-05-23T12:10:00",
+		"end": "2025-05-23T15:40:00"
+	},
+	{
 		"name": "E4-GNP-02",
 		"location": "1401",
 		"description": "Dozent: VLM/NGBR",
@@ -1104,6 +1111,13 @@
 		"description": "Dozent: FTZ",
 		"start": "2025-06-27T08:10:00",
 		"end": "2025-06-27T11:25:00"
+	},
+	{
+		"name": "E4-EL3",
+		"location": "0801",
+		"description": "Dozent: FTZ",
+		"start": "2025-06-27T12:10:00",
+		"end": "2025-06-27T15:40:00"
 	},
 	{
 		"name": "E4-GN",
