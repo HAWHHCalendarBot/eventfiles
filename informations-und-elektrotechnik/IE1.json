@@ -770,13 +770,6 @@
 		"end": "2025-06-27T15:40:00"
 	},
 	{
-		"name": "IE1-LSL1_Final",
-		"location": "1260",
-		"description": "Dozent: HSS/LTL/RDT",
-		"start": "2025-06-24T15:55:00",
-		"end": "2025-06-24T19:25:00"
-	},
-	{
 		"name": "IE1-MA1",
 		"location": "NB 01.13",
 		"description": "Dozent: NMN",
@@ -854,6 +847,13 @@
 		"end": "2025-07-02T11:25:00"
 	},
 	{
+		"name": "IE1-LSL1-03",
+		"location": "1486",
+		"description": "Dozent: LTL",
+		"start": "2025-07-01T08:10:00",
+		"end": "2025-07-01T11:25:00"
+	},
+	{
 		"name": "IE1-MAE1-01",
 		"location": "1265",
 		"description": "Dozent: Maesaka",
@@ -889,6 +889,20 @@
 		"end": "2025-06-30T09:40:00"
 	},
 	{
+		"name": "IE1-LSL1-01",
+		"location": "0861",
+		"description": "Dozent: RDT",
+		"start": "2025-07-01T12:10:00",
+		"end": "2025-07-01T15:40:00"
+	},
+	{
+		"name": "IE1-LSL1-02",
+		"location": "1486",
+		"description": "Dozent: HSS",
+		"start": "2025-07-01T12:10:00",
+		"end": "2025-07-01T15:40:00"
+	},
+	{
 		"name": "IE1-SOL1-02",
 		"location": "1365",
 		"description": "Dozent: Pikora",
@@ -922,6 +936,13 @@
 		"description": "Dozent: NMN",
 		"start": "2025-07-11T12:10:00",
 		"end": "2025-07-11T15:40:00"
+	},
+	{
+		"name": "IE1-LSL1_Final",
+		"location": "1260",
+		"description": "Dozent: HSS/LTL/RDT",
+		"start": "2025-07-08T15:55:00",
+		"end": "2025-07-08T19:25:00"
 	},
 	{
 		"name": "IE1-MA1",

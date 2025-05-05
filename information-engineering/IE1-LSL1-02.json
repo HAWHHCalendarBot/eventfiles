@@ -19,5 +19,12 @@
 		"description": "Dozent: HSS",
 		"start": "2025-06-11T12:10:00",
 		"end": "2025-06-11T15:40:00"
+	},
+	{
+		"name": "IE1-LSL1-02",
+		"location": "1486",
+		"description": "Dozent: HSS",
+		"start": "2025-07-01T12:10:00",
+		"end": "2025-07-01T15:40:00"
 	}
 ]

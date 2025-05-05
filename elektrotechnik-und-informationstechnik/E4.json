@@ -217,13 +217,6 @@
 		"end": "2025-04-30T15:40:00"
 	},
 	{
-		"name": "E4-STP-02",
-		"location": "0402",
-		"description": "Dozent: MNR",
-		"start": "2025-05-06T08:10:00",
-		"end": "2025-05-06T11:25:00"
-	},
-	{
 		"name": "E4-SS2",
 		"location": "1265",
 		"description": "Dozent: KRN",
@@ -386,10 +379,10 @@
 	},
 	{
 		"name": "E4-GE",
-		"location": "0660",
+		"location": "1060",
 		"description": "Dozent: WNK",
-		"start": "2025-05-12T15:55:00",
-		"end": "2025-05-12T19:25:00"
+		"start": "2025-05-12T08:10:00",
+		"end": "2025-05-12T11:25:00"
 	},
 	{
 		"name": "E4-GEP-02",
@@ -656,6 +649,13 @@
 		"description": "Dozent: MNR",
 		"start": "2025-06-06T12:10:00",
 		"end": "2025-06-06T15:40:00"
+	},
+	{
+		"name": "E4-STP-02",
+		"location": "0402",
+		"description": "Dozent: MNR",
+		"start": "2025-06-10T08:10:00",
+		"end": "2025-06-10T11:25:00"
 	},
 	{
 		"name": "E4-SS2",
