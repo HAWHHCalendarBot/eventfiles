@@ -245,13 +245,6 @@
 		"end": "2025-05-05T11:25:00"
 	},
 	{
-		"name": "B-REE6-GFP-02",
-		"location": "0401",
-		"description": "Dozent: GRS",
-		"start": "2025-05-05T08:10:00",
-		"end": "2025-05-05T11:25:00"
-	},
-	{
 		"name": "B-REE6-ATP-01",
 		"location": "0301",
 		"description": "Dozent: [Kor]/[Pot]",
@@ -327,13 +320,6 @@
 		"description": "Dozent: GNZ",
 		"start": "2025-05-12T12:10:00",
 		"end": "2025-05-12T15:40:00"
-	},
-	{
-		"name": "B-REE6-GFP-02",
-		"location": "0401",
-		"description": "Dozent: GRS",
-		"start": "2025-05-12T08:10:00",
-		"end": "2025-05-12T11:25:00"
 	},
 	{
 		"name": "E6-ENP-02",
@@ -434,18 +420,18 @@
 		"end": "2025-05-27T11:25:00"
 	},
 	{
+		"name": "B-REE6-GF_Exkursion",
+		"location": "",
+		"description": "Dozent: GRS",
+		"start": "2025-05-28T12:10:00",
+		"end": "2025-05-28T15:40:00"
+	},
+	{
 		"name": "B-REE6-AT",
 		"location": "0660",
 		"description": "Dozent: GNZ",
 		"start": "2025-05-26T12:10:00",
 		"end": "2025-05-26T15:40:00"
-	},
-	{
-		"name": "B-REE6-GF",
-		"location": "0862",
-		"description": "Dozent: GRS",
-		"start": "2025-05-28T12:10:00",
-		"end": "2025-05-28T15:40:00"
 	},
 	{
 		"name": "B-REE6-GFP-01",
@@ -455,25 +441,11 @@
 		"end": "2025-06-04T15:40:00"
 	},
 	{
-		"name": "B-REE6-GFP-01",
-		"location": "0401",
-		"description": "Dozent: GRS",
-		"start": "2025-06-25T12:10:00",
-		"end": "2025-06-25T15:40:00"
-	},
-	{
 		"name": "B-REE6-EW-EWJ",
 		"location": "Stiftstr69  R106",
 		"description": "Dozent: GNZ",
 		"start": "2025-06-05T08:10:00",
 		"end": "2025-06-05T11:25:00"
-	},
-	{
-		"name": "B-REE6-EW-EWJ",
-		"location": "Stiftstr69  R106",
-		"description": "Dozent: GNZ",
-		"start": "2025-06-26T08:10:00",
-		"end": "2025-06-26T11:25:00"
 	},
 	{
 		"name": "B-REE6-EG",
@@ -483,25 +455,11 @@
 		"end": "2025-06-06T11:25:00"
 	},
 	{
-		"name": "B-REE6-EG",
-		"location": "1486",
-		"description": "Dozent: Koenigsheim",
-		"start": "2025-06-27T08:10:00",
-		"end": "2025-06-27T11:25:00"
-	},
-	{
 		"name": "B-REE6-EGP-01",
 		"location": "1465",
 		"description": "Dozent: Koenigsheim",
 		"start": "2025-06-06T12:10:00",
 		"end": "2025-06-06T15:40:00"
-	},
-	{
-		"name": "B-REE6-EGP-01",
-		"location": "1465",
-		"description": "Dozent: Koenigsheim",
-		"start": "2025-06-27T12:10:00",
-		"end": "2025-06-27T15:40:00"
 	},
 	{
 		"name": "B-REE6-IK",
@@ -511,13 +469,6 @@
 		"end": "2025-06-03T15:40:00"
 	},
 	{
-		"name": "B-REE6-IK",
-		"location": "Stiftstr69  R106",
-		"description": "Dozent: EGR",
-		"start": "2025-06-24T12:10:00",
-		"end": "2025-06-24T15:40:00"
-	},
-	{
 		"name": "B-REE6-EV",
 		"location": "1065",
 		"description": "Dozent: WNK",
@@ -525,25 +476,11 @@
 		"end": "2025-06-03T11:25:00"
 	},
 	{
-		"name": "B-REE6-EV",
-		"location": "1065",
-		"description": "Dozent: WNK",
-		"start": "2025-06-24T08:10:00",
-		"end": "2025-06-24T11:25:00"
-	},
-	{
 		"name": "E6-ENP-01",
 		"location": "0303",
 		"description": "Dozent: Koenigsheim/SZNY",
 		"start": "2025-06-02T08:10:00",
 		"end": "2025-06-02T11:25:00"
-	},
-	{
-		"name": "E6-ENP-01",
-		"location": "0303",
-		"description": "Dozent: Koenigsheim/SZNY",
-		"start": "2025-06-23T08:10:00",
-		"end": "2025-06-23T11:25:00"
 	},
 	{
 		"name": "B-REE6-AT",
@@ -553,25 +490,11 @@
 		"end": "2025-06-02T15:40:00"
 	},
 	{
-		"name": "B-REE6-AT",
-		"location": "0660",
-		"description": "Dozent: GNZ",
-		"start": "2025-06-23T12:10:00",
-		"end": "2025-06-23T15:40:00"
-	},
-	{
-		"name": "B-REE6-GFP-02",
+		"name": "B-REE6-GFP-01",
 		"location": "0401",
 		"description": "Dozent: GRS",
-		"start": "2025-06-02T08:10:00",
-		"end": "2025-06-02T11:25:00"
-	},
-	{
-		"name": "B-REE6-GFP-02",
-		"location": "0401",
-		"description": "Dozent: GRS",
-		"start": "2025-06-23T08:10:00",
-		"end": "2025-06-23T11:25:00"
+		"start": "2025-06-11T12:10:00",
+		"end": "2025-06-11T15:40:00"
 	},
 	{
 		"name": "E6-ENP-02",
@@ -614,13 +537,6 @@
 		"description": "Dozent: GNZ",
 		"start": "2025-06-10T12:10:00",
 		"end": "2025-06-10T15:40:00"
-	},
-	{
-		"name": "B-REE6-GF",
-		"location": "0862",
-		"description": "Dozent: GRS",
-		"start": "2025-06-11T12:10:00",
-		"end": "2025-06-11T15:40:00"
 	},
 	{
 		"name": "E6-ENP-03",
@@ -691,6 +607,62 @@
 		"description": "Dozent: GRS",
 		"start": "2025-06-18T12:10:00",
 		"end": "2025-06-18T15:40:00"
+	},
+	{
+		"name": "B-REE6-EW-EWJ",
+		"location": "Stiftstr69  R106",
+		"description": "Dozent: GNZ",
+		"start": "2025-06-26T08:10:00",
+		"end": "2025-06-26T11:25:00"
+	},
+	{
+		"name": "B-REE6-EG",
+		"location": "1486",
+		"description": "Dozent: Koenigsheim",
+		"start": "2025-06-27T08:10:00",
+		"end": "2025-06-27T11:25:00"
+	},
+	{
+		"name": "B-REE6-EGP-01",
+		"location": "1465",
+		"description": "Dozent: Koenigsheim",
+		"start": "2025-06-27T12:10:00",
+		"end": "2025-06-27T15:40:00"
+	},
+	{
+		"name": "B-REE6-IK",
+		"location": "Stiftstr69  R106",
+		"description": "Dozent: EGR",
+		"start": "2025-06-24T12:10:00",
+		"end": "2025-06-24T15:40:00"
+	},
+	{
+		"name": "B-REE6-EV",
+		"location": "1065",
+		"description": "Dozent: WNK",
+		"start": "2025-06-24T08:10:00",
+		"end": "2025-06-24T11:25:00"
+	},
+	{
+		"name": "E6-ENP-01",
+		"location": "0303",
+		"description": "Dozent: Koenigsheim/SZNY",
+		"start": "2025-06-23T08:10:00",
+		"end": "2025-06-23T11:25:00"
+	},
+	{
+		"name": "B-REE6-AT",
+		"location": "0660",
+		"description": "Dozent: GNZ",
+		"start": "2025-06-23T12:10:00",
+		"end": "2025-06-23T15:40:00"
+	},
+	{
+		"name": "B-REE6-GF",
+		"location": "0862",
+		"description": "Dozent: GRS",
+		"start": "2025-06-25T12:10:00",
+		"end": "2025-06-25T15:40:00"
 	},
 	{
 		"name": "E6-ENP-02",

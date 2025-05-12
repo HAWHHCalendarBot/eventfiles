@@ -59,13 +59,6 @@
 		"name": "E7-PRO-GTF",
 		"location": "1360",
 		"description": "Dozent: GTF",
-		"start": "2025-06-27T08:10:00",
-		"end": "2025-06-27T11:25:00"
-	},
-	{
-		"name": "E7-PRO-GTF",
-		"location": "1360",
-		"description": "Dozent: GTF",
 		"start": "2025-06-13T08:10:00",
 		"end": "2025-06-13T11:25:00"
 	},
@@ -75,6 +68,13 @@
 		"description": "Dozent: GTF",
 		"start": "2025-06-20T08:10:00",
 		"end": "2025-06-20T11:25:00"
+	},
+	{
+		"name": "E7-PRO-GTF",
+		"location": "1360",
+		"description": "Dozent: GTF",
+		"start": "2025-06-27T08:10:00",
+		"end": "2025-06-27T11:25:00"
 	},
 	{
 		"name": "E7-PRO-GTF",

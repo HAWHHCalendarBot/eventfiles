@@ -59,13 +59,6 @@
 		"name": "E7-WP_WPP-VOEL",
 		"location": "1360, 1386",
 		"description": "Dozent: VOEL",
-		"start": "2025-06-26T15:55:00",
-		"end": "2025-06-26T19:10:00"
-	},
-	{
-		"name": "E7-WP_WPP-VOEL",
-		"location": "1360, 1386",
-		"description": "Dozent: VOEL",
 		"start": "2025-06-12T15:55:00",
 		"end": "2025-06-12T19:10:00"
 	},
@@ -75,6 +68,13 @@
 		"description": "Dozent: VOEL",
 		"start": "2025-06-19T15:55:00",
 		"end": "2025-06-19T19:10:00"
+	},
+	{
+		"name": "E7-WP_WPP-VOEL",
+		"location": "1360, 1386",
+		"description": "Dozent: VOEL",
+		"start": "2025-06-26T15:55:00",
+		"end": "2025-06-26T19:10:00"
 	},
 	{
 		"name": "E7-WP_WPP-VOEL",

@@ -59,13 +59,6 @@
 		"name": "E7-WP_WPP-BNRJ",
 		"location": "1065",
 		"description": "Dozent: BNRJ",
-		"start": "2025-06-27T12:10:00",
-		"end": "2025-06-27T15:40:00"
-	},
-	{
-		"name": "E7-WP_WPP-BNRJ",
-		"location": "1065",
-		"description": "Dozent: BNRJ",
 		"start": "2025-06-13T12:10:00",
 		"end": "2025-06-13T15:40:00"
 	},
@@ -75,6 +68,13 @@
 		"description": "Dozent: BNRJ",
 		"start": "2025-06-20T12:10:00",
 		"end": "2025-06-20T15:40:00"
+	},
+	{
+		"name": "E7-WP_WPP-BNRJ",
+		"location": "1065",
+		"description": "Dozent: BNRJ",
+		"start": "2025-06-27T12:10:00",
+		"end": "2025-06-27T15:40:00"
 	},
 	{
 		"name": "E7-WP_WPP-BNRJ",
