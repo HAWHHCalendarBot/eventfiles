@@ -371,13 +371,6 @@
 		"end": "2025-05-14T09:40:00"
 	},
 	{
-		"name": "E2a-EL1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: LGE",
-		"start": "2025-05-15T08:10:00",
-		"end": "2025-05-15T11:25:00"
-	},
-	{
 		"name": "E2a-ETP2-04",
 		"location": "0502, 0565",
 		"description": "Dozent: SOLR/[Rac]",
@@ -434,6 +427,13 @@
 		"end": "2025-05-12T15:40:00"
 	},
 	{
+		"name": "E2a-EL1",
+		"location": "0360, SteinD94 R0.02",
+		"description": "Dozent: LGE",
+		"start": "2025-05-15T08:10:00",
+		"end": "2025-05-15T11:25:00"
+	},
+	{
 		"name": "E2a-ETP2-02",
 		"location": "0502, 0565",
 		"description": "Dozent: SOLR/[Rac]",
@@ -460,13 +460,6 @@
 		"description": "Dozent: GTF",
 		"start": "2025-05-21T08:10:00",
 		"end": "2025-05-21T09:40:00"
-	},
-	{
-		"name": "E2a-EL1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: LGE",
-		"start": "2025-05-22T08:10:00",
-		"end": "2025-05-22T11:25:00"
 	},
 	{
 		"name": "E2a-ELP1-02",
@@ -516,6 +509,13 @@
 		"description": "Dozent: LGE",
 		"start": "2025-05-19T12:10:00",
 		"end": "2025-05-19T15:40:00"
+	},
+	{
+		"name": "E2a-EL1",
+		"location": "0360, SteinD94 R0.02",
+		"description": "Dozent: LGE",
+		"start": "2025-05-22T08:10:00",
+		"end": "2025-05-22T11:25:00"
 	},
 	{
 		"name": "E2a-ETP2-02",
@@ -575,7 +575,7 @@
 	},
 	{
 		"name": "E2a-AN2",
-		"location": "SteinD94 R0.02",
+		"location": "0360",
 		"description": "Dozent: GTF",
 		"start": "2025-05-26T12:10:00",
 		"end": "2025-05-26T15:40:00"
@@ -607,13 +607,6 @@
 		"description": "Dozent: GTF",
 		"start": "2025-06-04T08:10:00",
 		"end": "2025-06-04T09:40:00"
-	},
-	{
-		"name": "E2a-EL1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: LGE",
-		"start": "2025-06-05T08:10:00",
-		"end": "2025-06-05T11:25:00"
 	},
 	{
 		"name": "E2a-PRP2-02",
@@ -658,6 +651,13 @@
 		"end": "2025-06-03T11:25:00"
 	},
 	{
+		"name": "E2a-EL1",
+		"location": "0360, SteinD94 R0.02",
+		"description": "Dozent: LGE",
+		"start": "2025-06-05T08:10:00",
+		"end": "2025-06-05T11:25:00"
+	},
+	{
 		"name": "E2a-ET2",
 		"location": "NB 01.13",
 		"description": "Dozent: LGE",
@@ -670,13 +670,6 @@
 		"description": "Dozent: GTF",
 		"start": "2025-06-11T08:10:00",
 		"end": "2025-06-11T09:40:00"
-	},
-	{
-		"name": "E2a-EL1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: LGE",
-		"start": "2025-06-12T08:10:00",
-		"end": "2025-06-12T11:25:00"
 	},
 	{
 		"name": "E2a-ELP1-02",
@@ -714,6 +707,13 @@
 		"end": "2025-06-11T11:25:00"
 	},
 	{
+		"name": "E2a-EL1",
+		"location": "0360, SteinD94 R0.02",
+		"description": "Dozent: LGE",
+		"start": "2025-06-12T08:10:00",
+		"end": "2025-06-12T11:25:00"
+	},
+	{
 		"name": "E2a-ET2",
 		"location": "NB 01.13",
 		"description": "Dozent: LGE",
@@ -733,13 +733,6 @@
 		"description": "Dozent: GTF",
 		"start": "2025-06-18T08:10:00",
 		"end": "2025-06-18T09:40:00"
-	},
-	{
-		"name": "E2a-EL1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: LGE",
-		"start": "2025-06-19T08:10:00",
-		"end": "2025-06-19T11:25:00"
 	},
 	{
 		"name": "E2a-ELP1-03",
@@ -791,6 +784,13 @@
 		"end": "2025-06-17T15:40:00"
 	},
 	{
+		"name": "E2a-EL1",
+		"location": "0360, SteinD94 R0.02",
+		"description": "Dozent: LGE",
+		"start": "2025-06-19T08:10:00",
+		"end": "2025-06-19T11:25:00"
+	},
+	{
 		"name": "E2a-ETP2-02",
 		"location": "0502, 0565",
 		"description": "Dozent: SOLR/[Rac]",
@@ -824,13 +824,6 @@
 		"description": "Dozent: GTF",
 		"start": "2025-06-25T08:10:00",
 		"end": "2025-06-25T09:40:00"
-	},
-	{
-		"name": "E2a-EL1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: LGE",
-		"start": "2025-06-26T08:10:00",
-		"end": "2025-06-26T11:25:00"
 	},
 	{
 		"name": "E2a-ETP2-04",
@@ -875,6 +868,13 @@
 		"end": "2025-06-24T11:25:00"
 	},
 	{
+		"name": "E2a-EL1",
+		"location": "0360, SteinD94 R0.02",
+		"description": "Dozent: LGE",
+		"start": "2025-06-26T08:10:00",
+		"end": "2025-06-26T11:25:00"
+	},
+	{
 		"name": "E2a-ET2",
 		"location": "NB 01.13",
 		"description": "Dozent: LGE",
@@ -894,13 +894,6 @@
 		"description": "Dozent: GTF",
 		"start": "2025-07-02T08:10:00",
 		"end": "2025-07-02T09:40:00"
-	},
-	{
-		"name": "E2a-EL1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: LGE",
-		"start": "2025-07-03T08:10:00",
-		"end": "2025-07-03T11:25:00"
 	},
 	{
 		"name": "E2a-ELP1-02",
@@ -950,6 +943,13 @@
 		"description": "Dozent: NRMF",
 		"start": "2025-06-30T12:10:00",
 		"end": "2025-06-30T15:40:00"
+	},
+	{
+		"name": "E2a-EL1",
+		"location": "0360, SteinD94 R0.02",
+		"description": "Dozent: LGE",
+		"start": "2025-07-03T08:10:00",
+		"end": "2025-07-03T11:25:00"
 	},
 	{
 		"name": "E2a-ETP2-02",

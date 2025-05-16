@@ -287,13 +287,6 @@
 		"end": "2025-05-13T11:25:00"
 	},
 	{
-		"name": "IE1-SO1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: SHN",
-		"start": "2025-05-16T08:10:00",
-		"end": "2025-05-16T11:25:00"
-	},
-	{
 		"name": "IE1-LSE1-01",
 		"location": "1281",
 		"description": "Dozent: MCCB",
@@ -357,6 +350,13 @@
 		"end": "2025-05-12T09:40:00"
 	},
 	{
+		"name": "IE1-SO1",
+		"location": "1260, SteinD94 R0.02",
+		"description": "Dozent: SHN",
+		"start": "2025-05-16T08:10:00",
+		"end": "2025-05-16T11:25:00"
+	},
+	{
 		"name": "IE1-SOL1-02",
 		"location": "1365",
 		"description": "Dozent: Pikora",
@@ -369,13 +369,6 @@
 		"description": "Dozent: LAP/WTMR",
 		"start": "2025-05-19T12:10:00",
 		"end": "2025-05-19T15:40:00"
-	},
-	{
-		"name": "IE1-SO1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: SHN",
-		"start": "2025-05-23T08:10:00",
-		"end": "2025-05-23T11:25:00"
 	},
 	{
 		"name": "IE1-LSE1-02",
@@ -434,18 +427,18 @@
 		"end": "2025-05-22T17:25:00"
 	},
 	{
+		"name": "IE1-SO1",
+		"location": "1260, SteinD94 R0.02",
+		"description": "Dozent: SHN",
+		"start": "2025-05-23T08:10:00",
+		"end": "2025-05-23T11:25:00"
+	},
+	{
 		"name": "IE1-SOL1-01",
 		"location": "1365",
 		"description": "Dozent: Pikora",
 		"start": "2025-05-27T08:10:00",
 		"end": "2025-05-27T11:25:00"
-	},
-	{
-		"name": "IE1-SO1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: SHN",
-		"start": "2025-05-30T08:10:00",
-		"end": "2025-05-30T11:25:00"
 	},
 	{
 		"name": "IE1-EEL1-03",
@@ -504,6 +497,13 @@
 		"end": "2025-05-26T09:40:00"
 	},
 	{
+		"name": "IE1-SO1",
+		"location": "1260, SteinD94 R0.02",
+		"description": "Dozent: SHN",
+		"start": "2025-05-30T08:10:00",
+		"end": "2025-05-30T11:25:00"
+	},
+	{
 		"name": "IE1-SOL1-02",
 		"location": "1365",
 		"description": "Dozent: Pikora",
@@ -516,13 +516,6 @@
 		"description": "Dozent: LAP/WTMR",
 		"start": "2025-06-02T12:10:00",
 		"end": "2025-06-02T15:40:00"
-	},
-	{
-		"name": "IE1-SO1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: SHN",
-		"start": "2025-06-06T08:10:00",
-		"end": "2025-06-06T11:25:00"
 	},
 	{
 		"name": "IE1-LSE1-01",
@@ -581,18 +574,18 @@
 		"end": "2025-06-02T09:40:00"
 	},
 	{
+		"name": "IE1-SO1",
+		"location": "1260, SteinD94 R0.02",
+		"description": "Dozent: SHN",
+		"start": "2025-06-06T08:10:00",
+		"end": "2025-06-06T11:25:00"
+	},
+	{
 		"name": "IE1-EEL1-02",
 		"location": "0501, 0565",
 		"description": "Dozent: LAP/WTMR",
 		"start": "2025-06-10T12:10:00",
 		"end": "2025-06-10T15:40:00"
-	},
-	{
-		"name": "IE1-SO1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: SHN",
-		"start": "2025-06-13T08:10:00",
-		"end": "2025-06-13T11:25:00"
 	},
 	{
 		"name": "IE1-LSE1-02",
@@ -644,18 +637,18 @@
 		"end": "2025-06-10T09:40:00"
 	},
 	{
+		"name": "IE1-SO1",
+		"location": "1260, SteinD94 R0.02",
+		"description": "Dozent: SHN",
+		"start": "2025-06-13T08:10:00",
+		"end": "2025-06-13T11:25:00"
+	},
+	{
 		"name": "IE1-SOL1-01",
 		"location": "1365",
 		"description": "Dozent: Pikora",
 		"start": "2025-06-17T08:10:00",
 		"end": "2025-06-17T11:25:00"
-	},
-	{
-		"name": "IE1-SO1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: SHN",
-		"start": "2025-06-20T08:10:00",
-		"end": "2025-06-20T11:25:00"
 	},
 	{
 		"name": "IE1-EEL1-03",
@@ -735,6 +728,13 @@
 		"end": "2025-06-16T09:40:00"
 	},
 	{
+		"name": "IE1-SO1",
+		"location": "1260, SteinD94 R0.02",
+		"description": "Dozent: SHN",
+		"start": "2025-06-20T08:10:00",
+		"end": "2025-06-20T11:25:00"
+	},
+	{
 		"name": "IE1-SOL1-02",
 		"location": "1365",
 		"description": "Dozent: Pikora",
@@ -747,13 +747,6 @@
 		"description": "Dozent: LAP/WTMR",
 		"start": "2025-06-23T12:10:00",
 		"end": "2025-06-23T15:40:00"
-	},
-	{
-		"name": "IE1-SO1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: SHN",
-		"start": "2025-06-27T08:10:00",
-		"end": "2025-06-27T11:25:00"
 	},
 	{
 		"name": "IE1-LSE1-02",
@@ -798,6 +791,13 @@
 		"end": "2025-06-23T09:40:00"
 	},
 	{
+		"name": "IE1-SO1",
+		"location": "1260, SteinD94 R0.02",
+		"description": "Dozent: SHN",
+		"start": "2025-06-27T08:10:00",
+		"end": "2025-06-27T11:25:00"
+	},
+	{
 		"name": "IE1-SOL1-01",
 		"location": "1365",
 		"description": "Dozent: Pikora",
@@ -810,13 +810,6 @@
 		"description": "Dozent: LAP/WTMR",
 		"start": "2025-06-30T12:10:00",
 		"end": "2025-06-30T15:40:00"
-	},
-	{
-		"name": "IE1-SO1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: SHN",
-		"start": "2025-07-04T08:10:00",
-		"end": "2025-07-04T11:25:00"
 	},
 	{
 		"name": "IE1-LSE1-01",
@@ -903,18 +896,18 @@
 		"end": "2025-07-01T15:40:00"
 	},
 	{
+		"name": "IE1-SO1",
+		"location": "1260, SteinD94 R0.02",
+		"description": "Dozent: SHN",
+		"start": "2025-07-04T08:10:00",
+		"end": "2025-07-04T11:25:00"
+	},
+	{
 		"name": "IE1-SOL1-02",
 		"location": "1365",
 		"description": "Dozent: Pikora",
 		"start": "2025-07-08T08:10:00",
 		"end": "2025-07-08T11:25:00"
-	},
-	{
-		"name": "IE1-SO1",
-		"location": "SteinD94 R0.02",
-		"description": "Dozent: SHN",
-		"start": "2025-07-11T08:10:00",
-		"end": "2025-07-11T11:25:00"
 	},
 	{
 		"name": "IE1-LSE1-02",
@@ -964,5 +957,12 @@
 		"description": "Dozent: LZRB",
 		"start": "2025-07-07T08:10:00",
 		"end": "2025-07-07T09:40:00"
+	},
+	{
+		"name": "IE1-SO1",
+		"location": "1260, SteinD94 R0.02",
+		"description": "Dozent: SHN",
+		"start": "2025-07-11T08:10:00",
+		"end": "2025-07-11T11:25:00"
 	}
 ]

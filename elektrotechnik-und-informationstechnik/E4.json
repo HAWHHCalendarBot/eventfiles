@@ -575,10 +575,10 @@
 	},
 	{
 		"name": "E4-ST",
-		"location": "Stiftstr69  R106",
+		"location": "1060",
 		"description": "Dozent: MNR",
-		"start": "2025-05-30T12:10:00",
-		"end": "2025-05-30T15:40:00"
+		"start": "2025-05-26T12:10:00",
+		"end": "2025-05-26T15:40:00"
 	},
 	{
 		"name": "E4-MPP-02",
