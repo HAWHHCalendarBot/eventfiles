@@ -798,13 +798,6 @@
 		"end": "2025-06-05T11:25:00"
 	},
 	{
-		"name": "E3-DIP-01",
-		"location": "0801",
-		"description": "Dozent: FTZ/[Zein]",
-		"start": "2025-06-26T08:10:00",
-		"end": "2025-06-26T11:25:00"
-	},
-	{
 		"name": "E3-OP",
 		"location": "NB 01.13",
 		"description": "Dozent: HSL",
@@ -812,25 +805,11 @@
 		"end": "2025-06-03T11:25:00"
 	},
 	{
-		"name": "E3-OP",
-		"location": "NB 01.13",
-		"description": "Dozent: HSL",
-		"start": "2025-06-24T08:10:00",
-		"end": "2025-06-24T11:25:00"
-	},
-	{
 		"name": "E3-ELP2-02",
 		"location": "0505",
 		"description": "Dozent: Kruse",
 		"start": "2025-06-05T08:10:00",
 		"end": "2025-06-05T11:25:00"
-	},
-	{
-		"name": "E3-ELP2-02",
-		"location": "0505",
-		"description": "Dozent: Kruse",
-		"start": "2025-06-26T08:10:00",
-		"end": "2025-06-26T11:25:00"
 	},
 	{
 		"name": "E3-SSP1-02",
@@ -840,25 +819,11 @@
 		"end": "2025-06-02T15:40:00"
 	},
 	{
-		"name": "E3-SSP1-02",
-		"location": "1365",
-		"description": "Dozent: ERD",
-		"start": "2025-06-23T14:10:00",
-		"end": "2025-06-23T15:40:00"
-	},
-	{
 		"name": "E3-ELP2-04",
 		"location": "0505",
 		"description": "Dozent: Kruse",
 		"start": "2025-06-05T12:10:00",
 		"end": "2025-06-05T15:40:00"
-	},
-	{
-		"name": "E3-ELP2-04",
-		"location": "0505",
-		"description": "Dozent: Kruse",
-		"start": "2025-06-26T12:10:00",
-		"end": "2025-06-26T15:40:00"
 	},
 	{
 		"name": "E3-SS1",
@@ -868,25 +833,11 @@
 		"end": "2025-06-06T11:25:00"
 	},
 	{
-		"name": "E3-SS1",
-		"location": "NB 01.13",
-		"description": "Dozent: ERD",
-		"start": "2025-06-27T08:10:00",
-		"end": "2025-06-27T11:25:00"
-	},
-	{
 		"name": "E3-NSP-04",
 		"location": "1360",
 		"description": "Dozent: JNM",
 		"start": "2025-06-05T08:10:00",
 		"end": "2025-06-05T11:25:00"
-	},
-	{
-		"name": "E3-NSP-04",
-		"location": "1360",
-		"description": "Dozent: JNM",
-		"start": "2025-06-26T08:10:00",
-		"end": "2025-06-26T11:25:00"
 	},
 	{
 		"name": "E3-DI",
@@ -896,25 +847,11 @@
 		"end": "2025-06-04T15:40:00"
 	},
 	{
-		"name": "E3-DI",
-		"location": "1060, SteinD94 R0.02",
-		"description": "Dozent: FTZ",
-		"start": "2025-06-25T12:10:00",
-		"end": "2025-06-25T15:40:00"
-	},
-	{
 		"name": "E3-NS",
 		"location": "NB 01.13",
 		"description": "Dozent: JNM",
 		"start": "2025-06-03T12:10:00",
 		"end": "2025-06-03T15:40:00"
-	},
-	{
-		"name": "E3-NS",
-		"location": "NB 01.13",
-		"description": "Dozent: JNM",
-		"start": "2025-06-24T12:10:00",
-		"end": "2025-06-24T15:40:00"
 	},
 	{
 		"name": "E3-OPP-03",
@@ -924,13 +861,6 @@
 		"end": "2025-06-02T19:10:00"
 	},
 	{
-		"name": "E3-OPP-03",
-		"location": "1360",
-		"description": "Dozent: HSL",
-		"start": "2025-06-23T15:55:00",
-		"end": "2025-06-23T19:10:00"
-	},
-	{
 		"name": "E3-SSP1-01",
 		"location": "1365",
 		"description": "Dozent: ERD",
@@ -938,25 +868,11 @@
 		"end": "2025-06-02T13:40:00"
 	},
 	{
-		"name": "E3-SSP1-01",
-		"location": "1365",
-		"description": "Dozent: ERD",
-		"start": "2025-06-23T12:10:00",
-		"end": "2025-06-23T13:40:00"
-	},
-	{
 		"name": "E3-NSP-01",
 		"location": "1360",
 		"description": "Dozent: JNM",
 		"start": "2025-06-05T12:10:00",
 		"end": "2025-06-05T15:40:00"
-	},
-	{
-		"name": "E3-NSP-01",
-		"location": "1360",
-		"description": "Dozent: JNM",
-		"start": "2025-06-26T12:10:00",
-		"end": "2025-06-26T15:40:00"
 	},
 	{
 		"name": "E3-TE-02",
@@ -966,25 +882,11 @@
 		"end": "2025-06-04T11:25:00"
 	},
 	{
-		"name": "E3-TE-02",
-		"location": "0861",
-		"description": "Dozent: BRSK",
-		"start": "2025-06-25T09:55:00",
-		"end": "2025-06-25T11:25:00"
-	},
-	{
 		"name": "E3-TE-03",
 		"location": "1486",
 		"description": "Dozent: KENN",
 		"start": "2025-06-04T08:10:00",
 		"end": "2025-06-04T09:40:00"
-	},
-	{
-		"name": "E3-TE-03",
-		"location": "1486",
-		"description": "Dozent: KENN",
-		"start": "2025-06-25T08:10:00",
-		"end": "2025-06-25T09:40:00"
 	},
 	{
 		"name": "E3-DIP-03",
@@ -994,13 +896,6 @@
 		"end": "2025-06-05T15:40:00"
 	},
 	{
-		"name": "E3-DIP-03",
-		"location": "0801",
-		"description": "Dozent: FTZ/[Haarring]",
-		"start": "2025-06-26T12:10:00",
-		"end": "2025-06-26T15:40:00"
-	},
-	{
 		"name": "E3-TE-04",
 		"location": "1486",
 		"description": "Dozent: KENN",
@@ -1008,25 +903,11 @@
 		"end": "2025-06-04T11:25:00"
 	},
 	{
-		"name": "E3-TE-04",
-		"location": "1486",
-		"description": "Dozent: KENN",
-		"start": "2025-06-25T09:55:00",
-		"end": "2025-06-25T11:25:00"
-	},
-	{
 		"name": "E3-TE-01",
 		"location": "0861",
 		"description": "Dozent: BRSK",
 		"start": "2025-06-04T08:10:00",
 		"end": "2025-06-04T09:40:00"
-	},
-	{
-		"name": "E3-TE-01",
-		"location": "0861",
-		"description": "Dozent: BRSK",
-		"start": "2025-06-25T08:10:00",
-		"end": "2025-06-25T09:40:00"
 	},
 	{
 		"name": "E3-EL2",
@@ -1034,13 +915,6 @@
 		"description": "Dozent: LGE",
 		"start": "2025-06-06T12:10:00",
 		"end": "2025-06-06T15:40:00"
-	},
-	{
-		"name": "E3-EL2",
-		"location": "1060, SteinD94 R0.02",
-		"description": "Dozent: LGE",
-		"start": "2025-06-27T12:10:00",
-		"end": "2025-06-27T15:40:00"
 	},
 	{
 		"name": "E3-ELP2-03",
@@ -1062,13 +936,6 @@
 		"description": "Dozent: FTZ/[Zein]",
 		"start": "2025-06-12T08:10:00",
 		"end": "2025-06-12T11:25:00"
-	},
-	{
-		"name": "E3-OPP-01",
-		"location": "1360",
-		"description": "Dozent: SHTE",
-		"start": "2025-06-10T15:55:00",
-		"end": "2025-06-10T19:10:00"
 	},
 	{
 		"name": "E3-SSP1-03",
@@ -1258,6 +1125,139 @@
 		"description": "Dozent: HSL",
 		"start": "2025-06-16T15:55:00",
 		"end": "2025-06-16T19:10:00"
+	},
+	{
+		"name": "E3-DIP-01",
+		"location": "0801",
+		"description": "Dozent: FTZ/[Zein]",
+		"start": "2025-06-26T08:10:00",
+		"end": "2025-06-26T11:25:00"
+	},
+	{
+		"name": "E3-OP",
+		"location": "NB 01.13",
+		"description": "Dozent: HSL",
+		"start": "2025-06-24T08:10:00",
+		"end": "2025-06-24T11:25:00"
+	},
+	{
+		"name": "E3-ELP2-02",
+		"location": "0505",
+		"description": "Dozent: Kruse",
+		"start": "2025-06-26T08:10:00",
+		"end": "2025-06-26T11:25:00"
+	},
+	{
+		"name": "E3-SSP1-02",
+		"location": "1365",
+		"description": "Dozent: ERD",
+		"start": "2025-06-23T14:10:00",
+		"end": "2025-06-23T15:40:00"
+	},
+	{
+		"name": "E3-ELP2-04",
+		"location": "0505",
+		"description": "Dozent: Kruse",
+		"start": "2025-06-26T12:10:00",
+		"end": "2025-06-26T15:40:00"
+	},
+	{
+		"name": "E3-SS1",
+		"location": "NB 01.13",
+		"description": "Dozent: ERD",
+		"start": "2025-06-27T08:10:00",
+		"end": "2025-06-27T11:25:00"
+	},
+	{
+		"name": "E3-NSP-04",
+		"location": "1360",
+		"description": "Dozent: JNM",
+		"start": "2025-06-26T08:10:00",
+		"end": "2025-06-26T11:25:00"
+	},
+	{
+		"name": "E3-DI",
+		"location": "1060, SteinD94 R0.02",
+		"description": "Dozent: FTZ",
+		"start": "2025-06-25T12:10:00",
+		"end": "2025-06-25T15:40:00"
+	},
+	{
+		"name": "E3-NS",
+		"location": "NB 01.13",
+		"description": "Dozent: JNM",
+		"start": "2025-06-24T12:10:00",
+		"end": "2025-06-24T15:40:00"
+	},
+	{
+		"name": "E3-OPP-03",
+		"location": "1360",
+		"description": "Dozent: HSL",
+		"start": "2025-06-23T15:55:00",
+		"end": "2025-06-23T19:10:00"
+	},
+	{
+		"name": "E3-SSP1-01",
+		"location": "1365",
+		"description": "Dozent: ERD",
+		"start": "2025-06-23T12:10:00",
+		"end": "2025-06-23T13:40:00"
+	},
+	{
+		"name": "E3-NSP-01",
+		"location": "1360",
+		"description": "Dozent: JNM",
+		"start": "2025-06-26T12:10:00",
+		"end": "2025-06-26T15:40:00"
+	},
+	{
+		"name": "E3-TE-02",
+		"location": "0861",
+		"description": "Dozent: BRSK",
+		"start": "2025-06-25T09:55:00",
+		"end": "2025-06-25T11:25:00"
+	},
+	{
+		"name": "E3-TE-03",
+		"location": "1486",
+		"description": "Dozent: KENN",
+		"start": "2025-06-25T08:10:00",
+		"end": "2025-06-25T09:40:00"
+	},
+	{
+		"name": "E3-DIP-03",
+		"location": "0801",
+		"description": "Dozent: FTZ/[Haarring]",
+		"start": "2025-06-26T12:10:00",
+		"end": "2025-06-26T15:40:00"
+	},
+	{
+		"name": "E3-TE-04",
+		"location": "1486",
+		"description": "Dozent: KENN",
+		"start": "2025-06-25T09:55:00",
+		"end": "2025-06-25T11:25:00"
+	},
+	{
+		"name": "E3-TE-01",
+		"location": "0861",
+		"description": "Dozent: BRSK",
+		"start": "2025-06-25T08:10:00",
+		"end": "2025-06-25T09:40:00"
+	},
+	{
+		"name": "E3-EL2",
+		"location": "1060, SteinD94 R0.02",
+		"description": "Dozent: LGE",
+		"start": "2025-06-27T12:10:00",
+		"end": "2025-06-27T15:40:00"
+	},
+	{
+		"name": "E3-OPP-01",
+		"location": "1365",
+		"description": "Dozent: SHTE",
+		"start": "2025-06-23T15:55:00",
+		"end": "2025-06-23T19:10:00"
 	},
 	{
 		"name": "E3-ELP2-03",

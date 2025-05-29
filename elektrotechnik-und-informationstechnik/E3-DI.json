@@ -59,13 +59,6 @@
 		"name": "E3-DI",
 		"location": "1060, SteinD94 R0.02",
 		"description": "Dozent: FTZ",
-		"start": "2025-06-25T12:10:00",
-		"end": "2025-06-25T15:40:00"
-	},
-	{
-		"name": "E3-DI",
-		"location": "1060, SteinD94 R0.02",
-		"description": "Dozent: FTZ",
 		"start": "2025-06-11T12:10:00",
 		"end": "2025-06-11T15:40:00"
 	},
@@ -75,5 +68,12 @@
 		"description": "Dozent: FTZ",
 		"start": "2025-06-18T12:10:00",
 		"end": "2025-06-18T15:40:00"
+	},
+	{
+		"name": "E3-DI",
+		"location": "1060, SteinD94 R0.02",
+		"description": "Dozent: FTZ",
+		"start": "2025-06-25T12:10:00",
+		"end": "2025-06-25T15:40:00"
 	}
 ]
