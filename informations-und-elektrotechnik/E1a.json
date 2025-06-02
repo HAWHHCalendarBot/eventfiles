@@ -1342,5 +1342,12 @@
 		"description": "Dozent: NRMF",
 		"start": "2025-07-07T12:10:00",
 		"end": "2025-07-07T15:40:00"
+	},
+	{
+		"name": "E1a-LA",
+		"location": "NB 01.12",
+		"description": "Dozent: HSL",
+		"start": "2025-07-08T12:10:00",
+		"end": "2025-07-08T15:40:00"
 	}
 ]
