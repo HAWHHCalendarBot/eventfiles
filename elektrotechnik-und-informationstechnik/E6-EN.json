@@ -59,13 +59,6 @@
 		"name": "E6-EN",
 		"location": "0660",
 		"description": "Dozent: Koenigsheim",
-		"start": "2025-06-25T12:10:00",
-		"end": "2025-06-25T15:40:00"
-	},
-	{
-		"name": "E6-EN",
-		"location": "0660",
-		"description": "Dozent: Koenigsheim",
 		"start": "2025-06-11T12:10:00",
 		"end": "2025-06-11T15:40:00"
 	},
@@ -75,5 +68,12 @@
 		"description": "Dozent: Koenigsheim",
 		"start": "2025-06-18T12:10:00",
 		"end": "2025-06-18T15:40:00"
+	},
+	{
+		"name": "E6-EN",
+		"location": "0660",
+		"description": "Dozent: Koenigsheim",
+		"start": "2025-06-25T12:10:00",
+		"end": "2025-06-25T15:40:00"
 	}
 ]

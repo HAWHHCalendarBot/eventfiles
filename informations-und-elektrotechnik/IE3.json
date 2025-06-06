@@ -539,13 +539,6 @@
 		"end": "2025-06-04T11:25:00"
 	},
 	{
-		"name": "IE3-ELL2-03",
-		"location": "0505",
-		"description": "Dozent: AHSD/[Gassinez]/WTMR",
-		"start": "2025-06-06T12:10:00",
-		"end": "2025-06-06T15:40:00"
-	},
-	{
 		"name": "IE3-AD",
 		"location": "1260",
 		"description": "Dozent: HST",
@@ -607,6 +600,13 @@
 		"description": "Dozent: HST",
 		"start": "2025-06-12T08:10:00",
 		"end": "2025-06-12T11:25:00"
+	},
+	{
+		"name": "IE3-ELL2-03",
+		"location": "0505",
+		"description": "Dozent: AHSD/[Gassinez]/WTMR",
+		"start": "2025-06-13T15:55:00",
+		"end": "2025-06-13T19:10:00"
 	},
 	{
 		"name": "IE3-DIL-02",

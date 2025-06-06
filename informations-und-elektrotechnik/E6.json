@@ -539,13 +539,6 @@
 		"end": "2025-06-05T15:40:00"
 	},
 	{
-		"name": "E6-ZT",
-		"location": "1465",
-		"description": "Dozent: WNC",
-		"start": "2025-06-26T12:10:00",
-		"end": "2025-06-26T15:40:00"
-	},
-	{
 		"name": "E6-PBP-03",
 		"location": "0402",
 		"description": "Dozent: Wuerger/[Huss]",
@@ -553,13 +546,6 @@
 		"end": "2025-06-04T11:25:00"
 	},
 	{
-		"name": "E6-PBP-03",
-		"location": "0402",
-		"description": "Dozent: Wuerger/[Huss]",
-		"start": "2025-06-25T08:10:00",
-		"end": "2025-06-25T11:25:00"
-	},
-	{
 		"name": "E6-RYP-02",
 		"location": "0601",
 		"description": "Dozent: ERD/[Huss]",
@@ -567,25 +553,11 @@
 		"end": "2025-06-02T11:25:00"
 	},
 	{
-		"name": "E6-RYP-02",
-		"location": "0601",
-		"description": "Dozent: ERD/[Huss]",
-		"start": "2025-06-23T08:10:00",
-		"end": "2025-06-23T11:25:00"
-	},
-	{
 		"name": "E6-PAP-03",
 		"location": "0402",
 		"description": "Dozent: MAA",
 		"start": "2025-06-02T08:10:00",
 		"end": "2025-06-02T11:25:00"
-	},
-	{
-		"name": "E6-PAP-03",
-		"location": "0402",
-		"description": "Dozent: MAA",
-		"start": "2025-06-23T08:10:00",
-		"end": "2025-06-23T11:25:00"
 	},
 	{
 		"name": "E6-PB",
@@ -595,25 +567,11 @@
 		"end": "2025-06-03T15:40:00"
 	},
 	{
-		"name": "E6-PB",
-		"location": "0660",
-		"description": "Dozent: Wuerger",
-		"start": "2025-06-24T12:10:00",
-		"end": "2025-06-24T15:40:00"
-	},
-	{
 		"name": "E6-RY",
 		"location": "0660",
 		"description": "Dozent: ERD",
 		"start": "2025-06-05T08:10:00",
 		"end": "2025-06-05T11:25:00"
-	},
-	{
-		"name": "E6-RY",
-		"location": "0660",
-		"description": "Dozent: ERD",
-		"start": "2025-06-26T08:10:00",
-		"end": "2025-06-26T11:25:00"
 	},
 	{
 		"name": "E6-LEP-01",
@@ -623,25 +581,11 @@
 		"end": "2025-06-04T11:25:00"
 	},
 	{
-		"name": "E6-LEP-01",
-		"location": "0301",
-		"description": "Dozent: [Kor]/[Pot]",
-		"start": "2025-06-25T08:10:00",
-		"end": "2025-06-25T11:25:00"
-	},
-	{
 		"name": "E6-ENP-01",
 		"location": "0303",
 		"description": "Dozent: Koenigsheim/SZNY",
 		"start": "2025-06-02T08:10:00",
 		"end": "2025-06-02T11:25:00"
-	},
-	{
-		"name": "E6-ENP-01",
-		"location": "0303",
-		"description": "Dozent: Koenigsheim/SZNY",
-		"start": "2025-06-23T08:10:00",
-		"end": "2025-06-23T11:25:00"
 	},
 	{
 		"name": "E6-LE",
@@ -651,39 +595,11 @@
 		"end": "2025-06-02T15:40:00"
 	},
 	{
-		"name": "E6-LE",
-		"location": "0660",
-		"description": "Dozent: GNZ",
-		"start": "2025-06-23T12:10:00",
-		"end": "2025-06-23T15:40:00"
-	},
-	{
 		"name": "E6-EN",
 		"location": "0660",
 		"description": "Dozent: Koenigsheim",
 		"start": "2025-06-04T12:10:00",
 		"end": "2025-06-04T15:40:00"
-	},
-	{
-		"name": "E6-EN",
-		"location": "0660",
-		"description": "Dozent: Koenigsheim",
-		"start": "2025-06-25T12:10:00",
-		"end": "2025-06-25T15:40:00"
-	},
-	{
-		"name": "E6-PA",
-		"location": "0660, SteinD94 R0.02",
-		"description": "Dozent: MAA",
-		"start": "2025-06-03T08:10:00",
-		"end": "2025-06-03T11:25:00"
-	},
-	{
-		"name": "E6-PA",
-		"location": "0660, SteinD94 R0.02",
-		"description": "Dozent: MAA",
-		"start": "2025-06-24T08:10:00",
-		"end": "2025-06-24T11:25:00"
 	},
 	{
 		"name": "E6-LEP-02",
@@ -826,6 +742,83 @@
 		"end": "2025-06-17T11:25:00"
 	},
 	{
+		"name": "E6-ZT",
+		"location": "1465",
+		"description": "Dozent: WNC",
+		"start": "2025-06-26T12:10:00",
+		"end": "2025-06-26T15:40:00"
+	},
+	{
+		"name": "E6-PBP-03",
+		"location": "0402",
+		"description": "Dozent: Wuerger/[Huss]",
+		"start": "2025-06-25T08:10:00",
+		"end": "2025-06-25T11:25:00"
+	},
+	{
+		"name": "E6-RYP-02",
+		"location": "0601",
+		"description": "Dozent: ERD/[Huss]",
+		"start": "2025-06-23T08:10:00",
+		"end": "2025-06-23T11:25:00"
+	},
+	{
+		"name": "E6-PAP-03",
+		"location": "0402",
+		"description": "Dozent: MAA",
+		"start": "2025-06-23T08:10:00",
+		"end": "2025-06-23T11:25:00"
+	},
+	{
+		"name": "E6-PB",
+		"location": "0660",
+		"description": "Dozent: Wuerger",
+		"start": "2025-06-24T12:10:00",
+		"end": "2025-06-24T15:40:00"
+	},
+	{
+		"name": "E6-RY",
+		"location": "0660",
+		"description": "Dozent: ERD",
+		"start": "2025-06-26T08:10:00",
+		"end": "2025-06-26T11:25:00"
+	},
+	{
+		"name": "E6-LEP-01",
+		"location": "0301",
+		"description": "Dozent: [Kor]/[Pot]",
+		"start": "2025-06-25T08:10:00",
+		"end": "2025-06-25T11:25:00"
+	},
+	{
+		"name": "E6-ENP-01",
+		"location": "0303",
+		"description": "Dozent: Koenigsheim/SZNY",
+		"start": "2025-06-23T08:10:00",
+		"end": "2025-06-23T11:25:00"
+	},
+	{
+		"name": "E6-LE",
+		"location": "0660",
+		"description": "Dozent: GNZ",
+		"start": "2025-06-23T12:10:00",
+		"end": "2025-06-23T15:40:00"
+	},
+	{
+		"name": "E6-EN",
+		"location": "0660",
+		"description": "Dozent: Koenigsheim",
+		"start": "2025-06-25T12:10:00",
+		"end": "2025-06-25T15:40:00"
+	},
+	{
+		"name": "E6-PA",
+		"location": "0660, SteinD94 R0.02",
+		"description": "Dozent: MAA",
+		"start": "2025-06-24T08:10:00",
+		"end": "2025-06-24T11:25:00"
+	},
+	{
 		"name": "E6-LEP-02",
 		"location": "0301",
 		"description": "Dozent: [Kor]/[Pot]",
@@ -887,6 +880,13 @@
 		"description": "Dozent: ERD",
 		"start": "2025-07-02T12:10:00",
 		"end": "2025-07-02T15:40:00"
+	},
+	{
+		"name": "E6-PA",
+		"location": "0660",
+		"description": "Dozent: MAA",
+		"start": "2025-07-01T12:10:00",
+		"end": "2025-07-01T15:40:00"
 	},
 	{
 		"name": "E6-PBP-02",
