@@ -64,6 +64,13 @@
 	},
 	{
 		"name": "E1a-PH1",
+		"location": "0560",
+		"description": "Dozent: NRMF",
+		"start": "2025-06-17T08:10:00",
+		"end": "2025-06-17T11:25:00"
+	},
+	{
+		"name": "E1a-PH1",
 		"location": "MP-F327",
 		"description": "Dozent: NRMF",
 		"start": "2025-06-27T08:10:00",
