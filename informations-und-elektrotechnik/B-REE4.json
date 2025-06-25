@@ -789,5 +789,12 @@
 		"description": "Dozent: ERD/[Huss]",
 		"start": "2025-07-08T08:10:00",
 		"end": "2025-07-08T11:25:00"
+	},
+	{
+		"name": "B-REE4-RT",
+		"location": "1281",
+		"description": "Dozent: ERD",
+		"start": "2025-07-08T16:00:00",
+		"end": "2025-07-08T17:30:00"
 	}
 ]

@@ -707,13 +707,6 @@
 		"end": "2025-06-23T15:40:00"
 	},
 	{
-		"name": "IE3-SS1",
-		"location": "0660",
-		"description": "Dozent: LGE",
-		"start": "2025-06-27T08:10:00",
-		"end": "2025-06-27T11:25:00"
-	},
-	{
 		"name": "IE3-ELL2-02",
 		"location": "0505, 0804",
 		"description": "Dozent: AHSD/[Gassinez]/WTMR",
@@ -817,6 +810,13 @@
 		"description": "Dozent: LGE",
 		"start": "2025-07-07T08:10:00",
 		"end": "2025-07-07T11:25:00"
+	},
+	{
+		"name": "IE3-SS1",
+		"location": "0660",
+		"description": "Dozent: LGE",
+		"start": "2025-07-11T08:10:00",
+		"end": "2025-07-11T11:25:00"
 	},
 	{
 		"name": "IE3-ELL2-02",

@@ -1407,25 +1407,11 @@
 		"end": "2025-06-16T11:25:00"
 	},
 	{
-		"name": "E6-BS",
-		"location": "1303a, 1303b, 1365",
-		"description": "Dozent: GRS",
-		"start": "2025-06-19T12:10:00",
-		"end": "2025-06-19T15:40:00"
-	},
-	{
 		"name": "E6-DUeP-02",
 		"location": "1303a, 1303b",
 		"description": "Dozent: KRN/NGBR",
 		"start": "2025-06-25T08:10:00",
 		"end": "2025-06-25T11:25:00"
-	},
-	{
-		"name": "E6-BSP-02",
-		"location": "0880",
-		"description": "Dozent: WSTK/[Gassinez]",
-		"start": "2025-06-26T08:10:00",
-		"end": "2025-06-26T11:25:00"
 	},
 	{
 		"name": "E6-DUeP-01",
@@ -1442,13 +1428,6 @@
 		"end": "2025-06-24T11:25:00"
 	},
 	{
-		"name": "E6-BSP-01",
-		"location": "0880",
-		"description": "Dozent: WSTK/[Gassinez]",
-		"start": "2025-06-26T12:10:00",
-		"end": "2025-06-26T15:40:00"
-	},
-	{
 		"name": "E6-DYP-01",
 		"location": "0801",
 		"description": "Dozent: FTZ",
@@ -1461,6 +1440,27 @@
 		"description": "Dozent: LTL",
 		"start": "2025-06-23T08:10:00",
 		"end": "2025-06-23T11:25:00"
+	},
+	{
+		"name": "E6-BS",
+		"location": "1303a, 1303b, 1365",
+		"description": "Dozent: GRS",
+		"start": "2025-06-26T12:10:00",
+		"end": "2025-06-26T15:40:00"
+	},
+	{
+		"name": "E6-BS",
+		"location": "1301a, 1301b, 1303a, 1303b",
+		"description": "Dozent: GRS",
+		"start": "2025-06-23T12:10:00",
+		"end": "2025-06-23T15:40:00"
+	},
+	{
+		"name": "E6-BSP-02",
+		"location": "0880",
+		"description": "Dozent: WSTK/[Gassinez]",
+		"start": "2025-07-03T08:10:00",
+		"end": "2025-07-03T11:25:00"
 	},
 	{
 		"name": "E6-DVP-01",
@@ -1484,6 +1484,13 @@
 		"end": "2025-07-02T15:40:00"
 	},
 	{
+		"name": "E6-BSP-01",
+		"location": "0880",
+		"description": "Dozent: WSTK/[Gassinez]",
+		"start": "2025-07-03T12:10:00",
+		"end": "2025-07-03T15:40:00"
+	},
+	{
 		"name": "E6-DVP-03",
 		"location": "0885",
 		"description": "Dozent: KPKE",
@@ -1503,13 +1510,6 @@
 		"description": "Dozent: LTL",
 		"start": "2025-06-30T08:10:00",
 		"end": "2025-06-30T11:25:00"
-	},
-	{
-		"name": "E6-BS",
-		"location": "1303a, 1303b, 1365",
-		"description": "Dozent: GRS",
-		"start": "2025-07-03T12:10:00",
-		"end": "2025-07-03T15:40:00"
 	},
 	{
 		"name": "E6-DVP-02",

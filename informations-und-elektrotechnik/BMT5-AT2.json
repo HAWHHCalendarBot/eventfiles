@@ -75,5 +75,12 @@
 		"description": "Dozent: ERD",
 		"start": "2025-06-17T08:10:00",
 		"end": "2025-06-17T11:25:00"
+	},
+	{
+		"name": "BMT5-AT2",
+		"location": "1281",
+		"description": "Dozent: ERD",
+		"start": "2025-07-08T16:00:00",
+		"end": "2025-07-08T17:30:00"
 	}
 ]
