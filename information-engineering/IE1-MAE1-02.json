@@ -1,0 +1,44 @@
+[
+	{
+		"name": "IE1-MAE1-02",
+		"location": "1265",
+		"description": "Dozent: Maesaka",
+		"start": "2025-04-25T14:10:00",
+		"end": "2025-04-25T15:40:00"
+	},
+	{
+		"name": "IE1-MAE1-02",
+		"location": "1265",
+		"description": "Dozent: Maesaka",
+		"start": "2025-05-09T14:10:00",
+		"end": "2025-05-09T15:40:00"
+	},
+	{
+		"name": "IE1-MAE1-02",
+		"location": "1265",
+		"description": "Dozent: Maesaka",
+		"start": "2025-05-22T15:55:00",
+		"end": "2025-05-22T17:25:00"
+	},
+	{
+		"name": "IE1-MAE1-02",
+		"location": "1265",
+		"description": "Dozent: Maesaka",
+		"start": "2025-06-06T14:10:00",
+		"end": "2025-06-06T15:40:00"
+	},
+	{
+		"name": "IE1-MAE1-02",
+		"location": "1265",
+		"description": "Dozent: Maesaka",
+		"start": "2025-06-20T14:10:00",
+		"end": "2025-06-20T15:40:00"
+	},
+	{
+		"name": "IE1-MAE1-02",
+		"location": "1265",
+		"description": "Dozent: Maesaka",
+		"start": "2025-07-04T14:10:00",
+		"end": "2025-07-04T15:40:00"
+	}
+]

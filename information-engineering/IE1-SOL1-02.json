@@ -1,0 +1,37 @@
+[
+	{
+		"name": "IE1-SOL1-02",
+		"location": "1365",
+		"description": "Dozent: Pikora",
+		"start": "2025-05-06T08:10:00",
+		"end": "2025-05-06T11:25:00"
+	},
+	{
+		"name": "IE1-SOL1-02",
+		"location": "1365",
+		"description": "Dozent: Pikora",
+		"start": "2025-05-20T08:10:00",
+		"end": "2025-05-20T11:25:00"
+	},
+	{
+		"name": "IE1-SOL1-02",
+		"location": "1365",
+		"description": "Dozent: Pikora",
+		"start": "2025-06-03T08:10:00",
+		"end": "2025-06-03T11:25:00"
+	},
+	{
+		"name": "IE1-SOL1-02",
+		"location": "1365",
+		"description": "Dozent: Pikora",
+		"start": "2025-06-24T08:10:00",
+		"end": "2025-06-24T11:25:00"
+	},
+	{
+		"name": "IE1-SOL1-02",
+		"location": "1365",
+		"description": "Dozent: Pikora",
+		"start": "2025-07-08T08:10:00",
+		"end": "2025-07-08T11:25:00"
+	}
+]

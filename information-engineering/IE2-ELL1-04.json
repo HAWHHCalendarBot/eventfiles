@@ -1,0 +1,30 @@
+[
+	{
+		"name": "IE2-ELL1-04",
+		"location": "0505",
+		"description": "Dozent: RDT",
+		"start": "2025-04-28T12:10:00",
+		"end": "2025-04-28T15:40:00"
+	},
+	{
+		"name": "IE2-ELL1-04",
+		"location": "0505",
+		"description": "Dozent: RDT",
+		"start": "2025-05-06T08:10:00",
+		"end": "2025-05-06T11:25:00"
+	},
+	{
+		"name": "IE2-ELL1-04",
+		"location": "0505",
+		"description": "Dozent: RDT",
+		"start": "2025-06-03T08:10:00",
+		"end": "2025-06-03T11:25:00"
+	},
+	{
+		"name": "IE2-ELL1-04",
+		"location": "0505",
+		"description": "Dozent: RDT",
+		"start": "2025-06-24T08:10:00",
+		"end": "2025-06-24T11:25:00"
+	}
+]
