@@ -1,0 +1,30 @@
+[
+	{
+		"name": "DBL/03 (Datenbanken)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Ulrike Herster\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: DBL/03 (3. Parallelgruppe)",
+		"startTime": "2025-11-06T12:10:00",
+		"endTime": "2025-11-06T13:40:00"
+	},
+	{
+		"name": "DBL/03 (Datenbanken)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Ulrike Herster\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DBL/03 (3. Parallelgruppe)",
+		"startTime": "2025-11-26T08:10:00",
+		"endTime": "2025-11-26T11:25:00"
+	},
+	{
+		"name": "DBL/03 (Datenbanken)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Ulrike Herster\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DBL/03 (3. Parallelgruppe)",
+		"startTime": "2025-12-17T08:10:00",
+		"endTime": "2025-12-17T11:25:00"
+	},
+	{
+		"name": "DBL/03 (Datenbanken)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Ulrike Herster\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: DBL/03 (3. Parallelgruppe)",
+		"startTime": "2026-01-21T08:10:00",
+		"endTime": "2026-01-21T11:25:00"
+	}
+]

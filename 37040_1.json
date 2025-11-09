@@ -1,0 +1,23 @@
+[
+	{
+		"name": "WP_SEP (Solar Energy)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Valeriya Titova\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Solar Energy - Praktikum",
+		"startTime": "2025-11-24T15:55:00",
+		"endTime": "2025-11-24T19:10:00"
+	},
+	{
+		"name": "WP_SEP (Solar Energy)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Valeriya Titova\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Solar Energy - Praktikum",
+		"startTime": "2025-12-15T15:55:00",
+		"endTime": "2025-12-15T19:10:00"
+	},
+	{
+		"name": "WP_SEP (Solar Energy)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Valeriya Titova\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Solar Energy - Praktikum",
+		"startTime": "2026-01-19T15:55:00",
+		"endTime": "2026-01-19T19:10:00"
+	}
+]

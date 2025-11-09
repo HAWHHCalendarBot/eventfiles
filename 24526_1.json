@@ -1,0 +1,30 @@
+[
+	{
+		"name": "MatPhy P/01 (Mathematik und Physik Laborpraktikum)",
+		"location": "0.47 Haushaltstechnik Labor, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Silvia Elfers\nParallelgruppe: 1\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe A - Elfers (1. Parallelgruppe)",
+		"startTime": "2025-10-21T08:30:00",
+		"endTime": "2025-10-21T11:45:00"
+	},
+	{
+		"name": "MatPhy P/01 (Mathematik und Physik Laborpraktikum)",
+		"location": "0.47 Haushaltstechnik Labor, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Silvia Elfers\nParallelgruppe: 1\nRhythmus: vierwöchentlich\n\nOriginaler Titel: Termingruppe A - Elfers (1. Parallelgruppe)",
+		"startTime": "2025-11-11T08:30:00",
+		"endTime": "2025-11-11T11:45:00"
+	},
+	{
+		"name": "MatPhy P/01 (Mathematik und Physik Laborpraktikum)",
+		"location": "0.47 Haushaltstechnik Labor, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Silvia Elfers\nParallelgruppe: 1\nRhythmus: vierwöchentlich\n\nOriginaler Titel: Termingruppe A - Elfers (1. Parallelgruppe)",
+		"startTime": "2025-12-09T08:30:00",
+		"endTime": "2025-12-09T11:45:00"
+	},
+	{
+		"name": "MatPhy P/01 (Mathematik und Physik Laborpraktikum)",
+		"location": "0.47 Haushaltstechnik Labor, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Silvia Elfers\nParallelgruppe: 1\nRhythmus: vierwöchentlich\n\nOriginaler Titel: Termingruppe A - Elfers (1. Parallelgruppe)",
+		"startTime": "2026-01-06T08:30:00",
+		"endTime": "2026-01-06T11:45:00"
+	}
+]

@@ -1,0 +1,93 @@
+[
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Hans Schäfers\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2025-10-13T12:30:00",
+		"endTime": "2025-10-13T16:00:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "1.07a, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Carolin Floeter\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2025-10-22T08:30:00",
+		"endTime": "2025-10-22T11:45:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "0.70, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Carsten Frank\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2025-10-28T12:30:00",
+		"endTime": "2025-10-28T16:00:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr.-Ing. Jörn Einfeldt\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2025-11-03T12:30:00",
+		"endTime": "2025-11-03T16:00:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "S 2.09 Chemie Hörsaal, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr.-Ing. Sebastian Timmerberg\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2025-11-13T08:30:00",
+		"endTime": "2025-11-13T11:45:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "S 2.09 Chemie Hörsaal, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr.-Ing. Sebastian Timmerberg\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2025-11-20T08:30:00",
+		"endTime": "2025-11-20T11:45:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Hans Schäfers\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2025-11-24T12:30:00",
+		"endTime": "2025-11-24T16:00:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Hans Schäfers\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2025-12-01T12:30:00",
+		"endTime": "2025-12-01T16:00:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "0.70, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Timon Kampschulte\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2025-12-09T12:30:00",
+		"endTime": "2025-12-09T16:00:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "0.70, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Timon Kampschulte\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2025-12-16T12:30:00",
+		"endTime": "2025-12-16T16:00:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "0.70, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Timon Kampschulte\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2026-01-06T12:30:00",
+		"endTime": "2026-01-06T16:00:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "S 2.09 Chemie Hörsaal, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr.-Ing. Sebastian Timmerberg\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2026-01-15T08:30:00",
+		"endTime": "2026-01-15T11:45:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "S 2.09 Chemie Hörsaal, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Marion Siegers\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2026-01-22T08:30:00",
+		"endTime": "2026-01-22T11:45:00"
+	}
+]

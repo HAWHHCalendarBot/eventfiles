@@ -1,0 +1,30 @@
+[
+	{
+		"name": "SEL/03 (Software Engineering)",
+		"location": "5.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Kolja Eger\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: SEL/03 (3. Parallelgruppe)",
+		"startTime": "2025-11-04T14:10:00",
+		"endTime": "2025-11-04T15:40:00"
+	},
+	{
+		"name": "SEL/03 (Software Engineering)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Kolja Eger\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: SEL/03 (3. Parallelgruppe)",
+		"startTime": "2025-11-25T12:10:00",
+		"endTime": "2025-11-25T15:40:00"
+	},
+	{
+		"name": "SEL/03 (Software Engineering)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Kolja Eger\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: SEL/03 (3. Parallelgruppe)",
+		"startTime": "2025-12-16T12:10:00",
+		"endTime": "2025-12-16T15:40:00"
+	},
+	{
+		"name": "SEL/03 (Software Engineering)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Kolja Eger\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: SEL/03 (3. Parallelgruppe)",
+		"startTime": "2026-01-20T12:10:00",
+		"endTime": "2026-01-20T15:40:00"
+	}
+]

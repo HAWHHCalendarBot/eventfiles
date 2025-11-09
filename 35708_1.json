@@ -1,0 +1,30 @@
+[
+	{
+		"name": "ELL1/01 (Elektronik 1)",
+		"location": "5.05, Berliner Tor 7",
+		"description": "Dozenten: Wesam Al Hajsaeed, Leevie Kruse\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 21\nRhythmus: Einzeltermin\n\nOriginaler Titel: ELL1/01 (1. Parallelgruppe)",
+		"startTime": "2025-11-03T08:10:00",
+		"endTime": "2025-11-03T09:40:00"
+	},
+	{
+		"name": "ELL1/01 (Elektronik 1)",
+		"location": "5.05, Berliner Tor 7",
+		"description": "Dozenten: Wesam Al Hajsaeed, Leevie Kruse\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 21\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ELL1/01 (1. Parallelgruppe)",
+		"startTime": "2025-11-18T08:10:00",
+		"endTime": "2025-11-18T11:25:00"
+	},
+	{
+		"name": "ELL1/01 (Elektronik 1)",
+		"location": "5.05, Berliner Tor 7",
+		"description": "Dozenten: Wesam Al Hajsaeed, Leevie Kruse\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 21\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ELL1/01 (1. Parallelgruppe)",
+		"startTime": "2025-12-09T08:10:00",
+		"endTime": "2025-12-09T11:25:00"
+	},
+	{
+		"name": "ELL1/01 (Elektronik 1)",
+		"location": "5.05, Berliner Tor 7",
+		"description": "Dozenten: Wesam Al Hajsaeed, Leevie Kruse\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 21\nRhythmus: Einzeltermin\n\nOriginaler Titel: ELL1/01 (1. Parallelgruppe)",
+		"startTime": "2026-01-13T08:10:00",
+		"endTime": "2026-01-13T11:25:00"
+	}
+]

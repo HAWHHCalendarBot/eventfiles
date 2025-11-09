@@ -1,0 +1,30 @@
+[
+	{
+		"name": "MdS (Methoden der Sozialwissenschaften)",
+		"location": "S4.07, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Anja Carlsohn\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2025-10-06T08:30:00",
+		"endTime": "2025-10-06T14:00:00"
+	},
+	{
+		"name": "MdS (Methoden der Sozialwissenschaften)",
+		"location": "N4.12, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Anja Carlsohn\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2025-10-08T08:30:00",
+		"endTime": "2025-10-08T14:00:00"
+	},
+	{
+		"name": "MdS (Methoden der Sozialwissenschaften)",
+		"location": "S4.07, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Anja Carlsohn\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2025-10-09T08:30:00",
+		"endTime": "2025-10-09T14:00:00"
+	},
+	{
+		"name": "MdS (Methoden der Sozialwissenschaften)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Anja Carlsohn\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2025-10-10T08:30:00",
+		"endTime": "2025-10-10T14:00:00"
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"name": "DBL/01 (Datenbanken)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozenten: Dr. Felix Köpcke, Dr. Liesbet Roose\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: DBL/01 (1. Parallelgruppe)",
+		"startTime": "2025-11-03T08:10:00",
+		"endTime": "2025-11-03T09:40:00"
+	},
+	{
+		"name": "DBL/01 (Datenbanken)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozenten: Dr. Felix Köpcke, Dr. Liesbet Roose\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DBL/01 (1. Parallelgruppe)",
+		"startTime": "2025-11-10T08:10:00",
+		"endTime": "2025-11-10T11:25:00"
+	},
+	{
+		"name": "DBL/01 (Datenbanken)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozenten: Dr. Felix Köpcke, Dr. Liesbet Roose\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DBL/01 (1. Parallelgruppe)",
+		"startTime": "2025-12-01T08:10:00",
+		"endTime": "2025-12-01T11:25:00"
+	},
+	{
+		"name": "DBL/01 (Datenbanken)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozenten: Dr. Felix Köpcke, Dr. Liesbet Roose\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: DBL/01 (1. Parallelgruppe)",
+		"startTime": "2026-01-05T08:10:00",
+		"endTime": "2026-01-05T11:25:00"
+	}
+]

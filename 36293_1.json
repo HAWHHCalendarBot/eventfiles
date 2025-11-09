@@ -1,0 +1,44 @@
+[
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Silke Betscher, Prof. Dr. Bettina Radeiski\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA M 1.1 Ideenwerkstatt",
+		"startTime": "2025-10-27T14:30:00",
+		"endTime": "2025-10-27T17:45:00"
+	},
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "2.08, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Bettina Radeiski\nRhythmus: wöchentlich\n\nOriginaler Titel: MASA M 1.1 Ideenwerkstatt",
+		"startTime": "2025-11-13T10:00:00",
+		"endTime": "2025-11-13T13:15:00"
+	},
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "2.08, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Bettina Radeiski\nRhythmus: wöchentlich\n\nOriginaler Titel: MASA M 1.1 Ideenwerkstatt",
+		"startTime": "2025-11-20T10:00:00",
+		"endTime": "2025-11-20T13:15:00"
+	},
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "2.08, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Bettina Radeiski\nRhythmus: wöchentlich\n\nOriginaler Titel: MASA M 1.1 Ideenwerkstatt",
+		"startTime": "2025-12-04T10:00:00",
+		"endTime": "2025-12-04T13:15:00"
+	},
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Silke Betscher\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA M 1.1 Ideenwerkstatt",
+		"startTime": "2025-12-15T15:00:00",
+		"endTime": "2025-12-15T18:30:00"
+	},
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Silke Betscher\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA M 1.1 Ideenwerkstatt",
+		"startTime": "2026-01-19T15:00:00",
+		"endTime": "2026-01-19T18:30:00"
+	}
+]
