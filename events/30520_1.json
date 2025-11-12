@@ -78,6 +78,13 @@
 	},
 	{
 		"name": "ER2 (Elektrische und regenerative Energietechnik 2)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Michael Röther\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: ER2",
+		"startTime": "2025-12-10T15:55:00",
+		"endTime": "2025-12-10T17:25:00"
+	},
+	{
+		"name": "ER2 (Elektrische und regenerative Energietechnik 2)",
 		"location": "8.62, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Michael Röther\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: ER2",
 		"startTime": "2026-01-07T12:10:00",
