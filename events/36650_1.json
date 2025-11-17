@@ -47,5 +47,12 @@
 		"description": "Dozent: Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
 		"startTime": "2025-11-20T08:30:00",
 		"endTime": "2025-11-20T11:45:00"
+	},
+	{
+		"name": "BPE1 (Process Development and Automation)",
+		"location": "1.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Max. Anzahl von Teilnehmer/-innen: 32\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-01-15T10:15:00",
+		"endTime": "2026-01-15T11:45:00"
 	}
 ]
