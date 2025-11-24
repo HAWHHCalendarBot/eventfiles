@@ -47,5 +47,12 @@
 		"description": "Dozent: Prof. Dr. Anja Carlsohn\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
 		"startTime": "2025-10-20T10:15:00",
 		"endTime": "2025-10-20T14:15:00"
+	},
+	{
+		"name": "MS PG (Methoden der Sozialwissenschaften Praxisgruppe)",
+		"location": "S4.07, Ulmenliet 20, Hauptgebäude",
+		"description": "Rhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-01-26T10:15:00",
+		"endTime": "2026-01-26T14:15:00"
 	}
 ]
