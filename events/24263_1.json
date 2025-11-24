@@ -2,36 +2,8 @@
 	{
 		"name": "EaH (Environment and Health)",
 		"location": "1.08, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Walter Leal\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2025-10-21T12:30:00",
-		"endTime": "2025-10-21T17:45:00"
-	},
-	{
-		"name": "EaH (Environment and Health)",
-		"location": "1.08, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Walter Leal\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2025-10-28T12:30:00",
-		"endTime": "2025-10-28T17:45:00"
-	},
-	{
-		"name": "EaH (Environment and Health)",
-		"location": "1.08, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Walter Leal\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2025-11-04T12:30:00",
-		"endTime": "2025-11-04T17:45:00"
-	},
-	{
-		"name": "EaH (Environment and Health)",
-		"location": "1.08, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Walter Leal\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2025-11-11T12:30:00",
-		"endTime": "2025-11-11T17:45:00"
-	},
-	{
-		"name": "EaH (Environment and Health)",
-		"location": "1.08, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Walter Leal\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2025-11-18T12:30:00",
-		"endTime": "2025-11-18T17:45:00"
+		"description": "Dozent: Prof. Dr. Walter Leal\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2025-11-26T11:30:00",
+		"endTime": "2025-11-26T17:45:00"
 	}
 ]

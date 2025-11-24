@@ -26,5 +26,12 @@
 		"description": "Dozent: Prof. Dr. Johanna Buchcik\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
 		"startTime": "2025-11-24T12:30:00",
 		"endTime": "2025-11-24T17:45:00"
+	},
+	{
+		"name": "M2-V2 (Advanced Quantitative Research Methods)",
+		"location": "S3.04, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Johanna Buchcik\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-01-12T12:30:00",
+		"endTime": "2026-01-12T17:45:00"
 	}
 ]
