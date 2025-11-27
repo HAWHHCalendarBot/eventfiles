@@ -87,6 +87,13 @@
 		"name": "TMA (Technische Mechanik A)",
 		"location": "5.14, Berliner Tor 5",
 		"description": "Dozent: Prof. Dr. Andreas Baumgart\nRhythmus: wöchentlich\n\nOriginaler Titel: 1.G - TMA - BMT1",
+		"startTime": "2026-01-20T08:30:00",
+		"endTime": "2026-01-20T10:00:00"
+	},
+	{
+		"name": "TMA (Technische Mechanik A)",
+		"location": "5.14, Berliner Tor 5",
+		"description": "Dozent: Prof. Dr. Andreas Baumgart\nRhythmus: wöchentlich\n\nOriginaler Titel: 1.G - TMA - BMT1",
 		"startTime": "2025-10-15T08:30:00",
 		"endTime": "2025-10-15T11:45:00"
 	},
