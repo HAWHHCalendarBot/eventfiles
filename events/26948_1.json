@@ -194,5 +194,12 @@
 		"description": "Dozent: Prof. Dr. Christian Kaiser\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
 		"startTime": "2026-01-22T10:15:00",
 		"endTime": "2026-01-22T11:45:00"
+	},
+	{
+		"name": "FBRT (Fermentations- und Bioreaktortechnik)",
+		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
+		"description": "Max. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2025-12-15T12:30:00",
+		"endTime": "2025-12-15T14:00:00"
 	}
 ]
