@@ -73,21 +73,7 @@
 		"name": "BV (Bildverarbeitung)",
 		"location": "0.01, Steindamm 94",
 		"description": "Dozent: Prof. Dr. Jörg Dahlkemper\nRhythmus: wöchentlich\n\nOriginaler Titel: 1.G - BV - BMT6_Robo",
-		"startTime": "2026-01-08T08:30:00",
-		"endTime": "2026-01-08T11:45:00"
-	},
-	{
-		"name": "BV (Bildverarbeitung)",
-		"location": "0.01, Steindamm 94",
-		"description": "Dozent: Prof. Dr. Jörg Dahlkemper\nRhythmus: wöchentlich\n\nOriginaler Titel: 1.G - BV - BMT6_Robo",
 		"startTime": "2026-01-15T08:30:00",
 		"endTime": "2026-01-15T11:45:00"
-	},
-	{
-		"name": "BV (Bildverarbeitung)",
-		"location": "0.01, Steindamm 94",
-		"description": "Dozent: Prof. Dr. Jörg Dahlkemper\nRhythmus: wöchentlich\n\nOriginaler Titel: 1.G - BV - BMT6_Robo",
-		"startTime": "2026-01-22T08:30:00",
-		"endTime": "2026-01-22T11:45:00"
 	}
 ]
