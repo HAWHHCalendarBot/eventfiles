@@ -61,12 +61,5 @@
 		"description": "Dozent: Prof. Dr. Björn Lange\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: NS",
 		"startTime": "2026-01-09T08:10:00",
 		"endTime": "2026-01-09T11:25:00"
-	},
-	{
-		"name": "NS (Numerik und Stochastik)",
-		"location": "12.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Björn Lange\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: NS",
-		"startTime": "2026-01-23T08:10:00",
-		"endTime": "2026-01-23T11:25:00"
 	}
 ]

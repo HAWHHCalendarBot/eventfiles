@@ -68,5 +68,12 @@
 		"description": "Dozent: Prof. Dr. Björn Lange\nMax. Anzahl von Teilnehmer/-innen: 45\nRhythmus: wöchentlich\n\nOriginaler Titel: SS2",
 		"startTime": "2025-12-19T12:10:00",
 		"endTime": "2025-12-19T15:40:00"
+	},
+	{
+		"name": "SS2 (Signale und Systeme 2)",
+		"location": "6.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Björn Lange\nMax. Anzahl von Teilnehmer/-innen: 45\nRhythmus: wöchentlich\n\nOriginaler Titel: SS2",
+		"startTime": "2026-01-16T12:10:00",
+		"endTime": "2026-01-16T15:40:00"
 	}
 ]
