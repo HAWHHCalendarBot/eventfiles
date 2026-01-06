@@ -12,5 +12,12 @@
 		"description": "Dozent: Prof. Dr. Carolin Floeter\nRhythmus: Einzeltermin\n\nOriginaler Titel: Wassermanagement",
 		"startTime": "2025-10-20T08:30:00",
 		"endTime": "2025-10-20T10:00:00"
+	},
+	{
+		"name": "WM (Wassermanagement)",
+		"location": "N4.07, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Carolin Floeter\nRhythmus: Einzeltermin\n\nOriginaler Titel: Wassermanagement",
+		"startTime": "2026-01-19T08:30:00",
+		"endTime": "2026-01-19T10:00:00"
 	}
 ]
