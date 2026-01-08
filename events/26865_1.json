@@ -96,5 +96,12 @@
 		"description": "Dozent: Prof. Dr. Christian Kaiser\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
 		"startTime": "2026-01-21T12:30:00",
 		"endTime": "2026-01-21T14:00:00"
+	},
+	{
+		"name": "WSA (Wärme- und Stoffaustausch)",
+		"location": "S4.05, Ulmenliet 20, Hauptgebäude",
+		"description": "Max. Anzahl von Teilnehmer/-innen: 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-01-14T08:30:00",
+		"endTime": "2026-01-14T11:45:00"
 	}
 ]
