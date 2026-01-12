@@ -47,5 +47,12 @@
 		"description": "Dozent: Prof. Dr. Serhat Cicek\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe A (1. Parallelgruppe)",
 		"startTime": "2025-11-19T08:30:00",
 		"endTime": "2025-11-19T16:00:00"
+	},
+	{
+		"name": "IA P/01 (Instrumentelle Analytik Praktikum)",
+		"location": "S4.05, Ulmenliet 20, Hauptgebäude",
+		"description": "Parallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe A (1. Parallelgruppe)",
+		"startTime": "2026-01-21T08:30:00",
+		"endTime": "2026-01-21T11:45:00"
 	}
 ]
