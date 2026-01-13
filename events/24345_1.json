@@ -31,14 +31,21 @@
 		"name": "M8-V1 (Research Project)",
 		"location": "1.07b, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Dr. Claudia Terschüren\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2026-02-02T12:30:00",
+		"startTime": "2026-01-26T10:00:00",
+		"endTime": "2026-01-26T17:45:00"
+	},
+	{
+		"name": "M8-V1 (Research Project)",
+		"location": "1.07b, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Claudia Terschüren\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-02-02T10:00:00",
 		"endTime": "2026-02-02T17:45:00"
 	},
 	{
 		"name": "M8-V1 (Research Project)",
 		"location": "1.07b, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Dr. Claudia Terschüren\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2026-02-23T12:30:00",
+		"startTime": "2026-02-23T10:00:00",
 		"endTime": "2026-02-23T17:45:00"
 	}
 ]
