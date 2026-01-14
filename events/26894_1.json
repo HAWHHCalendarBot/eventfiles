@@ -194,5 +194,19 @@
 		"description": "Dozent: Dr. Alexander Laatsch\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
 		"startTime": "2026-01-20T10:15:00",
 		"endTime": "2026-01-20T11:45:00"
+	},
+	{
+		"name": "BC1 (Organische Chemie und Biochemie 1)",
+		"location": "N4.07, Ulmenliet 20, Hauptgebäude",
+		"description": "Max. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-01-20T12:30:00",
+		"endTime": "2026-01-20T14:00:00"
+	},
+	{
+		"name": "BC1 (Organische Chemie und Biochemie 1)",
+		"location": "N4.07, Ulmenliet 20, Hauptgebäude",
+		"description": "Max. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-01-27T12:30:00",
+		"endTime": "2026-01-27T14:00:00"
 	}
 ]
