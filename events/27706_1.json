@@ -96,5 +96,12 @@
 		"description": "Dozent: Prof. Dr. Carolin Floeter\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe UT",
 		"startTime": "2026-01-20T08:30:00",
 		"endTime": "2026-01-20T11:45:00"
+	},
+	{
+		"name": "Bio P (Biologie Praktikum)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Max. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe UT",
+		"startTime": "2026-01-20T08:30:00",
+		"endTime": "2026-01-20T10:00:00"
 	}
 ]
