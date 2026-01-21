@@ -64,13 +64,6 @@
 	},
 	{
 		"name": "MS (Mess- und Sensortechnik)",
-		"location": "4.05, Berliner Tor 7",
-		"description": "Dozent: Tobias de Gasperis\nMax. Anzahl von Teilnehmer/-innen: 55\nRhythmus: wöchentlich\n\nOriginaler Titel: Mess- und Sensortechnik (1ITS-MS.LV)",
-		"startTime": "2026-01-28T12:30:00",
-		"endTime": "2026-01-28T15:45:00"
-	},
-	{
-		"name": "MS (Mess- und Sensortechnik)",
 		"location": "3.60, Berliner Tor 7",
 		"description": "Dozent: Tobias de Gasperis\nMax. Anzahl von Teilnehmer/-innen: 55\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mess- und Sensortechnik (1ITS-MS.LV)",
 		"startTime": "2025-10-16T09:00:00",
