@@ -5599,6 +5599,16 @@
 						},
 						"5. Semester": {
 							"subDirectories": {
+								"Wahlpflicht": {
+									"events": {
+										"26968_1": "IPS (Interdisziplinäres Seminar über nachhaltige Konzepte zur Reduzierung der Antibiotikabelastung in den Gewässern (PharmCycle))",
+										"27556_1": "SrE (Systemintegration regenerativer Energien)",
+										"27949_1": "PyEl TWP (Organische Elektronik / Polymerelektronik)",
+										"28347_1": "WStoT (Werkstofftechnik)",
+										"27174_1": "SVtP (Simulation verfahrenstechnischer Prozesse)",
+										"27721_1": "FC SL (Fuel Cell Systems and their Applications)"
+									}
+								},
 								"Messtechnik": {
 									"events": {
 										"27720_1": "UMT (Messtechnik)",
