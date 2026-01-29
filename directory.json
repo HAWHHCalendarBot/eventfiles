@@ -5131,6 +5131,15 @@
 												"43138_1": "ESI/01 (Early-Stage Innovation & AI in Life Sciences)",
 												"43138_2": "ESI/02 (Early-Stage Innovation & AI in Life Sciences)"
 											}
+										},
+										"Physik 2": {
+											"events": {
+												"26952_1": "Phy2/01 (Physik 2)",
+												"26952_2": "Phy2/02 (Physik 2)",
+												"26952_3": "Phy2/03 (Physik 2)",
+												"26952_4": "Phy2/04 (Physik 2)",
+												"26952_5": "Phy2/05 (Physik 2)"
+											}
 										}
 									},
 									"events": {
@@ -5140,7 +5149,8 @@
 										"26886_1": "Spk (Spektroskopie)",
 										"27254_1": "Vpac (Verpackungstechnik)",
 										"24835_1": "MTL (Mikrobiologie und Toxikologie der Lebensmittel)",
-										"37245_1": "NI (Nachhaltigkeit interdisziplinär)"
+										"37245_1": "NI (Nachhaltigkeit interdisziplinär)",
+										"27265_1": "MP MVT (Mechanische Verfahrenstechnik 1)"
 									}
 								}
 							}
