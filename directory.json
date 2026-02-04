@@ -10,9 +10,9 @@
 									"subDirectories": {
 										"Analysis 1 Übung": {
 											"events": {
-												"30135_1": "ANÜ1/01 (Analysis 1 Übung)",
-												"30135_2": "ANÜ1/02 (Analysis 1 Übung)",
-												"30135_3": "ANÜ1/03 (Analysis 1 Übung)"
+												"30135_1": "ANÜ1 (Analysis 1 Übung)",
+												"30135_2": "ANÜ1 (Analysis 1 Übung)",
+												"30135_3": "ANÜ1 (Analysis 1 Übung)"
 											}
 										}
 									},
@@ -75,10 +75,10 @@
 									"subDirectories": {
 										"Analysis 2 Übung": {
 											"events": {
-												"30093_1": "ANÜ2/01 (Analysis 2 Übung)",
-												"30093_2": "ANÜ2/02 (Analysis 2 Übung)",
-												"30093_3": "ANÜ2/03 (Analysis 2 Übung)",
-												"30093_4": "ANÜ2/04 (Analysis 2 Übung)"
+												"30093_1": "ANÜ2 (Analysis 2 Übung)",
+												"30093_2": "ANÜ2 (Analysis 2 Übung)",
+												"30093_3": "ANÜ2 (Analysis 2 Übung)",
+												"30093_4": "ANÜ2 (Analysis 2 Übung)"
 											}
 										}
 									},
@@ -810,9 +810,9 @@
 									"subDirectories": {
 										"Algorithmen und Datenstrukturen": {
 											"events": {
-												"35669_1": "ADL/01 (Algorithmen und Datenstrukturen)",
-												"35669_2": "ADL/02 (Algorithmen und Datenstrukturen)",
-												"35669_3": "ADL/03 (Algorithmen und Datenstrukturen)"
+												"35669_1": "ADL (Algorithmen und Datenstrukturen)",
+												"35669_2": "ADL (Algorithmen und Datenstrukturen)",
+												"35669_3": "ADL (Algorithmen und Datenstrukturen)"
 											}
 										}
 									},
@@ -2336,9 +2336,9 @@
 									"subDirectories": {
 										"Algorithmen und Datenstrukturen Praktikum": {
 											"events": {
-												"35114_1": "ADP/01 (Algorithmen und Datenstrukturen Praktikum)",
-												"35114_2": "ADP/02 (Algorithmen und Datenstrukturen Praktikum)",
-												"35114_3": "ADP/03 (Algorithmen und Datenstrukturen Praktikum)"
+												"35114_1": "ADP (Algorithmen und Datenstrukturen Praktikum)",
+												"35114_2": "ADP (Algorithmen und Datenstrukturen Praktikum)",
+												"35114_3": "ADP (Algorithmen und Datenstrukturen Praktikum)"
 											}
 										}
 									},
@@ -2962,9 +2962,9 @@
 									"subDirectories": {
 										"Algorithmen und Datenstrukturen Praktikum": {
 											"events": {
-												"30910_1": "ADP/01 (Algorithmen und Datenstrukturen Praktikum)",
-												"30910_2": "ADP/02 (Algorithmen und Datenstrukturen Praktikum)",
-												"30910_3": "ADP/03 (Algorithmen und Datenstrukturen Praktikum)"
+												"30910_1": "ADP (Algorithmen und Datenstrukturen Praktikum)",
+												"30910_2": "ADP (Algorithmen und Datenstrukturen Praktikum)",
+												"30910_3": "ADP (Algorithmen und Datenstrukturen Praktikum)"
 											}
 										}
 									},
@@ -3584,9 +3584,9 @@
 									"subDirectories": {
 										"Algorithmen und Datenstrukturen Praktikum": {
 											"events": {
-												"30910_1": "ADP/01 (Algorithmen und Datenstrukturen Praktikum)",
-												"30910_2": "ADP/02 (Algorithmen und Datenstrukturen Praktikum)",
-												"30910_3": "ADP/03 (Algorithmen und Datenstrukturen Praktikum)"
+												"30910_1": "ADP (Algorithmen und Datenstrukturen Praktikum)",
+												"30910_2": "ADP (Algorithmen und Datenstrukturen Praktikum)",
+												"30910_3": "ADP (Algorithmen und Datenstrukturen Praktikum)"
 											}
 										}
 									},
