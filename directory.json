@@ -10,9 +10,9 @@
 									"subDirectories": {
 										"Analysis 1 Übung": {
 											"events": {
-												"30135_1": "ANÜ1 (Analysis 1 Übung)",
-												"30135_2": "ANÜ1 (Analysis 1 Übung)",
-												"30135_3": "ANÜ1 (Analysis 1 Übung)"
+												"30135_1": "ANÜ1/01 (Analysis 1 Übung)",
+												"30135_2": "ANÜ1/02 (Analysis 1 Übung)",
+												"30135_3": "ANÜ1/03 (Analysis 1 Übung)"
 											}
 										}
 									},
@@ -75,10 +75,10 @@
 									"subDirectories": {
 										"Analysis 2 Übung": {
 											"events": {
-												"30093_1": "ANÜ2 (Analysis 2 Übung)",
-												"30093_2": "ANÜ2 (Analysis 2 Übung)",
-												"30093_3": "ANÜ2 (Analysis 2 Übung)",
-												"30093_4": "ANÜ2 (Analysis 2 Übung)"
+												"30093_1": "ANÜ2/01 (Analysis 2 Übung)",
+												"30093_2": "ANÜ2/02 (Analysis 2 Übung)",
+												"30093_3": "ANÜ2/03 (Analysis 2 Übung)",
+												"30093_4": "ANÜ2/04 (Analysis 2 Übung)"
 											}
 										}
 									},
@@ -810,9 +810,9 @@
 									"subDirectories": {
 										"Algorithmen und Datenstrukturen": {
 											"events": {
-												"35669_1": "ADL (Algorithmen und Datenstrukturen)",
-												"35669_2": "ADL (Algorithmen und Datenstrukturen)",
-												"35669_3": "ADL (Algorithmen und Datenstrukturen)"
+												"35669_1": "ADL/01 (Algorithmen und Datenstrukturen)",
+												"35669_2": "ADL/02 (Algorithmen und Datenstrukturen)",
+												"35669_3": "ADL/03 (Algorithmen und Datenstrukturen)"
 											}
 										}
 									},
@@ -2189,8 +2189,8 @@
 									"subDirectories": {
 										"Diskrete Mathematik Übungen": {
 											"events": {
-												"30821_1": "DMÜ (Diskrete Mathematik Übungen)",
-												"30821_2": "DMÜ (Diskrete Mathematik Übungen)"
+												"30821_1": "DMÜ/01 (Diskrete Mathematik Übungen)",
+												"30821_2": "DMÜ/02 (Diskrete Mathematik Übungen)"
 											}
 										}
 									},
@@ -2336,9 +2336,9 @@
 									"subDirectories": {
 										"Algorithmen und Datenstrukturen Praktikum": {
 											"events": {
-												"35114_1": "ADP (Algorithmen und Datenstrukturen Praktikum)",
-												"35114_2": "ADP (Algorithmen und Datenstrukturen Praktikum)",
-												"35114_3": "ADP (Algorithmen und Datenstrukturen Praktikum)"
+												"35114_1": "ADP/01 (Algorithmen und Datenstrukturen Praktikum)",
+												"35114_2": "ADP/02 (Algorithmen und Datenstrukturen Praktikum)",
+												"35114_3": "ADP/03 (Algorithmen und Datenstrukturen Praktikum)"
 											}
 										}
 									},
@@ -2448,8 +2448,8 @@
 											"subDirectories": {
 												"Einführung in die Robotik Praktikum": {
 													"events": {
-														"35904_1": "WP_ERP (Einführung in die Robotik Praktikum)",
-														"35904_2": "WP_ERP (Einführung in die Robotik Praktikum)"
+														"35904_1": "WP_ERP/01 (Einführung in die Robotik Praktikum)",
+														"35904_2": "WP_ERP/02 (Einführung in die Robotik Praktikum)"
 													}
 												}
 											},
@@ -2599,8 +2599,8 @@
 											"subDirectories": {
 												"Einführung in die Robotik Praktikum": {
 													"events": {
-														"35904_1": "WP_ERP (Einführung in die Robotik Praktikum)",
-														"35904_2": "WP_ERP (Einführung in die Robotik Praktikum)"
+														"35904_1": "WP_ERP/01 (Einführung in die Robotik Praktikum)",
+														"35904_2": "WP_ERP/02 (Einführung in die Robotik Praktikum)"
 													}
 												}
 											},
@@ -2759,8 +2759,8 @@
 											"subDirectories": {
 												"Einführung in die Robotik Praktikum": {
 													"events": {
-														"35904_1": "WP_ERP (Einführung in die Robotik Praktikum)",
-														"35904_2": "WP_ERP (Einführung in die Robotik Praktikum)"
+														"35904_1": "WP_ERP/01 (Einführung in die Robotik Praktikum)",
+														"35904_2": "WP_ERP/02 (Einführung in die Robotik Praktikum)"
 													}
 												}
 											},
@@ -2962,9 +2962,9 @@
 									"subDirectories": {
 										"Algorithmen und Datenstrukturen Praktikum": {
 											"events": {
-												"30910_1": "ADP (Algorithmen und Datenstrukturen Praktikum)",
-												"30910_2": "ADP (Algorithmen und Datenstrukturen Praktikum)",
-												"30910_3": "ADP (Algorithmen und Datenstrukturen Praktikum)"
+												"30910_1": "ADP/01 (Algorithmen und Datenstrukturen Praktikum)",
+												"30910_2": "ADP/02 (Algorithmen und Datenstrukturen Praktikum)",
+												"30910_3": "ADP/03 (Algorithmen und Datenstrukturen Praktikum)"
 											}
 										}
 									},
@@ -3073,8 +3073,8 @@
 											"subDirectories": {
 												"Einführung in die Robotik Praktikum": {
 													"events": {
-														"35904_1": "WP_ERP (Einführung in die Robotik Praktikum)",
-														"35904_2": "WP_ERP (Einführung in die Robotik Praktikum)"
+														"35904_1": "WP_ERP/01 (Einführung in die Robotik Praktikum)",
+														"35904_2": "WP_ERP/02 (Einführung in die Robotik Praktikum)"
 													}
 												}
 											},
@@ -3215,8 +3215,8 @@
 											"subDirectories": {
 												"Einführung in die Robotik Praktikum": {
 													"events": {
-														"35904_1": "WP_ERP (Einführung in die Robotik Praktikum)",
-														"35904_2": "WP_ERP (Einführung in die Robotik Praktikum)"
+														"35904_1": "WP_ERP/01 (Einführung in die Robotik Praktikum)",
+														"35904_2": "WP_ERP/02 (Einführung in die Robotik Praktikum)"
 													}
 												}
 											},
@@ -3374,8 +3374,8 @@
 											"subDirectories": {
 												"Einführung in die Robotik Praktikum": {
 													"events": {
-														"35904_1": "WP_ERP (Einführung in die Robotik Praktikum)",
-														"35904_2": "WP_ERP (Einführung in die Robotik Praktikum)"
+														"35904_1": "WP_ERP/01 (Einführung in die Robotik Praktikum)",
+														"35904_2": "WP_ERP/02 (Einführung in die Robotik Praktikum)"
 													}
 												}
 											},
@@ -3584,9 +3584,9 @@
 									"subDirectories": {
 										"Algorithmen und Datenstrukturen Praktikum": {
 											"events": {
-												"30910_1": "ADP (Algorithmen und Datenstrukturen Praktikum)",
-												"30910_2": "ADP (Algorithmen und Datenstrukturen Praktikum)",
-												"30910_3": "ADP (Algorithmen und Datenstrukturen Praktikum)"
+												"30910_1": "ADP/01 (Algorithmen und Datenstrukturen Praktikum)",
+												"30910_2": "ADP/02 (Algorithmen und Datenstrukturen Praktikum)",
+												"30910_3": "ADP/03 (Algorithmen und Datenstrukturen Praktikum)"
 											}
 										}
 									},
@@ -3682,8 +3682,8 @@
 											"subDirectories": {
 												"Einführung in die Robotik Praktikum": {
 													"events": {
-														"35904_1": "WP_ERP (Einführung in die Robotik Praktikum)",
-														"35904_2": "WP_ERP (Einführung in die Robotik Praktikum)"
+														"35904_1": "WP_ERP/01 (Einführung in die Robotik Praktikum)",
+														"35904_2": "WP_ERP/02 (Einführung in die Robotik Praktikum)"
 													}
 												}
 											},
@@ -3811,8 +3811,8 @@
 											"subDirectories": {
 												"Einführung in die Robotik Praktikum": {
 													"events": {
-														"35904_1": "WP_ERP (Einführung in die Robotik Praktikum)",
-														"35904_2": "WP_ERP (Einführung in die Robotik Praktikum)"
+														"35904_1": "WP_ERP/01 (Einführung in die Robotik Praktikum)",
+														"35904_2": "WP_ERP/02 (Einführung in die Robotik Praktikum)"
 													}
 												}
 											},
@@ -3975,8 +3975,8 @@
 											"subDirectories": {
 												"Einführung in die Robotik Praktikum": {
 													"events": {
-														"35904_1": "WP_ERP (Einführung in die Robotik Praktikum)",
-														"35904_2": "WP_ERP (Einführung in die Robotik Praktikum)"
+														"35904_1": "WP_ERP/01 (Einführung in die Robotik Praktikum)",
+														"35904_2": "WP_ERP/02 (Einführung in die Robotik Praktikum)"
 													}
 												}
 											},
@@ -4218,8 +4218,8 @@
 											"subDirectories": {
 												"Einführung in die Robotik Praktikum": {
 													"events": {
-														"35904_1": "WP_ERP (Einführung in die Robotik Praktikum)",
-														"35904_2": "WP_ERP (Einführung in die Robotik Praktikum)"
+														"35904_1": "WP_ERP/01 (Einführung in die Robotik Praktikum)",
+														"35904_2": "WP_ERP/02 (Einführung in die Robotik Praktikum)"
 													}
 												}
 											},
@@ -4366,8 +4366,8 @@
 											"subDirectories": {
 												"Einführung in die Robotik Praktikum": {
 													"events": {
-														"35904_1": "WP_ERP (Einführung in die Robotik Praktikum)",
-														"35904_2": "WP_ERP (Einführung in die Robotik Praktikum)"
+														"35904_1": "WP_ERP/01 (Einführung in die Robotik Praktikum)",
+														"35904_2": "WP_ERP/02 (Einführung in die Robotik Praktikum)"
 													}
 												}
 											},
@@ -4668,7 +4668,7 @@
 										},
 										"CCGinteraktiv: House of Health": {
 											"events": {
-												"37242_1": "HoH (CCGinteraktiv: House of Health)",
+												"37242_1": "HoH/01 (CCGinteraktiv: House of Health)",
 												"37242_2": "HoH/02 (CCGinteraktiv: House of Health)"
 											}
 										}
@@ -4697,10 +4697,10 @@
 									"subDirectories": {
 										"Mathematik 2": {
 											"events": {
-												"26794_4": "Mat2 (Mathematik 2)",
 												"26794_1": "Mat2/01 (Mathematik 2)",
 												"26794_2": "Mat2/02 (Mathematik 2)",
-												"26794_3": "Mat2/03 (Mathematik 2)"
+												"26794_3": "Mat2/03 (Mathematik 2)",
+												"26794_4": "Mat2/04 (Mathematik 2)"
 											}
 										},
 										"Mathematik 3": {
@@ -5122,7 +5122,7 @@
 										},
 										"CCGinteraktiv: House of Health": {
 											"events": {
-												"37242_1": "HoH (CCGinteraktiv: House of Health)",
+												"37242_1": "HoH/01 (CCGinteraktiv: House of Health)",
 												"37242_2": "HoH/02 (CCGinteraktiv: House of Health)"
 											}
 										},
@@ -5921,10 +5921,10 @@
 									"subDirectories": {
 										"Mathematik 2": {
 											"events": {
-												"26794_4": "Mat2 (Mathematik 2)",
 												"26794_1": "Mat2/01 (Mathematik 2)",
 												"26794_2": "Mat2/02 (Mathematik 2)",
-												"26794_3": "Mat2/03 (Mathematik 2)"
+												"26794_3": "Mat2/03 (Mathematik 2)",
+												"26794_4": "Mat2/04 (Mathematik 2)"
 											}
 										},
 										"Mathematik 3": {
@@ -7462,9 +7462,9 @@
 									"subDirectories": {
 										"Unit 2: Programmierprojekt": {
 											"events": {
-												"25102_1": "PM9 U2 (Unit 2: Programmierprojekt)",
-												"25102_2": "PM9 U2 (Unit 2: Programmierprojekt)",
-												"25102_3": "PM9 U2 (Unit 2: Programmierprojekt)"
+												"25102_1": "PM9 U2/01 (Unit 2: Programmierprojekt)",
+												"25102_2": "PM9 U2/02 (Unit 2: Programmierprojekt)",
+												"25102_3": "PM9 U2/03 (Unit 2: Programmierprojekt)"
 											}
 										}
 									},
@@ -7499,8 +7499,8 @@
 									"subDirectories": {
 										"Unit 2: Software Engineering 2": {
 											"events": {
-												"25108_1": "PM17 U2 (Unit 2: Software Engineering 2)",
-												"25108_2": "PM17 U2 (Unit 2: Software Engineering 2)"
+												"25108_1": "PM17 U2/01 (Unit 2: Software Engineering 2)",
+												"25108_2": "PM17 U2/02 (Unit 2: Software Engineering 2)"
 											}
 										}
 									},
@@ -7536,30 +7536,30 @@
 							"subDirectories": {
 								"Digitale Medienkonzeption und -produktion I": {
 									"events": {
-										"19253_1": "M2.LV1 (Digitale Medienkonzeption und -produktion I)",
-										"19253_2": "M2.LV1 (Digitale Medienkonzeption und -produktion I)",
-										"19253_3": "M2.LV1 (Digitale Medienkonzeption und -produktion I)"
+										"19253_1": "M2.LV1/01 (Digitale Medienkonzeption und -produktion I)",
+										"19253_2": "M2.LV1/02 (Digitale Medienkonzeption und -produktion I)",
+										"19253_3": "M2.LV1/03 (Digitale Medienkonzeption und -produktion I)"
 									}
 								},
 								"Medienökonomie und -management I": {
 									"events": {
-										"19247_1": "M3.LV1 (Medienökonomie und -management I)",
-										"19247_2": "M3.LV1 (Medienökonomie und -management I)",
-										"19247_3": "M3.LV1 (Medienökonomie und -management I)"
+										"19247_1": "M3.LV1/01 (Medienökonomie und -management I)",
+										"19247_2": "M3.LV1/02 (Medienökonomie und -management I)",
+										"19247_3": "M3.LV1/03 (Medienökonomie und -management I)"
 									}
 								},
 								"Data Visualization and Storytelling I": {
 									"events": {
-										"36995_1": "M4.LV1 (Data Visualization and Storytelling I)",
-										"36995_2": "M4.LV1 (Data Visualization and Storytelling I)",
-										"36995_3": "M4.LV1 (Data Visualization and Storytelling I)"
+										"36995_1": "M4.LV1/01 (Data Visualization and Storytelling I)",
+										"36995_2": "M4.LV1/02 (Data Visualization and Storytelling I)",
+										"36995_3": "M4.LV1/03 (Data Visualization and Storytelling I)"
 									}
 								},
 								"Communication Studies I": {
 									"events": {
-										"36972_1": "M5.LV1 (Communication Studies I)",
-										"36972_2": "M5.LV1 (Communication Studies I)",
-										"36972_3": "M5.LV1 (Communication Studies I)"
+										"36972_1": "M5.LV1/01 (Communication Studies I)",
+										"36972_2": "M5.LV1/02 (Communication Studies I)",
+										"36972_3": "M5.LV1/03 (Communication Studies I)"
 									}
 								}
 							},
@@ -7599,10 +7599,10 @@
 								},
 								"Medien- und Kommunikationsforschung": {
 									"events": {
-										"19270_1": "M10.LV1 (Medien- und Kommunikationsforschung)",
-										"19270_2": "M10.LV1 (Medien- und Kommunikationsforschung)",
-										"19270_3": "M10.LV1 (Medien- und Kommunikationsforschung)",
-										"19270_4": "M10.LV1 (Medien- und Kommunikationsforschung)"
+										"19270_1": "M10.LV1/01 (Medien- und Kommunikationsforschung)",
+										"19270_2": "M10.LV1/02 (Medien- und Kommunikationsforschung)",
+										"19270_3": "M10.LV1/03 (Medien- und Kommunikationsforschung)",
+										"19270_4": "M10.LV1/04 (Medien- und Kommunikationsforschung)"
 									}
 								}
 							}
@@ -7618,29 +7618,29 @@
 									"subDirectories": {
 										"Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I": {
 											"events": {
-												"18147_1": "PM1 U1 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
-												"18147_2": "PM1 U1 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
-												"18147_3": "PM1 U1 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
-												"18147_4": "PM1 U1 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
-												"18147_5": "PM1 U1 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)"
+												"18147_1": "PM1 U1/01 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
+												"18147_2": "PM1 U1/02 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
+												"18147_3": "PM1 U1/03 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
+												"18147_4": "PM1 U1/04 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
+												"18147_5": "PM1 U1/05 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)"
 											}
 										},
 										"Unit 2: Verwaltung, Staat und Gesellschaft I": {
 											"events": {
-												"18163_1": "PM1 U2 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
-												"18163_2": "PM1 U2 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
-												"18163_3": "PM1 U2 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
-												"18163_4": "PM1 U2 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
-												"18163_5": "PM1 U2 (Unit 2: Verwaltung, Staat und Gesellschaft I)"
+												"18163_1": "PM1 U2/01 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
+												"18163_2": "PM1 U2/02 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
+												"18163_3": "PM1 U2/03 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
+												"18163_4": "PM1 U2/04 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
+												"18163_5": "PM1 U2/05 (Unit 2: Verwaltung, Staat und Gesellschaft I)"
 											}
 										},
 										"Unit 3: Personalpsychologie I": {
 											"events": {
-												"18178_1": "PM1 U3 (Unit 3: Personalpsychologie I)",
-												"18178_2": "PM1 U3 (Unit 3: Personalpsychologie I)",
-												"18178_3": "PM1 U3 (Unit 3: Personalpsychologie I)",
-												"18178_4": "PM1 U3 (Unit 3: Personalpsychologie I)",
-												"18178_5": "PM1 U3 (Unit 3: Personalpsychologie I)"
+												"18178_1": "PM1 U3/01 (Unit 3: Personalpsychologie I)",
+												"18178_2": "PM1 U3/02 (Unit 3: Personalpsychologie I)",
+												"18178_3": "PM1 U3/03 (Unit 3: Personalpsychologie I)",
+												"18178_4": "PM1 U3/04 (Unit 3: Personalpsychologie I)",
+												"18178_5": "PM1 U3/05 (Unit 3: Personalpsychologie I)"
 											}
 										}
 									}
@@ -7649,20 +7649,20 @@
 									"subDirectories": {
 										"Unit 1: Rechtsmethodik": {
 											"events": {
-												"18061_1": "PM2 U1 (Unit 1: Rechtsmethodik)",
-												"18061_2": "PM2 U1 (Unit 1: Rechtsmethodik)",
-												"18061_3": "PM2 U1 (Unit 1: Rechtsmethodik)",
-												"18061_4": "PM2 U1 (Unit 1: Rechtsmethodik)",
-												"18061_5": "PM2 U1 (Unit 1: Rechtsmethodik)"
+												"18061_1": "PM2 U1/01 (Unit 1: Rechtsmethodik)",
+												"18061_2": "PM2 U1/02 (Unit 1: Rechtsmethodik)",
+												"18061_3": "PM2 U1/03 (Unit 1: Rechtsmethodik)",
+												"18061_4": "PM2 U1/04 (Unit 1: Rechtsmethodik)",
+												"18061_5": "PM2 U1/05 (Unit 1: Rechtsmethodik)"
 											}
 										},
 										"Unit 2: Methoden wissenschaftlichen Arbeitens": {
 											"events": {
-												"18133_1": "PM2 U2 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
-												"18133_2": "PM2 U2 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
-												"18133_3": "PM2 U2 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
-												"18133_4": "PM2 U2 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
-												"18133_5": "PM2 U2 (Unit 2: Methoden wissenschaftlichen Arbeitens)"
+												"18133_1": "PM2 U2/01 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
+												"18133_2": "PM2 U2/02 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
+												"18133_3": "PM2 U2/03 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
+												"18133_4": "PM2 U2/04 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
+												"18133_5": "PM2 U2/05 (Unit 2: Methoden wissenschaftlichen Arbeitens)"
 											}
 										}
 									}
@@ -7671,11 +7671,11 @@
 									"subDirectories": {
 										"Unit 1: Öffentliche Finanzwirtschaft I und II": {
 											"events": {
-												"18064_1": "PM3 U1 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
-												"18064_2": "PM3 U1 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
-												"18064_3": "PM3 U1 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
-												"18064_4": "PM3 U1 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
-												"18064_5": "PM3 U1 (Unit 1: Öffentliche Finanzwirtschaft I und II)"
+												"18064_1": "PM3 U1/01 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
+												"18064_2": "PM3 U1/02 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
+												"18064_3": "PM3 U1/03 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
+												"18064_4": "PM3 U1/04 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
+												"18064_5": "PM3 U1/05 (Unit 1: Öffentliche Finanzwirtschaft I und II)"
 											}
 										}
 									},
@@ -7687,11 +7687,11 @@
 									"subDirectories": {
 										"Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I": {
 											"events": {
-												"18117_1": "PM4 U1 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
-												"18117_2": "PM4 U1 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
-												"18117_3": "PM4 U1 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
-												"18117_4": "PM4 U1 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
-												"18117_5": "PM4 U1 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)"
+												"18117_1": "PM4 U1/01 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
+												"18117_2": "PM4 U1/02 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
+												"18117_3": "PM4 U1/03 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
+												"18117_4": "PM4 U1/04 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
+												"18117_5": "PM4 U1/05 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)"
 											}
 										}
 									},
@@ -7704,11 +7704,11 @@
 									"subDirectories": {
 										"Unit 1: Einführung in die Informationstechnologie": {
 											"events": {
-												"18091_1": "PM5 U1 (Unit 1: Einführung in die Informationstechnologie)",
-												"18091_2": "PM5 U1 (Unit 1: Einführung in die Informationstechnologie)",
-												"18091_3": "PM5 U1 (Unit 1: Einführung in die Informationstechnologie)",
-												"18091_4": "PM5 U1 (Unit 1: Einführung in die Informationstechnologie)",
-												"18091_5": "PM5 U1 (Unit 1: Einführung in die Informationstechnologie)"
+												"18091_1": "PM5 U1/01 (Unit 1: Einführung in die Informationstechnologie)",
+												"18091_2": "PM5 U1/02 (Unit 1: Einführung in die Informationstechnologie)",
+												"18091_3": "PM5 U1/03 (Unit 1: Einführung in die Informationstechnologie)",
+												"18091_4": "PM5 U1/04 (Unit 1: Einführung in die Informationstechnologie)",
+												"18091_5": "PM5 U1/05 (Unit 1: Einführung in die Informationstechnologie)"
 											}
 										}
 									},
@@ -7721,20 +7721,20 @@
 									"subDirectories": {
 										"Unit 1: Allgemeines Verwaltungsrecht I": {
 											"events": {
-												"18071_1": "PM6 U1 (Unit 1: Allgemeines Verwaltungsrecht I)",
-												"18071_2": "PM6 U1 (Unit 1: Allgemeines Verwaltungsrecht I)",
-												"18071_3": "PM6 U1 (Unit 1: Allgemeines Verwaltungsrecht I)",
-												"18071_4": "PM6 U1 (Unit 1: Allgemeines Verwaltungsrecht I)",
-												"18071_5": "PM6 U1 (Unit 1: Allgemeines Verwaltungsrecht I)"
+												"18071_1": "PM6 U1/01 (Unit 1: Allgemeines Verwaltungsrecht I)",
+												"18071_2": "PM6 U1/02 (Unit 1: Allgemeines Verwaltungsrecht I)",
+												"18071_3": "PM6 U1/03 (Unit 1: Allgemeines Verwaltungsrecht I)",
+												"18071_4": "PM6 U1/04 (Unit 1: Allgemeines Verwaltungsrecht I)",
+												"18071_5": "PM6 U1/05 (Unit 1: Allgemeines Verwaltungsrecht I)"
 											}
 										},
 										"Unit 2: Staats- und Europarecht I": {
 											"events": {
-												"18066_1": "PM6 U2 (Unit 2: Staats- und Europarecht I)",
-												"18066_2": "PM6 U2 (Unit 2: Staats- und Europarecht I)",
-												"18066_3": "PM6 U2 (Unit 2: Staats- und Europarecht I)",
-												"18066_4": "PM6 U2 (Unit 2: Staats- und Europarecht I)",
-												"18066_5": "PM6 U2 (Unit 2: Staats- und Europarecht I)"
+												"18066_1": "PM6 U2/01 (Unit 2: Staats- und Europarecht I)",
+												"18066_2": "PM6 U2/02 (Unit 2: Staats- und Europarecht I)",
+												"18066_3": "PM6 U2/03 (Unit 2: Staats- und Europarecht I)",
+												"18066_4": "PM6 U2/04 (Unit 2: Staats- und Europarecht I)",
+												"18066_5": "PM6 U2/05 (Unit 2: Staats- und Europarecht I)"
 											}
 										}
 									},
@@ -7747,20 +7747,20 @@
 									"subDirectories": {
 										"Unit 1: Zivilrecht I": {
 											"events": {
-												"18079_1": "PM7 U1 (Unit 1: Zivilrecht I)",
-												"18079_2": "PM7 U1 (Unit 1: Zivilrecht I)",
-												"18079_3": "PM7 U1 (Unit 1: Zivilrecht I)",
-												"18079_4": "PM7 U1 (Unit 1: Zivilrecht I)",
-												"18079_5": "PM7 U1 (Unit 1: Zivilrecht I)"
+												"18079_1": "PM7 U1/01 (Unit 1: Zivilrecht I)",
+												"18079_2": "PM7 U1/02 (Unit 1: Zivilrecht I)",
+												"18079_3": "PM7 U1/03 (Unit 1: Zivilrecht I)",
+												"18079_4": "PM7 U1/04 (Unit 1: Zivilrecht I)",
+												"18079_5": "PM7 U1/05 (Unit 1: Zivilrecht I)"
 											}
 										},
 										"Unit 2: Personalrecht I": {
 											"events": {
-												"18176_1": "PM7 U2 (Unit 2: Personalrecht I)",
-												"18176_2": "PM7 U2 (Unit 2: Personalrecht I)",
-												"18176_3": "PM7 U2 (Unit 2: Personalrecht I)",
-												"18176_4": "PM7 U2 (Unit 2: Personalrecht I)",
-												"18176_5": "PM7 U2 (Unit 2: Personalrecht I)"
+												"18176_1": "PM7 U2/01 (Unit 2: Personalrecht I)",
+												"18176_2": "PM7 U2/02 (Unit 2: Personalrecht I)",
+												"18176_3": "PM7 U2/03 (Unit 2: Personalrecht I)",
+												"18176_4": "PM7 U2/04 (Unit 2: Personalrecht I)",
+												"18176_5": "PM7 U2/05 (Unit 2: Personalrecht I)"
 											}
 										}
 									},
@@ -7803,20 +7803,20 @@
 									"subDirectories": {
 										"Unit 2: IT-Aspekte der Digitalisierung I": {
 											"events": {
-												"18013_1": "PM15 U2 (Unit 2: IT-Aspekte der Digitalisierung I)",
-												"18013_2": "PM15 U2 (Unit 2: IT-Aspekte der Digitalisierung I)",
-												"18013_3": "PM15 U2 (Unit 2: IT-Aspekte der Digitalisierung I)",
-												"18013_4": "PM15 U2 (Unit 2: IT-Aspekte der Digitalisierung I)",
-												"18013_5": "PM15 U2 (Unit 2: IT-Aspekte der Digitalisierung I)"
+												"18013_1": "PM15 U2/01 (Unit 2: IT-Aspekte der Digitalisierung I)",
+												"18013_2": "PM15 U2/02 (Unit 2: IT-Aspekte der Digitalisierung I)",
+												"18013_3": "PM15 U2/03 (Unit 2: IT-Aspekte der Digitalisierung I)",
+												"18013_4": "PM15 U2/04 (Unit 2: IT-Aspekte der Digitalisierung I)",
+												"18013_5": "PM15 U2/05 (Unit 2: IT-Aspekte der Digitalisierung I)"
 											}
 										},
 										"Unit 3: Prozessmanagement": {
 											"events": {
-												"18150_1": "PM15 U3 (Unit 3: Prozessmanagement)",
-												"18150_2": "PM15 U3 (Unit 3: Prozessmanagement)",
-												"18150_3": "PM15 U3 (Unit 3: Prozessmanagement)",
-												"18150_4": "PM15 U3 (Unit 3: Prozessmanagement)",
-												"18150_5": "PM15 U3 (Unit 3: Prozessmanagement)"
+												"18150_1": "PM15 U3/01 (Unit 3: Prozessmanagement)",
+												"18150_2": "PM15 U3/02 (Unit 3: Prozessmanagement)",
+												"18150_3": "PM15 U3/03 (Unit 3: Prozessmanagement)",
+												"18150_4": "PM15 U3/04 (Unit 3: Prozessmanagement)",
+												"18150_5": "PM15 U3/05 (Unit 3: Prozessmanagement)"
 											}
 										}
 									}
@@ -7825,20 +7825,20 @@
 									"subDirectories": {
 										"Unit 3: Allgemeines Verwaltungsrecht IV": {
 											"events": {
-												"18168_1": "PM16 U3 (Unit 3: Allgemeines Verwaltungsrecht IV)",
-												"18168_2": "PM16 U3 (Unit 3: Allgemeines Verwaltungsrecht IV)",
-												"18168_3": "PM16 U3 (Unit 3: Allgemeines Verwaltungsrecht IV)",
-												"18168_4": "PM16 U3 (Unit 3: Allgemeines Verwaltungsrecht IV)",
-												"18168_5": "PM16 U3 (Unit 3: Allgemeines Verwaltungsrecht IV)"
+												"18168_1": "PM16 U3/01 (Unit 3: Allgemeines Verwaltungsrecht IV)",
+												"18168_2": "PM16 U3/02 (Unit 3: Allgemeines Verwaltungsrecht IV)",
+												"18168_3": "PM16 U3/03 (Unit 3: Allgemeines Verwaltungsrecht IV)",
+												"18168_4": "PM16 U3/04 (Unit 3: Allgemeines Verwaltungsrecht IV)",
+												"18168_5": "PM16 U3/05 (Unit 3: Allgemeines Verwaltungsrecht IV)"
 											}
 										},
 										"Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht": {
 											"events": {
-												"18110_1": "PM16 U4 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
-												"18110_2": "PM16 U4 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
-												"18110_3": "PM16 U4 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
-												"18110_4": "PM16 U4 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
-												"18110_5": "PM16 U4 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)"
+												"18110_1": "PM16 U4/01 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
+												"18110_2": "PM16 U4/02 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
+												"18110_3": "PM16 U4/03 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
+												"18110_4": "PM16 U4/04 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
+												"18110_5": "PM16 U4/05 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)"
 											}
 										}
 									}
@@ -7934,29 +7934,29 @@
 									"subDirectories": {
 										"Unit 1: Gestaltung organisatorischer Strukturen": {
 											"events": {
-												"18151_1": "PM17 U1 (Unit 1: Gestaltung organisatorischer Strukturen)",
-												"18151_2": "PM17 U1 (Unit 1: Gestaltung organisatorischer Strukturen)",
-												"18151_3": "PM17 U1 (Unit 1: Gestaltung organisatorischer Strukturen)",
-												"18151_4": "PM17 U1 (Unit 1: Gestaltung organisatorischer Strukturen)",
-												"18151_5": "PM17 U1 (Unit 1: Gestaltung organisatorischer Strukturen)"
+												"18151_1": "PM17 U1/01 (Unit 1: Gestaltung organisatorischer Strukturen)",
+												"18151_2": "PM17 U1/02 (Unit 1: Gestaltung organisatorischer Strukturen)",
+												"18151_3": "PM17 U1/03 (Unit 1: Gestaltung organisatorischer Strukturen)",
+												"18151_4": "PM17 U1/04 (Unit 1: Gestaltung organisatorischer Strukturen)",
+												"18151_5": "PM17 U1/05 (Unit 1: Gestaltung organisatorischer Strukturen)"
 											}
 										},
 										"Unit 2: Veränderungs- und Innovationsmanagement": {
 											"events": {
-												"18098_1": "PM17 U2 (Unit 2: Veränderungs- und Innovationsmanagement)",
-												"18098_2": "PM17 U2 (Unit 2: Veränderungs- und Innovationsmanagement)",
-												"18098_3": "PM17 U2 (Unit 2: Veränderungs- und Innovationsmanagement)",
-												"18098_4": "PM17 U2 (Unit 2: Veränderungs- und Innovationsmanagement)",
-												"18098_5": "PM17 U2 (Unit 2: Veränderungs- und Innovationsmanagement)"
+												"18098_1": "PM17 U2/01 (Unit 2: Veränderungs- und Innovationsmanagement)",
+												"18098_2": "PM17 U2/02 (Unit 2: Veränderungs- und Innovationsmanagement)",
+												"18098_3": "PM17 U2/03 (Unit 2: Veränderungs- und Innovationsmanagement)",
+												"18098_4": "PM17 U2/04 (Unit 2: Veränderungs- und Innovationsmanagement)",
+												"18098_5": "PM17 U2/05 (Unit 2: Veränderungs- und Innovationsmanagement)"
 											}
 										},
 										"Unit 3: Organisationstheorien und Innovation sozialer Systeme": {
 											"events": {
-												"18008_1": "PM17 U3 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
-												"18008_2": "PM17 U3 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
-												"18008_3": "PM17 U3 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
-												"18008_4": "PM17 U3 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
-												"18008_5": "PM17 U3 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)"
+												"18008_1": "PM17 U3/01 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
+												"18008_2": "PM17 U3/02 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
+												"18008_3": "PM17 U3/03 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
+												"18008_4": "PM17 U3/04 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
+												"18008_5": "PM17 U3/05 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)"
 											}
 										}
 									}
@@ -7976,8 +7976,8 @@
 							"subDirectories": {
 								"Digital Newsroom: Vertiefung": {
 									"events": {
-										"21959_1": "DN2 (Digital Newsroom: Vertiefung)",
-										"21959_2": "DN2 (Digital Newsroom: Vertiefung)"
+										"21959_1": "DN2/01 (Digital Newsroom: Vertiefung)",
+										"21959_2": "DN2/02 (Digital Newsroom: Vertiefung)"
 									}
 								}
 							},
