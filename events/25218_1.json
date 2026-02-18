@@ -47,5 +47,12 @@
 		"description": "Dozent: Prof. Dr. Birger Anspach\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
 		"startTime": "2026-01-21T12:00:00",
 		"endTime": "2026-01-21T16:00:00"
+	},
+	{
+		"name": "PT (Purification Techniques)",
+		"location": "1.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Max. Anzahl von Teilnehmer/-innen: 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-02-26T16:00:00",
+		"endTime": "2026-02-26T18:15:00"
 	}
 ]
