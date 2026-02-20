@@ -5008,10 +5008,17 @@
 							}
 						},
 						"2. Semester": {
+							"subDirectories": {
+								"Verfahrenstechnische Grundlagen 1": {
+									"events": {
+										"26976_1": "TD1 (Thermodynamik 1)",
+										"26977_1": "SL (Strömungslehre)"
+									}
+								}
+							},
 							"events": {
 								"41736_1": "Mathe2 (Mathematik 2)",
-								"27020_1": "Che1 P (Allgemeine und Anorganische Chemie Praktikum)",
-								"26976_1": "TD1 (Thermodynamik 1)"
+								"27020_1": "Che1 P (Allgemeine und Anorganische Chemie Praktikum)"
 							}
 						},
 						"3. Semester": {
