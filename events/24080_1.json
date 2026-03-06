@@ -2,50 +2,57 @@
 	{
 		"name": "AW (Arbeitswissenschaft)",
 		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2025-10-14T12:30:00",
-		"endTime": "2025-10-14T16:00:00"
+		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Arbeitswissenschaft",
+		"startTime": "2026-04-07T14:30:00",
+		"endTime": "2026-04-07T17:45:00"
 	},
 	{
 		"name": "AW (Arbeitswissenschaft)",
 		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2025-10-21T12:30:00",
-		"endTime": "2025-10-21T16:00:00"
+		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Arbeitswissenschaft",
+		"startTime": "2026-04-14T14:30:00",
+		"endTime": "2026-04-14T17:45:00"
 	},
 	{
 		"name": "AW (Arbeitswissenschaft)",
 		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2025-10-28T12:30:00",
-		"endTime": "2025-10-28T16:00:00"
+		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Arbeitswissenschaft",
+		"startTime": "2026-04-21T14:30:00",
+		"endTime": "2026-04-21T17:45:00"
 	},
 	{
 		"name": "AW (Arbeitswissenschaft)",
 		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2025-11-11T12:30:00",
-		"endTime": "2025-11-11T16:00:00"
+		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Arbeitswissenschaft",
+		"startTime": "2026-05-05T14:30:00",
+		"endTime": "2026-05-05T17:45:00"
 	},
 	{
 		"name": "AW (Arbeitswissenschaft)",
 		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2025-12-09T12:30:00",
-		"endTime": "2025-12-09T16:00:00"
+		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Arbeitswissenschaft",
+		"startTime": "2026-06-02T14:30:00",
+		"endTime": "2026-06-02T17:45:00"
 	},
 	{
 		"name": "AW (Arbeitswissenschaft)",
 		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2026-01-13T12:30:00",
-		"endTime": "2026-01-13T16:00:00"
+		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Arbeitswissenschaft",
+		"startTime": "2026-06-23T14:30:00",
+		"endTime": "2026-06-23T17:45:00"
 	},
 	{
 		"name": "AW (Arbeitswissenschaft)",
 		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2026-01-20T12:30:00",
-		"endTime": "2026-01-20T16:00:00"
+		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Arbeitswissenschaft",
+		"startTime": "2026-06-30T14:30:00",
+		"endTime": "2026-06-30T17:45:00"
+	},
+	{
+		"name": "AW (Arbeitswissenschaft)",
+		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. André Klußmann\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Arbeitswissenschaft",
+		"startTime": "2026-07-07T14:30:00",
+		"endTime": "2026-07-07T17:45:00"
 	}
 ]

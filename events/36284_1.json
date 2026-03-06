@@ -1,37 +1,44 @@
 [
 	{
 		"name": "IW (Wissen vernetzen)",
-		"location": "1.19, Alexanderstraße 1",
-		"description": "Dozenten: Prof. Dr. Efthimia Panagiotidis, Maike Schröder-Lüders\nMax. Anzahl von Teilnehmer/-innen: 26\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA M 1.2 Wissen vernetzen",
-		"startTime": "2025-10-21T14:30:00",
-		"endTime": "2025-10-21T17:45:00"
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Silke Betscher, Prof. Dr. Bettina Radeiski\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA-M-01.2",
+		"startTime": "2026-04-22T14:30:00",
+		"endTime": "2026-04-22T17:45:00"
 	},
 	{
 		"name": "IW (Wissen vernetzen)",
-		"location": "1.19, Alexanderstraße 1",
-		"description": "Dozenten: Prof. Dr. Efthimia Panagiotidis, Maike Schröder-Lüders\nMax. Anzahl von Teilnehmer/-innen: 26\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA M 1.2 Wissen vernetzen",
-		"startTime": "2025-11-18T14:30:00",
-		"endTime": "2025-11-18T17:45:00"
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Silke Betscher, Prof. Dr. Bettina Radeiski\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA-M-01.2",
+		"startTime": "2026-05-13T14:30:00",
+		"endTime": "2026-05-13T17:45:00"
 	},
 	{
 		"name": "IW (Wissen vernetzen)",
-		"location": "1.19, Alexanderstraße 1",
-		"description": "Dozenten: Prof. Dr. Efthimia Panagiotidis, Maike Schröder-Lüders\nMax. Anzahl von Teilnehmer/-innen: 26\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA M 1.2 Wissen vernetzen",
-		"startTime": "2025-12-02T14:30:00",
-		"endTime": "2025-12-02T17:45:00"
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Silke Betscher, Prof. Dr. Bettina Radeiski\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA-M-01.2",
+		"startTime": "2026-05-27T14:30:00",
+		"endTime": "2026-05-27T17:45:00"
 	},
 	{
 		"name": "IW (Wissen vernetzen)",
-		"location": "1.19, Alexanderstraße 1",
-		"description": "Dozenten: Prof. Dr. Efthimia Panagiotidis, Maike Schröder-Lüders\nMax. Anzahl von Teilnehmer/-innen: 26\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA M 1.2 Wissen vernetzen",
-		"startTime": "2026-01-06T14:30:00",
-		"endTime": "2026-01-06T17:45:00"
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Silke Betscher, Prof. Dr. Bettina Radeiski\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA-M-01.2",
+		"startTime": "2026-06-10T14:30:00",
+		"endTime": "2026-06-10T17:45:00"
 	},
 	{
 		"name": "IW (Wissen vernetzen)",
-		"location": "1.19, Alexanderstraße 1",
-		"description": "Dozenten: Prof. Dr. Efthimia Panagiotidis, Maike Schröder-Lüders\nMax. Anzahl von Teilnehmer/-innen: 26\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA M 1.2 Wissen vernetzen",
-		"startTime": "2026-01-20T14:30:00",
-		"endTime": "2026-01-20T17:45:00"
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Silke Betscher, Prof. Dr. Bettina Radeiski\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA-M-01.2",
+		"startTime": "2026-07-08T14:30:00",
+		"endTime": "2026-07-08T17:45:00"
+	},
+	{
+		"name": "IW (Wissen vernetzen)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Silke Betscher, Prof. Dr. Bettina Radeiski\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA-M-01.2",
+		"startTime": "2026-06-17T14:30:00",
+		"endTime": "2026-06-17T17:45:00"
 	}
 ]

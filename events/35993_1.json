@@ -1,1 +1,51 @@
-[]
+[
+	{
+		"name": "WP_EAP (Evolutionäre Algorithmen Praktikum)",
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Christian Lins\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: Einzeltermin\n\nOriginaler Titel: Evolutionäre Algorithmen Praktikum ^ Freitag (2G)",
+		"startTime": "2026-04-17T08:15:00",
+		"endTime": "2026-04-17T11:45:00"
+	},
+	{
+		"name": "WP_EAP (Evolutionäre Algorithmen Praktikum)",
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Christian Lins\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Evolutionäre Algorithmen Praktikum ^ Freitag (2G)",
+		"startTime": "2026-05-08T08:15:00",
+		"endTime": "2026-05-08T11:45:00"
+	},
+	{
+		"name": "WP_EAP (Evolutionäre Algorithmen Praktikum)",
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Christian Lins\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Evolutionäre Algorithmen Praktikum ^ Freitag (2G)",
+		"startTime": "2026-05-22T08:15:00",
+		"endTime": "2026-05-22T11:45:00"
+	},
+	{
+		"name": "WP_EAP (Evolutionäre Algorithmen Praktikum)",
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Christian Lins\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Evolutionäre Algorithmen Praktikum ^ Freitag (2G)",
+		"startTime": "2026-06-05T08:15:00",
+		"endTime": "2026-06-05T11:45:00"
+	},
+	{
+		"name": "WP_EAP (Evolutionäre Algorithmen Praktikum)",
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Christian Lins\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Evolutionäre Algorithmen Praktikum ^ Freitag (2G)",
+		"startTime": "2026-06-19T08:15:00",
+		"endTime": "2026-06-19T11:45:00"
+	},
+	{
+		"name": "WP_EAP (Evolutionäre Algorithmen Praktikum)",
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Christian Lins\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Evolutionäre Algorithmen Praktikum ^ Freitag (2G)",
+		"startTime": "2026-07-03T08:15:00",
+		"endTime": "2026-07-03T11:45:00"
+	},
+	{
+		"name": "WP_EAP (Evolutionäre Algorithmen Praktikum)",
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Christian Lins\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Evolutionäre Algorithmen Praktikum ^ Freitag (2G)",
+		"startTime": "2026-07-17T08:15:00",
+		"endTime": "2026-07-17T11:45:00"
+	}
+]

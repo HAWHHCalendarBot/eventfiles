@@ -1,282 +1,261 @@
 [
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: Einzeltermin\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-10-09T15:45:00",
-		"endTime": "2025-10-09T19:00:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-04-13T08:30:00",
+		"endTime": "2026-04-13T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-10-14T12:15:00",
-		"endTime": "2025-10-14T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-04-20T08:30:00",
+		"endTime": "2026-04-20T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-10-21T12:15:00",
-		"endTime": "2025-10-21T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-04-27T08:30:00",
+		"endTime": "2026-04-27T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-10-28T12:15:00",
-		"endTime": "2025-10-28T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-05-04T08:30:00",
+		"endTime": "2026-05-04T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-04T12:15:00",
-		"endTime": "2025-11-04T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-05-11T08:30:00",
+		"endTime": "2026-05-11T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-11T12:15:00",
-		"endTime": "2025-11-11T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-05-18T08:30:00",
+		"endTime": "2026-05-18T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-18T12:15:00",
-		"endTime": "2025-11-18T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-01T08:30:00",
+		"endTime": "2026-06-01T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-25T12:15:00",
-		"endTime": "2025-11-25T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-08T08:30:00",
+		"endTime": "2026-06-08T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-12-02T12:15:00",
-		"endTime": "2025-12-02T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-15T08:30:00",
+		"endTime": "2026-06-15T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-12-09T12:15:00",
-		"endTime": "2025-12-09T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-22T08:30:00",
+		"endTime": "2026-06-22T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-12-16T12:15:00",
-		"endTime": "2025-12-16T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-29T08:30:00",
+		"endTime": "2026-06-29T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2026-01-06T12:15:00",
-		"endTime": "2026-01-06T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-07-06T08:30:00",
+		"endTime": "2026-07-06T11:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2026-01-13T12:15:00",
-		"endTime": "2026-01-13T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-04-14T15:45:00",
+		"endTime": "2026-04-14T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
+		"name": "MA1/02 (Mathematik 1)",
 		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Dr.-Ing. Marius Schüller\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2026-01-20T12:15:00",
-		"endTime": "2026-01-20T13:45:00"
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-04-21T15:45:00",
+		"endTime": "2026-04-21T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-10-15T15:45:00",
-		"endTime": "2025-10-15T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-04-28T15:45:00",
+		"endTime": "2026-04-28T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-10-22T15:45:00",
-		"endTime": "2025-10-22T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-05-05T15:45:00",
+		"endTime": "2026-05-05T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-10-29T15:45:00",
-		"endTime": "2025-10-29T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-05-12T15:45:00",
+		"endTime": "2026-05-12T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-05T15:45:00",
-		"endTime": "2025-11-05T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-05-19T15:45:00",
+		"endTime": "2026-05-19T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-12T15:45:00",
-		"endTime": "2025-11-12T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-05-26T15:45:00",
+		"endTime": "2026-05-26T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-19T15:45:00",
-		"endTime": "2025-11-19T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-02T15:45:00",
+		"endTime": "2026-06-02T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-26T15:45:00",
-		"endTime": "2025-11-26T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-09T15:45:00",
+		"endTime": "2026-06-09T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-12-03T15:45:00",
-		"endTime": "2025-12-03T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-16T15:45:00",
+		"endTime": "2026-06-16T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-12-10T15:45:00",
-		"endTime": "2025-12-10T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-23T15:45:00",
+		"endTime": "2026-06-23T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-12-17T15:45:00",
-		"endTime": "2025-12-17T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-30T15:45:00",
+		"endTime": "2026-06-30T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2026-01-07T15:45:00",
-		"endTime": "2026-01-07T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Dr. Dr. Kemal Yildiztekin\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-07-07T15:45:00",
+		"endTime": "2026-07-07T19:00:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2026-01-14T15:45:00",
-		"endTime": "2026-01-14T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-04-16T12:15:00",
+		"endTime": "2026-04-16T13:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2026-01-21T15:45:00",
-		"endTime": "2026-01-21T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-04-23T12:15:00",
+		"endTime": "2026-04-23T13:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-10-16T15:45:00",
-		"endTime": "2025-10-16T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-04-30T12:15:00",
+		"endTime": "2026-04-30T13:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-10-23T15:45:00",
-		"endTime": "2025-10-23T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-05-07T12:15:00",
+		"endTime": "2026-05-07T13:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-10-30T15:45:00",
-		"endTime": "2025-10-30T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-05-21T12:15:00",
+		"endTime": "2026-05-21T13:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-06T15:45:00",
-		"endTime": "2025-11-06T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-05-28T12:15:00",
+		"endTime": "2026-05-28T13:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-13T15:45:00",
-		"endTime": "2025-11-13T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-04T12:15:00",
+		"endTime": "2026-06-04T13:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-20T15:45:00",
-		"endTime": "2025-11-20T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-11T12:15:00",
+		"endTime": "2026-06-11T13:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-11-27T15:45:00",
-		"endTime": "2025-11-27T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-18T12:15:00",
+		"endTime": "2026-06-18T13:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-12-04T15:45:00",
-		"endTime": "2025-12-04T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-06-25T12:15:00",
+		"endTime": "2026-06-25T13:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-12-11T15:45:00",
-		"endTime": "2025-12-11T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-07-02T12:15:00",
+		"endTime": "2026-07-02T13:45:00"
 	},
 	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2025-12-18T15:45:00",
-		"endTime": "2025-12-18T19:00:00"
-	},
-	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2026-01-08T15:45:00",
-		"endTime": "2026-01-08T19:00:00"
-	},
-	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2026-01-15T15:45:00",
-		"endTime": "2026-01-15T19:00:00"
-	},
-	{
-		"name": "MA1/2 (Mathematik 1)",
-		"location": "5.15, Berliner Tor 5",
-		"description": "Dozent: M.Sc. Yama Abawi\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: 2.G - MA 1 - B1_B, B2_SP-B (2. Parallelgruppe)",
-		"startTime": "2026-01-22T15:45:00",
-		"endTime": "2026-01-22T19:00:00"
+		"name": "MA1/02 (Mathematik 1)",
+		"location": "402, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr. Jens Marsolek\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^PG2: B1_B, B2_SP-B, B2_SP-C (Yildiztekin; Marsolek) (2. Parallelgruppe)",
+		"startTime": "2026-07-09T12:15:00",
+		"endTime": "2026-07-09T13:45:00"
 	}
 ]

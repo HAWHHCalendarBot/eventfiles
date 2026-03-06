@@ -1,100 +1,170 @@
 [
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2025-10-08T12:30:00",
-		"endTime": "2025-10-08T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-04-13T12:30:00",
+		"endTime": "2026-04-13T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2025-10-15T12:30:00",
-		"endTime": "2025-10-15T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-04-20T12:30:00",
+		"endTime": "2026-04-20T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2025-10-22T12:30:00",
-		"endTime": "2025-10-22T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-04-27T12:30:00",
+		"endTime": "2026-04-27T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2025-10-29T12:30:00",
-		"endTime": "2025-10-29T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-05-04T12:30:00",
+		"endTime": "2026-05-04T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2025-11-05T12:30:00",
-		"endTime": "2025-11-05T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-05-11T12:30:00",
+		"endTime": "2026-05-11T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2025-11-12T12:30:00",
-		"endTime": "2025-11-12T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-05-18T12:30:00",
+		"endTime": "2026-05-18T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2025-11-19T12:30:00",
-		"endTime": "2025-11-19T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-06-01T12:30:00",
+		"endTime": "2026-06-01T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2025-11-26T12:30:00",
-		"endTime": "2025-11-26T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-06-08T12:30:00",
+		"endTime": "2026-06-08T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2025-12-03T12:30:00",
-		"endTime": "2025-12-03T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-06-15T12:30:00",
+		"endTime": "2026-06-15T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2025-12-10T12:30:00",
-		"endTime": "2025-12-10T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-06-22T12:30:00",
+		"endTime": "2026-06-22T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2025-12-17T12:30:00",
-		"endTime": "2025-12-17T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-06-29T12:30:00",
+		"endTime": "2026-06-29T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2026-01-07T12:30:00",
-		"endTime": "2026-01-07T16:00:00"
+		"location": "S3.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-07-06T12:30:00",
+		"endTime": "2026-07-06T14:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2026-01-14T12:30:00",
-		"endTime": "2026-01-14T16:00:00"
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-04-13T14:30:00",
+		"endTime": "2026-04-13T16:00:00"
 	},
 	{
 		"name": "M2 (Mathematik 2)",
-		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Anna Rodenhausen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
-		"startTime": "2026-01-21T12:30:00",
-		"endTime": "2026-01-21T16:00:00"
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-04-20T14:30:00",
+		"endTime": "2026-04-20T16:00:00"
+	},
+	{
+		"name": "M2 (Mathematik 2)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-04-27T14:30:00",
+		"endTime": "2026-04-27T16:00:00"
+	},
+	{
+		"name": "M2 (Mathematik 2)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-05-04T14:30:00",
+		"endTime": "2026-05-04T16:00:00"
+	},
+	{
+		"name": "M2 (Mathematik 2)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-05-11T14:30:00",
+		"endTime": "2026-05-11T16:00:00"
+	},
+	{
+		"name": "M2 (Mathematik 2)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-05-18T14:30:00",
+		"endTime": "2026-05-18T16:00:00"
+	},
+	{
+		"name": "M2 (Mathematik 2)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-06-01T14:30:00",
+		"endTime": "2026-06-01T16:00:00"
+	},
+	{
+		"name": "M2 (Mathematik 2)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-06-08T14:30:00",
+		"endTime": "2026-06-08T16:00:00"
+	},
+	{
+		"name": "M2 (Mathematik 2)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-06-15T14:30:00",
+		"endTime": "2026-06-15T16:00:00"
+	},
+	{
+		"name": "M2 (Mathematik 2)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-06-22T14:30:00",
+		"endTime": "2026-06-22T16:00:00"
+	},
+	{
+		"name": "M2 (Mathematik 2)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-06-29T14:30:00",
+		"endTime": "2026-06-29T16:00:00"
+	},
+	{
+		"name": "M2 (Mathematik 2)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Meike Wilke\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung Gefahrenabwehr",
+		"startTime": "2026-07-06T14:30:00",
+		"endTime": "2026-07-06T16:00:00"
 	}
 ]

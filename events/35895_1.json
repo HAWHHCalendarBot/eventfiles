@@ -1,58 +1,51 @@
 [
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
-		"location": "5.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Einführung in die Computergrafik",
-		"startTime": "2025-10-17T08:15:00",
-		"endTime": "2025-10-17T11:30:00"
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Einführung in die Computergrafik ^ 2G",
+		"startTime": "2026-04-17T08:15:00",
+		"endTime": "2026-04-17T11:45:00"
 	},
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
-		"location": "5.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik",
-		"startTime": "2025-10-24T08:15:00",
-		"endTime": "2025-10-24T11:30:00"
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ 2G",
+		"startTime": "2026-05-08T08:15:00",
+		"endTime": "2026-05-08T11:45:00"
 	},
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
-		"location": "5.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik",
-		"startTime": "2025-11-07T08:15:00",
-		"endTime": "2025-11-07T11:30:00"
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ 2G",
+		"startTime": "2026-05-22T08:15:00",
+		"endTime": "2026-05-22T11:45:00"
 	},
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
-		"location": "5.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik",
-		"startTime": "2025-11-21T08:15:00",
-		"endTime": "2025-11-21T11:30:00"
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ 2G",
+		"startTime": "2026-06-05T08:15:00",
+		"endTime": "2026-06-05T11:45:00"
 	},
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
-		"location": "5.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik",
-		"startTime": "2025-12-05T08:15:00",
-		"endTime": "2025-12-05T11:30:00"
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ 2G",
+		"startTime": "2026-06-19T08:15:00",
+		"endTime": "2026-06-19T11:45:00"
 	},
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
-		"location": "5.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik",
-		"startTime": "2025-12-19T08:15:00",
-		"endTime": "2025-12-19T11:30:00"
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ 2G",
+		"startTime": "2026-07-03T08:15:00",
+		"endTime": "2026-07-03T11:45:00"
 	},
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
-		"location": "5.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik",
-		"startTime": "2026-01-16T08:15:00",
-		"endTime": "2026-01-16T11:30:00"
-	},
-	{
-		"name": "WP_ECG (Einführung in die Computergrafik)",
-		"location": "5.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik",
-		"startTime": "2026-01-30T08:15:00",
-		"endTime": "2026-01-30T11:30:00"
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Philipp Jenke\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ 2G",
+		"startTime": "2026-07-17T08:15:00",
+		"endTime": "2026-07-17T11:45:00"
 	}
 ]

@@ -1,0 +1,30 @@
+[
+	{
+		"name": "RdT P (Rettungsdiensttechnik Praktikum)",
+		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Stephan Wenderoth\nRhythmus: Einzeltermin\n\nOriginaler Titel: Rettungsdiensttechnik Praktikum",
+		"startTime": "2026-04-08T08:30:00",
+		"endTime": "2026-04-08T10:00:00"
+	},
+	{
+		"name": "RdT P (Rettungsdiensttechnik Praktikum)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Stephan Wenderoth\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Rettungsdiensttechnik Praktikum",
+		"startTime": "2026-04-22T08:00:00",
+		"endTime": "2026-04-22T13:00:00"
+	},
+	{
+		"name": "RdT P (Rettungsdiensttechnik Praktikum)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Stephan Wenderoth\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Rettungsdiensttechnik Praktikum",
+		"startTime": "2026-05-13T08:00:00",
+		"endTime": "2026-05-13T13:00:00"
+	},
+	{
+		"name": "RdT P (Rettungsdiensttechnik Praktikum)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Stephan Wenderoth\nRhythmus: Einzeltermin\n\nOriginaler Titel: Rettungsdiensttechnik Praktikum",
+		"startTime": "2026-06-17T08:00:00",
+		"endTime": "2026-06-17T13:00:00"
+	}
+]

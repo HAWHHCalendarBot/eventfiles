@@ -1,0 +1,58 @@
+[
+	{
+		"name": "FK (Forschungskolloquium)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Dr. Astrid Wonneberger, Prof. Dr. Katja Weidtmann, Dr. Sabina Stelzig-Willutzki\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-04-17T13:00:00",
+		"endTime": "2026-04-17T19:30:00"
+	},
+	{
+		"name": "FK (Forschungskolloquium)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Dr. Astrid Wonneberger, Prof. Dr. Katja Weidtmann, Dr. Sabina Stelzig-Willutzki\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-04-18T09:00:00",
+		"endTime": "2026-04-18T18:00:00"
+	},
+	{
+		"name": "FK (Forschungskolloquium)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Dr. Astrid Wonneberger, Prof. Dr. Katja Weidtmann, Dr. Sabina Stelzig-Willutzki\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-04-19T09:00:00",
+		"endTime": "2026-04-19T18:00:00"
+	},
+	{
+		"name": "FK (Forschungskolloquium)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Dr. Astrid Wonneberger, Prof. Dr. Katja Weidtmann, Dr. Sabina Stelzig-Willutzki\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-06-22T08:15:00",
+		"endTime": "2026-06-22T18:00:00"
+	},
+	{
+		"name": "FK (Forschungskolloquium)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Dr. Astrid Wonneberger, Prof. Dr. Katja Weidtmann, Dr. Sabina Stelzig-Willutzki\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-06-23T08:15:00",
+		"endTime": "2026-06-23T18:00:00"
+	},
+	{
+		"name": "FK (Forschungskolloquium)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Dr. Astrid Wonneberger, Prof. Dr. Katja Weidtmann, Dr. Sabina Stelzig-Willutzki\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-06-24T08:15:00",
+		"endTime": "2026-06-24T18:00:00"
+	},
+	{
+		"name": "FK (Forschungskolloquium)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Dr. Astrid Wonneberger, Prof. Dr. Katja Weidtmann, Dr. Sabina Stelzig-Willutzki\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-06-25T08:15:00",
+		"endTime": "2026-06-25T19:30:00"
+	},
+	{
+		"name": "FK (Forschungskolloquium)",
+		"location": "2.03, Alexanderstraße 1",
+		"description": "Dozenten: Dr. Astrid Wonneberger, Prof. Dr. Katja Weidtmann, Dr. Sabina Stelzig-Willutzki\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
+		"startTime": "2026-06-26T08:15:00",
+		"endTime": "2026-06-26T18:00:00"
+	}
+]

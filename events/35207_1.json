@@ -1,30 +1,37 @@
 [
 	{
 		"name": "ITSP/01 (IT-Sicherheit Praktikum)",
-		"location": "11.01b, Berliner Tor 7",
-		"description": "Dozent: Andrej Zieger\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: 01_ITSP IT-Sicherheit Praktikum (1. Parallelgruppe)",
-		"startTime": "2025-10-27T12:30:00",
-		"endTime": "2025-10-27T15:45:00"
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Klaus-Peter Kossakowski\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: IT-Sicherheit Praktikum ^ Grp01 TurnA FS6 (1. Parallelgruppe)",
+		"startTime": "2026-04-22T13:45:00",
+		"endTime": "2026-04-22T17:00:00"
 	},
 	{
 		"name": "ITSP/01 (IT-Sicherheit Praktikum)",
-		"location": "11.01b, Berliner Tor 7",
-		"description": "Dozent: Andrej Zieger\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: 01_ITSP IT-Sicherheit Praktikum (1. Parallelgruppe)",
-		"startTime": "2025-11-17T12:30:00",
-		"endTime": "2025-11-17T15:45:00"
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Klaus-Peter Kossakowski\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: IT-Sicherheit Praktikum ^ Grp01 TurnA FS6 (1. Parallelgruppe)",
+		"startTime": "2026-05-13T13:45:00",
+		"endTime": "2026-05-13T17:00:00"
 	},
 	{
 		"name": "ITSP/01 (IT-Sicherheit Praktikum)",
-		"location": "11.01b, Berliner Tor 7",
-		"description": "Dozent: Andrej Zieger\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: 01_ITSP IT-Sicherheit Praktikum (1. Parallelgruppe)",
-		"startTime": "2025-12-08T12:30:00",
-		"endTime": "2025-12-08T15:45:00"
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Klaus-Peter Kossakowski\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: IT-Sicherheit Praktikum ^ Grp01 TurnA FS6 (1. Parallelgruppe)",
+		"startTime": "2026-06-03T13:45:00",
+		"endTime": "2026-06-03T17:00:00"
 	},
 	{
 		"name": "ITSP/01 (IT-Sicherheit Praktikum)",
-		"location": "11.01b, Berliner Tor 7",
-		"description": "Dozent: Andrej Zieger\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: Einzeltermin\n\nOriginaler Titel: 01_ITSP IT-Sicherheit Praktikum (1. Parallelgruppe)",
-		"startTime": "2026-01-12T12:30:00",
-		"endTime": "2026-01-12T15:45:00"
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Klaus-Peter Kossakowski\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: IT-Sicherheit Praktikum ^ Grp01 TurnA FS6 (1. Parallelgruppe)",
+		"startTime": "2026-06-24T13:45:00",
+		"endTime": "2026-06-24T17:00:00"
+	},
+	{
+		"name": "ITSP/01 (IT-Sicherheit Praktikum)",
+		"location": "11.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Klaus-Peter Kossakowski\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: IT-Sicherheit Praktikum ^ Grp01 TurnA FS6 (1. Parallelgruppe)",
+		"startTime": "2026-07-15T13:45:00",
+		"endTime": "2026-07-15T17:00:00"
 	}
 ]
