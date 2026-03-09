@@ -10,13 +10,6 @@
 		"name": "KuP (Kommunikation und Präsentation)",
 		"location": "1.07b, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Andrea Berger-Klein\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Kommunikation und Präsentation",
-		"startTime": "2026-04-20T08:30:00",
-		"endTime": "2026-04-20T11:45:00"
-	},
-	{
-		"name": "KuP (Kommunikation und Präsentation)",
-		"location": "1.07b, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Andrea Berger-Klein\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Kommunikation und Präsentation",
 		"startTime": "2026-05-04T08:30:00",
 		"endTime": "2026-05-04T11:45:00"
 	},
@@ -40,5 +33,12 @@
 		"description": "Dozent: Prof. Dr. Andrea Berger-Klein\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Kommunikation und Präsentation",
 		"startTime": "2026-06-15T08:30:00",
 		"endTime": "2026-06-15T11:45:00"
+	},
+	{
+		"name": "KuP (Kommunikation und Präsentation)",
+		"location": "1.07b, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Andrea Berger-Klein\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Kommunikation und Präsentation",
+		"startTime": "2026-06-29T08:30:00",
+		"endTime": "2026-06-29T11:45:00"
 	}
 ]

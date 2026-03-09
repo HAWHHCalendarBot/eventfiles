@@ -4290,7 +4290,8 @@
 									"events": {
 										"26942_1": "Engl2 (Englisch 2)",
 										"28104_1": "KuP (Kommunikation und Präsentation)",
-										"27004_1": "BiP (Biotechnologie als Interdisziplinäres Projekt (BIP))"
+										"27004_1": "BiP (Biotechnologie als Interdisziplinäres Projekt (BIP))",
+										"26968_1": "IPS (Interdisziplinäres Seminar über nachhaltige Konzepte zur Reduzierung der Antibiotikabelastung in den Gewässern (PharmCycle))"
 									}
 								},
 								"Technisches Wahlpflichtmodul": {
@@ -4474,9 +4475,11 @@
 										"27198_1": "BWL-V2 (Kostenrechnung)",
 										"27024_1": "BWL (Betriebswirtschaftslehre)",
 										"28402_1": "PersF (Personalführung)",
+										"26987_1": "PeF1 (Personalführung 1)",
 										"26942_1": "Engl2 (Englisch 2)",
 										"28104_1": "KuP (Kommunikation und Präsentation)",
 										"27004_1": "BiP (Biotechnologie als Interdisziplinäres Projekt (BIP))",
+										"26968_1": "IPS (Interdisziplinäres Seminar über nachhaltige Konzepte zur Reduzierung der Antibiotikabelastung in den Gewässern (PharmCycle))",
 										"24747_1": "PeMan (Personalmanagement)"
 									}
 								}
@@ -4551,7 +4554,9 @@
 										"27198_1": "BWL-V2 (Kostenrechnung)",
 										"27004_1": "BiP (Biotechnologie als Interdisziplinäres Projekt (BIP))",
 										"28402_1": "PersF (Personalführung)",
-										"27024_1": "BWL (Betriebswirtschaftslehre)"
+										"26987_1": "PeF1 (Personalführung 1)",
+										"27024_1": "BWL (Betriebswirtschaftslehre)",
+										"26968_1": "IPS (Interdisziplinäres Seminar über nachhaltige Konzepte zur Reduzierung der Antibiotikabelastung in den Gewässern (PharmCycle))"
 									}
 								},
 								"Biotechnologische Grundlagen": {
@@ -4683,7 +4688,8 @@
 									},
 									"events": {
 										"27004_1": "BiP (Biotechnologie als Interdisziplinäres Projekt (BIP))",
-										"28347_1": "WStoT (Werkstofftechnik)"
+										"28347_1": "WStoT (Werkstofftechnik)",
+										"26968_1": "IPS (Interdisziplinäres Seminar über nachhaltige Konzepte zur Reduzierung der Antibiotikabelastung in den Gewässern (PharmCycle))"
 									}
 								}
 							},
@@ -4735,7 +4741,8 @@
 										"26886_1": "Spk (Spektroskopie)",
 										"27944_1": "TZ (CAD / Technisches Zeichnen)",
 										"27254_1": "Vpac (Verpackungstechnik)",
-										"24835_1": "MTL (Mikrobiologie und Toxikologie der Lebensmittel)"
+										"24835_1": "MTL (Mikrobiologie und Toxikologie der Lebensmittel)",
+										"27265_1": "MP MVT (Mechanische Verfahrenstechnik 1)"
 									}
 								}
 							}
@@ -4956,6 +4963,7 @@
 										"36000_1": "RGeWe (Recht im Gesundheitswesen)",
 										"27308_1": "MP Kon (Konstruktion)",
 										"27944_1": "TZ (CAD / Technisches Zeichnen)",
+										"26987_1": "PeF1 (Personalführung 1)",
 										"28402_1": "PersF (Personalführung)",
 										"28056_1": "MiST (Mikrosystemtechnik)"
 									}
@@ -5002,6 +5010,7 @@
 										"36000_1": "RGeWe (Recht im Gesundheitswesen)",
 										"27308_1": "MP Kon (Konstruktion)",
 										"27944_1": "TZ (CAD / Technisches Zeichnen)",
+										"26987_1": "PeF1 (Personalführung 1)",
 										"28402_1": "PersF (Personalführung)",
 										"28056_1": "MiST (Mikrosystemtechnik)"
 									}
@@ -5099,15 +5108,18 @@
 								},
 								"Organische Chemie": {
 									"subDirectories": {
+										"Organische Chemie": {
+											"events": {
+												"41763_1": "OChe/01 (Organische Chemie)",
+												"41763_2": "OChe/02 (Organische Chemie)"
+											}
+										},
 										"Chemie Praktikum": {
 											"events": {
 												"27472_1": "Che P/01 (Chemie Praktikum)",
 												"27472_2": "Che P/02 (Chemie Praktikum)"
 											}
 										}
-									},
-									"events": {
-										"41763_1": "OChe (Organische Chemie)"
 									}
 								},
 								"Elektrotechnik 1": {
@@ -5182,8 +5194,10 @@
 							"subDirectories": {
 								"Wahlpflicht": {
 									"events": {
+										"26968_1": "IPS (Interdisziplinäres Seminar über nachhaltige Konzepte zur Reduzierung der Antibiotikabelastung in den Gewässern (PharmCycle))",
 										"27566_1": "NaMo (Nachhaltige Mobilität)",
 										"28347_1": "WStoT (Werkstofftechnik)",
+										"27174_1": "SVtP (Simulation verfahrenstechnischer Prozesse)",
 										"27721_1": "FC SL (Fuel Cell Systems and their Applications)"
 									}
 								},
@@ -6911,6 +6925,7 @@
 							"subDirectories": {
 								"Allgemeiner Wahlpflichtbereich": {
 									"events": {
+										"26968_1": "IPS (Interdisziplinäres Seminar über nachhaltige Konzepte zur Reduzierung der Antibiotikabelastung in den Gewässern (PharmCycle))",
 										"28402_1": "PersF (Personalführung)"
 									}
 								},
@@ -6919,17 +6934,42 @@
 										"26845_1": "Che1/01 (Allgemeine und Anorganische Chemie)",
 										"26845_2": "Che1/02 (Allgemeine und Anorganische Chemie)"
 									}
+								},
+								"Green Technologies": {
+									"events": {
+										"41325_1": "GT (Green Technologies)",
+										"41326_1": "LAV (Labor angewandte Verfahrenstechnik)"
+									}
 								}
 							},
 							"events": {
+								"42959_1": "Mathe1 (Mathematik 1)",
 								"28212_1": "TM1 (Technische Mechanik)",
 								"28347_1": "WStoT (Werkstofftechnik)"
 							}
 						},
 						"2. Semester": {
+							"subDirectories": {
+								"Organische Chemie": {
+									"subDirectories": {
+										"Chemie Praktikum": {
+											"events": {
+												"27149_1": "Che P/01 (Chemie Praktikum)",
+												"27149_2": "Che P/02 (Chemie Praktikum)"
+											}
+										},
+										"Organische Chemie": {
+											"events": {
+												"41763_1": "OChe/01 (Organische Chemie)",
+												"41763_2": "OChe/02 (Organische Chemie)"
+											}
+										}
+									}
+								}
+							},
 							"events": {
+								"42962_1": "Mat2 (Mathematik 2)",
 								"27569_1": "TM2 (Technische Mechanik 2)",
-								"41763_1": "OChe (Organische Chemie)",
 								"27660_1": "TD (Thermodynamik)"
 							}
 						},
@@ -6965,22 +7005,67 @@
 								}
 							},
 							"events": {
+								"27179_1": "StroM (Strömungsmechanik)",
+								"27279_1": "WSUb (Wärme- und Stoffübertragung)",
 								"27221_1": "KCAD P (CAD Praktikum)"
+							}
+						},
+						"4. Semester": {
+							"subDirectories": {
+								"Apparate und Maschinen": {
+									"events": {
+										"27147_1": "App (Apparatebau)",
+										"27260_1": "MP App/Ma (Pumpen- und Verdichteranlagen)"
+									}
+								},
+								"Mechanische Verfahrenstechnik 1": {
+									"events": {
+										"27263_1": "VT1 P (Unit Operations Praktikum)",
+										"27265_1": "MP MVT (Mechanische Verfahrenstechnik 1)"
+									}
+								}
+							},
+							"events": {
+								"27226_1": "TVT1 (Thermische Verfahrenstechnik 1)"
 							}
 						},
 						"5. Semester": {
 							"subDirectories": {
+								"Thermische Verfahrenstechnik 2": {
+									"events": {
+										"27284_1": "Vt.Proz P (Erarbeitung verfahrenstechnischer Prozesse Praktikum)",
+										"27191_1": "TVT2 (Thermische Verfahrenstechnik 2)"
+									}
+								},
 								"Allgemeinwissenschaftliches Modul": {
 									"events": {
+										"27339_1": "VTPM (Verfahrenstechnisches Projektmanagement)",
 										"27295_1": "RV KK (Ringvorlesung zur Klimakrise)",
 										"27254_1": "Vpac (Verpackungstechnik)",
-										"28104_1": "KuP (Kommunikation und Präsentation)"
+										"26968_1": "IPS (Interdisziplinäres Seminar über nachhaltige Konzepte zur Reduzierung der Antibiotikabelastung in den Gewässern (PharmCycle))",
+										"28104_1": "KuP (Kommunikation und Präsentation)",
+										"26987_1": "PeF1 (Personalführung 1)"
 									}
 								}
+							},
+							"events": {
+								"27335_1": "MVT (Mechanische Verfahrenstechnik 2)",
+								"27349_1": "MSR P (Mess-, Steuerungs- und Regelungstechnik Praktikum)",
+								"27142_1": "CVT1 (Chemische Verfahrenstechnik 1)"
 							}
 						},
 						"6. Semester": {
 							"subDirectories": {
+								"Studienschwerpunkt numerische Simulation und Prozessleittechnik": {
+									"subDirectories": {
+										"Angewandte numerische Simulation": {
+											"events": {
+												"27242_1": "ANS (Angewandte numerische Simulation)",
+												"27174_1": "SVtP (Simulation verfahrenstechnischer Prozesse)"
+											}
+										}
+									}
+								},
 								"Studienschwerpunkt Lebensmitteltechnik": {
 									"subDirectories": {
 										"Lebensmittelchemie": {
@@ -7000,7 +7085,15 @@
 											}
 										}
 									}
+								},
+								"Studienschwerpunkt verfahrenstechnischer Anlagenbau": {
+									"events": {
+										"27243_1": "PVTA (Projektierung verfahrenstechnischer Anlagen)"
+									}
 								}
+							},
+							"events": {
+								"27144_1": "CVT2 (Chemische Verfahrenstechnik 2)"
 							}
 						}
 					}
