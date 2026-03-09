@@ -3688,13 +3688,13 @@
 												"35875_1": "WP_TWBP (Technik von Webbrowsern Praktikum)"
 											}
 										},
-										"wi_Einführung in die Computergrafik": {
+										"Einführung in die Computergrafik": {
 											"events": {
 												"35895_1": "WP_ECG (Einführung in die Computergrafik)",
 												"35894_1": "WP_ECGP (Einführung in die Computergrafik Praktikum)"
 											}
 										},
-										"wi_NoSQL und Big Data": {
+										"NoSQL und Big Data": {
 											"subDirectories": {
 												"NoSQL und Big Data Praktikum": {
 													"events": {
@@ -3707,25 +3707,25 @@
 												"35870_1": "WP_NBD (NoSQL und Big Data)"
 											}
 										},
-										"wi_Software-Entwicklung in RUST": {
+										"Software-Entwicklung in RUST": {
 											"events": {
 												"35936_1": "WP_R (Software-Entwicklung in RUST)",
 												"35935_1": "WP_RP (Software-Entwicklung in RUST Praktikum)"
 											}
 										},
-										"wi_AI Engineering": {
+										"AI Engineering": {
 											"events": {
 												"42995_1": "WP_AIE (AI Engineering)",
 												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
 											}
 										},
-										"wi_Evolutionäre Algorithmen": {
+										"Evolutionäre Algorithmen": {
 											"events": {
 												"35990_1": "WP_EA (Evolutionäre Algorithmen)",
 												"35993_1": "WP_EAP (Evolutionäre Algorithmen Praktikum)"
 											}
 										},
-										"wi_Agentic AI": {
+										"Agentic AI": {
 											"subDirectories": {
 												"Agentic AI Praktikum": {
 													"events": {
@@ -3739,7 +3739,7 @@
 												"44763_1": "WP_AgAI (Agentic AI)"
 											}
 										},
-										"wi_Einführung in die Energieinformatik": {
+										"Einführung in die Energieinformatik": {
 											"events": {
 												"44770_1": "WP_EEI (Einführung in die Energieinformatik)",
 												"44773_1": "WP_EEIP (Einführung in die Energieinformatik Praktikum)"
@@ -3751,7 +3751,7 @@
 												"44779_1": "WP_ERBP (Einführung in die Robotik Kurs B Praktikum)"
 											}
 										},
-										"WI_Certified Tester Foundation Level": {
+										"Certified Tester Foundation Level": {
 											"subDirectories": {
 												"Certified Tester Foundation Level Praktikum": {
 													"events": {
@@ -3764,13 +3764,13 @@
 												"35950_1": "WP_CeT (Certified Tester Foundation Level)"
 											}
 										},
-										"wi_Betriebswirtschaftliche Steuerlehre": {
+										"Betriebswirtschaftliche Steuerlehre": {
 											"events": {
 												"35975_1": "WP_BWS (Betriebswirtschaftliche Steuerlehre)",
 												"35978_1": "WP_BWSP (Betriebswirtschaftliche Steuerlehre Praktikum)"
 											}
 										},
-										"wi_Innovationsmanagement": {
+										"Innovationsmanagement": {
 											"events": {
 												"35970_1": "WP_IM (Innovationsmanagement)",
 												"35973_1": "WP_IMP (Innovationsmanagement Praktikum)"
