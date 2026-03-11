@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "NSP (Numerik und Stochastik Praktikum)",
+		"location": "13.01b, Berliner Tor 7",
+		"description": "Dozent: Wesam Al Hajsaeed\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: NSP/01",
+		"startTime": "2026-04-30T14:10:00",
+		"endTime": "2026-04-30T15:40:00"
+	},
+	{
+		"name": "NSP (Numerik und Stochastik Praktikum)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Wesam Al Hajsaeed\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: NSP/01",
+		"startTime": "2026-05-19T15:55:00",
+		"endTime": "2026-05-19T19:10:00"
+	},
+	{
+		"name": "NSP (Numerik und Stochastik Praktikum)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Wesam Al Hajsaeed\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: NSP/01",
+		"startTime": "2026-06-09T15:55:00",
+		"endTime": "2026-06-09T19:10:00"
+	},
+	{
+		"name": "NSP (Numerik und Stochastik Praktikum)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Wesam Al Hajsaeed\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: NSP/01",
+		"startTime": "2026-06-30T15:55:00",
+		"endTime": "2026-06-30T19:10:00"
+	}
+]

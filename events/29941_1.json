@@ -1,1 +1,51 @@
-[]
+[
+	{
+		"name": "ETP1 (Grundlagen der Elektrotechnik Praktikum)",
+		"location": "5.02, Berliner Tor 7",
+		"description": "Dozenten: Johannes Wittmar, Wesam Al Hajsaeed\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: ETP/01",
+		"startTime": "2026-04-22T09:55:00",
+		"endTime": "2026-04-22T11:25:00"
+	},
+	{
+		"name": "ETP1 (Grundlagen der Elektrotechnik Praktikum)",
+		"location": "5.02, Berliner Tor 7",
+		"description": "Dozenten: Johannes Wittmar, Wesam Al Hajsaeed\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP/01",
+		"startTime": "2026-05-05T08:10:00",
+		"endTime": "2026-05-05T11:25:00"
+	},
+	{
+		"name": "ETP1 (Grundlagen der Elektrotechnik Praktikum)",
+		"location": "5.02, Berliner Tor 7",
+		"description": "Dozenten: Johannes Wittmar, Wesam Al Hajsaeed\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP/01",
+		"startTime": "2026-05-26T08:10:00",
+		"endTime": "2026-05-26T11:25:00"
+	},
+	{
+		"name": "ETP1 (Grundlagen der Elektrotechnik Praktikum)",
+		"location": "5.02, Berliner Tor 7",
+		"description": "Dozenten: Johannes Wittmar, Wesam Al Hajsaeed\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP/01",
+		"startTime": "2026-06-16T08:10:00",
+		"endTime": "2026-06-16T11:25:00"
+	},
+	{
+		"name": "ETP1 (Grundlagen der Elektrotechnik Praktikum)",
+		"location": "5.65, Berliner Tor 7",
+		"description": "Dozenten: Johannes Wittmar, Wesam Al Hajsaeed\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP/01",
+		"startTime": "2026-05-05T08:10:00",
+		"endTime": "2026-05-05T11:25:00"
+	},
+	{
+		"name": "ETP1 (Grundlagen der Elektrotechnik Praktikum)",
+		"location": "5.65, Berliner Tor 7",
+		"description": "Dozenten: Johannes Wittmar, Wesam Al Hajsaeed\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP/01",
+		"startTime": "2026-05-26T08:10:00",
+		"endTime": "2026-05-26T11:25:00"
+	},
+	{
+		"name": "ETP1 (Grundlagen der Elektrotechnik Praktikum)",
+		"location": "5.65, Berliner Tor 7",
+		"description": "Dozenten: Johannes Wittmar, Wesam Al Hajsaeed\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP/01",
+		"startTime": "2026-06-16T08:10:00",
+		"endTime": "2026-06-16T11:25:00"
+	}
+]

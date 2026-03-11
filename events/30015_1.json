@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "STP (Steuerungstechnik Praktikum)",
+		"location": "4.02, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ulfert Meiners\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: STP/01",
+		"startTime": "2026-05-12T12:10:00",
+		"endTime": "2026-05-12T15:40:00"
+	},
+	{
+		"name": "STP (Steuerungstechnik Praktikum)",
+		"location": "4.02, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ulfert Meiners\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: STP/01",
+		"startTime": "2026-06-02T12:10:00",
+		"endTime": "2026-06-02T15:40:00"
+	},
+	{
+		"name": "STP (Steuerungstechnik Praktikum)",
+		"location": "4.02, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ulfert Meiners\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: STP/01",
+		"startTime": "2026-06-23T12:10:00",
+		"endTime": "2026-06-23T15:40:00"
+	}
+]

@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "MPP (Mikroprozessortechnik Praktikum)",
+		"location": "8.80, Berliner Tor 7",
+		"description": "Dozenten: Arthur Haarring, Alexey Orychshenko\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: MPP/01",
+		"startTime": "2026-04-29T09:55:00",
+		"endTime": "2026-04-29T11:25:00"
+	},
+	{
+		"name": "MPP (Mikroprozessortechnik Praktikum)",
+		"location": "8.80, Berliner Tor 7",
+		"description": "Dozenten: Arthur Haarring, Alexey Orychshenko\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: MPP/01",
+		"startTime": "2026-05-20T08:10:00",
+		"endTime": "2026-05-20T11:25:00"
+	},
+	{
+		"name": "MPP (Mikroprozessortechnik Praktikum)",
+		"location": "8.80, Berliner Tor 7",
+		"description": "Dozenten: Arthur Haarring, Alexey Orychshenko\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: MPP/01",
+		"startTime": "2026-06-10T08:10:00",
+		"endTime": "2026-06-10T11:25:00"
+	},
+	{
+		"name": "MPP (Mikroprozessortechnik Praktikum)",
+		"location": "8.80, Berliner Tor 7",
+		"description": "Dozenten: Arthur Haarring, Alexey Orychshenko\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: MPP/01",
+		"startTime": "2026-07-01T08:10:00",
+		"endTime": "2026-07-01T11:25:00"
+	}
+]

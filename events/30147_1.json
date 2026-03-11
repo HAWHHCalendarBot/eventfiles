@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "RTP (Regelungstechnik Praktikum)",
+		"location": "6.06, Berliner Tor 7",
+		"description": "Dozenten: Jan Huß, Prof. Dr.-Ing. Ulfert Meiners\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: RTP/01",
+		"startTime": "2026-04-28T14:10:00",
+		"endTime": "2026-04-28T15:40:00"
+	},
+	{
+		"name": "RTP (Regelungstechnik Praktikum)",
+		"location": "6.06, Berliner Tor 7",
+		"description": "Dozenten: Jan Huß, Prof. Dr.-Ing. Ulfert Meiners\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: RTP/01",
+		"startTime": "2026-05-12T08:10:00",
+		"endTime": "2026-05-12T11:25:00"
+	},
+	{
+		"name": "RTP (Regelungstechnik Praktikum)",
+		"location": "6.06, Berliner Tor 7",
+		"description": "Dozenten: Jan Huß, Prof. Dr.-Ing. Ulfert Meiners\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: RTP/01",
+		"startTime": "2026-06-02T08:10:00",
+		"endTime": "2026-06-02T11:25:00"
+	},
+	{
+		"name": "RTP (Regelungstechnik Praktikum)",
+		"location": "6.06, Berliner Tor 7",
+		"description": "Dozenten: Jan Huß, Prof. Dr.-Ing. Ulfert Meiners\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: RTP/01",
+		"startTime": "2026-06-23T08:10:00",
+		"endTime": "2026-06-23T11:25:00"
+	}
+]

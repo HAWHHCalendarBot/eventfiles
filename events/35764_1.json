@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "DPL (Digitale Signalverarbeitung)",
+		"location": "8.85, Berliner Tor 7",
+		"description": "Dozent: Andrea Kupke\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: DPL/01",
+		"startTime": "2026-04-30T12:10:00",
+		"endTime": "2026-04-30T13:40:00"
+	},
+	{
+		"name": "DPL (Digitale Signalverarbeitung)",
+		"location": "8.85, Berliner Tor 7",
+		"description": "Dozent: Andrea Kupke\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DPL/01",
+		"startTime": "2026-05-28T12:10:00",
+		"endTime": "2026-05-28T15:40:00"
+	},
+	{
+		"name": "DPL (Digitale Signalverarbeitung)",
+		"location": "8.85, Berliner Tor 7",
+		"description": "Dozent: Andrea Kupke\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DPL/01",
+		"startTime": "2026-06-18T12:10:00",
+		"endTime": "2026-06-18T15:40:00"
+	},
+	{
+		"name": "DPL (Digitale Signalverarbeitung)",
+		"location": "8.85, Berliner Tor 7",
+		"description": "Dozent: Andrea Kupke\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DPL/01",
+		"startTime": "2026-07-09T12:10:00",
+		"endTime": "2026-07-09T15:40:00"
+	}
+]

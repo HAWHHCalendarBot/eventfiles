@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "LEP (Antriebe und Leistungselektronik Praktikum)",
+		"location": "3.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Jens Ginzel, Frank Korpel\nMax. Anzahl von Teilnehmer/-innen: 10\nRhythmus: Einzeltermin\n\nOriginaler Titel: LEP/01",
+		"startTime": "2026-04-29T08:10:00",
+		"endTime": "2026-04-29T09:40:00"
+	},
+	{
+		"name": "LEP (Antriebe und Leistungselektronik Praktikum)",
+		"location": "3.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Jens Ginzel, Frank Korpel\nMax. Anzahl von Teilnehmer/-innen: 10\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: LEP/01",
+		"startTime": "2026-05-13T08:10:00",
+		"endTime": "2026-05-13T11:25:00"
+	},
+	{
+		"name": "LEP (Antriebe und Leistungselektronik Praktikum)",
+		"location": "3.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Jens Ginzel, Frank Korpel\nMax. Anzahl von Teilnehmer/-innen: 10\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: LEP/01",
+		"startTime": "2026-06-03T08:10:00",
+		"endTime": "2026-06-03T11:25:00"
+	},
+	{
+		"name": "LEP (Antriebe und Leistungselektronik Praktikum)",
+		"location": "3.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Jens Ginzel, Frank Korpel\nMax. Anzahl von Teilnehmer/-innen: 10\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: LEP/01",
+		"startTime": "2026-06-24T08:10:00",
+		"endTime": "2026-06-24T11:25:00"
+	}
+]

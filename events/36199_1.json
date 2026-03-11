@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "WP_DWPP (Datenbanken und Webprogrammierung)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Dipl.-Ing. Dirk Mindorf\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: WPP-Mindorf",
+		"startTime": "2026-05-07T15:55:00",
+		"endTime": "2026-05-07T19:10:00"
+	},
+	{
+		"name": "WP_DWPP (Datenbanken und Webprogrammierung)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Dipl.-Ing. Dirk Mindorf\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Mindorf",
+		"startTime": "2026-06-04T15:55:00",
+		"endTime": "2026-06-04T19:10:00"
+	},
+	{
+		"name": "WP_DWPP (Datenbanken und Webprogrammierung)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Dipl.-Ing. Dirk Mindorf\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Mindorf",
+		"startTime": "2026-06-25T15:55:00",
+		"endTime": "2026-06-25T19:10:00"
+	}
+]

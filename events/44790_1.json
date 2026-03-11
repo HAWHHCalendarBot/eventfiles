@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "WP_FSP (Functional Safety: Designing Systems You Can Trust)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Pawel Buczek\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Buczek",
+		"startTime": "2026-05-22T12:10:00",
+		"endTime": "2026-05-22T15:40:00"
+	},
+	{
+		"name": "WP_FSP (Functional Safety: Designing Systems You Can Trust)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Pawel Buczek\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Buczek",
+		"startTime": "2026-06-12T12:10:00",
+		"endTime": "2026-06-12T15:40:00"
+	},
+	{
+		"name": "WP_FSP (Functional Safety: Designing Systems You Can Trust)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Pawel Buczek\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Buczek",
+		"startTime": "2026-07-03T12:10:00",
+		"endTime": "2026-07-03T15:40:00"
+	}
+]

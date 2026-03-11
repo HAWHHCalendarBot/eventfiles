@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "WP_MSP (Medizinische Sensorik Praktikum)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Roman Kusche\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Kusche",
+		"startTime": "2026-05-29T12:10:00",
+		"endTime": "2026-05-29T15:40:00"
+	},
+	{
+		"name": "WP_MSP (Medizinische Sensorik Praktikum)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Roman Kusche\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Kusche",
+		"startTime": "2026-06-19T12:10:00",
+		"endTime": "2026-06-19T15:40:00"
+	},
+	{
+		"name": "WP_MSP (Medizinische Sensorik Praktikum)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Roman Kusche\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Kusche",
+		"startTime": "2026-07-10T12:10:00",
+		"endTime": "2026-07-10T15:40:00"
+	}
+]

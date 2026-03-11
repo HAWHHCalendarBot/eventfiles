@@ -1,1 +1,51 @@
-[]
+[
+	{
+		"name": "PR1 (Programmieren 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR1",
+		"startTime": "2026-04-15T15:55:00",
+		"endTime": "2026-04-15T19:10:00"
+	},
+	{
+		"name": "PR1 (Programmieren 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR1",
+		"startTime": "2026-04-29T15:55:00",
+		"endTime": "2026-04-29T19:10:00"
+	},
+	{
+		"name": "PR1 (Programmieren 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR1",
+		"startTime": "2026-05-13T15:55:00",
+		"endTime": "2026-05-13T19:10:00"
+	},
+	{
+		"name": "PR1 (Programmieren 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR1",
+		"startTime": "2026-05-27T15:55:00",
+		"endTime": "2026-05-27T19:10:00"
+	},
+	{
+		"name": "PR1 (Programmieren 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR1",
+		"startTime": "2026-06-10T15:55:00",
+		"endTime": "2026-06-10T19:10:00"
+	},
+	{
+		"name": "PR1 (Programmieren 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR1",
+		"startTime": "2026-06-24T15:55:00",
+		"endTime": "2026-06-24T19:10:00"
+	},
+	{
+		"name": "PR1 (Programmieren 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: Einzeltermin\n\nOriginaler Titel: PR1",
+		"startTime": "2026-04-22T15:55:00",
+		"endTime": "2026-04-22T19:10:00"
+	}
+]

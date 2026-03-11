@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "RTP (Regelungstechnik Praktikum)",
+		"location": "6.06, Berliner Tor 7",
+		"description": "Dozenten: Lucas Ebel, Prof. Dr. Michael Erhard, Jan Huß\nRhythmus: Einzeltermin\n\nOriginaler Titel: RTP/01",
+		"startTime": "2026-05-06T08:10:00",
+		"endTime": "2026-05-06T09:40:00"
+	},
+	{
+		"name": "RTP (Regelungstechnik Praktikum)",
+		"location": "6.06, Berliner Tor 7",
+		"description": "Dozenten: Lucas Ebel, Prof. Dr. Michael Erhard, Jan Huß\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: RTP/01",
+		"startTime": "2026-05-27T08:10:00",
+		"endTime": "2026-05-27T11:25:00"
+	},
+	{
+		"name": "RTP (Regelungstechnik Praktikum)",
+		"location": "6.06, Berliner Tor 7",
+		"description": "Dozenten: Lucas Ebel, Prof. Dr. Michael Erhard, Jan Huß\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: RTP/01",
+		"startTime": "2026-06-17T08:10:00",
+		"endTime": "2026-06-17T11:25:00"
+	},
+	{
+		"name": "RTP (Regelungstechnik Praktikum)",
+		"location": "6.06, Berliner Tor 7",
+		"description": "Dozenten: Lucas Ebel, Prof. Dr. Michael Erhard, Jan Huß\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: RTP/01",
+		"startTime": "2026-07-08T08:10:00",
+		"endTime": "2026-07-08T11:25:00"
+	}
+]

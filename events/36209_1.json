@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "WP_ESVP (Embedded Systems Verification and Test)",
+		"location": "8.04, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Schulz",
+		"startTime": "2026-05-15T12:10:00",
+		"endTime": "2026-05-15T15:40:00"
+	},
+	{
+		"name": "WP_ESVP (Embedded Systems Verification and Test)",
+		"location": "8.04, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Schulz",
+		"startTime": "2026-06-05T12:10:00",
+		"endTime": "2026-06-05T15:40:00"
+	},
+	{
+		"name": "WP_ESVP (Embedded Systems Verification and Test)",
+		"location": "8.04, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Schulz",
+		"startTime": "2026-06-26T12:10:00",
+		"endTime": "2026-06-26T15:40:00"
+	}
+]

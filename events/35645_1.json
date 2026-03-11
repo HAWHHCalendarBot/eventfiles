@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "DSL (Digitale Systeme)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Lutz Leutelt, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: DSL/01",
+		"startTime": "2026-04-29T08:10:00",
+		"endTime": "2026-04-29T09:40:00"
+	},
+	{
+		"name": "DSL (Digitale Systeme)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Lutz Leutelt, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DSL/01",
+		"startTime": "2026-05-13T08:10:00",
+		"endTime": "2026-05-13T11:25:00"
+	},
+	{
+		"name": "DSL (Digitale Systeme)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Lutz Leutelt, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DSL/01",
+		"startTime": "2026-06-03T08:10:00",
+		"endTime": "2026-06-03T11:25:00"
+	},
+	{
+		"name": "DSL (Digitale Systeme)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Lutz Leutelt, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DSL/01",
+		"startTime": "2026-06-24T08:10:00",
+		"endTime": "2026-06-24T11:25:00"
+	}
+]

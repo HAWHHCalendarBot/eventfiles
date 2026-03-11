@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "ENP (Energietechnik Praktikum)",
+		"location": "3.03, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Ingo Winzenick, Friederike Sczesny\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: ENP/01",
+		"startTime": "2026-04-29T14:10:00",
+		"endTime": "2026-04-29T15:40:00"
+	},
+	{
+		"name": "ENP (Energietechnik Praktikum)",
+		"location": "3.03, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Ingo Winzenick, Friederike Sczesny\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ENP/01",
+		"startTime": "2026-05-13T12:10:00",
+		"endTime": "2026-05-13T15:40:00"
+	},
+	{
+		"name": "ENP (Energietechnik Praktikum)",
+		"location": "3.03, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Ingo Winzenick, Friederike Sczesny\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ENP/01",
+		"startTime": "2026-06-03T12:10:00",
+		"endTime": "2026-06-03T15:40:00"
+	},
+	{
+		"name": "ENP (Energietechnik Praktikum)",
+		"location": "3.03, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Ingo Winzenick, Friederike Sczesny\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ENP/01",
+		"startTime": "2026-06-24T12:10:00",
+		"endTime": "2026-06-24T15:40:00"
+	}
+]

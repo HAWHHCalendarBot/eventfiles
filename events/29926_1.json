@@ -1,1 +1,51 @@
-[]
+[
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Dr. Michael Schramm\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: Einzeltermin\n\nOriginaler Titel: PR2",
+		"startTime": "2026-04-14T08:10:00",
+		"endTime": "2026-04-14T11:25:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Dr. Michael Schramm\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-04-21T08:10:00",
+		"endTime": "2026-04-21T11:25:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Dr. Michael Schramm\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-05-05T08:10:00",
+		"endTime": "2026-05-05T11:25:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Dr. Michael Schramm\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-05-19T08:10:00",
+		"endTime": "2026-05-19T11:25:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Dr. Michael Schramm\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-06-02T08:10:00",
+		"endTime": "2026-06-02T11:25:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Dr. Michael Schramm\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-06-16T08:10:00",
+		"endTime": "2026-06-16T11:25:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Dr. Michael Schramm\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-06-30T08:10:00",
+		"endTime": "2026-06-30T11:25:00"
+	}
+]

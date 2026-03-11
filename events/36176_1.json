@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "WP_KbPMP (Kompetenzbasiertes Projektmanagement)",
+		"location": "10.65, Berliner Tor 7",
+		"description": "Dozent: Dr. Andreas Edom\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Edom-2",
+		"startTime": "2026-05-06T12:10:00",
+		"endTime": "2026-05-06T15:40:00"
+	},
+	{
+		"name": "WP_KbPMP (Kompetenzbasiertes Projektmanagement)",
+		"location": "10.65, Berliner Tor 7",
+		"description": "Dozent: Dr. Andreas Edom\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Edom-2",
+		"startTime": "2026-05-27T12:10:00",
+		"endTime": "2026-05-27T15:40:00"
+	},
+	{
+		"name": "WP_KbPMP (Kompetenzbasiertes Projektmanagement)",
+		"location": "10.65, Berliner Tor 7",
+		"description": "Dozent: Dr. Andreas Edom\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Edom-2",
+		"startTime": "2026-06-17T12:10:00",
+		"endTime": "2026-06-17T15:40:00"
+	}
+]

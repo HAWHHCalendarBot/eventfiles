@@ -1,1 +1,51 @@
-[]
+[
+	{
+		"name": "MAÜ2 (Mathematik 2 Übung)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: MAÜ2/01",
+		"startTime": "2026-04-09T09:55:00",
+		"endTime": "2026-04-09T11:25:00"
+	},
+	{
+		"name": "MAÜ2 (Mathematik 2 Übung)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: MAÜ2/01",
+		"startTime": "2026-04-16T09:55:00",
+		"endTime": "2026-04-16T11:25:00"
+	},
+	{
+		"name": "MAÜ2 (Mathematik 2 Übung)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: MAÜ2/01",
+		"startTime": "2026-04-30T09:55:00",
+		"endTime": "2026-04-30T11:25:00"
+	},
+	{
+		"name": "MAÜ2 (Mathematik 2 Übung)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: MAÜ2/01",
+		"startTime": "2026-05-21T09:55:00",
+		"endTime": "2026-05-21T11:25:00"
+	},
+	{
+		"name": "MAÜ2 (Mathematik 2 Übung)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: MAÜ2/01",
+		"startTime": "2026-06-04T09:55:00",
+		"endTime": "2026-06-04T11:25:00"
+	},
+	{
+		"name": "MAÜ2 (Mathematik 2 Übung)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: MAÜ2/01",
+		"startTime": "2026-06-18T09:55:00",
+		"endTime": "2026-06-18T11:25:00"
+	},
+	{
+		"name": "MAÜ2 (Mathematik 2 Übung)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: MAÜ2/01",
+		"startTime": "2026-07-02T09:55:00",
+		"endTime": "2026-07-02T11:25:00"
+	}
+]

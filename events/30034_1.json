@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "PRP2 (Programmieren 2 Praktikum)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Dr. Michael Schramm\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: Einzeltermin\n\nOriginaler Titel: PRP2/01",
+		"startTime": "2026-04-28T12:10:00",
+		"endTime": "2026-04-28T13:40:00"
+	},
+	{
+		"name": "PRP2 (Programmieren 2 Praktikum)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Dr. Michael Schramm\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: PRP2/01",
+		"startTime": "2026-05-12T12:10:00",
+		"endTime": "2026-05-12T15:40:00"
+	},
+	{
+		"name": "PRP2 (Programmieren 2 Praktikum)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Dr. Michael Schramm\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: PRP2/01",
+		"startTime": "2026-06-02T12:10:00",
+		"endTime": "2026-06-02T15:40:00"
+	},
+	{
+		"name": "PRP2 (Programmieren 2 Praktikum)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozent: Dr. Michael Schramm\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: PRP2/01",
+		"startTime": "2026-06-23T12:10:00",
+		"endTime": "2026-06-23T15:40:00"
+	}
+]

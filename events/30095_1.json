@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "DYP (Digitale Systeme Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Robert Fitz\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: DYP/01",
+		"startTime": "2026-04-28T09:55:00",
+		"endTime": "2026-04-28T11:25:00"
+	},
+	{
+		"name": "DYP (Digitale Systeme Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Robert Fitz\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DYP/01",
+		"startTime": "2026-05-12T08:10:00",
+		"endTime": "2026-05-12T11:25:00"
+	},
+	{
+		"name": "DYP (Digitale Systeme Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Robert Fitz\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DYP/01",
+		"startTime": "2026-06-02T08:10:00",
+		"endTime": "2026-06-02T11:25:00"
+	},
+	{
+		"name": "DYP (Digitale Systeme Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Robert Fitz\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DYP/01",
+		"startTime": "2026-06-23T08:10:00",
+		"endTime": "2026-06-23T11:25:00"
+	}
+]

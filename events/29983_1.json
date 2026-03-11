@@ -1,1 +1,37 @@
-[]
+[
+	{
+		"name": "LAÜ (Lineare Algebra Übung)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Marc Hensel\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: LAÜ/01",
+		"startTime": "2026-04-27T14:10:00",
+		"endTime": "2026-04-27T15:40:00"
+	},
+	{
+		"name": "LAÜ (Lineare Algebra Übung)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Marc Hensel\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: LAÜ/01",
+		"startTime": "2026-05-11T14:10:00",
+		"endTime": "2026-05-11T15:40:00"
+	},
+	{
+		"name": "LAÜ (Lineare Algebra Übung)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Marc Hensel\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: LAÜ/01",
+		"startTime": "2026-06-08T14:10:00",
+		"endTime": "2026-06-08T15:40:00"
+	},
+	{
+		"name": "LAÜ (Lineare Algebra Übung)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Marc Hensel\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: LAÜ/01",
+		"startTime": "2026-07-06T14:10:00",
+		"endTime": "2026-07-06T15:40:00"
+	},
+	{
+		"name": "LAÜ (Lineare Algebra Übung)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Marc Hensel\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: LAÜ/01",
+		"startTime": "2026-06-29T14:10:00",
+		"endTime": "2026-06-29T15:40:00"
+	}
+]

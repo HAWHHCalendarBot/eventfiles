@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "WLSL (Wireless Systems Laboratory)",
+		"location": "14.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Matthias Kronauge\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: WLSL/01",
+		"startTime": "2026-04-27T14:10:00",
+		"endTime": "2026-04-27T15:40:00"
+	},
+	{
+		"name": "WLSL (Wireless Systems Laboratory)",
+		"location": "14.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Matthias Kronauge\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: vierwöchentlich\n\nOriginaler Titel: WLSL/01",
+		"startTime": "2026-05-07T09:55:00",
+		"endTime": "2026-05-07T12:55:00"
+	},
+	{
+		"name": "WLSL (Wireless Systems Laboratory)",
+		"location": "14.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Matthias Kronauge\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: vierwöchentlich\n\nOriginaler Titel: WLSL/01",
+		"startTime": "2026-06-04T09:55:00",
+		"endTime": "2026-06-04T12:55:00"
+	},
+	{
+		"name": "WLSL (Wireless Systems Laboratory)",
+		"location": "14.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Matthias Kronauge\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: WLSL/01",
+		"startTime": "2026-07-09T09:55:00",
+		"endTime": "2026-07-09T12:55:00"
+	}
+]

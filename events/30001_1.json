@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "DIP (Digitaltechnik Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Simon Buhrow\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: DIP/01",
+		"startTime": "2026-04-21T14:10:00",
+		"endTime": "2026-04-21T15:40:00"
+	},
+	{
+		"name": "DIP (Digitaltechnik Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Simon Buhrow\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: DIP/01",
+		"startTime": "2026-05-07T12:10:00",
+		"endTime": "2026-05-07T15:40:00"
+	},
+	{
+		"name": "DIP (Digitaltechnik Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Simon Buhrow\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DIP/01",
+		"startTime": "2026-06-04T12:10:00",
+		"endTime": "2026-06-04T15:40:00"
+	},
+	{
+		"name": "DIP (Digitaltechnik Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Simon Buhrow\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DIP/01",
+		"startTime": "2026-06-25T12:10:00",
+		"endTime": "2026-06-25T15:40:00"
+	}
+]

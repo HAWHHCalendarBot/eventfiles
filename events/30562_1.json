@@ -1,1 +1,58 @@
-[]
+[
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "14.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-04-13T12:10:00",
+		"endTime": "2026-04-13T15:40:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "14.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-04-20T12:10:00",
+		"endTime": "2026-04-20T15:40:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "14.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-04-27T12:10:00",
+		"endTime": "2026-04-27T15:40:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "14.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-05-11T12:10:00",
+		"endTime": "2026-05-11T15:40:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "14.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-05-18T12:10:00",
+		"endTime": "2026-05-18T15:40:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "14.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-06-01T12:10:00",
+		"endTime": "2026-06-01T15:40:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "14.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-06-08T12:10:00",
+		"endTime": "2026-06-08T15:40:00"
+	},
+	{
+		"name": "PR2 (Programmieren 2)",
+		"location": "14.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: PR2",
+		"startTime": "2026-06-15T12:10:00",
+		"endTime": "2026-06-15T15:40:00"
+	}
+]

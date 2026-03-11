@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "GFP (Gebäudeeffizienz Praktikum)",
+		"location": "4.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Holger Gräßner\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: GFP/01",
+		"startTime": "2026-05-04T14:10:00",
+		"endTime": "2026-05-04T15:40:00"
+	},
+	{
+		"name": "GFP (Gebäudeeffizienz Praktikum)",
+		"location": "4.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Holger Gräßner\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: GFP/01",
+		"startTime": "2026-05-19T08:10:00",
+		"endTime": "2026-05-19T11:25:00"
+	},
+	{
+		"name": "GFP (Gebäudeeffizienz Praktikum)",
+		"location": "4.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Holger Gräßner\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: GFP/01",
+		"startTime": "2026-06-09T08:10:00",
+		"endTime": "2026-06-09T11:25:00"
+	},
+	{
+		"name": "GFP (Gebäudeeffizienz Praktikum)",
+		"location": "4.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Holger Gräßner\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: GFP/01",
+		"startTime": "2026-06-30T08:10:00",
+		"endTime": "2026-06-30T11:25:00"
+	}
+]

@@ -1,1 +1,44 @@
-[]
+[
+	{
+		"name": "PRP1 (Programmieren 1 Praktikum)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozenten: Dr. rer. nat. Johannes Nieder, Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PRP1/01",
+		"startTime": "2026-04-15T12:10:00",
+		"endTime": "2026-04-15T15:40:00"
+	},
+	{
+		"name": "PRP1 (Programmieren 1 Praktikum)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozenten: Dr. rer. nat. Johannes Nieder, Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PRP1/01",
+		"startTime": "2026-04-29T12:10:00",
+		"endTime": "2026-04-29T15:40:00"
+	},
+	{
+		"name": "PRP1 (Programmieren 1 Praktikum)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozenten: Dr. rer. nat. Johannes Nieder, Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PRP1/01",
+		"startTime": "2026-05-13T12:10:00",
+		"endTime": "2026-05-13T15:40:00"
+	},
+	{
+		"name": "PRP1 (Programmieren 1 Praktikum)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozenten: Dr. rer. nat. Johannes Nieder, Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PRP1/01",
+		"startTime": "2026-05-27T12:10:00",
+		"endTime": "2026-05-27T15:40:00"
+	},
+	{
+		"name": "PRP1 (Programmieren 1 Praktikum)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozenten: Dr. rer. nat. Johannes Nieder, Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PRP1/01",
+		"startTime": "2026-06-10T12:10:00",
+		"endTime": "2026-06-10T15:40:00"
+	},
+	{
+		"name": "PRP1 (Programmieren 1 Praktikum)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozenten: Dr. rer. nat. Johannes Nieder, Prof. Dr. Ulrike Herster\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: PRP1/01",
+		"startTime": "2026-06-24T12:10:00",
+		"endTime": "2026-06-24T15:40:00"
+	}
+]

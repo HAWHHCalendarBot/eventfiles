@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "DÜP (Digitale Übertragungstechnik Praktikum)",
+		"location": "14.85, Berliner Tor 7",
+		"description": "Dozenten: Jörg Neugebauer, Prof. Dr.-Ing. Matthias Kronauge, Prof. Dr.-Ing. Jürgen Vollmer\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: DÜP/01",
+		"startTime": "2026-05-04T14:10:00",
+		"endTime": "2026-05-04T15:40:00"
+	},
+	{
+		"name": "DÜP (Digitale Übertragungstechnik Praktikum)",
+		"location": "14.85, Berliner Tor 7",
+		"description": "Dozenten: Jörg Neugebauer, Prof. Dr.-Ing. Matthias Kronauge, Prof. Dr.-Ing. Jürgen Vollmer\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: DÜP/01",
+		"startTime": "2026-05-18T08:10:00",
+		"endTime": "2026-05-18T11:25:00"
+	},
+	{
+		"name": "DÜP (Digitale Übertragungstechnik Praktikum)",
+		"location": "14.85, Berliner Tor 7",
+		"description": "Dozenten: Jörg Neugebauer, Prof. Dr.-Ing. Matthias Kronauge, Prof. Dr.-Ing. Jürgen Vollmer\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DÜP/01",
+		"startTime": "2026-06-15T08:10:00",
+		"endTime": "2026-06-15T11:25:00"
+	},
+	{
+		"name": "DÜP (Digitale Übertragungstechnik Praktikum)",
+		"location": "14.85, Berliner Tor 7",
+		"description": "Dozenten: Jörg Neugebauer, Prof. Dr.-Ing. Matthias Kronauge, Prof. Dr.-Ing. Jürgen Vollmer\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DÜP/01",
+		"startTime": "2026-07-06T08:10:00",
+		"endTime": "2026-07-06T11:25:00"
+	}
+]

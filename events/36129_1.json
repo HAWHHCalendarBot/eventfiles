@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "WP_NSAP (Netzwerk- und Systemadministration)",
+		"location": "14.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Rainer Schoenen\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Schoenen",
+		"startTime": "2026-05-29T12:10:00",
+		"endTime": "2026-05-29T15:40:00"
+	},
+	{
+		"name": "WP_NSAP (Netzwerk- und Systemadministration)",
+		"location": "14.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Rainer Schoenen\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Schoenen",
+		"startTime": "2026-06-19T12:10:00",
+		"endTime": "2026-06-19T15:40:00"
+	},
+	{
+		"name": "WP_NSAP (Netzwerk- und Systemadministration)",
+		"location": "14.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Rainer Schoenen\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Schoenen",
+		"startTime": "2026-07-10T12:10:00",
+		"endTime": "2026-07-10T15:40:00"
+	}
+]

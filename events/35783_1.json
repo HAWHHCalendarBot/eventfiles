@@ -1,1 +1,44 @@
-[]
+[
+	{
+		"name": "SEL (Software Engineering)",
+		"location": "13.01a, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: SEL/01",
+		"startTime": "2026-04-21T12:10:00",
+		"endTime": "2026-04-21T13:40:00"
+	},
+	{
+		"name": "SEL (Software Engineering)",
+		"location": "13.01a, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: SEL/01",
+		"startTime": "2026-05-05T12:10:00",
+		"endTime": "2026-05-05T13:40:00"
+	},
+	{
+		"name": "SEL (Software Engineering)",
+		"location": "13.01a, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: SEL/01",
+		"startTime": "2026-05-19T12:10:00",
+		"endTime": "2026-05-19T13:40:00"
+	},
+	{
+		"name": "SEL (Software Engineering)",
+		"location": "13.01a, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: SEL/01",
+		"startTime": "2026-06-02T12:10:00",
+		"endTime": "2026-06-02T13:40:00"
+	},
+	{
+		"name": "SEL (Software Engineering)",
+		"location": "13.01a, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: SEL/01",
+		"startTime": "2026-06-16T12:10:00",
+		"endTime": "2026-06-16T13:40:00"
+	},
+	{
+		"name": "SEL (Software Engineering)",
+		"location": "13.01a, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: SEL/01",
+		"startTime": "2026-06-30T12:10:00",
+		"endTime": "2026-06-30T13:40:00"
+	}
+]

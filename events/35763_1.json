@@ -1,1 +1,44 @@
-[]
+[
+	{
+		"name": "MAE2 (Mathematik 2)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Dr. rer. nat. Johannes Nieder\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MAE2/01",
+		"startTime": "2026-04-23T08:10:00",
+		"endTime": "2026-04-23T09:40:00"
+	},
+	{
+		"name": "MAE2 (Mathematik 2)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Dr. rer. nat. Johannes Nieder\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MAE2/01",
+		"startTime": "2026-05-07T08:10:00",
+		"endTime": "2026-05-07T09:40:00"
+	},
+	{
+		"name": "MAE2 (Mathematik 2)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Dr. rer. nat. Johannes Nieder\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MAE2/01",
+		"startTime": "2026-05-21T08:10:00",
+		"endTime": "2026-05-21T09:40:00"
+	},
+	{
+		"name": "MAE2 (Mathematik 2)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Dr. rer. nat. Johannes Nieder\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MAE2/01",
+		"startTime": "2026-06-04T08:10:00",
+		"endTime": "2026-06-04T09:40:00"
+	},
+	{
+		"name": "MAE2 (Mathematik 2)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Dr. rer. nat. Johannes Nieder\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MAE2/01",
+		"startTime": "2026-06-18T08:10:00",
+		"endTime": "2026-06-18T09:40:00"
+	},
+	{
+		"name": "MAE2 (Mathematik 2)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Dr. rer. nat. Johannes Nieder\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MAE2/01",
+		"startTime": "2026-07-02T08:10:00",
+		"endTime": "2026-07-02T09:40:00"
+	}
+]

@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "RYP (Reglersynthese Praktikum)",
+		"location": "6.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Michael Erhard, Jan Huß\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: RYP/01",
+		"startTime": "2026-04-29T12:10:00",
+		"endTime": "2026-04-29T13:40:00"
+	},
+	{
+		"name": "RYP (Reglersynthese Praktikum)",
+		"location": "6.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Michael Erhard, Jan Huß\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: RYP/01",
+		"startTime": "2026-05-20T12:10:00",
+		"endTime": "2026-05-20T15:40:00"
+	},
+	{
+		"name": "RYP (Reglersynthese Praktikum)",
+		"location": "6.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Michael Erhard, Jan Huß\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: RYP/01",
+		"startTime": "2026-06-10T12:10:00",
+		"endTime": "2026-06-10T15:40:00"
+	},
+	{
+		"name": "RYP (Reglersynthese Praktikum)",
+		"location": "6.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Michael Erhard, Jan Huß\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: RYP/01",
+		"startTime": "2026-07-01T12:10:00",
+		"endTime": "2026-07-01T15:40:00"
+	}
+]

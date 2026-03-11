@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "WP_ASEP (Applied System Engineering)",
+		"location": "14.86, Berliner Tor 7",
+		"description": "Dozent: Dr. Andreas Edom\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Edom-1",
+		"startTime": "2026-05-19T15:55:00",
+		"endTime": "2026-05-19T19:10:00"
+	},
+	{
+		"name": "WP_ASEP (Applied System Engineering)",
+		"location": "14.86, Berliner Tor 7",
+		"description": "Dozent: Dr. Andreas Edom\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Edom-1",
+		"startTime": "2026-06-09T15:55:00",
+		"endTime": "2026-06-09T19:10:00"
+	},
+	{
+		"name": "WP_ASEP (Applied System Engineering)",
+		"location": "14.86, Berliner Tor 7",
+		"description": "Dozent: Dr. Andreas Edom\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP-Edom-1",
+		"startTime": "2026-06-30T15:55:00",
+		"endTime": "2026-06-30T19:10:00"
+	}
+]

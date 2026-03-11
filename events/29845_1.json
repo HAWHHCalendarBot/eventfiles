@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "DEP (Dezentrale Energieversorgung Praktikum)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozenten: Friederike Sczesny, Prof. Dr.-Ing. Eva-Maria Königsheim\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: Einzeltermin\n\nOriginaler Titel: DEP/01",
+		"startTime": "2026-04-29T08:10:00",
+		"endTime": "2026-04-29T09:40:00"
+	},
+	{
+		"name": "DEP (Dezentrale Energieversorgung Praktikum)",
+		"location": "10.65, Berliner Tor 7",
+		"description": "Dozenten: Friederike Sczesny, Prof. Dr.-Ing. Eva-Maria Königsheim\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DEP/01",
+		"startTime": "2026-05-20T08:10:00",
+		"endTime": "2026-05-20T11:25:00"
+	},
+	{
+		"name": "DEP (Dezentrale Energieversorgung Praktikum)",
+		"location": "10.65, Berliner Tor 7",
+		"description": "Dozenten: Friederike Sczesny, Prof. Dr.-Ing. Eva-Maria Königsheim\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DEP/01",
+		"startTime": "2026-06-10T08:10:00",
+		"endTime": "2026-06-10T11:25:00"
+	},
+	{
+		"name": "DEP (Dezentrale Energieversorgung Praktikum)",
+		"location": "10.65, Berliner Tor 7",
+		"description": "Dozenten: Friederike Sczesny, Prof. Dr.-Ing. Eva-Maria Königsheim\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DEP/01",
+		"startTime": "2026-07-01T08:10:00",
+		"endTime": "2026-07-01T11:25:00"
+	}
+]

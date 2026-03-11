@@ -1,1 +1,44 @@
-[]
+[
+	{
+		"name": "ASS (Seminar Autonome Systeme)",
+		"location": "8.62, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Florian Wenck\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: ASS",
+		"startTime": "2026-05-12T12:10:00",
+		"endTime": "2026-05-12T15:40:00"
+	},
+	{
+		"name": "ASS (Seminar Autonome Systeme)",
+		"location": "8.62, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Florian Wenck\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: ASS",
+		"startTime": "2026-05-19T12:10:00",
+		"endTime": "2026-05-19T15:40:00"
+	},
+	{
+		"name": "ASS (Seminar Autonome Systeme)",
+		"location": "8.62, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Florian Wenck\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: ASS",
+		"startTime": "2026-05-26T12:10:00",
+		"endTime": "2026-05-26T15:40:00"
+	},
+	{
+		"name": "ASS (Seminar Autonome Systeme)",
+		"location": "8.62, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Florian Wenck\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: ASS",
+		"startTime": "2026-06-02T12:10:00",
+		"endTime": "2026-06-02T15:40:00"
+	},
+	{
+		"name": "ASS (Seminar Autonome Systeme)",
+		"location": "8.62, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Florian Wenck\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: ASS",
+		"startTime": "2026-06-09T12:10:00",
+		"endTime": "2026-06-09T15:40:00"
+	},
+	{
+		"name": "ASS (Seminar Autonome Systeme)",
+		"location": "8.62, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Florian Wenck\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: ASS",
+		"startTime": "2026-06-16T12:10:00",
+		"endTime": "2026-06-16T15:40:00"
+	}
+]

@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "SSL1 (Signale und Systeme 1)",
+		"location": "13.01a, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Björn Lange\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: SSL1/01",
+		"startTime": "2026-04-22T12:10:00",
+		"endTime": "2026-04-22T13:40:00"
+	},
+	{
+		"name": "SSL1 (Signale und Systeme 1)",
+		"location": "13.03b, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Björn Lange\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: SSL1/01",
+		"startTime": "2026-05-07T12:10:00",
+		"endTime": "2026-05-07T15:40:00"
+	},
+	{
+		"name": "SSL1 (Signale und Systeme 1)",
+		"location": "13.03b, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Björn Lange\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: SSL1/01",
+		"startTime": "2026-06-04T12:10:00",
+		"endTime": "2026-06-04T15:40:00"
+	},
+	{
+		"name": "SSL1 (Signale und Systeme 1)",
+		"location": "13.03b, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Björn Lange\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: SSL1/01",
+		"startTime": "2026-06-25T12:10:00",
+		"endTime": "2026-06-25T15:40:00"
+	}
+]

@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "GEP (Grundlagen der Energietechnik Praktikum)",
+		"location": "3.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Ingo Winzenick, Frank Korpel\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: GEP/01",
+		"startTime": "2026-04-21T14:10:00",
+		"endTime": "2026-04-21T15:40:00"
+	},
+	{
+		"name": "GEP (Grundlagen der Energietechnik Praktikum)",
+		"location": "3.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Ingo Winzenick, Frank Korpel\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: GEP/01",
+		"startTime": "2026-05-05T12:10:00",
+		"endTime": "2026-05-05T15:40:00"
+	},
+	{
+		"name": "GEP (Grundlagen der Energietechnik Praktikum)",
+		"location": "3.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Ingo Winzenick, Frank Korpel\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: GEP/01",
+		"startTime": "2026-05-26T12:10:00",
+		"endTime": "2026-05-26T15:40:00"
+	},
+	{
+		"name": "GEP (Grundlagen der Energietechnik Praktikum)",
+		"location": "3.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Ingo Winzenick, Frank Korpel\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: GEP/01",
+		"startTime": "2026-06-16T12:10:00",
+		"endTime": "2026-06-16T15:40:00"
+	}
+]

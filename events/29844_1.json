@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "EPP (Betriebssysteme und Echtzeitprogrammierung Praktikum)",
+		"location": "4.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Florian Wenck\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: EPP/01",
+		"startTime": "2026-04-29T14:10:00",
+		"endTime": "2026-04-29T15:40:00"
+	},
+	{
+		"name": "EPP (Betriebssysteme und Echtzeitprogrammierung Praktikum)",
+		"location": "4.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Florian Wenck\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: EPP/01",
+		"startTime": "2026-05-13T12:10:00",
+		"endTime": "2026-05-13T15:40:00"
+	},
+	{
+		"name": "EPP (Betriebssysteme und Echtzeitprogrammierung Praktikum)",
+		"location": "4.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Florian Wenck\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: EPP/01",
+		"startTime": "2026-06-03T12:10:00",
+		"endTime": "2026-06-03T15:40:00"
+	},
+	{
+		"name": "EPP (Betriebssysteme und Echtzeitprogrammierung Praktikum)",
+		"location": "4.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Florian Wenck\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: EPP/01",
+		"startTime": "2026-06-24T12:10:00",
+		"endTime": "2026-06-24T15:40:00"
+	}
+]

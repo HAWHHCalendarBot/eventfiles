@@ -1,1 +1,37 @@
-[]
+[
+	{
+		"name": "ELL2 (Elektronik 2)",
+		"location": "5.05, Berliner Tor 7",
+		"description": "Dozenten: Wesam Al Hajsaeed, Prof. Dr.-Ing. Roman Kusche\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: ELL2/01",
+		"startTime": "2026-04-29T08:10:00",
+		"endTime": "2026-04-29T11:25:00"
+	},
+	{
+		"name": "ELL2 (Elektronik 2)",
+		"location": "5.05, Berliner Tor 7",
+		"description": "Dozenten: Wesam Al Hajsaeed, Prof. Dr.-Ing. Roman Kusche\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: ELL2/01",
+		"startTime": "2026-05-13T08:10:00",
+		"endTime": "2026-05-13T11:25:00"
+	},
+	{
+		"name": "ELL2 (Elektronik 2)",
+		"location": "5.05, Berliner Tor 7",
+		"description": "Dozenten: Wesam Al Hajsaeed, Prof. Dr.-Ing. Roman Kusche\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: ELL2/01",
+		"startTime": "2026-05-27T08:10:00",
+		"endTime": "2026-05-27T11:25:00"
+	},
+	{
+		"name": "ELL2 (Elektronik 2)",
+		"location": "8.04, Berliner Tor 7",
+		"description": "Dozenten: Wesam Al Hajsaeed, Prof. Dr.-Ing. Roman Kusche\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: ELL2/01",
+		"startTime": "2026-06-10T08:10:00",
+		"endTime": "2026-06-10T11:25:00"
+	},
+	{
+		"name": "ELL2 (Elektronik 2)",
+		"location": "8.04, Berliner Tor 7",
+		"description": "Dozenten: Wesam Al Hajsaeed, Prof. Dr.-Ing. Roman Kusche\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: ELL2/01",
+		"startTime": "2026-06-24T08:10:00",
+		"endTime": "2026-06-24T11:25:00"
+	}
+]

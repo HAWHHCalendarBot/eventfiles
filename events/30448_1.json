@@ -1,1 +1,58 @@
-[]
+[
+	{
+		"name": "AT (Antriebe und Leistungselektronik)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Frerk Haase\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: AT",
+		"startTime": "2026-04-10T12:10:00",
+		"endTime": "2026-04-10T15:40:00"
+	},
+	{
+		"name": "AT (Antriebe und Leistungselektronik)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Frerk Haase\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: AT",
+		"startTime": "2026-04-24T12:10:00",
+		"endTime": "2026-04-24T15:40:00"
+	},
+	{
+		"name": "AT (Antriebe und Leistungselektronik)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Frerk Haase\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: AT",
+		"startTime": "2026-05-08T12:10:00",
+		"endTime": "2026-05-08T15:40:00"
+	},
+	{
+		"name": "AT (Antriebe und Leistungselektronik)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Frerk Haase\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: AT",
+		"startTime": "2026-05-22T12:10:00",
+		"endTime": "2026-05-22T15:40:00"
+	},
+	{
+		"name": "AT (Antriebe und Leistungselektronik)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Frerk Haase\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: AT",
+		"startTime": "2026-06-05T12:10:00",
+		"endTime": "2026-06-05T15:40:00"
+	},
+	{
+		"name": "AT (Antriebe und Leistungselektronik)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Frerk Haase\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: AT",
+		"startTime": "2026-06-19T12:10:00",
+		"endTime": "2026-06-19T15:40:00"
+	},
+	{
+		"name": "AT (Antriebe und Leistungselektronik)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Frerk Haase\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: AT",
+		"startTime": "2026-07-03T12:10:00",
+		"endTime": "2026-07-03T15:40:00"
+	},
+	{
+		"name": "AT (Antriebe und Leistungselektronik)",
+		"location": "12.81, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Frerk Haase\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: AT",
+		"startTime": "2026-04-17T12:10:00",
+		"endTime": "2026-04-17T15:40:00"
+	}
+]

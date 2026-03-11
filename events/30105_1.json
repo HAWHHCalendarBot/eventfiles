@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "ELP3 (Elektronik 3 Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Roman Kusche, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: ELP3/01",
+		"startTime": "2026-04-23T14:10:00",
+		"endTime": "2026-04-23T15:40:00"
+	},
+	{
+		"name": "ELP3 (Elektronik 3 Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Roman Kusche, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: ELP3/01",
+		"startTime": "2026-05-07T08:10:00",
+		"endTime": "2026-05-07T11:25:00"
+	},
+	{
+		"name": "ELP3 (Elektronik 3 Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Roman Kusche, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ELP3/01",
+		"startTime": "2026-06-04T08:10:00",
+		"endTime": "2026-06-04T11:25:00"
+	},
+	{
+		"name": "ELP3 (Elektronik 3 Praktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr.-Ing. Roman Kusche, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ELP3/01",
+		"startTime": "2026-06-25T08:10:00",
+		"endTime": "2026-06-25T11:25:00"
+	}
+]
