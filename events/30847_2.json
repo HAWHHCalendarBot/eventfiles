@@ -26,5 +26,12 @@
 		"description": "Dozent: Prof. Dr.-Ing. Thomas Bauer\nParallelgruppe: 2\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Softwarearchitektur Praktikum ^ Grp02 TurnB FS5 (2. Parallelgruppe)",
 		"startTime": "2026-06-30T18:00:00",
 		"endTime": "2026-06-30T21:15:00"
+	},
+	{
+		"name": "SWAP/02 (Softwarearchitektur Praktikum)",
+		"location": "3.80b, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Thomas Bauer\nParallelgruppe: 2\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: Einzeltermin\n\nOriginaler Titel: Softwarearchitektur Praktikum ^ Grp02 TurnB FS5 (2. Parallelgruppe)",
+		"startTime": "2026-07-21T18:00:00",
+		"endTime": "2026-07-21T21:15:00"
 	}
 ]

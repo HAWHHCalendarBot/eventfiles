@@ -431,10 +431,20 @@
 										"35742_1": "GE/01 (Deutsch)",
 										"35742_2": "GE/02 (Deutsch)"
 									}
+								},
+								"Lernen und Studiermethodik": {
+									"subDirectories": {
+										"Lernen und Studiermethodik": {
+											"events": {
+												"35761_1": "LSE1/01 (Lernen und Studiermethodik)",
+												"35761_2": "LSE1/02 (Lernen und Studiermethodik)"
+											}
+										}
+									},
+									"events": {
+										"35716_1": "LSL2 (Lernen und Studiermethodik 2)"
+									}
 								}
-							},
-							"events": {
-								"35716_1": "LSL2 (Lernen und Studiermethodik 2)"
 							}
 						},
 						"2. Semester": {
@@ -776,12 +786,6 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
-								"Mathematik 1": {
-									"events": {
-										"30512_1": "MA1 (Mathematik 1)",
-										"30432_1": "MAÜ1 (Mathematik 1 Übung)"
-									}
-								},
 								"Elektrotechnik 1": {
 									"events": {
 										"30508_1": "ET1 (Elektrotechnik 1)",
@@ -802,6 +806,7 @@
 								}
 							},
 							"events": {
+								"30432_1": "MAÜ1 (Mathematik 1 Übung)",
 								"30525_1": "PH1 (Physik 1)"
 							}
 						},
@@ -7099,7 +7104,59 @@
 					}
 				},
 				"Bachelor Maschinenbau (Fertigungstechnik) (PO WS 2021/22)": {},
-				"Master Process Engineering (PO SoSe 2020)": {},
+				"Master Process Engineering (PO SoSe 2020)": {
+					"subDirectories": {
+						"Pflichtmodule": {
+							"subDirectories": {
+								"Mathematics": {
+									"events": {
+										"25287_1": "nMat (Numerical Mathematics)",
+										"25266_1": "nMat-V2 (Numerical Mathematics Practical Work)"
+									}
+								},
+								"Digital Plant Design": {
+									"events": {
+										"25277_1": "DPD (Digital Plant Design incl. Lab. Work)",
+										"25324_1": "DAP (Data Aquisition and Processing incl. LabWork)"
+									}
+								}
+							},
+							"events": {
+								"25271_1": "AIA (Advanced Instrumentation and Automation incl. Lab. Work)"
+							}
+						},
+						"Wahlpflichtmodule": {
+							"subDirectories": {
+								"Wahlpflicht Modulgruppe 1": {
+									"events": {
+										"25282_1": "ASPRE (Chemical Reaction Engineering)"
+									}
+								}
+							}
+						},
+						"Wahlmodule": {
+							"subDirectories": {
+								"Environmental Technologies": {
+									"events": {
+										"25299_1": "AWT (Advanced Wastewater Treatment)",
+										"25340_1": "RecT (Recycling technologies)"
+									}
+								},
+								"Plant Operation": {
+									"events": {
+										"25318_1": "PO-M (Maintenance)",
+										"25334_1": "PO-AM (Asset Management)"
+									}
+								}
+							},
+							"events": {
+								"25305_1": "FA (Failure Analysis incl. Lab. Work)",
+								"25315_1": "Be/Bf (Bioenergy)",
+								"25282_1": "ASPRE (Chemical Reaction Engineering)"
+							}
+						}
+					}
+				},
 				"Master Produktionstechnik und -management (PO SoSe 2020)": {},
 				"Master Konstruktionstechnik und Produktentwicklung im Maschinenbau (PO SoSe 2020)": {},
 				"Master Nachhaltige Energiesysteme im Maschinenbau (PO SoSe 2020)": {},
