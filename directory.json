@@ -5329,9 +5329,18 @@
 									}
 								},
 								"Medizinische Biologie": {
+									"subDirectories": {
+										"Medizinische Biologie Praktikum": {
+											"events": {
+												"39325_1": "MeBi/01 (Medizinische Biologie Praktikum)",
+												"39325_2": "MeBi/02 (Medizinische Biologie Praktikum)",
+												"39325_3": "MeBi/03 (Medizinische Biologie Praktikum)",
+												"39325_4": "MeBi/04 (Medizinische Biologie Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"37503_1": "MeBi (Medizinische Biologie)",
-										"39325_1": "MeBi (Medizinische Biologie Praktikum)"
+										"37503_1": "MeBi (Medizinische Biologie)"
 									}
 								}
 							},
@@ -7369,6 +7378,7 @@
 									"events": {
 										"36532_1": "WP (2 SWS) (Ethik-Café)",
 										"36535_1": "WP (2 SWS) (Strengths-based interventions with children and families)",
+										"36538_1": "WP (2 SWS) (Armut macht krank. Krankheit macht arm.)",
 										"36539_1": "WP (4 SWS) (Erwerbsarbeit, gute Arbeit, Lohnarbeit, Soziale Arbeit, moderne Arbeit)",
 										"25831_1": "WP (2 SWS) (Fachkräftemangel in der Kinder- und Jugendhilfe – Aktuelle Herausforderungen und Handlungsstrategien)",
 										"25983_1": "WP (2 SWS) (Traumafolgestörungen und andere psychische Belastungen im Kindes- und Jugendalter: Traumasensible Zugänge in der Praxis)",
@@ -7418,6 +7428,7 @@
 									"events": {
 										"36532_1": "WP (2 SWS) (Ethik-Café)",
 										"36535_1": "WP (2 SWS) (Strengths-based interventions with children and families)",
+										"36538_1": "WP (2 SWS) (Armut macht krank. Krankheit macht arm.)",
 										"36539_1": "WP (4 SWS) (Erwerbsarbeit, gute Arbeit, Lohnarbeit, Soziale Arbeit, moderne Arbeit)",
 										"25831_1": "WP (2 SWS) (Fachkräftemangel in der Kinder- und Jugendhilfe – Aktuelle Herausforderungen und Handlungsstrategien)",
 										"25983_1": "WP (2 SWS) (Traumafolgestörungen und andere psychische Belastungen im Kindes- und Jugendalter: Traumasensible Zugänge in der Praxis)",
@@ -7465,6 +7476,7 @@
 										"25935_1": "WP (2 SWS) (Suizidalen Krisen begegnen)",
 										"36532_1": "WP (2 SWS) (Ethik-Café)",
 										"36535_1": "WP (2 SWS) (Strengths-based interventions with children and families)",
+										"36538_1": "WP (2 SWS) (Armut macht krank. Krankheit macht arm.)",
 										"36539_1": "WP (4 SWS) (Erwerbsarbeit, gute Arbeit, Lohnarbeit, Soziale Arbeit, moderne Arbeit)",
 										"37232_1": "WP (4 SWS) (Journalismus und Soziale Arbeit)",
 										"41330_1": "WP (2 SWS) (Critical questions on ageing societies)",
