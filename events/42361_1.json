@@ -2,7 +2,7 @@
 	{
 		"name": "MP LV1 (Media Programming)",
 		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Prof. Dr. Eike Langbehn\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Graphics Programming",
+		"description": "Dozent: Prof. Dr. Eike Langbehn\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Graphics Programming",
 		"startTime": "2026-04-14T08:15:00",
 		"endTime": "2026-04-14T11:45:00"
 	},
@@ -10,42 +10,42 @@
 		"name": "MP LV1 (Media Programming)",
 		"location": "(kein Raum angegeben)",
 		"description": "Dozent: Prof. Dr. Eike Langbehn\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Graphics Programming",
-		"startTime": "2026-05-05T08:15:00",
-		"endTime": "2026-05-05T11:45:00"
+		"startTime": "2026-04-28T08:15:00",
+		"endTime": "2026-04-28T11:45:00"
 	},
 	{
 		"name": "MP LV1 (Media Programming)",
 		"location": "(kein Raum angegeben)",
 		"description": "Dozent: Prof. Dr. Eike Langbehn\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Graphics Programming",
-		"startTime": "2026-05-19T08:15:00",
-		"endTime": "2026-05-19T11:45:00"
+		"startTime": "2026-05-12T08:15:00",
+		"endTime": "2026-05-12T11:45:00"
 	},
 	{
 		"name": "MP LV1 (Media Programming)",
 		"location": "(kein Raum angegeben)",
 		"description": "Dozent: Prof. Dr. Eike Langbehn\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Graphics Programming",
-		"startTime": "2026-06-02T08:15:00",
-		"endTime": "2026-06-02T11:45:00"
+		"startTime": "2026-05-26T08:15:00",
+		"endTime": "2026-05-26T11:45:00"
 	},
 	{
 		"name": "MP LV1 (Media Programming)",
 		"location": "(kein Raum angegeben)",
 		"description": "Dozent: Prof. Dr. Eike Langbehn\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Graphics Programming",
-		"startTime": "2026-06-16T08:15:00",
-		"endTime": "2026-06-16T11:45:00"
+		"startTime": "2026-06-09T08:15:00",
+		"endTime": "2026-06-09T11:45:00"
 	},
 	{
 		"name": "MP LV1 (Media Programming)",
 		"location": "(kein Raum angegeben)",
 		"description": "Dozent: Prof. Dr. Eike Langbehn\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Graphics Programming",
-		"startTime": "2026-06-30T08:15:00",
-		"endTime": "2026-06-30T11:45:00"
+		"startTime": "2026-06-23T08:15:00",
+		"endTime": "2026-06-23T11:45:00"
 	},
 	{
 		"name": "MP LV1 (Media Programming)",
 		"location": "(kein Raum angegeben)",
 		"description": "Dozent: Prof. Dr. Eike Langbehn\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Graphics Programming",
-		"startTime": "2026-07-14T08:15:00",
-		"endTime": "2026-07-14T11:45:00"
+		"startTime": "2026-07-07T08:15:00",
+		"endTime": "2026-07-07T11:45:00"
 	}
 ]
