@@ -798,16 +798,9 @@
 										"30527_1": "EE (Einführung in die regenerativen Energien)",
 										"30530_1": "EEP (Einführung in die regenerativen Energien Praktikum)"
 									}
-								},
-								"Programmieren 1": {
-									"events": {
-										"30485_1": "PR1 (Programmieren 1)",
-										"30453_1": "PRP1 (Programmieren 1 Praktikum)"
-									}
 								}
 							},
 							"events": {
-								"30432_1": "MAÜ1 (Mathematik 1 Übung)",
 								"30525_1": "PH1 (Physik 1)"
 							}
 						},
