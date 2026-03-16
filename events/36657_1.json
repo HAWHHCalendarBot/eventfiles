@@ -40,5 +40,19 @@
 		"description": "Dozent: Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Process Analysis and Optimization",
 		"startTime": "2026-05-22T08:30:00",
 		"endTime": "2026-05-22T11:45:00"
+	},
+	{
+		"name": "PBE1 P (Process Analysis and Optimization)",
+		"location": "N5.17, Ulmenliet 20, Hauptgebäude",
+		"description": "Max. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Process Analysis and Optimization",
+		"startTime": "2026-04-14T10:00:00",
+		"endTime": "2026-04-14T14:15:00"
+	},
+	{
+		"name": "PBE1 P (Process Analysis and Optimization)",
+		"location": "N5.17, Ulmenliet 20, Hauptgebäude",
+		"description": "Max. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Process Analysis and Optimization",
+		"startTime": "2026-04-30T12:30:00",
+		"endTime": "2026-04-30T15:45:00"
 	}
 ]

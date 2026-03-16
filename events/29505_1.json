@@ -3,13 +3,6 @@
 		"name": "WM (Werkzeugmaschinen)",
 		"location": "407, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr.-Ing. Christian Müller\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkzeugmaschinen ^PG1: BMT6_DynA (Müller)",
-		"startTime": "2026-04-07T12:15:00",
-		"endTime": "2026-04-07T15:30:00"
-	},
-	{
-		"name": "WM (Werkzeugmaschinen)",
-		"location": "407, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr.-Ing. Christian Müller\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkzeugmaschinen ^PG1: BMT6_DynA (Müller)",
 		"startTime": "2026-04-14T12:15:00",
 		"endTime": "2026-04-14T15:30:00"
 	},
@@ -52,13 +45,6 @@
 		"name": "WM (Werkzeugmaschinen)",
 		"location": "407, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr.-Ing. Christian Müller\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkzeugmaschinen ^PG1: BMT6_DynA (Müller)",
-		"startTime": "2026-05-26T12:15:00",
-		"endTime": "2026-05-26T15:30:00"
-	},
-	{
-		"name": "WM (Werkzeugmaschinen)",
-		"location": "407, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr.-Ing. Christian Müller\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkzeugmaschinen ^PG1: BMT6_DynA (Müller)",
 		"startTime": "2026-06-02T12:15:00",
 		"endTime": "2026-06-02T15:30:00"
 	},
@@ -82,19 +68,5 @@
 		"description": "Dozent: Prof. Dr.-Ing. Christian Müller\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkzeugmaschinen ^PG1: BMT6_DynA (Müller)",
 		"startTime": "2026-06-23T12:15:00",
 		"endTime": "2026-06-23T15:30:00"
-	},
-	{
-		"name": "WM (Werkzeugmaschinen)",
-		"location": "407, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr.-Ing. Christian Müller\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkzeugmaschinen ^PG1: BMT6_DynA (Müller)",
-		"startTime": "2026-06-30T12:15:00",
-		"endTime": "2026-06-30T15:30:00"
-	},
-	{
-		"name": "WM (Werkzeugmaschinen)",
-		"location": "407, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr.-Ing. Christian Müller\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkzeugmaschinen ^PG1: BMT6_DynA (Müller)",
-		"startTime": "2026-07-07T12:15:00",
-		"endTime": "2026-07-07T15:30:00"
 	}
 ]

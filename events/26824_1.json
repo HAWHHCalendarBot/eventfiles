@@ -1,6 +1,20 @@
 [
 	{
 		"name": "ARV P (Aufarbeitungs- und Reinigungsverfahren Praktikum)",
+		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Dr. Alexander Laatsch, Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: Einzeltermin\n\nOriginaler Titel: Aufarbeitungs- und Reinigungsverfahren Praktikum",
+		"startTime": "2026-04-07T14:30:00",
+		"endTime": "2026-04-07T16:00:00"
+	},
+	{
+		"name": "ARV P (Aufarbeitungs- und Reinigungsverfahren Praktikum)",
+		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Dr. Alexander Laatsch, Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: Einzeltermin\n\nOriginaler Titel: Aufarbeitungs- und Reinigungsverfahren Praktikum",
+		"startTime": "2026-04-08T10:15:00",
+		"endTime": "2026-04-08T14:00:00"
+	},
+	{
+		"name": "ARV P (Aufarbeitungs- und Reinigungsverfahren Praktikum)",
 		"location": "S 2.13 Labor für Organische- und Biochemie, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozenten: Dr. Alexander Laatsch, Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: wöchentlich\n\nOriginaler Titel: Aufarbeitungs- und Reinigungsverfahren Praktikum",
 		"startTime": "2026-04-08T10:15:00",
@@ -96,5 +110,26 @@
 		"description": "Dozenten: Dr. Alexander Laatsch, Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: wöchentlich\n\nOriginaler Titel: Aufarbeitungs- und Reinigungsverfahren Praktikum",
 		"startTime": "2026-07-08T10:15:00",
 		"endTime": "2026-07-08T20:00:00"
+	},
+	{
+		"name": "ARV P (Aufarbeitungs- und Reinigungsverfahren Praktikum)",
+		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Dr. Alexander Laatsch, Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: Einzeltermin\n\nOriginaler Titel: Aufarbeitungs- und Reinigungsverfahren Praktikum",
+		"startTime": "2026-04-21T14:30:00",
+		"endTime": "2026-04-21T16:00:00"
+	},
+	{
+		"name": "ARV P (Aufarbeitungs- und Reinigungsverfahren Praktikum)",
+		"location": "N4.09, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Dr. Alexander Laatsch, Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: Einzeltermin\n\nOriginaler Titel: Aufarbeitungs- und Reinigungsverfahren Praktikum",
+		"startTime": "2026-06-24T14:30:00",
+		"endTime": "2026-06-24T17:45:00"
+	},
+	{
+		"name": "ARV P (Aufarbeitungs- und Reinigungsverfahren Praktikum)",
+		"location": "N4.09, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Dr. Alexander Laatsch, Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: Einzeltermin\n\nOriginaler Titel: Aufarbeitungs- und Reinigungsverfahren Praktikum",
+		"startTime": "2026-07-01T14:30:00",
+		"endTime": "2026-07-01T17:45:00"
 	}
 ]

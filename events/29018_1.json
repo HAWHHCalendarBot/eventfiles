@@ -1,13 +1,6 @@
 [
 	{
 		"name": "STO.LV (Strukturoptimierung)",
-		"location": "402, Berliner Tor 9",
-		"description": "Dozent: Prof. Dr. Michael Seibel\nRhythmus: Einzeltermin\n\nOriginaler Titel: Strukturoptimierung ^PG1: MFA_KE,MFA_A+F,MFL_E+L,MFL_K+KS (Seibel)",
-		"startTime": "2026-04-07T08:30:00",
-		"endTime": "2026-04-07T11:45:00"
-	},
-	{
-		"name": "STO.LV (Strukturoptimierung)",
 		"location": "302, Berliner Tor 9",
 		"description": "Dozent: Prof. Dr. Michael Seibel\nRhythmus: wöchentlich\n\nOriginaler Titel: Strukturoptimierung ^PG1: MFA_KE,MFA_A+F,MFL_E+L,MFL_K+KS (Seibel)",
 		"startTime": "2026-04-14T08:30:00",
