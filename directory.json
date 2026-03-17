@@ -390,12 +390,6 @@
 												"39234_1": "WP_PZeE (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)"
 											}
 										},
-										"Peer Leaders": {
-											"events": {
-												"43065_1": "PL/01 (Peer Leaders)",
-												"43065_2": "PL/02 (Peer Leaders)"
-											}
-										},
 										"LED Technik": {
 											"events": {
 												"43081_1": "WP_LEDT (LED Technik)",
@@ -424,6 +418,7 @@
 									"events": {
 										"36147_1": "WP_EES (Elektroenergiesysteme)",
 										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
+										"43065_1": "PL (Peer Leaders)",
 										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
@@ -691,12 +686,6 @@
 												"37050_1": "WP_ASEP (Applied System Engineering)"
 											}
 										},
-										"Peer Leaders": {
-											"events": {
-												"43065_1": "PL/01 (Peer Leaders)",
-												"43065_2": "PL/02 (Peer Leaders)"
-											}
-										},
 										"LED Technik": {
 											"events": {
 												"43081_1": "WP_LEDT (LED Technik)",
@@ -725,6 +714,7 @@
 									"events": {
 										"36147_1": "WP_EES (Elektroenergiesysteme)",
 										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
+										"43065_1": "PL (Peer Leaders)",
 										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
@@ -760,12 +750,6 @@
 												"37050_1": "WP_ASEP (Applied System Engineering)"
 											}
 										},
-										"Peer Leaders": {
-											"events": {
-												"43065_1": "PL/01 (Peer Leaders)",
-												"43065_2": "PL/02 (Peer Leaders)"
-											}
-										},
 										"LED Technik": {
 											"events": {
 												"43081_1": "WP_LEDT (LED Technik)",
@@ -794,6 +778,7 @@
 									"events": {
 										"36147_1": "WP_EES (Elektroenergiesysteme)",
 										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
+										"43065_1": "PL (Peer Leaders)",
 										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
@@ -900,15 +885,10 @@
 										"30476_1": "EL2 (Elektronik 2)",
 										"30494_1": "ELP2 (Elektronik 2 Praktikum)"
 									}
-								},
-								"Betriebswirtschaftslehre für Ingenieure": {
-									"events": {
-										"30417_1": "BW (Betriebswirtschaftslehre für Ingenieure)",
-										"30463_1": "BWÜ (Betriebswirtschaftslehre für Ingenieure Übung)"
-									}
 								}
 							},
 							"events": {
+								"30463_1": "BWÜ (Betriebswirtschaftslehre für Ingenieure Übung)",
 								"30481_1": "IPJ1 (Integrationsprojekt 1 Systemtechnik)"
 							}
 						},
@@ -1045,12 +1025,6 @@
 												"39234_1": "WP_PZeE (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)"
 											}
 										},
-										"Peer Leaders": {
-											"events": {
-												"43065_1": "PL/01 (Peer Leaders)",
-												"43065_2": "PL/02 (Peer Leaders)"
-											}
-										},
 										"LED Technik": {
 											"events": {
 												"43081_1": "WP_LEDT (LED Technik)",
@@ -1079,6 +1053,7 @@
 									"events": {
 										"36147_1": "WP_EES (Elektroenergiesysteme)",
 										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
+										"43065_1": "PL (Peer Leaders)",
 										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
@@ -1126,12 +1101,6 @@
 												"39234_1": "WP_PZeE (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)"
 											}
 										},
-										"Peer Leaders": {
-											"events": {
-												"43065_1": "PL/01 (Peer Leaders)",
-												"43065_2": "PL/02 (Peer Leaders)"
-											}
-										},
 										"LED Technik": {
 											"events": {
 												"43081_1": "WP_LEDT (LED Technik)",
@@ -1160,6 +1129,7 @@
 									"events": {
 										"36147_1": "WP_EES (Elektroenergiesysteme)",
 										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
+										"43065_1": "PL (Peer Leaders)",
 										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
@@ -6665,16 +6635,9 @@
 									}
 								},
 								"Sensorik und EMV": {
-									"subDirectories": {
-										"Sensorik und EMV Laborpraktikum": {
-											"events": {
-												"29512_1": "EMP/01 (Sensorik und EMV Laborpraktikum)",
-												"29512_2": "EMP/02 (Sensorik und EMV Laborpraktikum)"
-											}
-										}
-									},
 									"events": {
-										"29411_1": "EM (Sensorik und EMV)"
+										"29411_1": "EM (Sensorik und EMV)",
+										"29512_1": "EMP (Sensorik und EMV Laborpraktikum)"
 									}
 								},
 								"Thermo- und Fluiddynamik": {

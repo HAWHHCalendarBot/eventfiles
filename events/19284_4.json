@@ -1,7 +1,7 @@
 [
 	{
 		"name": "M10.LV2/04 (Forschungskolloquium)",
-		"location": "274, Finkenau 35, Altbau",
+		"location": "275, Finkenau 35, Altbau",
 		"description": "Dozenten: Prof. Dr. Hannah Früh, Prof. Dr. Steffen Burkhardt\nParallelgruppe: 4\nMax. Anzahl von Teilnehmer/-innen: 11\nRhythmus: Einzeltermin\n\nOriginaler Titel: Forschungskolloquium (MUK-S6-M) (4. Parallelgruppe)",
 		"startTime": "2026-04-09T08:30:00",
 		"endTime": "2026-04-09T19:30:00"
@@ -15,7 +15,7 @@
 	},
 	{
 		"name": "M10.LV2/04 (Forschungskolloquium)",
-		"location": "274, Finkenau 35, Altbau",
+		"location": "275, Finkenau 35, Altbau",
 		"description": "Dozenten: Prof. Dr. Hannah Früh, Prof. Dr. Steffen Burkhardt\nParallelgruppe: 4\nMax. Anzahl von Teilnehmer/-innen: 11\nRhythmus: Einzeltermin\n\nOriginaler Titel: Forschungskolloquium (MUK-S6-M) (4. Parallelgruppe)",
 		"startTime": "2026-04-16T08:30:00",
 		"endTime": "2026-04-16T19:30:00"
@@ -24,8 +24,22 @@
 		"name": "M10.LV2/04 (Forschungskolloquium)",
 		"location": "275, Finkenau 35, Altbau",
 		"description": "Dozenten: Prof. Dr. Hannah Früh, Prof. Dr. Steffen Burkhardt\nParallelgruppe: 4\nMax. Anzahl von Teilnehmer/-innen: 11\nRhythmus: Einzeltermin\n\nOriginaler Titel: Forschungskolloquium (MUK-S6-M) (4. Parallelgruppe)",
+		"startTime": "2026-04-17T08:30:00",
+		"endTime": "2026-04-17T19:30:00"
+	},
+	{
+		"name": "M10.LV2/04 (Forschungskolloquium)",
+		"location": "275, Finkenau 35, Altbau",
+		"description": "Dozenten: Prof. Dr. Hannah Früh, Prof. Dr. Steffen Burkhardt\nParallelgruppe: 4\nMax. Anzahl von Teilnehmer/-innen: 11\nRhythmus: Einzeltermin\n\nOriginaler Titel: Forschungskolloquium (MUK-S6-M) (4. Parallelgruppe)",
 		"startTime": "2026-04-20T08:30:00",
 		"endTime": "2026-04-20T19:30:00"
+	},
+	{
+		"name": "M10.LV2/04 (Forschungskolloquium)",
+		"location": "275, Finkenau 35, Altbau",
+		"description": "Dozenten: Prof. Dr. Hannah Früh, Prof. Dr. Steffen Burkhardt\nParallelgruppe: 4\nMax. Anzahl von Teilnehmer/-innen: 11\nRhythmus: Einzeltermin\n\nOriginaler Titel: Forschungskolloquium (MUK-S6-M) (4. Parallelgruppe)",
+		"startTime": "2026-04-21T08:30:00",
+		"endTime": "2026-04-21T19:30:00"
 	},
 	{
 		"name": "M10.LV2/04 (Forschungskolloquium)",
@@ -43,7 +57,7 @@
 	},
 	{
 		"name": "M10.LV2/04 (Forschungskolloquium)",
-		"location": "274, Finkenau 35, Altbau",
+		"location": "275, Finkenau 35, Altbau",
 		"description": "Dozenten: Prof. Dr. Hannah Früh, Prof. Dr. Steffen Burkhardt\nParallelgruppe: 4\nMax. Anzahl von Teilnehmer/-innen: 11\nRhythmus: Einzeltermin\n\nOriginaler Titel: Forschungskolloquium (MUK-S6-M) (4. Parallelgruppe)",
 		"startTime": "2026-05-27T08:30:00",
 		"endTime": "2026-05-27T19:30:00"
