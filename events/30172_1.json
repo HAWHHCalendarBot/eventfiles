@@ -1,29 +1,29 @@
 [
 	{
-		"name": "OPP (Objektorientierte Programmierung Praktikum)",
+		"name": "OPP/01 (Objektorientierte Programmierung Praktikum)",
 		"location": "13.01b, Berliner Tor 7",
-		"description": "Dozent: Dennis Schüthe\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: OPP/01",
+		"description": "Dozent: Dennis Schüthe\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: OPP/01 (1. Parallelgruppe)",
 		"startTime": "2026-05-04T15:55:00",
 		"endTime": "2026-05-04T17:25:00"
 	},
 	{
-		"name": "OPP (Objektorientierte Programmierung Praktikum)",
+		"name": "OPP/01 (Objektorientierte Programmierung Praktikum)",
 		"location": "13.60, Berliner Tor 7",
-		"description": "Dozent: Dennis Schüthe\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: OPP/01",
+		"description": "Dozent: Dennis Schüthe\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: OPP/01 (1. Parallelgruppe)",
 		"startTime": "2026-05-18T15:55:00",
 		"endTime": "2026-05-18T19:10:00"
 	},
 	{
-		"name": "OPP (Objektorientierte Programmierung Praktikum)",
+		"name": "OPP/01 (Objektorientierte Programmierung Praktikum)",
 		"location": "13.60, Berliner Tor 7",
-		"description": "Dozent: Dennis Schüthe\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: OPP/01",
+		"description": "Dozent: Dennis Schüthe\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: OPP/01 (1. Parallelgruppe)",
 		"startTime": "2026-06-15T15:55:00",
 		"endTime": "2026-06-15T19:10:00"
 	},
 	{
-		"name": "OPP (Objektorientierte Programmierung Praktikum)",
+		"name": "OPP/01 (Objektorientierte Programmierung Praktikum)",
 		"location": "13.60, Berliner Tor 7",
-		"description": "Dozent: Dennis Schüthe\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: OPP/01",
+		"description": "Dozent: Dennis Schüthe\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: OPP/01 (1. Parallelgruppe)",
 		"startTime": "2026-07-06T15:55:00",
 		"endTime": "2026-07-06T19:10:00"
 	}
