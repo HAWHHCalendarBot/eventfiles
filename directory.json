@@ -33,9 +33,17 @@
 									}
 								},
 								"Programmieren 1": {
+									"subDirectories": {
+										"Programmieren 1 Praktikum": {
+											"events": {
+												"29974_1": "PRP1/01 (Programmieren 1 Praktikum)",
+												"29974_2": "PRP1/02 (Programmieren 1 Praktikum)",
+												"29974_3": "PRP1/03 (Programmieren 1 Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"29961_1": "PR1 (Programmieren 1)",
-										"29974_1": "PRP1 (Programmieren 1 Praktikum)"
+										"29961_1": "PR1 (Programmieren 1)"
 									}
 								}
 							},
@@ -72,9 +80,17 @@
 									}
 								},
 								"Programmieren 2": {
+									"subDirectories": {
+										"Programmieren 2 Praktikum": {
+											"events": {
+												"30034_1": "PRP2/01 (Programmieren 2 Praktikum)",
+												"30034_2": "PRP2/02 (Programmieren 2 Praktikum)",
+												"30034_3": "PRP2/03 (Programmieren 2 Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"29926_1": "PR2 (Programmieren 2)",
-										"30034_1": "PRP2 (Programmieren 2 Praktikum)"
+										"29926_1": "PR2 (Programmieren 2)"
 									}
 								}
 							},
@@ -141,9 +157,16 @@
 											}
 										},
 										"Grundlagen der Energietechnik": {
+											"subDirectories": {
+												"Grundlagen der Energietechnik Praktikum": {
+													"events": {
+														"30031_1": "GEP/01 (Grundlagen der Energietechnik Praktikum)",
+														"30031_2": "GEP/02 (Grundlagen der Energietechnik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30145_1": "GE (Grundlagen der Energietechnik)",
-												"30031_1": "GEP (Grundlagen der Energietechnik Praktikum)"
+												"30145_1": "GE (Grundlagen der Energietechnik)"
 											}
 										}
 									}
@@ -195,9 +218,16 @@
 											}
 										},
 										"Antriebe und Leistungselektronik": {
+											"subDirectories": {
+												"Antriebe und Leistungselektronik Praktikum": {
+													"events": {
+														"30035_1": "LEP/01 (Antriebe und Leistungselektronik Praktikum)",
+														"30035_2": "LEP/02 (Antriebe und Leistungselektronik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"29987_1": "LE (Antriebe und Leistungselektronik)",
-												"30035_1": "LEP (Antriebe und Leistungselektronik Praktikum)"
+												"29987_1": "LE (Antriebe und Leistungselektronik)"
 											}
 										},
 										"Reglersynthese": {
@@ -366,12 +396,6 @@
 												"43065_2": "PL/02 (Peer Leaders)"
 											}
 										},
-										"Architekturen der digitalen Signalverarbeitung": {
-											"events": {
-												"43074_1": "ASV/01 (Architekturen der digitalen Signalverarbeitung)",
-												"43074_2": "ASV/02 (Architekturen der digitalen Signalverarbeitung)"
-											}
-										},
 										"LED Technik": {
 											"events": {
 												"43081_1": "WP_LEDT (LED Technik)",
@@ -399,7 +423,8 @@
 									},
 									"events": {
 										"36147_1": "WP_EES (Elektroenergiesysteme)",
-										"43056_1": "OBDH (On-board data handling for highly autonomous systems)"
+										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
+										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
 								"Wahlpflichtprojekt": {
@@ -420,7 +445,8 @@
 										"44817_1": "SHRP (Smart Home mit Home Assistant auf Raspberry Pi)",
 										"44820_1": "DAV (Development of an Autonomous Vehicle with Online Monitoring, Remote Control an AI-Based Environment Perception)",
 										"44823_1": "DARA (Development of an Automated, Remote-Controlled Robot Arm with AI-Based Object Detection and Sorting)",
-										"44826_1": "GUI (GUI-Erstellung mit Qt)"
+										"44826_1": "GUI (GUI-Erstellung mit Qt)",
+										"44829_1": "PL (Peer Leading)"
 									}
 								}
 							}
@@ -601,7 +627,8 @@
 										"44817_1": "SHRP (Smart Home mit Home Assistant auf Raspberry Pi)",
 										"44820_1": "DAV (Development of an Autonomous Vehicle with Online Monitoring, Remote Control an AI-Based Environment Perception)",
 										"44823_1": "DARA (Development of an Automated, Remote-Controlled Robot Arm with AI-Based Object Detection and Sorting)",
-										"44826_1": "GUI (GUI-Erstellung mit Qt)"
+										"44826_1": "GUI (GUI-Erstellung mit Qt)",
+										"44829_1": "PL (Peer Leading)"
 									}
 								},
 								"Bussysteme und Sensorik": {
@@ -670,12 +697,6 @@
 												"43065_2": "PL/02 (Peer Leaders)"
 											}
 										},
-										"Architekturen der digitalen Signalverarbeitung": {
-											"events": {
-												"43074_1": "ASV/01 (Architekturen der digitalen Signalverarbeitung)",
-												"43074_2": "ASV/02 (Architekturen der digitalen Signalverarbeitung)"
-											}
-										},
 										"LED Technik": {
 											"events": {
 												"43081_1": "WP_LEDT (LED Technik)",
@@ -703,7 +724,8 @@
 									},
 									"events": {
 										"36147_1": "WP_EES (Elektroenergiesysteme)",
-										"43056_1": "OBDH (On-board data handling for highly autonomous systems)"
+										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
+										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
 								"Wahlpflicht 2": {
@@ -744,12 +766,6 @@
 												"43065_2": "PL/02 (Peer Leaders)"
 											}
 										},
-										"Architekturen der digitalen Signalverarbeitung": {
-											"events": {
-												"43074_1": "ASV/01 (Architekturen der digitalen Signalverarbeitung)",
-												"43074_2": "ASV/02 (Architekturen der digitalen Signalverarbeitung)"
-											}
-										},
 										"LED Technik": {
 											"events": {
 												"43081_1": "WP_LEDT (LED Technik)",
@@ -777,7 +793,8 @@
 									},
 									"events": {
 										"36147_1": "WP_EES (Elektroenergiesysteme)",
-										"43056_1": "OBDH (On-board data handling for highly autonomous systems)"
+										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
+										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
 								"Wahlpflichtprojekt": {
@@ -797,7 +814,8 @@
 										"44817_1": "SHRP (Smart Home mit Home Assistant auf Raspberry Pi)",
 										"44820_1": "DAV (Development of an Autonomous Vehicle with Online Monitoring, Remote Control an AI-Based Environment Perception)",
 										"44823_1": "DARA (Development of an Automated, Remote-Controlled Robot Arm with AI-Based Object Detection and Sorting)",
-										"44826_1": "GUI (GUI-Erstellung mit Qt)"
+										"44826_1": "GUI (GUI-Erstellung mit Qt)",
+										"44829_1": "PL (Peer Leading)"
 									}
 								}
 							}
@@ -1033,12 +1051,6 @@
 												"43065_2": "PL/02 (Peer Leaders)"
 											}
 										},
-										"Architekturen der digitalen Signalverarbeitung": {
-											"events": {
-												"43074_1": "ASV/01 (Architekturen der digitalen Signalverarbeitung)",
-												"43074_2": "ASV/02 (Architekturen der digitalen Signalverarbeitung)"
-											}
-										},
 										"LED Technik": {
 											"events": {
 												"43081_1": "WP_LEDT (LED Technik)",
@@ -1066,7 +1078,8 @@
 									},
 									"events": {
 										"36147_1": "WP_EES (Elektroenergiesysteme)",
-										"43056_1": "OBDH (On-board data handling for highly autonomous systems)"
+										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
+										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
 								"Wahlpflichtmodule 2": {
@@ -1119,12 +1132,6 @@
 												"43065_2": "PL/02 (Peer Leaders)"
 											}
 										},
-										"Architekturen der digitalen Signalverarbeitung": {
-											"events": {
-												"43074_1": "ASV/01 (Architekturen der digitalen Signalverarbeitung)",
-												"43074_2": "ASV/02 (Architekturen der digitalen Signalverarbeitung)"
-											}
-										},
 										"LED Technik": {
 											"events": {
 												"43081_1": "WP_LEDT (LED Technik)",
@@ -1152,7 +1159,8 @@
 									},
 									"events": {
 										"36147_1": "WP_EES (Elektroenergiesysteme)",
-										"43056_1": "OBDH (On-board data handling for highly autonomous systems)"
+										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
+										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
 								"Wahlpflichtprojekt": {
@@ -1246,20 +1254,10 @@
 									"events": {
 										"29869_1": "ECP (Embedded Control Praktikum)"
 									}
-								},
-								"Mehrgrößenregelung": {
-									"subDirectories": {
-										"Mehrgrößenregelung": {
-											"events": {
-												"29904_1": "M R ()",
-												"29904_2": "MR/02 (Mehrgrößenregelung)"
-											}
-										}
-									},
-									"events": {
-										"29865_1": "MRP (Mehrgrößenregelung Praktikum)"
-									}
 								}
+							},
+							"events": {
+								"29904_1": "MR (Mehrgrößenregelung)"
 							}
 						},
 						"2. Semester": {
@@ -1276,9 +1274,16 @@
 									}
 								},
 								"Betriebssysteme und Echtzeitprogrammierung": {
+									"subDirectories": {
+										"Betriebssysteme und Echtzeitprogrammierung Praktikum": {
+											"events": {
+												"29844_1": "EPP/01 (Betriebssysteme und Echtzeitprogrammierung Praktikum)",
+												"29844_2": "EPP/02 (Betriebssysteme und Echtzeitprogrammierung Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"29882_1": "EP (Betriebssysteme und Echtzeitprogrammierung)",
-										"29844_1": "EPP (Betriebssysteme und Echtzeitprogrammierung Praktikum)"
+										"29882_1": "EP (Betriebssysteme und Echtzeitprogrammierung)"
 									}
 								},
 								"Verbundprojekt": {
@@ -7229,6 +7234,27 @@
 										"25955_6": "Theo SozA/06 (Theorien und Professionsethik Sozialer Arbeit)"
 									}
 								},
+								"Einführung in das Praktikum und die Schwerpunkte": {
+									"subDirectories": {
+										"Kommunikation und Gesprächsführung": {
+											"events": {
+												"43853_0": "Komm/00 (Kommunikation und Gesprächsführung)",
+												"43853_1": "Komm/01 (Kommunikation und Gesprächsführung)",
+												"43853_2": "Komm/02 (Kommunikation und Gesprächsführung)",
+												"43853_3": "Komm/03 (Kommunikation und Gesprächsführung)",
+												"43853_4": "Komm/04 (Kommunikation und Gesprächsführung)",
+												"43853_5": "Komm/05 (Kommunikation und Gesprächsführung)",
+												"43853_6": "Komm/06 (Kommunikation und Gesprächsführung)",
+												"43853_7": "Komm/07 (Kommunikation und Gesprächsführung)",
+												"43853_8": "Komm/08 (Kommunikation und Gesprächsführung)",
+												"43853_9": "Komm/09 (Kommunikation und Gesprächsführung)"
+											}
+										}
+									},
+									"events": {
+										"25993_1": "VSchwp (Vorstellung der Schwerpunkte)"
+									}
+								},
 								"Politische Grundlagen Sozialer Arbeit": {
 									"events": {
 										"25700_1": "PolGr SozA/01 (Politische Grundlagen Sozialer Arbeit)",
@@ -7273,9 +7299,6 @@
 										}
 									}
 								}
-							},
-							"events": {
-								"25993_1": "VSchwp (Vorstellung der Schwerpunkte)"
 							}
 						},
 						"3. Semester": {
