@@ -288,18 +288,15 @@
 												"29930_1": "DÜP (Digitale Übertragungstechnik Praktikum)"
 											}
 										},
-										"Bussysteme und Sensorik": {
-											"events": {
-												"30044_1": "BU (Bussysteme und Sensorik)",
-												"30007_1": "BUP (Bussysteme und Sensorik Praktikum)"
-											}
-										},
 										"Mikrocontrollersysteme": {
 											"events": {
 												"30094_1": "MC (Mikrocontrollersysteme)",
 												"29942_1": "MCP (Mikrocontrollersysteme Praktikum)"
 											}
 										}
+									},
+									"events": {
+										"30007_1": "BUP (Bussysteme und Sensorik Praktikum)"
 									}
 								},
 								"Vertiefungsrichtung Kommunikationstechnik": {
@@ -639,9 +636,17 @@
 									}
 								},
 								"Digitale Signalverarbeitung": {
+									"subDirectories": {
+										"Digitale Signalverarbeitung": {
+											"events": {
+												"35764_1": "DPL/01 (Digitale Signalverarbeitung)",
+												"35764_2": "DPL/02 (Digitale Signalverarbeitung)",
+												"35764_3": "DPL/03 (Digitale Signalverarbeitung)"
+											}
+										}
+									},
 									"events": {
-										"35691_1": "DP (Digitale Signalverarbeitung)",
-										"35764_1": "DPL (Digitale Signalverarbeitung)"
+										"35691_1": "DP (Digitale Signalverarbeitung)"
 									}
 								},
 								"Digitale Übertragungstechnik": {
@@ -811,12 +816,6 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
-								"Elektrotechnik 1": {
-									"events": {
-										"30508_1": "ET1 (Elektrotechnik 1)",
-										"30559_1": "ETP1 (Elektrotechnik 1 Praktikum)"
-									}
-								},
 								"Einführung in die regenerativen Energien": {
 									"events": {
 										"30527_1": "EE (Einführung in die regenerativen Energien)",
@@ -888,7 +887,6 @@
 								}
 							},
 							"events": {
-								"30463_1": "BWÜ (Betriebswirtschaftslehre für Ingenieure Übung)",
 								"30481_1": "IPJ1 (Integrationsprojekt 1 Systemtechnik)"
 							}
 						},
@@ -1302,17 +1300,10 @@
 										"43217_1": "SOCL (System on Chip Laborpraktikum)"
 									}
 								},
-								"Digitale Signalverarbeitung auf Signalprozessoren": {
-									"subDirectories": {
-										"Embedded Signal Processing": {
-											"events": {
-												"43213_1": "ESP/01 (Embedded Signal Processing)",
-												"43213_2": "ESP/02 (Embedded Signal Processing)"
-											}
-										}
-									},
+								"Embedded Signal Processing": {
 									"events": {
-										"43233_1": "ESPL (Embedded Signal Processing Laborpraktikum)"
+										"43213_1": "ESP/01 (Embedded Signal Processing)",
+										"43213_2": "ESP/02 (Embedded Signal Processing)"
 									}
 								},
 								"Sensortechnik": {
@@ -1350,17 +1341,10 @@
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
 								},
-								"Digitale Signalverarbeitung auf Signalprozessoren": {
-									"subDirectories": {
-										"Embedded Signal Processing": {
-											"events": {
-												"43213_1": "ESP/01 (Embedded Signal Processing)",
-												"43213_2": "ESP/02 (Embedded Signal Processing)"
-											}
-										}
-									},
+								"Embedded Signal Processing": {
 									"events": {
-										"43233_1": "ESPL (Embedded Signal Processing Laborpraktikum)"
+										"43213_1": "ESP/01 (Embedded Signal Processing)",
+										"43213_2": "ESP/02 (Embedded Signal Processing)"
 									}
 								},
 								"Sensortechnik": {
@@ -7899,7 +7883,7 @@
 										"TPS: Anforderungs- und Tätigkeitsanalysen": {
 											"events": {
 												"25486_1": "M 17.1 (TPS: Anforderungs- und Tätigkeitsanalysen (Koh A) Witt)",
-												"25486_2": "M 17.2 (TPS: Anforderungs- und Tätigkeitsanalysen A Morales Zimmermann)",
+												"25486_2": "M 17.2 (TPS: Anforderungs- und Tätigkeitsanalysen A Halves)",
 												"25486_3": "M 17.3 (TPS: Anforderungs- und Tätigkeitsanalysen (Koh B) Schönborn)",
 												"25486_4": "M 17.4 (TPS: Anforderungs- und Tätigkeitsanalysen (Koh B) Fellmer)",
 												"25486_5": "M 17.5 (TPS: Anforderungs- und Tätigkeitsanalysen (Koh A) Wahl)"
@@ -8117,7 +8101,7 @@
 										"TPS: Anforderungs- und Tätigkeitsanalysen": {
 											"events": {
 												"25486_1": "M 17.1 (TPS: Anforderungs- und Tätigkeitsanalysen (Koh A) Witt)",
-												"25486_2": "M 17.2 (TPS: Anforderungs- und Tätigkeitsanalysen A Morales Zimmermann)",
+												"25486_2": "M 17.2 (TPS: Anforderungs- und Tätigkeitsanalysen A Halves)",
 												"25486_3": "M 17.3 (TPS: Anforderungs- und Tätigkeitsanalysen (Koh B) Schönborn)",
 												"25486_4": "M 17.4 (TPS: Anforderungs- und Tätigkeitsanalysen (Koh B) Fellmer)",
 												"25486_5": "M 17.5 (TPS: Anforderungs- und Tätigkeitsanalysen (Koh A) Wahl)"
