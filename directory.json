@@ -194,9 +194,17 @@
 									}
 								},
 								"Mikroprozessortechnik": {
+									"subDirectories": {
+										"Mikroprozessortechnik Praktikum": {
+											"events": {
+												"30103_1": "MPP/01 (Mikroprozessortechnik Praktikum)",
+												"30103_2": "MPP/02 (Mikroprozessortechnik Praktikum)",
+												"30103_3": "MPP/03 (Mikroprozessortechnik Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30020_1": "MP (Mikroprozessortechnik)",
-										"30103_1": "MPP (Mikroprozessortechnik Praktikum)"
+										"30020_1": "MP (Mikroprozessortechnik)"
 									}
 								},
 								"Regelungstechnik": {
@@ -569,9 +577,17 @@
 									}
 								},
 								"Mikrocontroller": {
+									"subDirectories": {
+										"Mikrocontroller": {
+											"events": {
+												"35696_1": "MCL/01 (Mikrocontroller)",
+												"35696_2": "MCL/02 (Mikrocontroller)",
+												"35696_3": "MCL/03 (Mikrocontroller)"
+											}
+										}
+									},
 									"events": {
-										"35714_1": "MC (Mikrocontroller)",
-										"35696_1": "MCL (Mikrocontroller)"
+										"35714_1": "MC (Mikrocontroller)"
 									}
 								},
 								"Software Engineering": {
@@ -909,9 +925,16 @@
 									}
 								},
 								"Digitaltechnik": {
+									"subDirectories": {
+										"Digitaltechnik Praktikum": {
+											"events": {
+												"30465_1": "DIP/01 (Digitaltechnik Praktikum)",
+												"30465_2": "DIP/02 (Digitaltechnik Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30482_1": "DI (Digitaltechnik)",
-										"30465_1": "DIP (Digitaltechnik Praktikum)"
+										"30482_1": "DI (Digitaltechnik)"
 									}
 								},
 								"Numerik und Stochastik": {
