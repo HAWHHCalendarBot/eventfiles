@@ -261,12 +261,6 @@
 												"30111_1": "ZT (Zustandsregelung)",
 												"29976_1": "ZTP (Zustandsregelung Praktikum)"
 											}
-										},
-										"Regenerative Energien": {
-											"events": {
-												"29997_1": "RE (Regenerative Energien)",
-												"30073_1": "REP (Regenerative Energien Praktikum)"
-											}
 										}
 									}
 								},
@@ -295,16 +289,7 @@
 												"29919_1": "DÜ (Digitale Übertragungstechnik)",
 												"29930_1": "DÜP (Digitale Übertragungstechnik Praktikum)"
 											}
-										},
-										"Mikrocontrollersysteme": {
-											"events": {
-												"30094_1": "MC (Mikrocontrollersysteme)",
-												"29942_1": "MCP (Mikrocontrollersysteme Praktikum)"
-											}
 										}
-									},
-									"events": {
-										"30007_1": "BUP (Bussysteme und Sensorik Praktikum)"
 									}
 								},
 								"Vertiefungsrichtung Kommunikationstechnik": {
@@ -313,12 +298,6 @@
 											"events": {
 												"30134_1": "DY (Digitale Systeme)",
 												"30095_1": "DYP (Digitale Systeme Praktikum)"
-											}
-										},
-										"Computernetze": {
-											"events": {
-												"30061_1": "CN (Computernetze)",
-												"30030_1": "CNP (Computernetze Praktikum)"
 											}
 										},
 										"Digitale Signalverarbeitung": {
@@ -331,12 +310,6 @@
 											"events": {
 												"29919_1": "DÜ (Digitale Übertragungstechnik)",
 												"29930_1": "DÜP (Digitale Übertragungstechnik Praktikum)"
-											}
-										},
-										"Hochfrequenz-Elektronik": {
-											"events": {
-												"29922_1": "HF (Hochfrequenz-Elektronik)",
-												"30137_1": "HFP (Hochfrequenz-Elektronik Praktikum)"
 											}
 										},
 										"Elektromagnetische Verträglichkeit": {
@@ -377,12 +350,6 @@
 												"36209_1": "WP_ESVP (Embedded Systems Verification and Test)"
 											}
 										},
-										"Solar Energy": {
-											"events": {
-												"37037_1": "WP_SE/01 (Solar Energy)",
-												"37037_2": "WP_SE/02 (Solar Energy)"
-											}
-										},
 										"Applied System Engineering": {
 											"events": {
 												"37047_1": "WP_ASE (Applied System Engineering)",
@@ -419,12 +386,6 @@
 												"44800_1": "WP_MSP (Medizinische Sensorik Praktikum)"
 											}
 										}
-									},
-									"events": {
-										"36147_1": "WP_EES (Elektroenergiesysteme)",
-										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
-										"43065_1": "PL (Peer Leaders)",
-										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
 								"Wahlpflichtprojekt": {
@@ -531,9 +492,16 @@
 						"3. Semester": {
 							"subDirectories": {
 								"Signale und Systeme 1": {
+									"subDirectories": {
+										"Signale und Systeme 1": {
+											"events": {
+												"35750_1": "SSL1/01 (Signale und Systeme 1)",
+												"35750_2": "SSL1/02 (Signale und Systeme 1)"
+											}
+										}
+									},
 									"events": {
-										"35719_1": "SS1 (Signale und Systeme 1)",
-										"35750_1": "SSL1 (Signale und Systeme 1)"
+										"35719_1": "SS1 (Signale und Systeme 1)"
 									}
 								},
 								"Elektronik 2": {
@@ -595,18 +563,10 @@
 										"35652_1": "SE (Software Engineering)",
 										"35783_1": "SEL (Software Engineering)"
 									}
-								},
-								"Datenbanken": {
-									"subDirectories": {
-										"Datenbanken": {
-											"events": {
-												"35674_1": "DBL/01 (Datenbanken)",
-												"35674_2": "DBL/02 (Datenbanken)",
-												"35674_3": "DBL/03 (Datenbanken)"
-											}
-										}
-									}
 								}
+							},
+							"events": {
+								"35674_1": "DBL (Datenbanken)"
 							}
 						},
 						"5. Semester": {
@@ -693,12 +653,6 @@
 												"36209_1": "WP_ESVP (Embedded Systems Verification and Test)"
 											}
 										},
-										"Solar Energy": {
-											"events": {
-												"37037_1": "WP_SE/01 (Solar Energy)",
-												"37037_2": "WP_SE/02 (Solar Energy)"
-											}
-										},
 										"Applied System Engineering": {
 											"events": {
 												"37047_1": "WP_ASE (Applied System Engineering)",
@@ -729,12 +683,6 @@
 												"44800_1": "WP_MSP (Medizinische Sensorik Praktikum)"
 											}
 										}
-									},
-									"events": {
-										"36147_1": "WP_EES (Elektroenergiesysteme)",
-										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
-										"43065_1": "PL (Peer Leaders)",
-										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
 								"Wahlpflicht 2": {
@@ -757,12 +705,6 @@
 												"36209_1": "WP_ESVP (Embedded Systems Verification and Test)"
 											}
 										},
-										"Solar Energy": {
-											"events": {
-												"37037_1": "WP_SE/01 (Solar Energy)",
-												"37037_2": "WP_SE/02 (Solar Energy)"
-											}
-										},
 										"Applied System Engineering": {
 											"events": {
 												"37047_1": "WP_ASE (Applied System Engineering)",
@@ -793,12 +735,6 @@
 												"44800_1": "WP_MSP (Medizinische Sensorik Praktikum)"
 											}
 										}
-									},
-									"events": {
-										"36147_1": "WP_EES (Elektroenergiesysteme)",
-										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
-										"43065_1": "PL (Peer Leaders)",
-										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
 								"Wahlpflichtprojekt": {
@@ -828,19 +764,6 @@
 				},
 				"Bachelor Regenerative Energiesysteme und Energiemanagement - Elektro- und Informationstechnik (PO WS 2019/20)": {
 					"subDirectories": {
-						"1. Semester": {
-							"subDirectories": {
-								"Einführung in die regenerativen Energien": {
-									"events": {
-										"30527_1": "EE (Einführung in die regenerativen Energien)",
-										"30530_1": "EEP (Einführung in die regenerativen Energien Praktikum)"
-									}
-								}
-							},
-							"events": {
-								"30525_1": "PH1 (Physik 1)"
-							}
-						},
 						"2. Semester": {
 							"subDirectories": {
 								"Mathematik 2": {
@@ -871,37 +794,6 @@
 							"events": {
 								"30514_1": "PH2 (Physik 2)",
 								"30440_1": "PM (Projektmanagement und wissenschaftliches Arbeiten)"
-							}
-						},
-						"3. Semester": {
-							"subDirectories": {
-								"Elektrische und regenerative Energietechnik 2": {
-									"events": {
-										"30520_1": "ER2 (Elektrische und regenerative Energietechnik 2)",
-										"30394_1": "ERP2 (Elektrische und regenerative Energietechnik 2 Praktikum)"
-									}
-								},
-								"Signale und Systeme": {
-									"events": {
-										"30405_1": "SS (Signale und Systeme)",
-										"30418_1": "SSP (Signale und Systeme Praktikum)"
-									}
-								},
-								"Datenstrukturen und verteilte Systeme": {
-									"events": {
-										"30544_1": "VS (Datenstrukturen und verteilte Systeme)",
-										"30480_1": "VSP (Datenstrukturen und verteilte Systeme Praktikum)"
-									}
-								},
-								"Elektronik 2": {
-									"events": {
-										"30476_1": "EL2 (Elektronik 2)",
-										"30494_1": "ELP2 (Elektronik 2 Praktikum)"
-									}
-								}
-							},
-							"events": {
-								"30481_1": "IPJ1 (Integrationsprojekt 1 Systemtechnik)"
 							}
 						},
 						"4. Semester": {
@@ -1026,12 +918,6 @@
 												"36209_1": "WP_ESVP (Embedded Systems Verification and Test)"
 											}
 										},
-										"Solar Energy": {
-											"events": {
-												"37037_1": "WP_SE/01 (Solar Energy)",
-												"37037_2": "WP_SE/02 (Solar Energy)"
-											}
-										},
 										"Applied System Engineering": {
 											"events": {
 												"37047_1": "WP_ASE (Applied System Engineering)",
@@ -1068,12 +954,6 @@
 												"44800_1": "WP_MSP (Medizinische Sensorik Praktikum)"
 											}
 										}
-									},
-									"events": {
-										"36147_1": "WP_EES (Elektroenergiesysteme)",
-										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
-										"43065_1": "PL (Peer Leaders)",
-										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
 								"Wahlpflichtmodule 2": {
@@ -1102,12 +982,6 @@
 												"36209_1": "WP_ESVP (Embedded Systems Verification and Test)"
 											}
 										},
-										"Solar Energy": {
-											"events": {
-												"37037_1": "WP_SE/01 (Solar Energy)",
-												"37037_2": "WP_SE/02 (Solar Energy)"
-											}
-										},
 										"Applied System Engineering": {
 											"events": {
 												"37047_1": "WP_ASE (Applied System Engineering)",
@@ -1144,12 +1018,6 @@
 												"44800_1": "WP_MSP (Medizinische Sensorik Praktikum)"
 											}
 										}
-									},
-									"events": {
-										"36147_1": "WP_EES (Elektroenergiesysteme)",
-										"43056_1": "OBDH (On-board data handling for highly autonomous systems)",
-										"43065_1": "PL (Peer Leaders)",
-										"43074_1": "ASV (Architekturen der digitalen Signalverarbeitung)"
 									}
 								},
 								"Wahlpflichtprojekt": {
@@ -1212,41 +1080,12 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
-								"Nichtlineare Regelung": {
-									"subDirectories": {
-										"Nichtlineare Regelung": {
-											"events": {
-												"29898_1": "NR/01 (Nichtlineare Regelung)",
-												"29898_2": "NR/02 (Nichtlineare Regelung)"
-											}
-										}
-									},
-									"events": {
-										"29864_1": "NRP (Nichtlineare Regelung Praktikum)"
-									}
-								},
 								"Antriebstechnik für mobile Systeme": {
 									"events": {
 										"29892_1": "AS (Antriebstechnik für mobile Systeme)",
 										"29867_1": "ASP (Antriebstechnik für mobile Systeme Praktikum)"
 									}
-								},
-								"Embedded Control": {
-									"subDirectories": {
-										"Embedded Control": {
-											"events": {
-												"29897_1": "EC/01 (Embedded Control)",
-												"29897_2": "EC/02 (Embedded Control)"
-											}
-										}
-									},
-									"events": {
-										"29869_1": "ECP (Embedded Control Praktikum)"
-									}
 								}
-							},
-							"events": {
-								"29904_1": "MR (Mehrgrößenregelung)"
 							}
 						},
 						"2. Semester": {
@@ -1307,39 +1146,11 @@
 									"events": {
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
-								},
-								"System on Chip": {
-									"subDirectories": {
-										"System on Chip": {
-											"events": {
-												"43227_1": "SOC/01 (System on Chip)",
-												"43227_2": "SOC/02 (System on Chip)"
-											}
-										}
-									},
-									"events": {
-										"43217_1": "SOCL (System on Chip Laborpraktikum)"
-									}
-								},
-								"Embedded Signal Processing": {
-									"events": {
-										"43213_1": "ESP/01 (Embedded Signal Processing)",
-										"43213_2": "ESP/02 (Embedded Signal Processing)"
-									}
-								},
-								"Sensortechnik": {
-									"subDirectories": {
-										"Smart Sensor Systems": {
-											"events": {
-												"43243_1": "SMS/01 (Smart Sensor Systems)",
-												"43243_2": "SMS/02 (Smart Sensor Systems)"
-											}
-										}
-									},
-									"events": {
-										"43241_1": "SMSL (Smart Sensor Systems Laborpraktikum)"
-									}
 								}
+							},
+							"events": {
+								"43217_1": "SOCL (System on Chip Laborpraktikum)",
+								"43241_1": "SMSL (Smart Sensor Systems Laborpraktikum)"
 							}
 						},
 						"2. Semester": {
@@ -1361,26 +1172,10 @@
 									"events": {
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
-								},
-								"Embedded Signal Processing": {
-									"events": {
-										"43213_1": "ESP/01 (Embedded Signal Processing)",
-										"43213_2": "ESP/02 (Embedded Signal Processing)"
-									}
-								},
-								"Sensortechnik": {
-									"subDirectories": {
-										"Smart Sensor Systems": {
-											"events": {
-												"43243_1": "SMS/01 (Smart Sensor Systems)",
-												"43243_2": "SMS/02 (Smart Sensor Systems)"
-											}
-										}
-									},
-									"events": {
-										"43241_1": "SMSL (Smart Sensor Systems Laborpraktikum)"
-									}
 								}
+							},
+							"events": {
+								"43241_1": "SMSL (Smart Sensor Systems Laborpraktikum)"
 							}
 						},
 						"2. Semester": {
@@ -6682,15 +6477,36 @@
 										}
 									}
 								},
+								"Bachelorprojekt": {
+									"subDirectories": {
+										"Grundlagen Projektmanagement": {
+											"events": {
+												"32344_1": "BP_PM_PF/01 (Grundlagen Projektmanagement)",
+												"32344_2": "BP_PM_PF/02 (Grundlagen Projektmanagement)",
+												"32344_3": "BP_PM_PF/03 (Grundlagen Projektmanagement)"
+											}
+										}
+									},
+									"events": {
+										"29455_1": "PM (Grundlagen Projektmanagement)"
+									}
+								},
 								"Mechatronisches Design": {
 									"events": {
 										"29435_1": "MD (Mechatronisches Design)",
 										"29342_1": "MDP (Mechatronisches Design Laborpraktikum)"
 									}
+								},
+								"Integrationsfächer": {
+									"events": {
+										"32334_1": "IF-EN (IF Technisches Englisch)",
+										"32277_1": "IF-Office (IF MS Office)",
+										"32412_1": "IF-RET (IF Rhetorik)",
+										"32211_1": "IF-GP (IF Grafisches Programmieren)",
+										"32263_1": "IF-TET (IF Technik und Ethik)",
+										"37271_1": "IF-PM (IF Patentrecht)"
+									}
 								}
-							},
-							"events": {
-								"29455_1": "PM (Grundlagen Projektmanagement)"
 							}
 						},
 						"6. Semester": {
@@ -6919,8 +6735,2000 @@
 		},
 		"Fakultät Nachhaltige Ingenieurwissenschaften": {
 			"subDirectories": {
-				"Bachelor Maschinenbau und Produktion (PO SoSe 2020)": {},
-				"Bachelor Mechanical Engineering (PO SoSe 2025)": {},
+				"Bachelor Maschinenbau und Produktion (PO SoSe 2020)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"Experimentalphysik": {
+									"subDirectories": {
+										"Experimentalphysik Laborpraktikum": {
+											"events": {
+												"32911_1": "EPH l/01 (Experimentalphysik Laborpraktikum)",
+												"32911_2": "EPH l/02 (Experimentalphysik Laborpraktikum)",
+												"32911_3": "EPH l/03 (Experimentalphysik Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"33255_1": "EPH (Experimentalphysik)"
+									}
+								},
+								"Maschinenzeichnen und CAD": {
+									"subDirectories": {
+										"Maschinenzeichnen und CAD Laborpraktikum": {
+											"events": {
+												"32780_1": "MZCAD L/01 (Maschinenzeichnen und CAD Laborpraktikum)",
+												"32780_2": "MZCAD L/02 (Maschinenzeichnen und CAD Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"33218_1": "MZCAD (Maschinenzeichnen und CAD)"
+									}
+								},
+								"Werkstoffkunde": {
+									"subDirectories": {
+										"Werkstoffkunde": {
+											"events": {
+												"32782_1": "WSK/01 (Werkstoffkunde)",
+												"32782_2": "WSK/02 (Werkstoffkunde)",
+												"32782_3": "WSK/03 (Werkstoffkunde)"
+											}
+										},
+										"Werkstoffkunde Laborpraktikum": {
+											"events": {
+												"33079_1": "WSK L/01 (Werkstoffkunde Laborpraktikum)",
+												"33079_2": "WSK L/02 (Werkstoffkunde Laborpraktikum)",
+												"33079_3": "WSK L/03 (Werkstoffkunde Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"32982_1": "WSK (Werkstoffkunde)"
+									}
+								}
+							},
+							"events": {
+								"32990_1": "MAT-1 (Mathematik 1)",
+								"32884_1": "TM-1 (Technische Mechanik 1)",
+								"33011_1": "IBL (Industriebetriebslehre)",
+								"32694_1": "ELPJ EL (Praxisprojekt)"
+							}
+						},
+						"2. Semester": {
+							"subDirectories": {
+								"Mathematik 2": {
+									"subDirectories": {
+										"Mathematik 2": {
+											"events": {
+												"33249_1": "MAT-2.2/01 (Mathematik 2)",
+												"33249_2": "MAT-2.2/02 (Mathematik 2)",
+												"33249_3": "MAT-2.2/03 (Mathematik 2)"
+											}
+										}
+									}
+								},
+								"Technische Mechanik 2": {
+									"subDirectories": {
+										"Technische Mechanik 2": {
+											"events": {
+												"33280_1": "TM-2.2 LV/01 (Technische Mechanik 2)",
+												"33280_2": "TM-2.2 LV/02 (Technische Mechanik 2)",
+												"33280_3": "TM-2.2 LV/03 (Technische Mechanik 2)"
+											}
+										}
+									}
+								},
+								"Kostenrechnung": {
+									"events": {
+										"32823_1": "KOR/01 (Kostenrechnung)",
+										"32823_2": "KOR/02 (Kostenrechnung)",
+										"32823_3": "KOR/03 (Kostenrechnung)"
+									}
+								},
+								"Konstruktion A": {
+									"subDirectories": {
+										"Konstruktion A": {
+											"events": {
+												"32883_1": "KONA/01 (Konstruktion A)",
+												"32883_2": "KONA/02 (Konstruktion A)",
+												"32883_3": "KONA/03 (Konstruktion A)"
+											}
+										},
+										"Konstruktion A Konstruktionsarbeit": {
+											"events": {
+												"33103_1": "KONA KNPA/01 (Konstruktion A Konstruktionsarbeit)",
+												"33103_2": "KONA KNPA/02 (Konstruktion A Konstruktionsarbeit)",
+												"33103_3": "KONA KNPA/03 (Konstruktion A Konstruktionsarbeit)"
+											}
+										}
+									}
+								},
+								"Fertigungstechnik": {
+									"subDirectories": {
+										"Fertigungstechnik": {
+											"events": {
+												"32832_1": "FTT/01 (Fertigungstechnik)",
+												"32832_2": "FTT/02 (Fertigungstechnik)",
+												"32832_3": "FTT/03 (Fertigungstechnik)"
+											}
+										}
+									},
+									"events": {
+										"32791_1": "FTT L (Fertigungstechnik Laborpraktikum)"
+									}
+								}
+							}
+						},
+						"3. Semester": {
+							"subDirectories": {
+								"Konstruktion B": {
+									"events": {
+										"33109_1": "KONB (Konstruktion B)",
+										"32734_1": "KONB KNPA (Konstruktion B Konstruktionsarbeit)"
+									}
+								},
+								"Angewandte Informatik": {
+									"events": {
+										"32873_1": "AINF L (Angewandte Informatik Laborpraktikum)",
+										"32907_1": "AINF (Angewandte Informatik)"
+									}
+								},
+								"Strömungslehre 1": {
+									"events": {
+										"32768_1": "STL-1 L (Strömungslehre 1 Laborpraktikum)",
+										"32886_1": "STL-1 (Strömungslehre 1)"
+									}
+								}
+							},
+							"events": {
+								"32789_1": "TM-3 (Technische Mechanik 3)",
+								"33036_1": "TTD-1 (Technische Thermodynamik 1)",
+								"32706_1": "GET (Grundlagen Elektrotechnik)"
+							}
+						},
+						"4. Semester": {
+							"subDirectories": {
+								"Studienrichtung Digital Engineering and Mobility": {
+									"subDirectories": {
+										"Methodische Produktentwicklung": {
+											"subDirectories": {
+												"Methodische Produktentwicklung": {
+													"events": {
+														"33143_1": "MPE/01 (Methodische Produktentwicklung)",
+														"33143_2": "MPE/02 (Methodische Produktentwicklung)"
+													}
+												},
+												"Methodische Produktentwicklung Laborpraktikum": {
+													"events": {
+														"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+														"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)"
+													}
+												}
+											}
+										},
+										"Softwareanwendungen im Maschinenbau": {
+											"subDirectories": {
+												"Softwareanwendungen im Maschinenbau Laborpraktikum": {
+													"events": {
+														"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+														"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
+													}
+												}
+											},
+											"events": {
+												"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
+											}
+										},
+										"Maschinelles Lernen und Datenanalyse": {
+											"events": {
+												"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
+												"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
+											}
+										},
+										"Autonome mobile Systeme": {
+											"events": {
+												"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
+												"33195_1": "AMS (Autonome mobile Systeme)"
+											}
+										}
+									}
+								},
+								"Studienrichtung Energietechnik": {
+									"subDirectories": {
+										"Technische Thermodynamik 2": {
+											"events": {
+												"33243_1": "TTD-2 L (Technische Thermodynamik 2 Laborpraktikum)",
+												"33065_1": "TTD-2 (Technische Thermodynamik 2)"
+											}
+										},
+										"Strömungslehre 2 und CFD": {
+											"events": {
+												"32862_1": "STL2CFD (Strömungslehre 2 und CFD)",
+												"33073_1": "STL2CFD L (Strömungslehre 2 und CFD Laborpraktikum)"
+											}
+										},
+										"Wärme- und Stoffübertragung": {
+											"events": {
+												"33217_1": "WSUE (Wärme- und Stoffübertragung)",
+												"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
+											}
+										},
+										"Thermische Systemmodellierung": {
+											"events": {
+												"32875_1": "THSM (Thermische Systemmodellierung)",
+												"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
+											}
+										}
+									}
+								},
+								"Studienrichtung Entwicklung und Konstruktion": {
+									"subDirectories": {
+										"Konstruktion C": {
+											"events": {
+												"33094_1": "KONC L (Konstruktion C Laborpraktikum)",
+												"33035_1": "KONC (Konstruktion C)"
+											}
+										},
+										"Numerische Methoden der Mechanik": {
+											"events": {
+												"33151_1": "NMM (Numerische Methoden der Mechanik)",
+												"32970_1": "NMM L (Numerische Methoden der Mechanik Laborpraktikum)"
+											}
+										},
+										"Methodische Produktentwicklung": {
+											"subDirectories": {
+												"Methodische Produktentwicklung": {
+													"events": {
+														"33143_1": "MPE/01 (Methodische Produktentwicklung)",
+														"33143_2": "MPE/02 (Methodische Produktentwicklung)"
+													}
+												},
+												"Methodische Produktentwicklung Laborpraktikum": {
+													"events": {
+														"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+														"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)"
+													}
+												}
+											}
+										}
+									},
+									"events": {
+										"32796_1": "KONCH (Konstruktion C (konstruktive Arbeit))"
+									}
+								},
+								"Studienrichtung Produktionstechnik und -management": {
+									"subDirectories": {
+										"Unternehmensplanspiel und Investitionsrechnung": {
+											"subDirectories": {
+												"Unternehmensplanspiel und Investitionsrechnung": {
+													"events": {
+														"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
+														"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
+													}
+												}
+											},
+											"events": {
+												"32726_1": "UPSIR L (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
+											}
+										},
+										"Produktionsmittel und -logistik": {
+											"events": {
+												"33173_1": "PML (Produktionsmittel und -logistik)",
+												"32918_1": "PML L (Produktionsmittel und -logistik Laborpraktikum)"
+											}
+										},
+										"Produktionsplanung und -steuerung": {
+											"events": {
+												"33291_1": "PPS (Produktionsplanung und -steuerung)",
+												"32933_1": "PPS L (Produktionsplanung und -steuerung Laborpraktikum)"
+											}
+										},
+										"Werkzeugmaschinen": {
+											"events": {
+												"32901_1": "WZM (Werkzeugmaschinen)",
+												"33037_1": "WZM L (Werkzeugmaschinen Laborpraktikum)"
+											}
+										}
+									}
+								},
+								"Elektrische Antriebstechnik": {
+									"subDirectories": {
+										"Elektrische Antriebstechnik": {
+											"events": {
+												"32967_1": "EAT/01 (Elektrische Antriebstechnik)",
+												"32967_2": "EAT/02 (Elektrische Antriebstechnik)"
+											}
+										},
+										"Elektrische Antriebstechnik Laborpraktikum": {
+											"events": {
+												"33093_1": "EAT L/01 (Elektrische Antriebstechnik Laborpraktikum)",
+												"33093_2": "EAT L/02 (Elektrische Antriebstechnik Laborpraktikum)",
+												"33093_3": "EAT L/03 (Elektrische Antriebstechnik Laborpraktikum)",
+												"33093_4": "EAT L/04 (Elektrische Antriebstechnik Laborpraktikum)"
+											}
+										}
+									}
+								},
+								"Integrationsfächer": {
+									"events": {
+										"32334_1": "IF-EN (IF Technisches Englisch)",
+										"32277_1": "IF-Office (IF MS Office)",
+										"32412_1": "IF-RET (IF Rhetorik)",
+										"32211_1": "IF-GP (IF Grafisches Programmieren)",
+										"32263_1": "IF-TET (IF Technik und Ethik)",
+										"37271_1": "IF-PM (IF Patentrecht)",
+										"45667_1": "IF-R (IF Recht)",
+										"45708_1": "IF-Anl (Anleitung von Schülergruppen)"
+									}
+								}
+							}
+						},
+						"5.-6. Semester": {
+							"subDirectories": {
+								"Studienrichtung Digital Engineering and Mobility": {
+									"subDirectories": {
+										"Wahlpflichtmodule Studienrichtung Digital Engineering and Mobility": {
+											"subDirectories": {
+												"Schwerpunkt Digitale Produktion": {
+													"subDirectories": {
+														"Wahlpflichtmodule aus Produktionstechnik und -management": {
+															"subDirectories": {
+																"Qualitätsmanagement und Qualitätsprüfung": {
+																	"events": {
+																		"32913_1": "QMQP L (Qualitätsmanagement und Qualitätsprüfung Laborpraktikum)",
+																		"33160_1": "QMQP (Qualitätsmanagement und Qualitätsprüfung)"
+																	}
+																},
+																"Additive Fertigung": {
+																	"events": {
+																		"33075_1": "ADDFT (Additive Fertigung)",
+																		"33172_1": "ADDFT L (Additive Fertigung Laborpraktikum)"
+																	}
+																},
+																"Industrielle Logistik": {
+																	"events": {
+																		"33177_1": "ILOG (Industrielle Logistik)",
+																		"33012_1": "ILOG L (Industrielle Logistik Laborpraktikum)"
+																	}
+																},
+																"Fügetechnik": {
+																	"events": {
+																		"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
+																		"33053_1": "FügeT (Fügetechnik)"
+																	}
+																},
+																"Energieeffiziente Produktion": {
+																	"events": {
+																		"32821_1": "EEP L (Energieeffiziente Produktion Laborpraktikum)",
+																		"33273_1": "EEP (Energieeffiziente Produktion)"
+																	}
+																},
+																"Kunststoffverarbeitung": {
+																	"events": {
+																		"33207_1": "KSV (Kunststoffverarbeitung)",
+																		"32699_1": "KSV L (Kunststoffverarbeitung Laborpraktikum)"
+																	}
+																},
+																"CAD-CAM-Prozesskette": {
+																	"events": {
+																		"33116_1": "CADCAM (CAD-CAM-Prozesskette)",
+																		"33241_1": "CADCAM L (CAD-CAM-Prozesskette Laborpraktikum)"
+																	}
+																},
+																"Oberflächentechnik": {
+																	"events": {
+																		"32247_1": "OFT L (Oberflächentechnik Laborpraktikum)",
+																		"32093_1": "OFT (Oberflächentechnik)"
+																	}
+																},
+																"Wirtschaftsinformatik und Simulation": {
+																	"events": {
+																		"32882_1": "WISI L (Wirtschaftsinformatik und Simulation Laborpraktikum)",
+																		"32985_1": "WISI (Wirtschaftsinformatik und Simulation)"
+																	}
+																},
+																"Controlling und Digital Business": {
+																	"events": {
+																		"32961_1": "CODB (Controlling und Digital Business)",
+																		"33123_1": "CODB L (Controlling und Digital Business Laborpraktikum)"
+																	}
+																},
+																"Prozessmanagement": {
+																	"events": {
+																		"33024_1": "PZMGT (Prozessmanagement)",
+																		"32754_1": "PZMGT L (Prozessmanagement Laborpraktikum)"
+																	}
+																},
+																"Ausgewählte Themen in Produktionstechnik und -management": {
+																	"events": {
+																		"32848_1": "AT-PP (Ausgewählte Themen in Produktionstechnik und -management)",
+																		"32826_1": "AT-PP L (Ausgewählte Themen in Produktionstechnik und -management Laborpraktikum)"
+																	}
+																},
+																"Technische Schwingungslehre": {
+																	"events": {
+																		"32881_1": "TSL (Technische Schwingungslehre)",
+																		"32744_1": "TSL L (Technische Schwingungslehre Laborpraktikum)"
+																	}
+																}
+															}
+														},
+														"Produktionsmittel und -logistik": {
+															"events": {
+																"33173_1": "PML (Produktionsmittel und -logistik)",
+																"32918_1": "PML L (Produktionsmittel und -logistik Laborpraktikum)"
+															}
+														},
+														"Produktionsplanung und -steuerung": {
+															"events": {
+																"33291_1": "PPS (Produktionsplanung und -steuerung)",
+																"32933_1": "PPS L (Produktionsplanung und -steuerung Laborpraktikum)"
+															}
+														}
+													}
+												},
+												"Austauschmodul": {
+													"subDirectories": {
+														"Technische Thermodynamik 2": {
+															"events": {
+																"33243_1": "TTD-2 L (Technische Thermodynamik 2 Laborpraktikum)",
+																"33065_1": "TTD-2 (Technische Thermodynamik 2)"
+															}
+														},
+														"Strömungslehre 2 und CFD": {
+															"events": {
+																"32862_1": "STL2CFD (Strömungslehre 2 und CFD)",
+																"33073_1": "STL2CFD L (Strömungslehre 2 und CFD Laborpraktikum)"
+															}
+														},
+														"Thermische Systemmodellierung": {
+															"events": {
+																"32875_1": "THSM (Thermische Systemmodellierung)",
+																"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
+															}
+														},
+														"Anlagenautomatisierung": {
+															"events": {
+																"33069_1": "ALAM L (Anlagenautomatisierung Laborpraktikum)",
+																"33257_1": "ALAM (Anlagenautomatisierung)"
+															}
+														},
+														"Thermische Energiesysteme": {
+															"events": {
+																"33166_1": "TESY L (Thermische Energiesysteme Laborpraktikum)",
+																"32927_1": "TESY (Thermische Energiesysteme)"
+															}
+														},
+														"Kältetechnik": {
+															"events": {
+																"33164_1": "KAET L (Kältetechnik Laborpraktikum)",
+																"32951_1": "KAET (Kältetechnik)"
+															}
+														},
+														"Windenergieanlagen": {
+															"events": {
+																"32890_1": "WEA (Windenergieanlagen)",
+																"32903_1": "WEA L (Windenergieanlagen Laborpraktikum)"
+															}
+														},
+														"Solare Energiebereitstellung": {
+															"events": {
+																"32899_1": "SEB (Solare Energiebereitstellung)",
+																"33186_1": "SEB L (Solare Energiebereitstellung Laborpraktikum)"
+															}
+														},
+														"Energetische Nutzung nachwachsender Rohstoffe": {
+															"events": {
+																"33194_1": "ENNR (Energetische Nutzung nachwachsender Rohstoffe)",
+																"32958_1": "ENNR L (Energetische Nutzung nachwachsender Rohstoffe Laborpraktikum)"
+															}
+														},
+														"Energieeffiziente Produktion": {
+															"events": {
+																"32821_1": "EEP L (Energieeffiziente Produktion Laborpraktikum)",
+																"33273_1": "EEP (Energieeffiziente Produktion)"
+															}
+														},
+														"Ausgewählte Themen der Energietechnik": {
+															"events": {
+																"32863_1": "AT-EN (Ausgewählte Themen der Energietechnik)",
+																"32723_1": "AT-EN L (Ausgewählte Themen der Energietechnik Laborpraktikum)"
+															}
+														},
+														"Konstruktion C": {
+															"events": {
+																"33094_1": "KONC L (Konstruktion C Laborpraktikum)",
+																"33035_1": "KONC (Konstruktion C)"
+															}
+														},
+														"Numerische Methoden der Mechanik": {
+															"events": {
+																"33151_1": "NMM (Numerische Methoden der Mechanik)",
+																"32970_1": "NMM L (Numerische Methoden der Mechanik Laborpraktikum)"
+															}
+														},
+														"Finite-Elemente-Methode": {
+															"events": {
+																"32831_1": "FEM (Finite-Elemente-Methode)",
+																"33272_1": "FEM L (Finite-Elemente-Methode Laborpraktikum)"
+															}
+														},
+														"Konstruktion D": {
+															"events": {
+																"33182_1": "KOND L (Konstruktion D Laborpraktikum)",
+																"32704_1": "KOND (Konstruktion D)"
+															}
+														},
+														"Simulation in der Produktentwicklung": {
+															"events": {
+																"33223_1": "SIMPE (Simulation in der Produktentwicklung)",
+																"32829_1": "SIMPE L (Simulation in der Produktentwicklung Laborpraktikum)"
+															}
+														},
+														"Maschinendynamik": {
+															"events": {
+																"33124_1": "MDY (Maschinendynamik)",
+																"33077_1": "MDY L (Maschinendynamik Laborpraktikum)"
+															}
+														},
+														"Fluidtechnik": {
+															"events": {
+																"33052_1": "FLUIDT L (Fluidtechnik Laborpraktikum)",
+																"33057_1": "FLUIDT (Fluidtechnik)"
+															}
+														},
+														"Kreativmethoden in der Produktentwicklung": {
+															"events": {
+																"32905_1": "KMP (Kreativmethoden in der Produktentwicklung)",
+																"33287_1": "KMP L (Kreativmethoden in der Produktentwicklung Laborpraktikum)"
+															}
+														},
+														"Ausgewählte Themen in Entwicklung und Konstruktion": {
+															"events": {
+																"33101_1": "AT-EK (Ausgewählte Themen in Entwicklung und Konstruktion)",
+																"33099_1": "AT-EK L (Ausgewählte Themen in Entwicklung und Konstruktion Laborpraktikum)"
+															}
+														},
+														"Unternehmensplanspiel und Investitionsrechnung": {
+															"subDirectories": {
+																"Unternehmensplanspiel und Investitionsrechnung": {
+																	"events": {
+																		"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
+																		"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
+																	}
+																}
+															},
+															"events": {
+																"32726_1": "UPSIR L (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
+															}
+														},
+														"Produktionsmittel und -logistik": {
+															"events": {
+																"33173_1": "PML (Produktionsmittel und -logistik)",
+																"32918_1": "PML L (Produktionsmittel und -logistik Laborpraktikum)"
+															}
+														},
+														"Produktionsplanung und -steuerung": {
+															"events": {
+																"33291_1": "PPS (Produktionsplanung und -steuerung)",
+																"32933_1": "PPS L (Produktionsplanung und -steuerung Laborpraktikum)"
+															}
+														},
+														"Werkzeugmaschinen": {
+															"events": {
+																"32901_1": "WZM (Werkzeugmaschinen)",
+																"33037_1": "WZM L (Werkzeugmaschinen Laborpraktikum)"
+															}
+														},
+														"Kunststoffverarbeitung": {
+															"events": {
+																"33207_1": "KSV (Kunststoffverarbeitung)",
+																"32699_1": "KSV L (Kunststoffverarbeitung Laborpraktikum)"
+															}
+														},
+														"CAD-CAM-Prozesskette": {
+															"events": {
+																"33116_1": "CADCAM (CAD-CAM-Prozesskette)",
+																"33241_1": "CADCAM L (CAD-CAM-Prozesskette Laborpraktikum)"
+															}
+														},
+														"Oberflächentechnik": {
+															"events": {
+																"32247_1": "OFT L (Oberflächentechnik Laborpraktikum)",
+																"32093_1": "OFT (Oberflächentechnik)"
+															}
+														},
+														"Wirtschaftsinformatik und Simulation": {
+															"events": {
+																"32882_1": "WISI L (Wirtschaftsinformatik und Simulation Laborpraktikum)",
+																"32985_1": "WISI (Wirtschaftsinformatik und Simulation)"
+															}
+														},
+														"Controlling und Digital Business": {
+															"events": {
+																"32961_1": "CODB (Controlling und Digital Business)",
+																"33123_1": "CODB L (Controlling und Digital Business Laborpraktikum)"
+															}
+														},
+														"Prozessmanagement": {
+															"events": {
+																"33024_1": "PZMGT (Prozessmanagement)",
+																"32754_1": "PZMGT L (Prozessmanagement Laborpraktikum)"
+															}
+														},
+														"Ausgewählte Themen in Produktionstechnik und -management": {
+															"events": {
+																"32848_1": "AT-PP (Ausgewählte Themen in Produktionstechnik und -management)",
+																"32826_1": "AT-PP L (Ausgewählte Themen in Produktionstechnik und -management Laborpraktikum)"
+															}
+														}
+													}
+												},
+												"Leichtbau": {
+													"events": {
+														"32795_1": "LEB (Leichtbau)",
+														"33071_1": "LEB (Leichtbau Laborpraktikum)"
+													}
+												},
+												"Urbane Mobilität und Elektromobilität": {
+													"events": {
+														"33129_1": "UME L (Urbane Mobilität und Elektromobilität Laborpraktikum)",
+														"33003_1": "UME (Urbane Mobilität und Elektromobilität)"
+													}
+												},
+												"Fügetechnik": {
+													"events": {
+														"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
+														"33053_1": "FügeT (Fügetechnik)"
+													}
+												},
+												"Roboterbasierte Fertigung": {
+													"events": {
+														"33230_1": "RBF L (Roboterbasierte Fertigung Laborpraktikum)",
+														"32965_1": "RBF (Roboterbasierte Fertigung)"
+													}
+												},
+												"Industrielle Logistik": {
+													"events": {
+														"33177_1": "ILOG (Industrielle Logistik)",
+														"33012_1": "ILOG L (Industrielle Logistik Laborpraktikum)"
+													}
+												},
+												"Angewandte künstliche Intelligenz": {
+													"events": {
+														"33168_1": "AKI L (Angewandte künstliche Intelligenz Laborpraktikum)",
+														"33248_1": "AKI (Angewandte künstliche Intelligenz)"
+													}
+												},
+												"Additive Fertigung": {
+													"events": {
+														"33075_1": "ADDFT (Additive Fertigung)",
+														"33172_1": "ADDFT L (Additive Fertigung Laborpraktikum)"
+													}
+												},
+												"Qualitätsmanagement und Qualitätsprüfung": {
+													"events": {
+														"32913_1": "QMQP L (Qualitätsmanagement und Qualitätsprüfung Laborpraktikum)",
+														"33160_1": "QMQP (Qualitätsmanagement und Qualitätsprüfung)"
+													}
+												},
+												"Wärme- und Stoffübertragung": {
+													"events": {
+														"33217_1": "WSUE (Wärme- und Stoffübertragung)",
+														"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
+													}
+												},
+												"Technische Schwingungslehre": {
+													"events": {
+														"32881_1": "TSL (Technische Schwingungslehre)",
+														"32744_1": "TSL L (Technische Schwingungslehre Laborpraktikum)"
+													}
+												}
+											}
+										},
+										"Mechatronik": {
+											"events": {
+												"32888_1": "MTR (Mechatronik)",
+												"33029_1": "MTR L (Mechatronik Laborpraktikum)"
+											}
+										}
+									}
+								},
+								"Studienrichtung Energietechnik": {
+									"subDirectories": {
+										"Wahlpflichtmodule Studienrichtung Energietechnik": {
+											"subDirectories": {
+												"Schwerpunkt Konstruktion energetischer Anlagen": {
+													"subDirectories": {
+														"Wahlpflichtmodule aus Entwicklung und Konstruktion": {
+															"subDirectories": {
+																"Softwareanwendungen im Maschinenbau": {
+																	"subDirectories": {
+																		"Softwareanwendungen im Maschinenbau Laborpraktikum": {
+																			"events": {
+																				"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+																				"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
+																			}
+																		}
+																	},
+																	"events": {
+																		"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
+																	}
+																},
+																"Qualitätsmanagement und Qualitätsprüfung": {
+																	"events": {
+																		"32913_1": "QMQP L (Qualitätsmanagement und Qualitätsprüfung Laborpraktikum)",
+																		"33160_1": "QMQP (Qualitätsmanagement und Qualitätsprüfung)"
+																	}
+																},
+																"Additive Fertigung": {
+																	"events": {
+																		"33075_1": "ADDFT (Additive Fertigung)",
+																		"33172_1": "ADDFT L (Additive Fertigung Laborpraktikum)"
+																	}
+																},
+																"Fügetechnik": {
+																	"events": {
+																		"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
+																		"33053_1": "FügeT (Fügetechnik)"
+																	}
+																},
+																"Leichtbau": {
+																	"events": {
+																		"32795_1": "LEB (Leichtbau)",
+																		"33071_1": "LEB (Leichtbau Laborpraktikum)"
+																	}
+																},
+																"Konstruktion D": {
+																	"events": {
+																		"33182_1": "KOND L (Konstruktion D Laborpraktikum)",
+																		"32704_1": "KOND (Konstruktion D)"
+																	}
+																},
+																"Simulation in der Produktentwicklung": {
+																	"events": {
+																		"33223_1": "SIMPE (Simulation in der Produktentwicklung)",
+																		"32829_1": "SIMPE L (Simulation in der Produktentwicklung Laborpraktikum)"
+																	}
+																},
+																"Maschinendynamik": {
+																	"events": {
+																		"33124_1": "MDY (Maschinendynamik)",
+																		"33077_1": "MDY L (Maschinendynamik Laborpraktikum)"
+																	}
+																},
+																"Fluidtechnik": {
+																	"events": {
+																		"33052_1": "FLUIDT L (Fluidtechnik Laborpraktikum)",
+																		"33057_1": "FLUIDT (Fluidtechnik)"
+																	}
+																},
+																"Kreativmethoden in der Produktentwicklung": {
+																	"events": {
+																		"32905_1": "KMP (Kreativmethoden in der Produktentwicklung)",
+																		"33287_1": "KMP L (Kreativmethoden in der Produktentwicklung Laborpraktikum)"
+																	}
+																},
+																"Ausgewählte Themen in Entwicklung und Konstruktion": {
+																	"events": {
+																		"33101_1": "AT-EK (Ausgewählte Themen in Entwicklung und Konstruktion)",
+																		"33099_1": "AT-EK L (Ausgewählte Themen in Entwicklung und Konstruktion Laborpraktikum)"
+																	}
+																}
+															}
+														},
+														"Finite-Elemente-Methode": {
+															"events": {
+																"32831_1": "FEM (Finite-Elemente-Methode)",
+																"33272_1": "FEM L (Finite-Elemente-Methode Laborpraktikum)"
+															}
+														},
+														"Methodische Produktentwicklung": {
+															"subDirectories": {
+																"Methodische Produktentwicklung": {
+																	"events": {
+																		"33143_1": "MPE/01 (Methodische Produktentwicklung)",
+																		"33143_2": "MPE/02 (Methodische Produktentwicklung)"
+																	}
+																},
+																"Methodische Produktentwicklung Laborpraktikum": {
+																	"events": {
+																		"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+																		"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)"
+																	}
+																}
+															}
+														}
+													}
+												},
+												"Schwerpunkt Energieeffiziente Produktion": {
+													"subDirectories": {
+														"Wahlpflichtmodule aus Produktionstechnik und -management": {
+															"subDirectories": {
+																"Qualitätsmanagement und Qualitätsprüfung": {
+																	"events": {
+																		"32913_1": "QMQP L (Qualitätsmanagement und Qualitätsprüfung Laborpraktikum)",
+																		"33160_1": "QMQP (Qualitätsmanagement und Qualitätsprüfung)"
+																	}
+																},
+																"Additive Fertigung": {
+																	"events": {
+																		"33075_1": "ADDFT (Additive Fertigung)",
+																		"33172_1": "ADDFT L (Additive Fertigung Laborpraktikum)"
+																	}
+																},
+																"Industrielle Logistik": {
+																	"events": {
+																		"33177_1": "ILOG (Industrielle Logistik)",
+																		"33012_1": "ILOG L (Industrielle Logistik Laborpraktikum)"
+																	}
+																},
+																"Fügetechnik": {
+																	"events": {
+																		"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
+																		"33053_1": "FügeT (Fügetechnik)"
+																	}
+																},
+																"Energieeffiziente Produktion": {
+																	"events": {
+																		"32821_1": "EEP L (Energieeffiziente Produktion Laborpraktikum)",
+																		"33273_1": "EEP (Energieeffiziente Produktion)"
+																	}
+																},
+																"Kunststoffverarbeitung": {
+																	"events": {
+																		"33207_1": "KSV (Kunststoffverarbeitung)",
+																		"32699_1": "KSV L (Kunststoffverarbeitung Laborpraktikum)"
+																	}
+																},
+																"CAD-CAM-Prozesskette": {
+																	"events": {
+																		"33116_1": "CADCAM (CAD-CAM-Prozesskette)",
+																		"33241_1": "CADCAM L (CAD-CAM-Prozesskette Laborpraktikum)"
+																	}
+																},
+																"Oberflächentechnik": {
+																	"events": {
+																		"32247_1": "OFT L (Oberflächentechnik Laborpraktikum)",
+																		"32093_1": "OFT (Oberflächentechnik)"
+																	}
+																},
+																"Wirtschaftsinformatik und Simulation": {
+																	"events": {
+																		"32882_1": "WISI L (Wirtschaftsinformatik und Simulation Laborpraktikum)",
+																		"32985_1": "WISI (Wirtschaftsinformatik und Simulation)"
+																	}
+																},
+																"Controlling und Digital Business": {
+																	"events": {
+																		"32961_1": "CODB (Controlling und Digital Business)",
+																		"33123_1": "CODB L (Controlling und Digital Business Laborpraktikum)"
+																	}
+																},
+																"Prozessmanagement": {
+																	"events": {
+																		"33024_1": "PZMGT (Prozessmanagement)",
+																		"32754_1": "PZMGT L (Prozessmanagement Laborpraktikum)"
+																	}
+																},
+																"Ausgewählte Themen in Produktionstechnik und -management": {
+																	"events": {
+																		"32848_1": "AT-PP (Ausgewählte Themen in Produktionstechnik und -management)",
+																		"32826_1": "AT-PP L (Ausgewählte Themen in Produktionstechnik und -management Laborpraktikum)"
+																	}
+																},
+																"Technische Schwingungslehre": {
+																	"events": {
+																		"32881_1": "TSL (Technische Schwingungslehre)",
+																		"32744_1": "TSL L (Technische Schwingungslehre Laborpraktikum)"
+																	}
+																}
+															}
+														},
+														"Produktionsmittel und -logistik": {
+															"events": {
+																"33173_1": "PML (Produktionsmittel und -logistik)",
+																"32918_1": "PML L (Produktionsmittel und -logistik Laborpraktikum)"
+															}
+														},
+														"Produktionsplanung und -steuerung": {
+															"events": {
+																"33291_1": "PPS (Produktionsplanung und -steuerung)",
+																"32933_1": "PPS L (Produktionsplanung und -steuerung Laborpraktikum)"
+															}
+														}
+													}
+												},
+												"Austauschmodul": {
+													"subDirectories": {
+														"Methodische Produktentwicklung": {
+															"subDirectories": {
+																"Methodische Produktentwicklung": {
+																	"events": {
+																		"33143_1": "MPE/01 (Methodische Produktentwicklung)",
+																		"33143_2": "MPE/02 (Methodische Produktentwicklung)"
+																	}
+																},
+																"Methodische Produktentwicklung Laborpraktikum": {
+																	"events": {
+																		"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+																		"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)"
+																	}
+																}
+															}
+														},
+														"Softwareanwendungen im Maschinenbau": {
+															"subDirectories": {
+																"Softwareanwendungen im Maschinenbau Laborpraktikum": {
+																	"events": {
+																		"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+																		"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
+																	}
+																}
+															},
+															"events": {
+																"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
+															}
+														},
+														"Maschinelles Lernen und Datenanalyse": {
+															"events": {
+																"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
+																"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
+															}
+														},
+														"Autonome mobile Systeme": {
+															"events": {
+																"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
+																"33195_1": "AMS (Autonome mobile Systeme)"
+															}
+														},
+														"Mechatronik": {
+															"events": {
+																"32888_1": "MTR (Mechatronik)",
+																"33029_1": "MTR L (Mechatronik Laborpraktikum)"
+															}
+														},
+														"Leichtbau": {
+															"events": {
+																"32795_1": "LEB (Leichtbau)",
+																"33071_1": "LEB (Leichtbau Laborpraktikum)"
+															}
+														},
+														"Roboterbasierte Fertigung": {
+															"events": {
+																"33230_1": "RBF L (Roboterbasierte Fertigung Laborpraktikum)",
+																"32965_1": "RBF (Roboterbasierte Fertigung)"
+															}
+														},
+														"Industrielle Logistik": {
+															"events": {
+																"33177_1": "ILOG (Industrielle Logistik)",
+																"33012_1": "ILOG L (Industrielle Logistik Laborpraktikum)"
+															}
+														},
+														"Angewandte künstliche Intelligenz": {
+															"events": {
+																"33168_1": "AKI L (Angewandte künstliche Intelligenz Laborpraktikum)",
+																"33248_1": "AKI (Angewandte künstliche Intelligenz)"
+															}
+														},
+														"Additive Fertigung": {
+															"events": {
+																"33075_1": "ADDFT (Additive Fertigung)",
+																"33172_1": "ADDFT L (Additive Fertigung Laborpraktikum)"
+															}
+														},
+														"Qualitätsmanagement und Qualitätsprüfung": {
+															"events": {
+																"32913_1": "QMQP L (Qualitätsmanagement und Qualitätsprüfung Laborpraktikum)",
+																"33160_1": "QMQP (Qualitätsmanagement und Qualitätsprüfung)"
+															}
+														},
+														"Konstruktion C": {
+															"events": {
+																"33094_1": "KONC L (Konstruktion C Laborpraktikum)",
+																"33035_1": "KONC (Konstruktion C)"
+															}
+														},
+														"Numerische Methoden der Mechanik": {
+															"events": {
+																"33151_1": "NMM (Numerische Methoden der Mechanik)",
+																"32970_1": "NMM L (Numerische Methoden der Mechanik Laborpraktikum)"
+															}
+														},
+														"Technische Schwingungslehre": {
+															"events": {
+																"32881_1": "TSL (Technische Schwingungslehre)",
+																"32744_1": "TSL L (Technische Schwingungslehre Laborpraktikum)"
+															}
+														},
+														"Konstruktion D": {
+															"events": {
+																"33182_1": "KOND L (Konstruktion D Laborpraktikum)",
+																"32704_1": "KOND (Konstruktion D)"
+															}
+														},
+														"Simulation in der Produktentwicklung": {
+															"events": {
+																"33223_1": "SIMPE (Simulation in der Produktentwicklung)",
+																"32829_1": "SIMPE L (Simulation in der Produktentwicklung Laborpraktikum)"
+															}
+														},
+														"Maschinendynamik": {
+															"events": {
+																"33124_1": "MDY (Maschinendynamik)",
+																"33077_1": "MDY L (Maschinendynamik Laborpraktikum)"
+															}
+														},
+														"Fluidtechnik": {
+															"events": {
+																"33052_1": "FLUIDT L (Fluidtechnik Laborpraktikum)",
+																"33057_1": "FLUIDT (Fluidtechnik)"
+															}
+														},
+														"Kreativmethoden in der Produktentwicklung": {
+															"events": {
+																"32905_1": "KMP (Kreativmethoden in der Produktentwicklung)",
+																"33287_1": "KMP L (Kreativmethoden in der Produktentwicklung Laborpraktikum)"
+															}
+														},
+														"Ausgewählte Themen in Entwicklung und Konstruktion": {
+															"events": {
+																"33101_1": "AT-EK (Ausgewählte Themen in Entwicklung und Konstruktion)",
+																"33099_1": "AT-EK L (Ausgewählte Themen in Entwicklung und Konstruktion Laborpraktikum)"
+															}
+														},
+														"Unternehmensplanspiel und Investitionsrechnung": {
+															"subDirectories": {
+																"Unternehmensplanspiel und Investitionsrechnung": {
+																	"events": {
+																		"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
+																		"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
+																	}
+																}
+															},
+															"events": {
+																"32726_1": "UPSIR L (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
+															}
+														},
+														"Produktionsmittel und -logistik": {
+															"events": {
+																"33173_1": "PML (Produktionsmittel und -logistik)",
+																"32918_1": "PML L (Produktionsmittel und -logistik Laborpraktikum)"
+															}
+														},
+														"Produktionsplanung und -steuerung": {
+															"events": {
+																"33291_1": "PPS (Produktionsplanung und -steuerung)",
+																"32933_1": "PPS L (Produktionsplanung und -steuerung Laborpraktikum)"
+															}
+														},
+														"Werkzeugmaschinen": {
+															"events": {
+																"32901_1": "WZM (Werkzeugmaschinen)",
+																"33037_1": "WZM L (Werkzeugmaschinen Laborpraktikum)"
+															}
+														},
+														"Kunststoffverarbeitung": {
+															"events": {
+																"33207_1": "KSV (Kunststoffverarbeitung)",
+																"32699_1": "KSV L (Kunststoffverarbeitung Laborpraktikum)"
+															}
+														},
+														"CAD-CAM-Prozesskette": {
+															"events": {
+																"33116_1": "CADCAM (CAD-CAM-Prozesskette)",
+																"33241_1": "CADCAM L (CAD-CAM-Prozesskette Laborpraktikum)"
+															}
+														},
+														"Oberflächentechnik": {
+															"events": {
+																"32247_1": "OFT L (Oberflächentechnik Laborpraktikum)",
+																"32093_1": "OFT (Oberflächentechnik)"
+															}
+														},
+														"Wirtschaftsinformatik und Simulation": {
+															"events": {
+																"32882_1": "WISI L (Wirtschaftsinformatik und Simulation Laborpraktikum)",
+																"32985_1": "WISI (Wirtschaftsinformatik und Simulation)"
+															}
+														},
+														"Controlling und Digital Business": {
+															"events": {
+																"32961_1": "CODB (Controlling und Digital Business)",
+																"33123_1": "CODB L (Controlling und Digital Business Laborpraktikum)"
+															}
+														},
+														"Prozessmanagement": {
+															"events": {
+																"33024_1": "PZMGT (Prozessmanagement)",
+																"32754_1": "PZMGT L (Prozessmanagement Laborpraktikum)"
+															}
+														},
+														"Ausgewählte Themen in Produktionstechnik und -management": {
+															"events": {
+																"32848_1": "AT-PP (Ausgewählte Themen in Produktionstechnik und -management)",
+																"32826_1": "AT-PP L (Ausgewählte Themen in Produktionstechnik und -management Laborpraktikum)"
+															}
+														}
+													}
+												},
+												"Fügetechnik": {
+													"events": {
+														"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
+														"33053_1": "FügeT (Fügetechnik)"
+													}
+												},
+												"Urbane Mobilität und Elektromobilität": {
+													"events": {
+														"33129_1": "UME L (Urbane Mobilität und Elektromobilität Laborpraktikum)",
+														"33003_1": "UME (Urbane Mobilität und Elektromobilität)"
+													}
+												},
+												"Anlagenautomatisierung": {
+													"events": {
+														"33069_1": "ALAM L (Anlagenautomatisierung Laborpraktikum)",
+														"33257_1": "ALAM (Anlagenautomatisierung)"
+													}
+												},
+												"Thermische Energiesysteme": {
+													"events": {
+														"33166_1": "TESY L (Thermische Energiesysteme Laborpraktikum)",
+														"32927_1": "TESY (Thermische Energiesysteme)"
+													}
+												},
+												"Kältetechnik": {
+													"events": {
+														"33164_1": "KAET L (Kältetechnik Laborpraktikum)",
+														"32951_1": "KAET (Kältetechnik)"
+													}
+												},
+												"Energieeffiziente Produktion": {
+													"events": {
+														"32821_1": "EEP L (Energieeffiziente Produktion Laborpraktikum)",
+														"33273_1": "EEP (Energieeffiziente Produktion)"
+													}
+												},
+												"Ausgewählte Themen der Energietechnik": {
+													"events": {
+														"32863_1": "AT-EN (Ausgewählte Themen der Energietechnik)",
+														"32723_1": "AT-EN L (Ausgewählte Themen der Energietechnik Laborpraktikum)"
+													}
+												},
+												"Finite-Elemente-Methode": {
+													"events": {
+														"32831_1": "FEM (Finite-Elemente-Methode)",
+														"33272_1": "FEM L (Finite-Elemente-Methode Laborpraktikum)"
+													}
+												},
+												"Windenergieanlagen": {
+													"events": {
+														"32890_1": "WEA (Windenergieanlagen)",
+														"32903_1": "WEA L (Windenergieanlagen Laborpraktikum)"
+													}
+												},
+												"Solare Energiebereitstellung": {
+													"events": {
+														"32899_1": "SEB (Solare Energiebereitstellung)",
+														"33186_1": "SEB L (Solare Energiebereitstellung Laborpraktikum)"
+													}
+												},
+												"Energetische Nutzung nachwachsender Rohstoffe": {
+													"events": {
+														"33194_1": "ENNR (Energetische Nutzung nachwachsender Rohstoffe)",
+														"32958_1": "ENNR L (Energetische Nutzung nachwachsender Rohstoffe Laborpraktikum)"
+													}
+												}
+											}
+										}
+									}
+								},
+								"Studienrichtung Entwicklung und Konstruktion": {
+									"subDirectories": {
+										"Wahlpflichtmodule Studienrichtung Entwicklung und Konstruktion": {
+											"subDirectories": {
+												"Austauschmodul": {
+													"subDirectories": {
+														"Maschinelles Lernen und Datenanalyse": {
+															"events": {
+																"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
+																"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
+															}
+														},
+														"Autonome mobile Systeme": {
+															"events": {
+																"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
+																"33195_1": "AMS (Autonome mobile Systeme)"
+															}
+														},
+														"Mechatronik": {
+															"events": {
+																"32888_1": "MTR (Mechatronik)",
+																"33029_1": "MTR L (Mechatronik Laborpraktikum)"
+															}
+														},
+														"Urbane Mobilität und Elektromobilität": {
+															"events": {
+																"33129_1": "UME L (Urbane Mobilität und Elektromobilität Laborpraktikum)",
+																"33003_1": "UME (Urbane Mobilität und Elektromobilität)"
+															}
+														},
+														"Roboterbasierte Fertigung": {
+															"events": {
+																"33230_1": "RBF L (Roboterbasierte Fertigung Laborpraktikum)",
+																"32965_1": "RBF (Roboterbasierte Fertigung)"
+															}
+														},
+														"Industrielle Logistik": {
+															"events": {
+																"33177_1": "ILOG (Industrielle Logistik)",
+																"33012_1": "ILOG L (Industrielle Logistik Laborpraktikum)"
+															}
+														},
+														"Angewandte künstliche Intelligenz": {
+															"events": {
+																"33168_1": "AKI L (Angewandte künstliche Intelligenz Laborpraktikum)",
+																"33248_1": "AKI (Angewandte künstliche Intelligenz)"
+															}
+														},
+														"Technische Thermodynamik 2": {
+															"events": {
+																"33243_1": "TTD-2 L (Technische Thermodynamik 2 Laborpraktikum)",
+																"33065_1": "TTD-2 (Technische Thermodynamik 2)"
+															}
+														},
+														"Strömungslehre 2 und CFD": {
+															"events": {
+																"32862_1": "STL2CFD (Strömungslehre 2 und CFD)",
+																"33073_1": "STL2CFD L (Strömungslehre 2 und CFD Laborpraktikum)"
+															}
+														},
+														"Wärme- und Stoffübertragung": {
+															"events": {
+																"33217_1": "WSUE (Wärme- und Stoffübertragung)",
+																"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
+															}
+														},
+														"Thermische Systemmodellierung": {
+															"events": {
+																"32875_1": "THSM (Thermische Systemmodellierung)",
+																"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
+															}
+														},
+														"Anlagenautomatisierung": {
+															"events": {
+																"33069_1": "ALAM L (Anlagenautomatisierung Laborpraktikum)",
+																"33257_1": "ALAM (Anlagenautomatisierung)"
+															}
+														},
+														"Thermische Energiesysteme": {
+															"events": {
+																"33166_1": "TESY L (Thermische Energiesysteme Laborpraktikum)",
+																"32927_1": "TESY (Thermische Energiesysteme)"
+															}
+														},
+														"Kältetechnik": {
+															"events": {
+																"33164_1": "KAET L (Kältetechnik Laborpraktikum)",
+																"32951_1": "KAET (Kältetechnik)"
+															}
+														},
+														"Windenergieanlagen": {
+															"events": {
+																"32890_1": "WEA (Windenergieanlagen)",
+																"32903_1": "WEA L (Windenergieanlagen Laborpraktikum)"
+															}
+														},
+														"Solare Energiebereitstellung": {
+															"events": {
+																"32899_1": "SEB (Solare Energiebereitstellung)",
+																"33186_1": "SEB L (Solare Energiebereitstellung Laborpraktikum)"
+															}
+														},
+														"Energetische Nutzung nachwachsender Rohstoffe": {
+															"events": {
+																"33194_1": "ENNR (Energetische Nutzung nachwachsender Rohstoffe)",
+																"32958_1": "ENNR L (Energetische Nutzung nachwachsender Rohstoffe Laborpraktikum)"
+															}
+														},
+														"Energieeffiziente Produktion": {
+															"events": {
+																"32821_1": "EEP L (Energieeffiziente Produktion Laborpraktikum)",
+																"33273_1": "EEP (Energieeffiziente Produktion)"
+															}
+														},
+														"Ausgewählte Themen der Energietechnik": {
+															"events": {
+																"32863_1": "AT-EN (Ausgewählte Themen der Energietechnik)",
+																"32723_1": "AT-EN L (Ausgewählte Themen der Energietechnik Laborpraktikum)"
+															}
+														},
+														"Unternehmensplanspiel und Investitionsrechnung": {
+															"subDirectories": {
+																"Unternehmensplanspiel und Investitionsrechnung": {
+																	"events": {
+																		"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
+																		"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
+																	}
+																}
+															},
+															"events": {
+																"32726_1": "UPSIR L (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
+															}
+														},
+														"Produktionsmittel und -logistik": {
+															"events": {
+																"33173_1": "PML (Produktionsmittel und -logistik)",
+																"32918_1": "PML L (Produktionsmittel und -logistik Laborpraktikum)"
+															}
+														},
+														"Produktionsplanung und -steuerung": {
+															"events": {
+																"33291_1": "PPS (Produktionsplanung und -steuerung)",
+																"32933_1": "PPS L (Produktionsplanung und -steuerung Laborpraktikum)"
+															}
+														},
+														"Werkzeugmaschinen": {
+															"events": {
+																"32901_1": "WZM (Werkzeugmaschinen)",
+																"33037_1": "WZM L (Werkzeugmaschinen Laborpraktikum)"
+															}
+														},
+														"Kunststoffverarbeitung": {
+															"events": {
+																"33207_1": "KSV (Kunststoffverarbeitung)",
+																"32699_1": "KSV L (Kunststoffverarbeitung Laborpraktikum)"
+															}
+														},
+														"CAD-CAM-Prozesskette": {
+															"events": {
+																"33116_1": "CADCAM (CAD-CAM-Prozesskette)",
+																"33241_1": "CADCAM L (CAD-CAM-Prozesskette Laborpraktikum)"
+															}
+														},
+														"Oberflächentechnik": {
+															"events": {
+																"32247_1": "OFT L (Oberflächentechnik Laborpraktikum)",
+																"32093_1": "OFT (Oberflächentechnik)"
+															}
+														},
+														"Wirtschaftsinformatik und Simulation": {
+															"events": {
+																"32882_1": "WISI L (Wirtschaftsinformatik und Simulation Laborpraktikum)",
+																"32985_1": "WISI (Wirtschaftsinformatik und Simulation)"
+															}
+														},
+														"Controlling und Digital Business": {
+															"events": {
+																"32961_1": "CODB (Controlling und Digital Business)",
+																"33123_1": "CODB L (Controlling und Digital Business Laborpraktikum)"
+															}
+														},
+														"Prozessmanagement": {
+															"events": {
+																"33024_1": "PZMGT (Prozessmanagement)",
+																"32754_1": "PZMGT L (Prozessmanagement Laborpraktikum)"
+															}
+														},
+														"Ausgewählte Themen in Produktionstechnik und -management": {
+															"events": {
+																"32848_1": "AT-PP (Ausgewählte Themen in Produktionstechnik und -management)",
+																"32826_1": "AT-PP L (Ausgewählte Themen in Produktionstechnik und -management Laborpraktikum)"
+															}
+														}
+													}
+												},
+												"Softwareanwendungen im Maschinenbau": {
+													"subDirectories": {
+														"Softwareanwendungen im Maschinenbau Laborpraktikum": {
+															"events": {
+																"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+																"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
+															}
+														}
+													},
+													"events": {
+														"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
+													}
+												},
+												"Qualitätsmanagement und Qualitätsprüfung": {
+													"events": {
+														"32913_1": "QMQP L (Qualitätsmanagement und Qualitätsprüfung Laborpraktikum)",
+														"33160_1": "QMQP (Qualitätsmanagement und Qualitätsprüfung)"
+													}
+												},
+												"Additive Fertigung": {
+													"events": {
+														"33075_1": "ADDFT (Additive Fertigung)",
+														"33172_1": "ADDFT L (Additive Fertigung Laborpraktikum)"
+													}
+												},
+												"Fügetechnik": {
+													"events": {
+														"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
+														"33053_1": "FügeT (Fügetechnik)"
+													}
+												},
+												"Leichtbau": {
+													"events": {
+														"32795_1": "LEB (Leichtbau)",
+														"33071_1": "LEB (Leichtbau Laborpraktikum)"
+													}
+												},
+												"Konstruktion D": {
+													"events": {
+														"33182_1": "KOND L (Konstruktion D Laborpraktikum)",
+														"32704_1": "KOND (Konstruktion D)"
+													}
+												},
+												"Simulation in der Produktentwicklung": {
+													"events": {
+														"33223_1": "SIMPE (Simulation in der Produktentwicklung)",
+														"32829_1": "SIMPE L (Simulation in der Produktentwicklung Laborpraktikum)"
+													}
+												},
+												"Maschinendynamik": {
+													"events": {
+														"33124_1": "MDY (Maschinendynamik)",
+														"33077_1": "MDY L (Maschinendynamik Laborpraktikum)"
+													}
+												},
+												"Fluidtechnik": {
+													"events": {
+														"33052_1": "FLUIDT L (Fluidtechnik Laborpraktikum)",
+														"33057_1": "FLUIDT (Fluidtechnik)"
+													}
+												},
+												"Kreativmethoden in der Produktentwicklung": {
+													"events": {
+														"32905_1": "KMP (Kreativmethoden in der Produktentwicklung)",
+														"33287_1": "KMP L (Kreativmethoden in der Produktentwicklung Laborpraktikum)"
+													}
+												},
+												"Ausgewählte Themen in Entwicklung und Konstruktion": {
+													"events": {
+														"33101_1": "AT-EK (Ausgewählte Themen in Entwicklung und Konstruktion)",
+														"33099_1": "AT-EK L (Ausgewählte Themen in Entwicklung und Konstruktion Laborpraktikum)"
+													}
+												}
+											}
+										},
+										"Finite-Elemente-Methode": {
+											"events": {
+												"32831_1": "FEM (Finite-Elemente-Methode)",
+												"33272_1": "FEM L (Finite-Elemente-Methode Laborpraktikum)"
+											}
+										},
+										"Technische Schwingungslehre": {
+											"events": {
+												"32881_1": "TSL (Technische Schwingungslehre)",
+												"32744_1": "TSL L (Technische Schwingungslehre Laborpraktikum)"
+											}
+										}
+									}
+								},
+								"Studienrichtung Produktionstechnik und -management": {
+									"subDirectories": {
+										"Wahlpflichtmodule Studienrichtung Produktionstechnik und -management": {
+											"subDirectories": {
+												"Schwerpunkt Energieeffiziente Produktion": {
+													"subDirectories": {
+														"Wahlpflichtmodule aus Energietechnik": {
+															"subDirectories": {
+																"Fügetechnik": {
+																	"events": {
+																		"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
+																		"33053_1": "FügeT (Fügetechnik)"
+																	}
+																},
+																"Urbane Mobilität und Elektromobilität": {
+																	"events": {
+																		"33129_1": "UME L (Urbane Mobilität und Elektromobilität Laborpraktikum)",
+																		"33003_1": "UME (Urbane Mobilität und Elektromobilität)"
+																	}
+																},
+																"Anlagenautomatisierung": {
+																	"events": {
+																		"33069_1": "ALAM L (Anlagenautomatisierung Laborpraktikum)",
+																		"33257_1": "ALAM (Anlagenautomatisierung)"
+																	}
+																},
+																"Thermische Energiesysteme": {
+																	"events": {
+																		"33166_1": "TESY L (Thermische Energiesysteme Laborpraktikum)",
+																		"32927_1": "TESY (Thermische Energiesysteme)"
+																	}
+																},
+																"Kältetechnik": {
+																	"events": {
+																		"33164_1": "KAET L (Kältetechnik Laborpraktikum)",
+																		"32951_1": "KAET (Kältetechnik)"
+																	}
+																},
+																"Energieeffiziente Produktion": {
+																	"events": {
+																		"32821_1": "EEP L (Energieeffiziente Produktion Laborpraktikum)",
+																		"33273_1": "EEP (Energieeffiziente Produktion)"
+																	}
+																},
+																"Ausgewählte Themen der Energietechnik": {
+																	"events": {
+																		"32863_1": "AT-EN (Ausgewählte Themen der Energietechnik)",
+																		"32723_1": "AT-EN L (Ausgewählte Themen der Energietechnik Laborpraktikum)"
+																	}
+																},
+																"Finite-Elemente-Methode": {
+																	"events": {
+																		"32831_1": "FEM (Finite-Elemente-Methode)",
+																		"33272_1": "FEM L (Finite-Elemente-Methode Laborpraktikum)"
+																	}
+																},
+																"Windenergieanlagen": {
+																	"events": {
+																		"32890_1": "WEA (Windenergieanlagen)",
+																		"32903_1": "WEA L (Windenergieanlagen Laborpraktikum)"
+																	}
+																},
+																"Solare Energiebereitstellung": {
+																	"events": {
+																		"32899_1": "SEB (Solare Energiebereitstellung)",
+																		"33186_1": "SEB L (Solare Energiebereitstellung Laborpraktikum)"
+																	}
+																},
+																"Energetische Nutzung nachwachsender Rohstoffe": {
+																	"events": {
+																		"33194_1": "ENNR (Energetische Nutzung nachwachsender Rohstoffe)",
+																		"32958_1": "ENNR L (Energetische Nutzung nachwachsender Rohstoffe Laborpraktikum)"
+																	}
+																}
+															}
+														},
+														"Technische Thermodynamik 2": {
+															"events": {
+																"33243_1": "TTD-2 L (Technische Thermodynamik 2 Laborpraktikum)",
+																"33065_1": "TTD-2 (Technische Thermodynamik 2)"
+															}
+														},
+														"Wärme- und Stoffübertragung": {
+															"events": {
+																"33217_1": "WSUE (Wärme- und Stoffübertragung)",
+																"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
+															}
+														}
+													}
+												},
+												"Schwerpunkt Digitale Produktion": {
+													"subDirectories": {
+														"Pflichtmodulen Digital Engineering and Mobility und Wahlpflichtmodule Robotik und Angewandte künstliche Intelligenz": {
+															"subDirectories": {
+																"Methodische Produktentwicklung": {
+																	"subDirectories": {
+																		"Methodische Produktentwicklung": {
+																			"events": {
+																				"33143_1": "MPE/01 (Methodische Produktentwicklung)",
+																				"33143_2": "MPE/02 (Methodische Produktentwicklung)"
+																			}
+																		},
+																		"Methodische Produktentwicklung Laborpraktikum": {
+																			"events": {
+																				"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+																				"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)"
+																			}
+																		}
+																	}
+																},
+																"Maschinelles Lernen und Datenanalyse": {
+																	"events": {
+																		"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
+																		"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
+																	}
+																},
+																"Autonome mobile Systeme": {
+																	"events": {
+																		"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
+																		"33195_1": "AMS (Autonome mobile Systeme)"
+																	}
+																},
+																"Roboterbasierte Fertigung": {
+																	"events": {
+																		"33230_1": "RBF L (Roboterbasierte Fertigung Laborpraktikum)",
+																		"32965_1": "RBF (Roboterbasierte Fertigung)"
+																	}
+																},
+																"Industrielle Logistik": {
+																	"events": {
+																		"33177_1": "ILOG (Industrielle Logistik)",
+																		"33012_1": "ILOG L (Industrielle Logistik Laborpraktikum)"
+																	}
+																},
+																"Angewandte künstliche Intelligenz": {
+																	"events": {
+																		"33168_1": "AKI L (Angewandte künstliche Intelligenz Laborpraktikum)",
+																		"33248_1": "AKI (Angewandte künstliche Intelligenz)"
+																	}
+																}
+															}
+														},
+														"Mechatronik": {
+															"events": {
+																"32888_1": "MTR (Mechatronik)",
+																"33029_1": "MTR L (Mechatronik Laborpraktikum)"
+															}
+														},
+														"Softwareanwendungen im Maschinenbau": {
+															"subDirectories": {
+																"Softwareanwendungen im Maschinenbau Laborpraktikum": {
+																	"events": {
+																		"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+																		"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
+																	}
+																}
+															},
+															"events": {
+																"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
+															}
+														}
+													}
+												},
+												"Austauschmodul": {
+													"subDirectories": {
+														"Methodische Produktentwicklung": {
+															"subDirectories": {
+																"Methodische Produktentwicklung": {
+																	"events": {
+																		"33143_1": "MPE/01 (Methodische Produktentwicklung)",
+																		"33143_2": "MPE/02 (Methodische Produktentwicklung)"
+																	}
+																},
+																"Methodische Produktentwicklung Laborpraktikum": {
+																	"events": {
+																		"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+																		"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)"
+																	}
+																}
+															}
+														},
+														"Softwareanwendungen im Maschinenbau": {
+															"subDirectories": {
+																"Softwareanwendungen im Maschinenbau Laborpraktikum": {
+																	"events": {
+																		"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+																		"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
+																	}
+																}
+															},
+															"events": {
+																"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
+															}
+														},
+														"Maschinelles Lernen und Datenanalyse": {
+															"events": {
+																"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
+																"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
+															}
+														},
+														"Autonome mobile Systeme": {
+															"events": {
+																"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
+																"33195_1": "AMS (Autonome mobile Systeme)"
+															}
+														},
+														"Mechatronik": {
+															"events": {
+																"32888_1": "MTR (Mechatronik)",
+																"33029_1": "MTR L (Mechatronik Laborpraktikum)"
+															}
+														},
+														"Leichtbau": {
+															"events": {
+																"32795_1": "LEB (Leichtbau)",
+																"33071_1": "LEB (Leichtbau Laborpraktikum)"
+															}
+														},
+														"Urbane Mobilität und Elektromobilität": {
+															"events": {
+																"33129_1": "UME L (Urbane Mobilität und Elektromobilität Laborpraktikum)",
+																"33003_1": "UME (Urbane Mobilität und Elektromobilität)"
+															}
+														},
+														"Roboterbasierte Fertigung": {
+															"events": {
+																"33230_1": "RBF L (Roboterbasierte Fertigung Laborpraktikum)",
+																"32965_1": "RBF (Roboterbasierte Fertigung)"
+															}
+														},
+														"Angewandte künstliche Intelligenz": {
+															"events": {
+																"33168_1": "AKI L (Angewandte künstliche Intelligenz Laborpraktikum)",
+																"33248_1": "AKI (Angewandte künstliche Intelligenz)"
+															}
+														},
+														"Technische Thermodynamik 2": {
+															"events": {
+																"33243_1": "TTD-2 L (Technische Thermodynamik 2 Laborpraktikum)",
+																"33065_1": "TTD-2 (Technische Thermodynamik 2)"
+															}
+														},
+														"Strömungslehre 2 und CFD": {
+															"events": {
+																"32862_1": "STL2CFD (Strömungslehre 2 und CFD)",
+																"33073_1": "STL2CFD L (Strömungslehre 2 und CFD Laborpraktikum)"
+															}
+														},
+														"Wärme- und Stoffübertragung": {
+															"events": {
+																"33217_1": "WSUE (Wärme- und Stoffübertragung)",
+																"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
+															}
+														},
+														"Thermische Systemmodellierung": {
+															"events": {
+																"32875_1": "THSM (Thermische Systemmodellierung)",
+																"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
+															}
+														},
+														"Anlagenautomatisierung": {
+															"events": {
+																"33069_1": "ALAM L (Anlagenautomatisierung Laborpraktikum)",
+																"33257_1": "ALAM (Anlagenautomatisierung)"
+															}
+														},
+														"Thermische Energiesysteme": {
+															"events": {
+																"33166_1": "TESY L (Thermische Energiesysteme Laborpraktikum)",
+																"32927_1": "TESY (Thermische Energiesysteme)"
+															}
+														},
+														"Kältetechnik": {
+															"events": {
+																"33164_1": "KAET L (Kältetechnik Laborpraktikum)",
+																"32951_1": "KAET (Kältetechnik)"
+															}
+														},
+														"Windenergieanlagen": {
+															"events": {
+																"32890_1": "WEA (Windenergieanlagen)",
+																"32903_1": "WEA L (Windenergieanlagen Laborpraktikum)"
+															}
+														},
+														"Solare Energiebereitstellung": {
+															"events": {
+																"32899_1": "SEB (Solare Energiebereitstellung)",
+																"33186_1": "SEB L (Solare Energiebereitstellung Laborpraktikum)"
+															}
+														},
+														"Energetische Nutzung nachwachsender Rohstoffe": {
+															"events": {
+																"33194_1": "ENNR (Energetische Nutzung nachwachsender Rohstoffe)",
+																"32958_1": "ENNR L (Energetische Nutzung nachwachsender Rohstoffe Laborpraktikum)"
+															}
+														},
+														"Ausgewählte Themen der Energietechnik": {
+															"events": {
+																"32863_1": "AT-EN (Ausgewählte Themen der Energietechnik)",
+																"32723_1": "AT-EN L (Ausgewählte Themen der Energietechnik Laborpraktikum)"
+															}
+														},
+														"Konstruktion C": {
+															"events": {
+																"33094_1": "KONC L (Konstruktion C Laborpraktikum)",
+																"33035_1": "KONC (Konstruktion C)"
+															}
+														},
+														"Numerische Methoden der Mechanik": {
+															"events": {
+																"33151_1": "NMM (Numerische Methoden der Mechanik)",
+																"32970_1": "NMM L (Numerische Methoden der Mechanik Laborpraktikum)"
+															}
+														},
+														"Finite-Elemente-Methode": {
+															"events": {
+																"32831_1": "FEM (Finite-Elemente-Methode)",
+																"33272_1": "FEM L (Finite-Elemente-Methode Laborpraktikum)"
+															}
+														},
+														"Konstruktion D": {
+															"events": {
+																"33182_1": "KOND L (Konstruktion D Laborpraktikum)",
+																"32704_1": "KOND (Konstruktion D)"
+															}
+														},
+														"Simulation in der Produktentwicklung": {
+															"events": {
+																"33223_1": "SIMPE (Simulation in der Produktentwicklung)",
+																"32829_1": "SIMPE L (Simulation in der Produktentwicklung Laborpraktikum)"
+															}
+														},
+														"Maschinendynamik": {
+															"events": {
+																"33124_1": "MDY (Maschinendynamik)",
+																"33077_1": "MDY L (Maschinendynamik Laborpraktikum)"
+															}
+														},
+														"Fluidtechnik": {
+															"events": {
+																"33052_1": "FLUIDT L (Fluidtechnik Laborpraktikum)",
+																"33057_1": "FLUIDT (Fluidtechnik)"
+															}
+														},
+														"Kreativmethoden in der Produktentwicklung": {
+															"events": {
+																"32905_1": "KMP (Kreativmethoden in der Produktentwicklung)",
+																"33287_1": "KMP L (Kreativmethoden in der Produktentwicklung Laborpraktikum)"
+															}
+														},
+														"Ausgewählte Themen in Entwicklung und Konstruktion": {
+															"events": {
+																"33101_1": "AT-EK (Ausgewählte Themen in Entwicklung und Konstruktion)",
+																"33099_1": "AT-EK L (Ausgewählte Themen in Entwicklung und Konstruktion Laborpraktikum)"
+															}
+														}
+													}
+												},
+												"Qualitätsmanagement und Qualitätsprüfung": {
+													"events": {
+														"32913_1": "QMQP L (Qualitätsmanagement und Qualitätsprüfung Laborpraktikum)",
+														"33160_1": "QMQP (Qualitätsmanagement und Qualitätsprüfung)"
+													}
+												},
+												"Additive Fertigung": {
+													"events": {
+														"33075_1": "ADDFT (Additive Fertigung)",
+														"33172_1": "ADDFT L (Additive Fertigung Laborpraktikum)"
+													}
+												},
+												"Industrielle Logistik": {
+													"events": {
+														"33177_1": "ILOG (Industrielle Logistik)",
+														"33012_1": "ILOG L (Industrielle Logistik Laborpraktikum)"
+													}
+												},
+												"Fügetechnik": {
+													"events": {
+														"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
+														"33053_1": "FügeT (Fügetechnik)"
+													}
+												},
+												"Energieeffiziente Produktion": {
+													"events": {
+														"32821_1": "EEP L (Energieeffiziente Produktion Laborpraktikum)",
+														"33273_1": "EEP (Energieeffiziente Produktion)"
+													}
+												},
+												"Kunststoffverarbeitung": {
+													"events": {
+														"33207_1": "KSV (Kunststoffverarbeitung)",
+														"32699_1": "KSV L (Kunststoffverarbeitung Laborpraktikum)"
+													}
+												},
+												"CAD-CAM-Prozesskette": {
+													"events": {
+														"33116_1": "CADCAM (CAD-CAM-Prozesskette)",
+														"33241_1": "CADCAM L (CAD-CAM-Prozesskette Laborpraktikum)"
+													}
+												},
+												"Oberflächentechnik": {
+													"events": {
+														"32247_1": "OFT L (Oberflächentechnik Laborpraktikum)",
+														"32093_1": "OFT (Oberflächentechnik)"
+													}
+												},
+												"Wirtschaftsinformatik und Simulation": {
+													"events": {
+														"32882_1": "WISI L (Wirtschaftsinformatik und Simulation Laborpraktikum)",
+														"32985_1": "WISI (Wirtschaftsinformatik und Simulation)"
+													}
+												},
+												"Controlling und Digital Business": {
+													"events": {
+														"32961_1": "CODB (Controlling und Digital Business)",
+														"33123_1": "CODB L (Controlling und Digital Business Laborpraktikum)"
+													}
+												},
+												"Prozessmanagement": {
+													"events": {
+														"33024_1": "PZMGT (Prozessmanagement)",
+														"32754_1": "PZMGT L (Prozessmanagement Laborpraktikum)"
+													}
+												},
+												"Ausgewählte Themen in Produktionstechnik und -management": {
+													"events": {
+														"32848_1": "AT-PP (Ausgewählte Themen in Produktionstechnik und -management)",
+														"32826_1": "AT-PP L (Ausgewählte Themen in Produktionstechnik und -management Laborpraktikum)"
+													}
+												},
+												"Technische Schwingungslehre": {
+													"events": {
+														"32881_1": "TSL (Technische Schwingungslehre)",
+														"32744_1": "TSL L (Technische Schwingungslehre Laborpraktikum)"
+													}
+												}
+											}
+										}
+									}
+								},
+								"Mess-, Steuer- und Regelungstechnik": {
+									"subDirectories": {
+										"Mess-, Steuer- und Regelungstechnik": {
+											"events": {
+												"33015_1": "MSR/01 (Mess-, Steuer- und Regelungstechnik)",
+												"33015_2": "MSR/02 (Mess-, Steuer- und Regelungstechnik)"
+											}
+										},
+										"Mess-, Steuer- und Regelungstechnik Laborpraktikum": {
+											"events": {
+												"33067_1": "MSR L/01 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
+												"33067_2": "MSR L/02 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)"
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"Bachelor Mechanical Engineering (PO SoSe 2025)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"Maschinenzeichnen und CAD": {
+									"subDirectories": {
+										"Maschinenzeichnen und CAD Labor": {
+											"events": {
+												"41828_1": "MZCAD-E/01 (Maschinenzeichnen und CAD Labor)",
+												"41828_2": "MZCAD-E/02 (Maschinenzeichnen und CAD Labor)"
+											}
+										}
+									},
+									"events": {
+										"41952_1": "MZCAD-E (Maschinenzeichnen und CAD)"
+									}
+								}
+							},
+							"events": {
+								"41921_1": "MAT-1-E (Mathematik 1)",
+								"41771_1": "TM-1-E (Technische Mechanik 1)",
+								"41915_1": "IBL-E (Industriebetriebslehre)",
+								"41799_1": "EPH-E (Experimentalphysik)",
+								"41930_1": "WSK-E (Werkstoffkunde 1)",
+								"41924_1": "ELPJ-E (Praxisprojekt)"
+							}
+						},
+						"2. Semester": {
+							"events": {
+								"41786_1": "FTT-E (Fertigungstechnik Labor)"
+							}
+						},
+						"3. Semester": {
+							"subDirectories": {
+								"Konstruktion B": {
+									"events": {
+										"41849_1": "KONB-E (Konstruktion B)",
+										"41802_1": "KONB-E (Konstruktion B Konstruktionsarbeit)"
+									}
+								},
+								"Angewandte Informatik": {
+									"events": {
+										"41861_1": "AINF-E (Angewandte Informatik)",
+										"41862_1": "AINF-E (Angewandte Informatik Labor)"
+									}
+								},
+								"Strömungslehre 1": {
+									"events": {
+										"41824_1": "STL-1-E (Strömungslehre 1)",
+										"41796_1": "STL-1-E (Strömungslehre 1 Labor)"
+									}
+								}
+							},
+							"events": {
+								"41838_1": "TM-3-E (Technische Mechanik 3)",
+								"41808_1": "GET-E (Grundlagen Elektrotechnik)",
+								"41953_1": "TTD1-E (Technische Thermodynamik 1)"
+							}
+						}
+					}
+				},
 				"Bachelor Verfahrenstechnik (PO WS 2025/26)": {
 					"subDirectories": {
 						"1. Semester": {
@@ -7100,7 +8908,45 @@
 						}
 					}
 				},
-				"Bachelor Maschinenbau (Fertigungstechnik) (PO WS 2021/22)": {},
+				"Bachelor Maschinenbau (Fertigungstechnik) (PO WS 2021/22)": {
+					"subDirectories": {
+						"4. Semester": {
+							"subDirectories": {
+								"CAD/CAM": {
+									"events": {
+										"45640_1": "CM.LV (CAD/CAM)",
+										"45641_1": "CMP.LV (CAD/CAM Labor)"
+									}
+								}
+							}
+						},
+						"5. Semester": {
+							"events": {
+								"45649_1": "FTP1.LV (Fertigungstechnik I)"
+							}
+						},
+						"6. Semester": {
+							"subDirectories": {
+								"Werkstoffkunde": {
+									"events": {
+										"45656_1": "WK.LV (Werkstoffkunde)",
+										"45657_1": "WKP.LV (Werkstoffkunde)"
+									}
+								},
+								"Maschinenelemente II": {
+									"events": {
+										"45650_1": "EA.LV (Maschinenelemente II)",
+										"45651_1": "EAP.LV (Maschinenelemente II)"
+									}
+								}
+							},
+							"events": {
+								"45645_1": "FTP2.LV (Fertigungstechnik II)",
+								"45653_1": "TM2.LV (Technische Mechanik II)"
+							}
+						}
+					}
+				},
 				"Master Process Engineering (PO SoSe 2020)": {
 					"subDirectories": {
 						"Pflichtmodule": {
@@ -7154,10 +9000,1331 @@
 						}
 					}
 				},
-				"Master Produktionstechnik und -management (PO SoSe 2020)": {},
-				"Master Konstruktionstechnik und Produktentwicklung im Maschinenbau (PO SoSe 2020)": {},
-				"Master Nachhaltige Energiesysteme im Maschinenbau (PO SoSe 2020)": {},
-				"Master Berechnung und Simulation im Maschinenbau (PO SoSe 2020)": {}
+				"Master Produktionstechnik und -management (PO SoSe 2020)": {
+					"subDirectories": {
+						"Studiengangsübergreifendes Wahlpflichtangebot": {
+							"subDirectories": {
+								"Austauschmodul für ein Wahlpflichtmodul": {
+									"subDirectories": {
+										"Kraft-Wärme-Kopplung": {
+											"events": {
+												"31575_1": "KWK (Kraft-Wärme-Kopplung)",
+												"31808_1": "KWK P (Kraft-Wärme-Kopplung Praktikum)"
+											}
+										},
+										"Elektrotechnik in nachhaltigen Energiesystemen": {
+											"events": {
+												"31839_1": "ETNES (Elektrotechnik in nachhaltigen Energiesystemen)",
+												"31828_1": "ETNES P (Elektrotechnik in nachhaltigen Energiesystemen Praktikum)"
+											}
+										},
+										"Berechnung und Konstruktion von Wind- und Wellenenergieanlagen": {
+											"events": {
+												"31576_1": "BKWWA (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen)",
+												"31835_1": "BKWWA P (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen Praktikum)"
+											}
+										},
+										"Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
+											"events": {
+												"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
+												"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
+											}
+										},
+										"Nichtlineare FEM": {
+											"events": {
+												"31672_1": "NLFEM (Nichtlineare FEM)",
+												"31777_1": "NLFEM P (Nichtlineare FEM Praktikum)"
+											}
+										},
+										"FEM für Dynamik": {
+											"events": {
+												"31606_1": "FEMDYN (FEM für Dynamik)",
+												"31572_1": "FEMDYN P (FEM für Dynamik Praktikum)"
+											}
+										},
+										"Mehrkörpersysteme": {
+											"events": {
+												"31538_1": "MKS (Mehrkörpersysteme)",
+												"31512_1": "MKS P (Mehrkörpersysteme Praktikum)"
+											}
+										},
+										"Ermüdungsfestigkeit": {
+											"events": {
+												"31591_1": "ERMF (Ermüdungsfestigkeit)",
+												"31755_1": "ERMF P (Ermüdungsfestigkeit Praktikum)"
+											}
+										},
+										"Computational Acoustics (engl.)": {
+											"events": {
+												"31786_1": "COMPA (Computational Acoustics (engl.))",
+												"31782_1": "COMPA P (Computational Acoustics Praktikum)"
+											}
+										},
+										"Virtual Product Development (engl.)": {
+											"events": {
+												"31763_1": "VPD (Virtual Product Development (engl.))",
+												"31686_1": "VPD P (Virtual Product Development Praktikum)"
+											}
+										},
+										"Ergonomiegerechte Produktgestaltung": {
+											"events": {
+												"31822_1": "EPG (Ergonomiegerechte Produktgestaltung)",
+												"31628_1": "EPG P (Ergonomiegerechte Produktgestaltung Praktikum)"
+											}
+										},
+										"Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme": {
+											"events": {
+												"31543_1": "NGKO (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme)",
+												"31623_1": "NGKO P (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme Praktikum)"
+											}
+										},
+										"Methoden der integrierten Produktentwicklung": {
+											"events": {
+												"31750_1": "MIP (Methoden der integrierten Produktentwicklung)",
+												"31679_1": "MIP P (Methoden der integrierten Produktentwicklung Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"31790_1": "NLO (Nichtlineare Optimierung)"
+									}
+								}
+							},
+							"events": {
+								"31539_1": "UFTM (Unternehmensführung / Technologiemanagement)",
+								"31765_1": "PJMK (Projektmanagement / Kommunikation)",
+								"31562_1": "VPE (Verfahrens- und Produktentwicklung)",
+								"31577_1": "SYST (Systemtechnik)",
+								"31749_1": "STATDV (Statistische Datenauswertung und Versuchsplanung)"
+							}
+						},
+						"Pflichtmodul Mathematische Verfahren": {
+							"events": {
+								"31530_1": "MAME (Mathematische Methoden)"
+							}
+						},
+						"Vertiefungsstudium": {
+							"subDirectories": {
+								"Austauschmodul für ein Wahlpflichtmodul": {
+									"subDirectories": {
+										"Kraft-Wärme-Kopplung": {
+											"events": {
+												"31575_1": "KWK (Kraft-Wärme-Kopplung)",
+												"31808_1": "KWK P (Kraft-Wärme-Kopplung Praktikum)"
+											}
+										},
+										"Elektrotechnik in nachhaltigen Energiesystemen": {
+											"events": {
+												"31839_1": "ETNES (Elektrotechnik in nachhaltigen Energiesystemen)",
+												"31828_1": "ETNES P (Elektrotechnik in nachhaltigen Energiesystemen Praktikum)"
+											}
+										},
+										"Berechnung und Konstruktion von Wind- und Wellenenergieanlagen": {
+											"events": {
+												"31576_1": "BKWWA (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen)",
+												"31835_1": "BKWWA P (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen Praktikum)"
+											}
+										},
+										"Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
+											"events": {
+												"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
+												"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
+											}
+										},
+										"Nichtlineare FEM": {
+											"events": {
+												"31672_1": "NLFEM (Nichtlineare FEM)",
+												"31777_1": "NLFEM P (Nichtlineare FEM Praktikum)"
+											}
+										},
+										"FEM für Dynamik": {
+											"events": {
+												"31606_1": "FEMDYN (FEM für Dynamik)",
+												"31572_1": "FEMDYN P (FEM für Dynamik Praktikum)"
+											}
+										},
+										"Mehrkörpersysteme": {
+											"events": {
+												"31538_1": "MKS (Mehrkörpersysteme)",
+												"31512_1": "MKS P (Mehrkörpersysteme Praktikum)"
+											}
+										},
+										"Ermüdungsfestigkeit": {
+											"events": {
+												"31591_1": "ERMF (Ermüdungsfestigkeit)",
+												"31755_1": "ERMF P (Ermüdungsfestigkeit Praktikum)"
+											}
+										},
+										"Computational Acoustics (engl.)": {
+											"events": {
+												"31786_1": "COMPA (Computational Acoustics (engl.))",
+												"31782_1": "COMPA P (Computational Acoustics Praktikum)"
+											}
+										},
+										"Virtual Product Development (engl.)": {
+											"events": {
+												"31763_1": "VPD (Virtual Product Development (engl.))",
+												"31686_1": "VPD P (Virtual Product Development Praktikum)"
+											}
+										},
+										"Ergonomiegerechte Produktgestaltung": {
+											"events": {
+												"31822_1": "EPG (Ergonomiegerechte Produktgestaltung)",
+												"31628_1": "EPG P (Ergonomiegerechte Produktgestaltung Praktikum)"
+											}
+										},
+										"Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme": {
+											"events": {
+												"31543_1": "NGKO (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme)",
+												"31623_1": "NGKO P (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme Praktikum)"
+											}
+										},
+										"Methoden der integrierten Produktentwicklung": {
+											"events": {
+												"31750_1": "MIP (Methoden der integrierten Produktentwicklung)",
+												"31679_1": "MIP P (Methoden der integrierten Produktentwicklung Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"31790_1": "NLO (Nichtlineare Optimierung)"
+									}
+								},
+								"Global Customer Processes": {
+									"events": {
+										"31795_1": "GCP (Global Customer Processes)",
+										"31608_1": "GCP P (Global Customer Processes Praktikum)"
+									}
+								},
+								"Ausgewählte Themen aus dem Produkt- und Produktionsmanagement": {
+									"events": {
+										"31751_1": "AT-PPM (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)",
+										"31579_1": "AT-PPM P (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)"
+									}
+								},
+								"Feinbearbeitungsverfahren": {
+									"events": {
+										"31677_1": "FBV (Feinbearbeitungsverfahren)",
+										"31827_1": "FBV P (Feinbearbeitungsverfahren Praktikum)"
+									}
+								},
+								"Tribologie / Tribodesign": {
+									"events": {
+										"31842_1": "TRIBO (Tribologie / Tribodesign)",
+										"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
+									}
+								},
+								"Simulation komplexer Produktion": {
+									"events": {
+										"31690_1": "SIMKP (Simulation komplexer Produktion)",
+										"31571_1": "SIMKP P (Simulation komplexer Produktion Praktikum)"
+									}
+								},
+								"Digitalisierung in der Produktion": {
+									"events": {
+										"31738_1": "DIP (Digitalisierung in der Produktion)",
+										"31806_1": "DIP P (Digitalisierung in der Produktion Praktikum)"
+									}
+								}
+							}
+						}
+					}
+				},
+				"Master Konstruktionstechnik und Produktentwicklung im Maschinenbau (PO SoSe 2020)": {
+					"subDirectories": {
+						"Studiengangsübergreifendes Wahlpflichtangebot": {
+							"subDirectories": {
+								"Austauschmodul für ein Wahlpflichtmodul": {
+									"subDirectories": {
+										"Global Customer Processes": {
+											"events": {
+												"31795_1": "GCP (Global Customer Processes)",
+												"31608_1": "GCP P (Global Customer Processes Praktikum)"
+											}
+										},
+										"Ausgewählte Themen aus dem Produkt- und Produktionsmanagement": {
+											"events": {
+												"31751_1": "AT-PPM (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)",
+												"31579_1": "AT-PPM P (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)"
+											}
+										},
+										"Feinbearbeitungsverfahren": {
+											"events": {
+												"31677_1": "FBV (Feinbearbeitungsverfahren)",
+												"31827_1": "FBV P (Feinbearbeitungsverfahren Praktikum)"
+											}
+										},
+										"Simulation komplexer Produktion": {
+											"events": {
+												"31690_1": "SIMKP (Simulation komplexer Produktion)",
+												"31571_1": "SIMKP P (Simulation komplexer Produktion Praktikum)"
+											}
+										},
+										"Digitalisierung in der Produktion": {
+											"events": {
+												"31738_1": "DIP (Digitalisierung in der Produktion)",
+												"31806_1": "DIP P (Digitalisierung in der Produktion Praktikum)"
+											}
+										},
+										"Kraft-Wärme-Kopplung": {
+											"events": {
+												"31575_1": "KWK (Kraft-Wärme-Kopplung)",
+												"31808_1": "KWK P (Kraft-Wärme-Kopplung Praktikum)"
+											}
+										},
+										"Elektrotechnik in nachhaltigen Energiesystemen": {
+											"events": {
+												"31839_1": "ETNES (Elektrotechnik in nachhaltigen Energiesystemen)",
+												"31828_1": "ETNES P (Elektrotechnik in nachhaltigen Energiesystemen Praktikum)"
+											}
+										},
+										"Berechnung und Konstruktion von Wind- und Wellenenergieanlagen": {
+											"events": {
+												"31576_1": "BKWWA (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen)",
+												"31835_1": "BKWWA P (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen Praktikum)"
+											}
+										},
+										"Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
+											"events": {
+												"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
+												"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
+											}
+										},
+										"Nichtlineare FEM": {
+											"events": {
+												"31672_1": "NLFEM (Nichtlineare FEM)",
+												"31777_1": "NLFEM P (Nichtlineare FEM Praktikum)"
+											}
+										},
+										"FEM für Dynamik": {
+											"events": {
+												"31606_1": "FEMDYN (FEM für Dynamik)",
+												"31572_1": "FEMDYN P (FEM für Dynamik Praktikum)"
+											}
+										},
+										"Mehrkörpersysteme": {
+											"events": {
+												"31538_1": "MKS (Mehrkörpersysteme)",
+												"31512_1": "MKS P (Mehrkörpersysteme Praktikum)"
+											}
+										},
+										"Ermüdungsfestigkeit": {
+											"events": {
+												"31591_1": "ERMF (Ermüdungsfestigkeit)",
+												"31755_1": "ERMF P (Ermüdungsfestigkeit Praktikum)"
+											}
+										},
+										"Computational Acoustics (engl.)": {
+											"events": {
+												"31786_1": "COMPA (Computational Acoustics (engl.))",
+												"31782_1": "COMPA P (Computational Acoustics Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"31790_1": "NLO (Nichtlineare Optimierung)"
+									}
+								}
+							},
+							"events": {
+								"31539_1": "UFTM (Unternehmensführung / Technologiemanagement)",
+								"31765_1": "PJMK (Projektmanagement / Kommunikation)",
+								"31562_1": "VPE (Verfahrens- und Produktentwicklung)",
+								"31577_1": "SYST (Systemtechnik)",
+								"31749_1": "STATDV (Statistische Datenauswertung und Versuchsplanung)"
+							}
+						},
+						"Pflichtmodul Mathematische Verfahren": {
+							"events": {
+								"31873_1": "MANU (Mathematik und Numerik)"
+							}
+						},
+						"Wahlmodul aus dem Masterangebot": {
+							"subDirectories": {
+								"Virtual Product Development (engl.)": {
+									"events": {
+										"31763_1": "VPD (Virtual Product Development (engl.))",
+										"31686_1": "VPD P (Virtual Product Development Praktikum)"
+									}
+								},
+								"Ergonomiegerechte Produktgestaltung": {
+									"events": {
+										"31822_1": "EPG (Ergonomiegerechte Produktgestaltung)",
+										"31628_1": "EPG P (Ergonomiegerechte Produktgestaltung Praktikum)"
+									}
+								},
+								"Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme": {
+									"events": {
+										"31543_1": "NGKO (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme)",
+										"31623_1": "NGKO P (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme Praktikum)"
+									}
+								},
+								"Methoden der integrierten Produktentwicklung": {
+									"events": {
+										"31750_1": "MIP (Methoden der integrierten Produktentwicklung)",
+										"31679_1": "MIP P (Methoden der integrierten Produktentwicklung Praktikum)"
+									}
+								},
+								"Tribologie / Tribodesign": {
+									"events": {
+										"31842_1": "TRIBO (Tribologie / Tribodesign)",
+										"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
+									}
+								},
+								"Global Customer Processes": {
+									"events": {
+										"31795_1": "GCP (Global Customer Processes)",
+										"31608_1": "GCP P (Global Customer Processes Praktikum)"
+									}
+								},
+								"Ausgewählte Themen aus dem Produkt- und Produktionsmanagement": {
+									"events": {
+										"31751_1": "AT-PPM (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)",
+										"31579_1": "AT-PPM P (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)"
+									}
+								},
+								"Feinbearbeitungsverfahren": {
+									"events": {
+										"31677_1": "FBV (Feinbearbeitungsverfahren)",
+										"31827_1": "FBV P (Feinbearbeitungsverfahren Praktikum)"
+									}
+								},
+								"Simulation komplexer Produktion": {
+									"events": {
+										"31690_1": "SIMKP (Simulation komplexer Produktion)",
+										"31571_1": "SIMKP P (Simulation komplexer Produktion Praktikum)"
+									}
+								},
+								"Digitalisierung in der Produktion": {
+									"events": {
+										"31738_1": "DIP (Digitalisierung in der Produktion)",
+										"31806_1": "DIP P (Digitalisierung in der Produktion Praktikum)"
+									}
+								},
+								"Kraft-Wärme-Kopplung": {
+									"events": {
+										"31575_1": "KWK (Kraft-Wärme-Kopplung)",
+										"31808_1": "KWK P (Kraft-Wärme-Kopplung Praktikum)"
+									}
+								},
+								"Elektrotechnik in nachhaltigen Energiesystemen": {
+									"events": {
+										"31839_1": "ETNES (Elektrotechnik in nachhaltigen Energiesystemen)",
+										"31828_1": "ETNES P (Elektrotechnik in nachhaltigen Energiesystemen Praktikum)"
+									}
+								},
+								"Berechnung und Konstruktion von Wind- und Wellenenergieanlagen": {
+									"events": {
+										"31576_1": "BKWWA (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen)",
+										"31835_1": "BKWWA P (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen Praktikum)"
+									}
+								},
+								"Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
+									"events": {
+										"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
+										"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
+									}
+								},
+								"Nichtlineare FEM": {
+									"events": {
+										"31672_1": "NLFEM (Nichtlineare FEM)",
+										"31777_1": "NLFEM P (Nichtlineare FEM Praktikum)"
+									}
+								},
+								"FEM für Dynamik": {
+									"events": {
+										"31606_1": "FEMDYN (FEM für Dynamik)",
+										"31572_1": "FEMDYN P (FEM für Dynamik Praktikum)"
+									}
+								},
+								"Mehrkörpersysteme": {
+									"events": {
+										"31538_1": "MKS (Mehrkörpersysteme)",
+										"31512_1": "MKS P (Mehrkörpersysteme Praktikum)"
+									}
+								},
+								"Ermüdungsfestigkeit": {
+									"events": {
+										"31591_1": "ERMF (Ermüdungsfestigkeit)",
+										"31755_1": "ERMF P (Ermüdungsfestigkeit Praktikum)"
+									}
+								},
+								"Computational Acoustics (engl.)": {
+									"events": {
+										"31786_1": "COMPA (Computational Acoustics (engl.))",
+										"31782_1": "COMPA P (Computational Acoustics Praktikum)"
+									}
+								}
+							},
+							"events": {
+								"31790_1": "NLO (Nichtlineare Optimierung)",
+								"31539_1": "UFTM (Unternehmensführung / Technologiemanagement)",
+								"31765_1": "PJMK (Projektmanagement / Kommunikation)",
+								"31562_1": "VPE (Verfahrens- und Produktentwicklung)",
+								"31577_1": "SYST (Systemtechnik)",
+								"31749_1": "STATDV (Statistische Datenauswertung und Versuchsplanung)"
+							}
+						},
+						"Wahlpflichtmodule im Vertiefungsstudium": {
+							"subDirectories": {
+								"Austauschmodul für ein Wahlpflichtmodul": {
+									"subDirectories": {
+										"Global Customer Processes": {
+											"events": {
+												"31795_1": "GCP (Global Customer Processes)",
+												"31608_1": "GCP P (Global Customer Processes Praktikum)"
+											}
+										},
+										"Ausgewählte Themen aus dem Produkt- und Produktionsmanagement": {
+											"events": {
+												"31751_1": "AT-PPM (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)",
+												"31579_1": "AT-PPM P (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)"
+											}
+										},
+										"Feinbearbeitungsverfahren": {
+											"events": {
+												"31677_1": "FBV (Feinbearbeitungsverfahren)",
+												"31827_1": "FBV P (Feinbearbeitungsverfahren Praktikum)"
+											}
+										},
+										"Simulation komplexer Produktion": {
+											"events": {
+												"31690_1": "SIMKP (Simulation komplexer Produktion)",
+												"31571_1": "SIMKP P (Simulation komplexer Produktion Praktikum)"
+											}
+										},
+										"Digitalisierung in der Produktion": {
+											"events": {
+												"31738_1": "DIP (Digitalisierung in der Produktion)",
+												"31806_1": "DIP P (Digitalisierung in der Produktion Praktikum)"
+											}
+										},
+										"Kraft-Wärme-Kopplung": {
+											"events": {
+												"31575_1": "KWK (Kraft-Wärme-Kopplung)",
+												"31808_1": "KWK P (Kraft-Wärme-Kopplung Praktikum)"
+											}
+										},
+										"Elektrotechnik in nachhaltigen Energiesystemen": {
+											"events": {
+												"31839_1": "ETNES (Elektrotechnik in nachhaltigen Energiesystemen)",
+												"31828_1": "ETNES P (Elektrotechnik in nachhaltigen Energiesystemen Praktikum)"
+											}
+										},
+										"Berechnung und Konstruktion von Wind- und Wellenenergieanlagen": {
+											"events": {
+												"31576_1": "BKWWA (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen)",
+												"31835_1": "BKWWA P (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen Praktikum)"
+											}
+										},
+										"Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
+											"events": {
+												"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
+												"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
+											}
+										},
+										"Nichtlineare FEM": {
+											"events": {
+												"31672_1": "NLFEM (Nichtlineare FEM)",
+												"31777_1": "NLFEM P (Nichtlineare FEM Praktikum)"
+											}
+										},
+										"FEM für Dynamik": {
+											"events": {
+												"31606_1": "FEMDYN (FEM für Dynamik)",
+												"31572_1": "FEMDYN P (FEM für Dynamik Praktikum)"
+											}
+										},
+										"Mehrkörpersysteme": {
+											"events": {
+												"31538_1": "MKS (Mehrkörpersysteme)",
+												"31512_1": "MKS P (Mehrkörpersysteme Praktikum)"
+											}
+										},
+										"Ermüdungsfestigkeit": {
+											"events": {
+												"31591_1": "ERMF (Ermüdungsfestigkeit)",
+												"31755_1": "ERMF P (Ermüdungsfestigkeit Praktikum)"
+											}
+										},
+										"Computational Acoustics (engl.)": {
+											"events": {
+												"31786_1": "COMPA (Computational Acoustics (engl.))",
+												"31782_1": "COMPA P (Computational Acoustics Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"31790_1": "NLO (Nichtlineare Optimierung)"
+									}
+								},
+								"Virtual Product Development (engl.)": {
+									"events": {
+										"31763_1": "VPD (Virtual Product Development (engl.))",
+										"31686_1": "VPD P (Virtual Product Development Praktikum)"
+									}
+								},
+								"Ergonomiegerechte Produktgestaltung": {
+									"events": {
+										"31822_1": "EPG (Ergonomiegerechte Produktgestaltung)",
+										"31628_1": "EPG P (Ergonomiegerechte Produktgestaltung Praktikum)"
+									}
+								},
+								"Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme": {
+									"events": {
+										"31543_1": "NGKO (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme)",
+										"31623_1": "NGKO P (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme Praktikum)"
+									}
+								},
+								"Methoden der integrierten Produktentwicklung": {
+									"events": {
+										"31750_1": "MIP (Methoden der integrierten Produktentwicklung)",
+										"31679_1": "MIP P (Methoden der integrierten Produktentwicklung Praktikum)"
+									}
+								},
+								"Tribologie / Tribodesign": {
+									"events": {
+										"31842_1": "TRIBO (Tribologie / Tribodesign)",
+										"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
+									}
+								}
+							}
+						},
+						"Masterarbeit und Masterprojekt": {
+							"events": {
+								"31871_1": "EPRJ1 (Entwicklungsprojekt I)",
+								"31875_1": "EPRJ2 (Entwicklungsprojekt II)"
+							}
+						}
+					}
+				},
+				"Master Nachhaltige Energiesysteme im Maschinenbau (PO SoSe 2020)": {
+					"subDirectories": {
+						"Studiengangsübergreifendes Wahlpflichtangebot": {
+							"subDirectories": {
+								"Austauschmodul für ein Wahlpflichtmodul": {
+									"subDirectories": {
+										"Global Customer Processes": {
+											"events": {
+												"31795_1": "GCP (Global Customer Processes)",
+												"31608_1": "GCP P (Global Customer Processes Praktikum)"
+											}
+										},
+										"Ausgewählte Themen aus dem Produkt- und Produktionsmanagement": {
+											"events": {
+												"31751_1": "AT-PPM (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)",
+												"31579_1": "AT-PPM P (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)"
+											}
+										},
+										"Feinbearbeitungsverfahren": {
+											"events": {
+												"31677_1": "FBV (Feinbearbeitungsverfahren)",
+												"31827_1": "FBV P (Feinbearbeitungsverfahren Praktikum)"
+											}
+										},
+										"Tribologie / Tribodesign": {
+											"events": {
+												"31842_1": "TRIBO (Tribologie / Tribodesign)",
+												"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
+											}
+										},
+										"Simulation komplexer Produktion": {
+											"events": {
+												"31690_1": "SIMKP (Simulation komplexer Produktion)",
+												"31571_1": "SIMKP P (Simulation komplexer Produktion Praktikum)"
+											}
+										},
+										"Digitalisierung in der Produktion": {
+											"events": {
+												"31738_1": "DIP (Digitalisierung in der Produktion)",
+												"31806_1": "DIP P (Digitalisierung in der Produktion Praktikum)"
+											}
+										},
+										"Nichtlineare FEM": {
+											"events": {
+												"31672_1": "NLFEM (Nichtlineare FEM)",
+												"31777_1": "NLFEM P (Nichtlineare FEM Praktikum)"
+											}
+										},
+										"FEM für Dynamik": {
+											"events": {
+												"31606_1": "FEMDYN (FEM für Dynamik)",
+												"31572_1": "FEMDYN P (FEM für Dynamik Praktikum)"
+											}
+										},
+										"Mehrkörpersysteme": {
+											"events": {
+												"31538_1": "MKS (Mehrkörpersysteme)",
+												"31512_1": "MKS P (Mehrkörpersysteme Praktikum)"
+											}
+										},
+										"Ermüdungsfestigkeit": {
+											"events": {
+												"31591_1": "ERMF (Ermüdungsfestigkeit)",
+												"31755_1": "ERMF P (Ermüdungsfestigkeit Praktikum)"
+											}
+										},
+										"Computational Acoustics (engl.)": {
+											"events": {
+												"31786_1": "COMPA (Computational Acoustics (engl.))",
+												"31782_1": "COMPA P (Computational Acoustics Praktikum)"
+											}
+										},
+										"Virtual Product Development (engl.)": {
+											"events": {
+												"31763_1": "VPD (Virtual Product Development (engl.))",
+												"31686_1": "VPD P (Virtual Product Development Praktikum)"
+											}
+										},
+										"Ergonomiegerechte Produktgestaltung": {
+											"events": {
+												"31822_1": "EPG (Ergonomiegerechte Produktgestaltung)",
+												"31628_1": "EPG P (Ergonomiegerechte Produktgestaltung Praktikum)"
+											}
+										},
+										"Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme": {
+											"events": {
+												"31543_1": "NGKO (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme)",
+												"31623_1": "NGKO P (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme Praktikum)"
+											}
+										},
+										"Methoden der integrierten Produktentwicklung": {
+											"events": {
+												"31750_1": "MIP (Methoden der integrierten Produktentwicklung)",
+												"31679_1": "MIP P (Methoden der integrierten Produktentwicklung Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"31790_1": "NLO (Nichtlineare Optimierung)"
+									}
+								}
+							},
+							"events": {
+								"31539_1": "UFTM (Unternehmensführung / Technologiemanagement)",
+								"31765_1": "PJMK (Projektmanagement / Kommunikation)",
+								"31562_1": "VPE (Verfahrens- und Produktentwicklung)",
+								"31577_1": "SYST (Systemtechnik)",
+								"31749_1": "STATDV (Statistische Datenauswertung und Versuchsplanung)"
+							}
+						},
+						"Pflichtmodul Mathematische Verfahren": {
+							"events": {
+								"31931_1": "MAV (Mathematische Verfahren)"
+							}
+						},
+						"Wahlmodul aus dem Masterangebot": {
+							"subDirectories": {
+								"Kraft-Wärme-Kopplung": {
+									"events": {
+										"31575_1": "KWK (Kraft-Wärme-Kopplung)",
+										"31808_1": "KWK P (Kraft-Wärme-Kopplung Praktikum)"
+									}
+								},
+								"Elektrotechnik in nachhaltigen Energiesystemen": {
+									"events": {
+										"31839_1": "ETNES (Elektrotechnik in nachhaltigen Energiesystemen)",
+										"31828_1": "ETNES P (Elektrotechnik in nachhaltigen Energiesystemen Praktikum)"
+									}
+								},
+								"Berechnung und Konstruktion von Wind- und Wellenenergieanlagen": {
+									"events": {
+										"31576_1": "BKWWA (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen)",
+										"31835_1": "BKWWA P (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen Praktikum)"
+									}
+								},
+								"Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
+									"events": {
+										"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
+										"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
+									}
+								},
+								"Global Customer Processes": {
+									"events": {
+										"31795_1": "GCP (Global Customer Processes)",
+										"31608_1": "GCP P (Global Customer Processes Praktikum)"
+									}
+								},
+								"Ausgewählte Themen aus dem Produkt- und Produktionsmanagement": {
+									"events": {
+										"31751_1": "AT-PPM (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)",
+										"31579_1": "AT-PPM P (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)"
+									}
+								},
+								"Feinbearbeitungsverfahren": {
+									"events": {
+										"31677_1": "FBV (Feinbearbeitungsverfahren)",
+										"31827_1": "FBV P (Feinbearbeitungsverfahren Praktikum)"
+									}
+								},
+								"Tribologie / Tribodesign": {
+									"events": {
+										"31842_1": "TRIBO (Tribologie / Tribodesign)",
+										"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
+									}
+								},
+								"Simulation komplexer Produktion": {
+									"events": {
+										"31690_1": "SIMKP (Simulation komplexer Produktion)",
+										"31571_1": "SIMKP P (Simulation komplexer Produktion Praktikum)"
+									}
+								},
+								"Digitalisierung in der Produktion": {
+									"events": {
+										"31738_1": "DIP (Digitalisierung in der Produktion)",
+										"31806_1": "DIP P (Digitalisierung in der Produktion Praktikum)"
+									}
+								},
+								"Nichtlineare FEM": {
+									"events": {
+										"31672_1": "NLFEM (Nichtlineare FEM)",
+										"31777_1": "NLFEM P (Nichtlineare FEM Praktikum)"
+									}
+								},
+								"FEM für Dynamik": {
+									"events": {
+										"31606_1": "FEMDYN (FEM für Dynamik)",
+										"31572_1": "FEMDYN P (FEM für Dynamik Praktikum)"
+									}
+								},
+								"Mehrkörpersysteme": {
+									"events": {
+										"31538_1": "MKS (Mehrkörpersysteme)",
+										"31512_1": "MKS P (Mehrkörpersysteme Praktikum)"
+									}
+								},
+								"Ermüdungsfestigkeit": {
+									"events": {
+										"31591_1": "ERMF (Ermüdungsfestigkeit)",
+										"31755_1": "ERMF P (Ermüdungsfestigkeit Praktikum)"
+									}
+								},
+								"Computational Acoustics (engl.)": {
+									"events": {
+										"31786_1": "COMPA (Computational Acoustics (engl.))",
+										"31782_1": "COMPA P (Computational Acoustics Praktikum)"
+									}
+								},
+								"Virtual Product Development (engl.)": {
+									"events": {
+										"31763_1": "VPD (Virtual Product Development (engl.))",
+										"31686_1": "VPD P (Virtual Product Development Praktikum)"
+									}
+								},
+								"Ergonomiegerechte Produktgestaltung": {
+									"events": {
+										"31822_1": "EPG (Ergonomiegerechte Produktgestaltung)",
+										"31628_1": "EPG P (Ergonomiegerechte Produktgestaltung Praktikum)"
+									}
+								},
+								"Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme": {
+									"events": {
+										"31543_1": "NGKO (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme)",
+										"31623_1": "NGKO P (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme Praktikum)"
+									}
+								},
+								"Methoden der integrierten Produktentwicklung": {
+									"events": {
+										"31750_1": "MIP (Methoden der integrierten Produktentwicklung)",
+										"31679_1": "MIP P (Methoden der integrierten Produktentwicklung Praktikum)"
+									}
+								}
+							},
+							"events": {
+								"31790_1": "NLO (Nichtlineare Optimierung)",
+								"31539_1": "UFTM (Unternehmensführung / Technologiemanagement)",
+								"31765_1": "PJMK (Projektmanagement / Kommunikation)",
+								"31562_1": "VPE (Verfahrens- und Produktentwicklung)",
+								"31577_1": "SYST (Systemtechnik)",
+								"31749_1": "STATDV (Statistische Datenauswertung und Versuchsplanung)"
+							}
+						},
+						"Wahlpflichtmodule im Vertiefungsstudium": {
+							"subDirectories": {
+								"Austauschmodul für ein Wahlpflichtmodul": {
+									"subDirectories": {
+										"Global Customer Processes": {
+											"events": {
+												"31795_1": "GCP (Global Customer Processes)",
+												"31608_1": "GCP P (Global Customer Processes Praktikum)"
+											}
+										},
+										"Ausgewählte Themen aus dem Produkt- und Produktionsmanagement": {
+											"events": {
+												"31751_1": "AT-PPM (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)",
+												"31579_1": "AT-PPM P (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)"
+											}
+										},
+										"Feinbearbeitungsverfahren": {
+											"events": {
+												"31677_1": "FBV (Feinbearbeitungsverfahren)",
+												"31827_1": "FBV P (Feinbearbeitungsverfahren Praktikum)"
+											}
+										},
+										"Tribologie / Tribodesign": {
+											"events": {
+												"31842_1": "TRIBO (Tribologie / Tribodesign)",
+												"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
+											}
+										},
+										"Simulation komplexer Produktion": {
+											"events": {
+												"31690_1": "SIMKP (Simulation komplexer Produktion)",
+												"31571_1": "SIMKP P (Simulation komplexer Produktion Praktikum)"
+											}
+										},
+										"Digitalisierung in der Produktion": {
+											"events": {
+												"31738_1": "DIP (Digitalisierung in der Produktion)",
+												"31806_1": "DIP P (Digitalisierung in der Produktion Praktikum)"
+											}
+										},
+										"Nichtlineare FEM": {
+											"events": {
+												"31672_1": "NLFEM (Nichtlineare FEM)",
+												"31777_1": "NLFEM P (Nichtlineare FEM Praktikum)"
+											}
+										},
+										"FEM für Dynamik": {
+											"events": {
+												"31606_1": "FEMDYN (FEM für Dynamik)",
+												"31572_1": "FEMDYN P (FEM für Dynamik Praktikum)"
+											}
+										},
+										"Mehrkörpersysteme": {
+											"events": {
+												"31538_1": "MKS (Mehrkörpersysteme)",
+												"31512_1": "MKS P (Mehrkörpersysteme Praktikum)"
+											}
+										},
+										"Ermüdungsfestigkeit": {
+											"events": {
+												"31591_1": "ERMF (Ermüdungsfestigkeit)",
+												"31755_1": "ERMF P (Ermüdungsfestigkeit Praktikum)"
+											}
+										},
+										"Computational Acoustics (engl.)": {
+											"events": {
+												"31786_1": "COMPA (Computational Acoustics (engl.))",
+												"31782_1": "COMPA P (Computational Acoustics Praktikum)"
+											}
+										},
+										"Virtual Product Development (engl.)": {
+											"events": {
+												"31763_1": "VPD (Virtual Product Development (engl.))",
+												"31686_1": "VPD P (Virtual Product Development Praktikum)"
+											}
+										},
+										"Ergonomiegerechte Produktgestaltung": {
+											"events": {
+												"31822_1": "EPG (Ergonomiegerechte Produktgestaltung)",
+												"31628_1": "EPG P (Ergonomiegerechte Produktgestaltung Praktikum)"
+											}
+										},
+										"Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme": {
+											"events": {
+												"31543_1": "NGKO (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme)",
+												"31623_1": "NGKO P (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme Praktikum)"
+											}
+										},
+										"Methoden der integrierten Produktentwicklung": {
+											"events": {
+												"31750_1": "MIP (Methoden der integrierten Produktentwicklung)",
+												"31679_1": "MIP P (Methoden der integrierten Produktentwicklung Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"31790_1": "NLO (Nichtlineare Optimierung)"
+									}
+								},
+								"Kraft-Wärme-Kopplung": {
+									"events": {
+										"31575_1": "KWK (Kraft-Wärme-Kopplung)",
+										"31808_1": "KWK P (Kraft-Wärme-Kopplung Praktikum)"
+									}
+								},
+								"Elektrotechnik in nachhaltigen Energiesystemen": {
+									"events": {
+										"31839_1": "ETNES (Elektrotechnik in nachhaltigen Energiesystemen)",
+										"31828_1": "ETNES P (Elektrotechnik in nachhaltigen Energiesystemen Praktikum)"
+									}
+								},
+								"Berechnung und Konstruktion von Wind- und Wellenenergieanlagen": {
+									"events": {
+										"31576_1": "BKWWA (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen)",
+										"31835_1": "BKWWA P (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen Praktikum)"
+									}
+								},
+								"Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
+									"events": {
+										"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
+										"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
+									}
+								}
+							}
+						}
+					}
+				},
+				"Master Berechnung und Simulation im Maschinenbau (PO SoSe 2020)": {
+					"subDirectories": {
+						"Studiengangsübergreifendes Wahlpflichtangebot": {
+							"subDirectories": {
+								"Austauschmodul für ein Wahlpflichtmodul": {
+									"subDirectories": {
+										"Global Customer Processes": {
+											"events": {
+												"31795_1": "GCP (Global Customer Processes)",
+												"31608_1": "GCP P (Global Customer Processes Praktikum)"
+											}
+										},
+										"Ausgewählte Themen aus dem Produkt- und Produktionsmanagement": {
+											"events": {
+												"31751_1": "AT-PPM (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)",
+												"31579_1": "AT-PPM P (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)"
+											}
+										},
+										"Feinbearbeitungsverfahren": {
+											"events": {
+												"31677_1": "FBV (Feinbearbeitungsverfahren)",
+												"31827_1": "FBV P (Feinbearbeitungsverfahren Praktikum)"
+											}
+										},
+										"Tribologie / Tribodesign": {
+											"events": {
+												"31842_1": "TRIBO (Tribologie / Tribodesign)",
+												"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
+											}
+										},
+										"Simulation komplexer Produktion": {
+											"events": {
+												"31690_1": "SIMKP (Simulation komplexer Produktion)",
+												"31571_1": "SIMKP P (Simulation komplexer Produktion Praktikum)"
+											}
+										},
+										"Digitalisierung in der Produktion": {
+											"events": {
+												"31738_1": "DIP (Digitalisierung in der Produktion)",
+												"31806_1": "DIP P (Digitalisierung in der Produktion Praktikum)"
+											}
+										},
+										"Kraft-Wärme-Kopplung": {
+											"events": {
+												"31575_1": "KWK (Kraft-Wärme-Kopplung)",
+												"31808_1": "KWK P (Kraft-Wärme-Kopplung Praktikum)"
+											}
+										},
+										"Elektrotechnik in nachhaltigen Energiesystemen": {
+											"events": {
+												"31839_1": "ETNES (Elektrotechnik in nachhaltigen Energiesystemen)",
+												"31828_1": "ETNES P (Elektrotechnik in nachhaltigen Energiesystemen Praktikum)"
+											}
+										},
+										"Berechnung und Konstruktion von Wind- und Wellenenergieanlagen": {
+											"events": {
+												"31576_1": "BKWWA (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen)",
+												"31835_1": "BKWWA P (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen Praktikum)"
+											}
+										},
+										"Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
+											"events": {
+												"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
+												"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
+											}
+										},
+										"Virtual Product Development (engl.)": {
+											"events": {
+												"31763_1": "VPD (Virtual Product Development (engl.))",
+												"31686_1": "VPD P (Virtual Product Development Praktikum)"
+											}
+										},
+										"Ergonomiegerechte Produktgestaltung": {
+											"events": {
+												"31822_1": "EPG (Ergonomiegerechte Produktgestaltung)",
+												"31628_1": "EPG P (Ergonomiegerechte Produktgestaltung Praktikum)"
+											}
+										},
+										"Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme": {
+											"events": {
+												"31543_1": "NGKO (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme)",
+												"31623_1": "NGKO P (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme Praktikum)"
+											}
+										},
+										"Methoden der integrierten Produktentwicklung": {
+											"events": {
+												"31750_1": "MIP (Methoden der integrierten Produktentwicklung)",
+												"31679_1": "MIP P (Methoden der integrierten Produktentwicklung Praktikum)"
+											}
+										}
+									}
+								}
+							},
+							"events": {
+								"31539_1": "UFTM (Unternehmensführung / Technologiemanagement)",
+								"31765_1": "PJMK (Projektmanagement / Kommunikation)",
+								"31562_1": "VPE (Verfahrens- und Produktentwicklung)",
+								"31577_1": "SYST (Systemtechnik)",
+								"31749_1": "STATDV (Statistische Datenauswertung und Versuchsplanung)"
+							}
+						},
+						"Pflichtmodul Mathematische Verfahren": {
+							"events": {
+								"31873_1": "MANU (Mathematik und Numerik)"
+							}
+						},
+						"Wahlmodul aus dem Masterangebot": {
+							"subDirectories": {
+								"Nichtlineare FEM": {
+									"events": {
+										"31672_1": "NLFEM (Nichtlineare FEM)",
+										"31777_1": "NLFEM P (Nichtlineare FEM Praktikum)"
+									}
+								},
+								"FEM für Dynamik": {
+									"events": {
+										"31606_1": "FEMDYN (FEM für Dynamik)",
+										"31572_1": "FEMDYN P (FEM für Dynamik Praktikum)"
+									}
+								},
+								"Mehrkörpersysteme": {
+									"events": {
+										"31538_1": "MKS (Mehrkörpersysteme)",
+										"31512_1": "MKS P (Mehrkörpersysteme Praktikum)"
+									}
+								},
+								"Ermüdungsfestigkeit": {
+									"events": {
+										"31591_1": "ERMF (Ermüdungsfestigkeit)",
+										"31755_1": "ERMF P (Ermüdungsfestigkeit Praktikum)"
+									}
+								},
+								"Computational Acoustics (engl.)": {
+									"events": {
+										"31786_1": "COMPA (Computational Acoustics (engl.))",
+										"31782_1": "COMPA P (Computational Acoustics Praktikum)"
+									}
+								},
+								"Global Customer Processes": {
+									"events": {
+										"31795_1": "GCP (Global Customer Processes)",
+										"31608_1": "GCP P (Global Customer Processes Praktikum)"
+									}
+								},
+								"Ausgewählte Themen aus dem Produkt- und Produktionsmanagement": {
+									"events": {
+										"31751_1": "AT-PPM (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)",
+										"31579_1": "AT-PPM P (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)"
+									}
+								},
+								"Feinbearbeitungsverfahren": {
+									"events": {
+										"31677_1": "FBV (Feinbearbeitungsverfahren)",
+										"31827_1": "FBV P (Feinbearbeitungsverfahren Praktikum)"
+									}
+								},
+								"Tribologie / Tribodesign": {
+									"events": {
+										"31842_1": "TRIBO (Tribologie / Tribodesign)",
+										"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
+									}
+								},
+								"Simulation komplexer Produktion": {
+									"events": {
+										"31690_1": "SIMKP (Simulation komplexer Produktion)",
+										"31571_1": "SIMKP P (Simulation komplexer Produktion Praktikum)"
+									}
+								},
+								"Digitalisierung in der Produktion": {
+									"events": {
+										"31738_1": "DIP (Digitalisierung in der Produktion)",
+										"31806_1": "DIP P (Digitalisierung in der Produktion Praktikum)"
+									}
+								},
+								"Kraft-Wärme-Kopplung": {
+									"events": {
+										"31575_1": "KWK (Kraft-Wärme-Kopplung)",
+										"31808_1": "KWK P (Kraft-Wärme-Kopplung Praktikum)"
+									}
+								},
+								"Elektrotechnik in nachhaltigen Energiesystemen": {
+									"events": {
+										"31839_1": "ETNES (Elektrotechnik in nachhaltigen Energiesystemen)",
+										"31828_1": "ETNES P (Elektrotechnik in nachhaltigen Energiesystemen Praktikum)"
+									}
+								},
+								"Berechnung und Konstruktion von Wind- und Wellenenergieanlagen": {
+									"events": {
+										"31576_1": "BKWWA (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen)",
+										"31835_1": "BKWWA P (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen Praktikum)"
+									}
+								},
+								"Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
+									"events": {
+										"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
+										"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
+									}
+								},
+								"Virtual Product Development (engl.)": {
+									"events": {
+										"31763_1": "VPD (Virtual Product Development (engl.))",
+										"31686_1": "VPD P (Virtual Product Development Praktikum)"
+									}
+								},
+								"Ergonomiegerechte Produktgestaltung": {
+									"events": {
+										"31822_1": "EPG (Ergonomiegerechte Produktgestaltung)",
+										"31628_1": "EPG P (Ergonomiegerechte Produktgestaltung Praktikum)"
+									}
+								},
+								"Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme": {
+									"events": {
+										"31543_1": "NGKO (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme)",
+										"31623_1": "NGKO P (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme Praktikum)"
+									}
+								},
+								"Methoden der integrierten Produktentwicklung": {
+									"events": {
+										"31750_1": "MIP (Methoden der integrierten Produktentwicklung)",
+										"31679_1": "MIP P (Methoden der integrierten Produktentwicklung Praktikum)"
+									}
+								}
+							},
+							"events": {
+								"31790_1": "NLO (Nichtlineare Optimierung)",
+								"31539_1": "UFTM (Unternehmensführung / Technologiemanagement)",
+								"31765_1": "PJMK (Projektmanagement / Kommunikation)",
+								"31562_1": "VPE (Verfahrens- und Produktentwicklung)",
+								"31577_1": "SYST (Systemtechnik)",
+								"31749_1": "STATDV (Statistische Datenauswertung und Versuchsplanung)"
+							}
+						},
+						"Wahlpflichtmodule im Vertiefungsstudium": {
+							"subDirectories": {
+								"Austauschmodul für ein Wahlpflichtmodul": {
+									"subDirectories": {
+										"Global Customer Processes": {
+											"events": {
+												"31795_1": "GCP (Global Customer Processes)",
+												"31608_1": "GCP P (Global Customer Processes Praktikum)"
+											}
+										},
+										"Ausgewählte Themen aus dem Produkt- und Produktionsmanagement": {
+											"events": {
+												"31751_1": "AT-PPM (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)",
+												"31579_1": "AT-PPM P (Ausgewählte Themen aus dem Produkt- und Produktionsmanagement)"
+											}
+										},
+										"Feinbearbeitungsverfahren": {
+											"events": {
+												"31677_1": "FBV (Feinbearbeitungsverfahren)",
+												"31827_1": "FBV P (Feinbearbeitungsverfahren Praktikum)"
+											}
+										},
+										"Tribologie / Tribodesign": {
+											"events": {
+												"31842_1": "TRIBO (Tribologie / Tribodesign)",
+												"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
+											}
+										},
+										"Simulation komplexer Produktion": {
+											"events": {
+												"31690_1": "SIMKP (Simulation komplexer Produktion)",
+												"31571_1": "SIMKP P (Simulation komplexer Produktion Praktikum)"
+											}
+										},
+										"Digitalisierung in der Produktion": {
+											"events": {
+												"31738_1": "DIP (Digitalisierung in der Produktion)",
+												"31806_1": "DIP P (Digitalisierung in der Produktion Praktikum)"
+											}
+										},
+										"Kraft-Wärme-Kopplung": {
+											"events": {
+												"31575_1": "KWK (Kraft-Wärme-Kopplung)",
+												"31808_1": "KWK P (Kraft-Wärme-Kopplung Praktikum)"
+											}
+										},
+										"Elektrotechnik in nachhaltigen Energiesystemen": {
+											"events": {
+												"31839_1": "ETNES (Elektrotechnik in nachhaltigen Energiesystemen)",
+												"31828_1": "ETNES P (Elektrotechnik in nachhaltigen Energiesystemen Praktikum)"
+											}
+										},
+										"Berechnung und Konstruktion von Wind- und Wellenenergieanlagen": {
+											"events": {
+												"31576_1": "BKWWA (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen)",
+												"31835_1": "BKWWA P (Berechnung und Konstruktion von Wind- und Wellenenergieanlagen Praktikum)"
+											}
+										},
+										"Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
+											"events": {
+												"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
+												"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
+											}
+										},
+										"Virtual Product Development (engl.)": {
+											"events": {
+												"31763_1": "VPD (Virtual Product Development (engl.))",
+												"31686_1": "VPD P (Virtual Product Development Praktikum)"
+											}
+										},
+										"Ergonomiegerechte Produktgestaltung": {
+											"events": {
+												"31822_1": "EPG (Ergonomiegerechte Produktgestaltung)",
+												"31628_1": "EPG P (Ergonomiegerechte Produktgestaltung Praktikum)"
+											}
+										},
+										"Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme": {
+											"events": {
+												"31543_1": "NGKO (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme)",
+												"31623_1": "NGKO P (Nachhaltigkeitsgerechte Konstruktion tribologischer Systeme Praktikum)"
+											}
+										},
+										"Methoden der integrierten Produktentwicklung": {
+											"events": {
+												"31750_1": "MIP (Methoden der integrierten Produktentwicklung)",
+												"31679_1": "MIP P (Methoden der integrierten Produktentwicklung Praktikum)"
+											}
+										}
+									}
+								},
+								"Nichtlineare FEM": {
+									"events": {
+										"31672_1": "NLFEM (Nichtlineare FEM)",
+										"31777_1": "NLFEM P (Nichtlineare FEM Praktikum)"
+									}
+								},
+								"FEM für Dynamik": {
+									"events": {
+										"31606_1": "FEMDYN (FEM für Dynamik)",
+										"31572_1": "FEMDYN P (FEM für Dynamik Praktikum)"
+									}
+								},
+								"Mehrkörpersysteme": {
+									"events": {
+										"31538_1": "MKS (Mehrkörpersysteme)",
+										"31512_1": "MKS P (Mehrkörpersysteme Praktikum)"
+									}
+								},
+								"Ermüdungsfestigkeit": {
+									"events": {
+										"31591_1": "ERMF (Ermüdungsfestigkeit)",
+										"31755_1": "ERMF P (Ermüdungsfestigkeit Praktikum)"
+									}
+								},
+								"Computational Acoustics (engl.)": {
+									"events": {
+										"31786_1": "COMPA (Computational Acoustics (engl.))",
+										"31782_1": "COMPA P (Computational Acoustics Praktikum)"
+									}
+								}
+							},
+							"events": {
+								"31790_1": "NLO (Nichtlineare Optimierung)"
+							}
+						}
+					}
+				}
 			}
 		},
 		"Fakultät Soziale Arbeit und Kindheitspädagogik": {
