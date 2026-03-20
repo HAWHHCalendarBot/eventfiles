@@ -1,6 +1,13 @@
 [
 	{
 		"name": "SE1 (Software Engineering I)",
+		"location": "10.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Zhen Dai\nMax. Anzahl von Teilnehmer/-innen: 70\nRhythmus: Einzeltermin\n\nOriginaler Titel: Software Engineering I ^ FS3",
+		"startTime": "2026-04-17T08:15:00",
+		"endTime": "2026-04-17T11:45:00"
+	},
+	{
+		"name": "SE1 (Software Engineering I)",
 		"location": "6.65, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Zhen Dai\nMax. Anzahl von Teilnehmer/-innen: 70\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering I ^ FS3",
 		"startTime": "2026-04-23T08:15:00",

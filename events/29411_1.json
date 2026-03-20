@@ -61,5 +61,19 @@
 		"description": "Dozent: Prof. Dr. Rasmus Rettig\nRhythmus: wöchentlich\n\nOriginaler Titel: Sensorik und EMV ^PG1: BMT4 (Rettig)",
 		"startTime": "2026-06-15T15:45:00",
 		"endTime": "2026-06-15T19:00:00"
+	},
+	{
+		"name": "EM (Sensorik und EMV)",
+		"location": "110, Stiftstraße 69",
+		"description": "Dozent: Prof. Dr. Rasmus Rettig\nRhythmus: wöchentlich\n\nOriginaler Titel: Sensorik und EMV ^PG1: BMT4 (Rettig)",
+		"startTime": "2026-06-22T15:45:00",
+		"endTime": "2026-06-22T19:00:00"
+	},
+	{
+		"name": "EM (Sensorik und EMV)",
+		"location": "110, Stiftstraße 69",
+		"description": "Dozent: Prof. Dr. Rasmus Rettig\nRhythmus: wöchentlich\n\nOriginaler Titel: Sensorik und EMV ^PG1: BMT4 (Rettig)",
+		"startTime": "2026-06-29T15:45:00",
+		"endTime": "2026-06-29T19:00:00"
 	}
 ]

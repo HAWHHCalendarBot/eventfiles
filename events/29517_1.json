@@ -68,5 +68,12 @@
 		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nRhythmus: wöchentlich\n\nOriginaler Titel: Automatisierungstechnik 1 ^PG1: BMT4, BMT4_SP (Würger)",
 		"startTime": "2026-06-18T08:30:00",
 		"endTime": "2026-06-18T11:45:00"
+	},
+	{
+		"name": "AT1 (Automatisierungstechnik 1)",
+		"location": "110, Stiftstraße 69",
+		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nRhythmus: wöchentlich\n\nOriginaler Titel: Automatisierungstechnik 1 ^PG1: BMT4, BMT4_SP (Würger)",
+		"startTime": "2026-06-25T08:30:00",
+		"endTime": "2026-06-25T11:45:00"
 	}
 ]

@@ -7,9 +7,17 @@
 						"1. Semester": {
 							"subDirectories": {
 								"Analysis 1": {
+									"subDirectories": {
+										"Analysis 1 Übung": {
+											"events": {
+												"30135_1": "ANÜ1/01 (Analysis 1 Übung)",
+												"30135_2": "ANÜ1/02 (Analysis 1 Übung)",
+												"30135_3": "ANÜ1/03 (Analysis 1 Übung)"
+											}
+										}
+									},
 									"events": {
-										"29985_1": "AN1 (Analysis 1)",
-										"30135_1": "ANÜ1 (Analysis 1 Übung)"
+										"29985_1": "AN1 (Analysis 1)"
 									}
 								},
 								"Lineare Algebra": {
@@ -1115,20 +1123,9 @@
 									}
 								},
 								"Verbundprojekt": {
-									"subDirectories": {
-										"Verbundprojekt 1": {
-											"events": {
-												"29874_1": "VPJ1/01 (Verbundprojekt 1)",
-												"29874_2": "VPJ1/02 (Verbundprojekt 1)"
-											}
-										},
-										"Verbundprojekt 2": {
-											"events": {
-												"29866_1": "VPJ2/01 (Verbundprojekt 2)",
-												"29866_2": "VPJ2/02 (Verbundprojekt 2)",
-												"29866_3": "VPJ2/03 (Verbundprojekt 2)"
-											}
-										}
+									"events": {
+										"29874_1": "VPJ1 (Verbundprojekt 1)",
+										"29866_1": "VPJ2 (Verbundprojekt 2)"
 									}
 								}
 							},
@@ -1147,10 +1144,6 @@
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
 								}
-							},
-							"events": {
-								"43217_1": "SOCL (System on Chip Laborpraktikum)",
-								"43241_1": "SMSL (Smart Sensor Systems Laborpraktikum)"
 							}
 						},
 						"2. Semester": {
@@ -1173,9 +1166,6 @@
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
 								}
-							},
-							"events": {
-								"43241_1": "SMSL (Smart Sensor Systems Laborpraktikum)"
 							}
 						},
 						"2. Semester": {
