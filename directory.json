@@ -571,10 +571,21 @@
 										"35652_1": "SE (Software Engineering)",
 										"35783_1": "SEL (Software Engineering)"
 									}
+								},
+								"Datenbanken": {
+									"subDirectories": {
+										"Datenbanken": {
+											"events": {
+												"35674_1": "DBL/01 (Datenbanken)",
+												"35674_2": "DBL/02 (Datenbanken)",
+												"35674_3": "DBL/03 (Datenbanken)"
+											}
+										}
+									},
+									"events": {
+										"35777_1": "DB (Datenbanken)"
+									}
 								}
-							},
-							"events": {
-								"35674_1": "DBL (Datenbanken)"
 							}
 						},
 						"5. Semester": {
