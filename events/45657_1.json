@@ -3,13 +3,6 @@
 		"name": "WKP.LV (Werkstoffkunde)",
 		"location": "118, Berliner Tor 13",
 		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
-		"startTime": "2026-04-07T08:15:00",
-		"endTime": "2026-04-07T11:30:00"
-	},
-	{
-		"name": "WKP.LV (Werkstoffkunde)",
-		"location": "118, Berliner Tor 13",
-		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
 		"startTime": "2026-04-14T08:15:00",
 		"endTime": "2026-04-14T11:30:00"
 	},
@@ -89,20 +82,6 @@
 		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
 		"startTime": "2026-06-30T08:15:00",
 		"endTime": "2026-06-30T11:30:00"
-	},
-	{
-		"name": "WKP.LV (Werkstoffkunde)",
-		"location": "118, Berliner Tor 13",
-		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
-		"startTime": "2026-07-07T08:15:00",
-		"endTime": "2026-07-07T11:30:00"
-	},
-	{
-		"name": "WKP.LV (Werkstoffkunde)",
-		"location": "118, Berliner Tor 13",
-		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
-		"startTime": "2026-04-07T12:15:00",
-		"endTime": "2026-04-07T15:30:00"
 	},
 	{
 		"name": "WKP.LV (Werkstoffkunde)",
@@ -192,20 +171,6 @@
 		"name": "WKP.LV (Werkstoffkunde)",
 		"location": "118, Berliner Tor 13",
 		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
-		"startTime": "2026-07-07T12:15:00",
-		"endTime": "2026-07-07T15:30:00"
-	},
-	{
-		"name": "WKP.LV (Werkstoffkunde)",
-		"location": "118, Berliner Tor 13",
-		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
-		"startTime": "2026-04-09T08:15:00",
-		"endTime": "2026-04-09T11:30:00"
-	},
-	{
-		"name": "WKP.LV (Werkstoffkunde)",
-		"location": "118, Berliner Tor 13",
-		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
 		"startTime": "2026-04-16T08:15:00",
 		"endTime": "2026-04-16T11:30:00"
 	},
@@ -283,20 +248,6 @@
 		"name": "WKP.LV (Werkstoffkunde)",
 		"location": "118, Berliner Tor 13",
 		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
-		"startTime": "2026-07-09T08:15:00",
-		"endTime": "2026-07-09T11:30:00"
-	},
-	{
-		"name": "WKP.LV (Werkstoffkunde)",
-		"location": "118, Berliner Tor 13",
-		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
-		"startTime": "2026-04-09T12:15:00",
-		"endTime": "2026-04-09T15:30:00"
-	},
-	{
-		"name": "WKP.LV (Werkstoffkunde)",
-		"location": "118, Berliner Tor 13",
-		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
 		"startTime": "2026-04-16T12:15:00",
 		"endTime": "2026-04-16T15:30:00"
 	},
@@ -369,12 +320,5 @@
 		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
 		"startTime": "2026-07-02T12:15:00",
 		"endTime": "2026-07-02T15:30:00"
-	},
-	{
-		"name": "WKP.LV (Werkstoffkunde)",
-		"location": "118, Berliner Tor 13",
-		"description": "Dozenten: Andreas Gobbert, Prof. Dr. Martin Fiedler, Andrea Hasselmann\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde - Labor",
-		"startTime": "2026-07-09T12:15:00",
-		"endTime": "2026-07-09T15:30:00"
 	}
 ]

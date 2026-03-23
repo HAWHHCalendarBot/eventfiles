@@ -1,10 +1,10 @@
 [
 	{
 		"name": "WK.LV (Werkstoffkunde)",
-		"location": "407, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Martin Fiedler\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde",
-		"startTime": "2026-04-08T15:45:00",
-		"endTime": "2026-04-08T19:00:00"
+		"location": "228, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr. Martin Fiedler\nRhythmus: Einzeltermin\n\nOriginaler Titel: Werkstoffkunde",
+		"startTime": "2026-04-09T08:15:00",
+		"endTime": "2026-04-09T11:30:00"
 	},
 	{
 		"name": "WK.LV (Werkstoffkunde)",
@@ -89,19 +89,5 @@
 		"description": "Dozent: Prof. Dr. Martin Fiedler\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde",
 		"startTime": "2026-07-01T15:45:00",
 		"endTime": "2026-07-01T19:00:00"
-	},
-	{
-		"name": "WK.LV (Werkstoffkunde)",
-		"location": "407, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Martin Fiedler\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde",
-		"startTime": "2026-07-08T15:45:00",
-		"endTime": "2026-07-08T19:00:00"
-	},
-	{
-		"name": "WK.LV (Werkstoffkunde)",
-		"location": "228, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Martin Fiedler\nRhythmus: Einzeltermin\n\nOriginaler Titel: Werkstoffkunde",
-		"startTime": "2026-04-09T08:15:00",
-		"endTime": "2026-04-09T11:30:00"
 	}
 ]
