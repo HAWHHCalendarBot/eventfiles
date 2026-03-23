@@ -109,6 +109,20 @@
 						},
 						"3. Semester": {
 							"subDirectories": {
+								"Numerik und Stochastik": {
+									"subDirectories": {
+										"Numerik und Stochastik Praktikum": {
+											"events": {
+												"30104_1": "NSP/01 (Numerik und Stochastik Praktikum)",
+												"30104_2": "NSP/02 (Numerik und Stochastik Praktikum)",
+												"30104_3": "NSP/03 (Numerik und Stochastik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30071_1": "NS (Numerik und Stochastik)"
+									}
+								},
 								"Signale und Systeme 1": {
 									"events": {
 										"29955_1": "SS1 (Signale und Systeme 1)",
@@ -149,9 +163,6 @@
 										"29959_4": "TE/04 (Technisches Englisch)"
 									}
 								}
-							},
-							"events": {
-								"30104_1": "NSP (Numerik und Stochastik Praktikum)"
 							}
 						},
 						"4. Semester": {
@@ -439,9 +450,18 @@
 									}
 								},
 								"Programmieren 1": {
+									"subDirectories": {
+										"Programmieren 1": {
+											"events": {
+												"35740_1": "SOL1/01 (Programmieren 1)",
+												"35740_2": "SOL1/02 (Programmieren 1)",
+												"35740_3": "SOL1/03 (Programmieren 1)",
+												"35740_4": "SOL1/04 (Programmieren 1)"
+											}
+										}
+									},
 									"events": {
-										"35724_1": "SO1 (Programmieren 1)",
-										"35740_1": "SOL1 (Programmieren 1)"
+										"35724_1": "SO1 (Programmieren 1)"
 									}
 								},
 								"Deutsch": {
@@ -461,7 +481,8 @@
 									},
 									"events": {
 										"35737_1": "LSL1 (Lernen und Studiermethodik 1)",
-										"35716_1": "LSL2 (Lernen und Studiermethodik 2)"
+										"35716_1": "LSL2 (Lernen und Studiermethodik 2)",
+										"30003_1": "LP (Lernprojekt)"
 									}
 								}
 							}
@@ -547,9 +568,16 @@
 									}
 								},
 								"Digitale Systeme": {
+									"subDirectories": {
+										"Digitale Systeme": {
+											"events": {
+												"35645_1": "DSL/01 (Digitale Systeme)",
+												"35645_2": "DSL/02 (Digitale Systeme)"
+											}
+										}
+									},
 									"events": {
-										"35659_1": "DS (Digitale Systeme)",
-										"35645_1": "DSL (Digitale Systeme)"
+										"35659_1": "DS (Digitale Systeme)"
 									}
 								},
 								"Mikrocontroller": {
@@ -5613,6 +5641,30 @@
 										"33545_2": "DV/02 (Datenverarbeitung)",
 										"33545_3": "DV/03 (Datenverarbeitung)"
 									}
+								},
+								"Grundlagen der darstellenden Geometrie / Einführung in CAD": {
+									"subDirectories": {
+										"Grundlagen der darstellenden Geometrie 1a": {
+											"events": {
+												"33455_1": "DG1a/01 (Grundlagen der darstellenden Geometrie 1a)",
+												"33455_2": "DG1a/02 (Grundlagen der darstellenden Geometrie 1a)"
+											}
+										},
+										"Grundlagen der darstellenden Geometrie 1b": {
+											"events": {
+												"33537_1": "DG1b/01 (Grundlagen der darstellenden Geometrie 1b)",
+												"33537_2": "DG1b/02 (Grundlagen der darstellenden Geometrie 1b)",
+												"33537_3": "DG1b/03 (Grundlagen der darstellenden Geometrie 1b)"
+											}
+										},
+										"Einführung in CAD": {
+											"events": {
+												"33464_1": "CAD/01 (Einführung in CAD)",
+												"33464_2": "CAD/02 (Einführung in CAD)",
+												"33464_3": "CAD/03 (Einführung in CAD)"
+											}
+										}
+									}
 								}
 							}
 						},
@@ -6084,6 +6136,30 @@
 										"33545_1": "DV/01 (Datenverarbeitung)",
 										"33545_2": "DV/02 (Datenverarbeitung)",
 										"33545_3": "DV/03 (Datenverarbeitung)"
+									}
+								},
+								"Grundlagen der darstellenden Geometrie / Einführung in CAD": {
+									"subDirectories": {
+										"Grundlagen der darstellenden Geometrie 1a": {
+											"events": {
+												"33455_1": "DG1a/01 (Grundlagen der darstellenden Geometrie 1a)",
+												"33455_2": "DG1a/02 (Grundlagen der darstellenden Geometrie 1a)"
+											}
+										},
+										"Grundlagen der darstellenden Geometrie 1b": {
+											"events": {
+												"33537_1": "DG1b/01 (Grundlagen der darstellenden Geometrie 1b)",
+												"33537_2": "DG1b/02 (Grundlagen der darstellenden Geometrie 1b)",
+												"33537_3": "DG1b/03 (Grundlagen der darstellenden Geometrie 1b)"
+											}
+										},
+										"Einführung in CAD": {
+											"events": {
+												"33464_1": "CAD/01 (Einführung in CAD)",
+												"33464_2": "CAD/02 (Einführung in CAD)",
+												"33464_3": "CAD/03 (Einführung in CAD)"
+											}
+										}
 									}
 								}
 							}

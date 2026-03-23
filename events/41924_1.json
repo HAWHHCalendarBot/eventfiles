@@ -3,13 +3,6 @@
 		"name": "ELPJ-E (Praxisprojekt)",
 		"location": "407, Berliner Tor 21",
 		"description": "Dozenten: Kai Remmers, Julia Perel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praxisprojekt - Einführungslabor",
-		"startTime": "2026-04-09T12:15:00",
-		"endTime": "2026-04-09T13:45:00"
-	},
-	{
-		"name": "ELPJ-E (Praxisprojekt)",
-		"location": "407, Berliner Tor 21",
-		"description": "Dozenten: Kai Remmers, Julia Perel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praxisprojekt - Einführungslabor",
 		"startTime": "2026-04-16T12:15:00",
 		"endTime": "2026-04-16T13:45:00"
 	},
@@ -82,12 +75,5 @@
 		"description": "Dozenten: Kai Remmers, Julia Perel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praxisprojekt - Einführungslabor",
 		"startTime": "2026-07-02T12:15:00",
 		"endTime": "2026-07-02T13:45:00"
-	},
-	{
-		"name": "ELPJ-E (Praxisprojekt)",
-		"location": "407, Berliner Tor 21",
-		"description": "Dozenten: Kai Remmers, Julia Perel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praxisprojekt - Einführungslabor",
-		"startTime": "2026-07-09T12:15:00",
-		"endTime": "2026-07-09T13:45:00"
 	}
 ]

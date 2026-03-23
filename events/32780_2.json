@@ -3,13 +3,6 @@
 		"name": "MZCAD L/02 (Maschinenzeichnen und CAD Laborpraktikum)",
 		"location": "203, Berliner Tor 21",
 		"description": "Dozent: Snezhana Kolarova\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Maschinenzeichnen und CAD Labo^1aCD (2. Parallelgruppe)",
-		"startTime": "2026-04-09T08:15:00",
-		"endTime": "2026-04-09T11:30:00"
-	},
-	{
-		"name": "MZCAD L/02 (Maschinenzeichnen und CAD Laborpraktikum)",
-		"location": "203, Berliner Tor 21",
-		"description": "Dozent: Snezhana Kolarova\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Maschinenzeichnen und CAD Labo^1aCD (2. Parallelgruppe)",
 		"startTime": "2026-04-16T08:15:00",
 		"endTime": "2026-04-16T11:30:00"
 	},
@@ -82,20 +75,6 @@
 		"description": "Dozent: Snezhana Kolarova\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Maschinenzeichnen und CAD Labo^1aCD (2. Parallelgruppe)",
 		"startTime": "2026-07-02T08:15:00",
 		"endTime": "2026-07-02T11:30:00"
-	},
-	{
-		"name": "MZCAD L/02 (Maschinenzeichnen und CAD Laborpraktikum)",
-		"location": "203, Berliner Tor 21",
-		"description": "Dozent: Snezhana Kolarova\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Maschinenzeichnen und CAD Labo^1aCD (2. Parallelgruppe)",
-		"startTime": "2026-07-09T08:15:00",
-		"endTime": "2026-07-09T11:30:00"
-	},
-	{
-		"name": "MZCAD L/02 (Maschinenzeichnen und CAD Laborpraktikum)",
-		"location": "403, Berliner Tor 21",
-		"description": "Dozent: Snezhana Kolarova\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Maschinenzeichnen und CAD Labo^1aCD (2. Parallelgruppe)",
-		"startTime": "2026-04-09T08:15:00",
-		"endTime": "2026-04-09T11:30:00"
 	},
 	{
 		"name": "MZCAD L/02 (Maschinenzeichnen und CAD Laborpraktikum)",
@@ -173,12 +152,5 @@
 		"description": "Dozent: Snezhana Kolarova\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Maschinenzeichnen und CAD Labo^1aCD (2. Parallelgruppe)",
 		"startTime": "2026-07-02T08:15:00",
 		"endTime": "2026-07-02T11:30:00"
-	},
-	{
-		"name": "MZCAD L/02 (Maschinenzeichnen und CAD Laborpraktikum)",
-		"location": "403, Berliner Tor 21",
-		"description": "Dozent: Snezhana Kolarova\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Maschinenzeichnen und CAD Labo^1aCD (2. Parallelgruppe)",
-		"startTime": "2026-07-09T08:15:00",
-		"endTime": "2026-07-09T11:30:00"
 	}
 ]

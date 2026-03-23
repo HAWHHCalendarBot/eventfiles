@@ -3,13 +3,6 @@
 		"name": "WSK (Werkstoffkunde)",
 		"location": "423, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr. Gerhard Biallas\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde",
-		"startTime": "2026-04-08T12:15:00",
-		"endTime": "2026-04-08T15:30:00"
-	},
-	{
-		"name": "WSK (Werkstoffkunde)",
-		"location": "423, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Gerhard Biallas\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde",
 		"startTime": "2026-04-15T12:15:00",
 		"endTime": "2026-04-15T15:30:00"
 	},
@@ -89,12 +82,5 @@
 		"description": "Dozent: Prof. Dr. Gerhard Biallas\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde",
 		"startTime": "2026-07-01T12:15:00",
 		"endTime": "2026-07-01T15:30:00"
-	},
-	{
-		"name": "WSK (Werkstoffkunde)",
-		"location": "423, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Gerhard Biallas\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde",
-		"startTime": "2026-07-08T12:15:00",
-		"endTime": "2026-07-08T15:30:00"
 	}
 ]

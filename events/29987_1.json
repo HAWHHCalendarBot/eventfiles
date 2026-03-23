@@ -1,6 +1,20 @@
 [
 	{
 		"name": "LE (Antriebe und Leistungselektronik)",
+		"location": "110, Stiftstraße 69",
+		"description": "Dozent: Prof. Dr. Jens Ginzel\nMax. Anzahl von Teilnehmer/-innen: 36\nRhythmus: wöchentlich\n\nOriginaler Titel: LE",
+		"startTime": "2026-04-08T08:10:00",
+		"endTime": "2026-04-08T11:25:00"
+	},
+	{
+		"name": "LE (Antriebe und Leistungselektronik)",
+		"location": "110, Stiftstraße 69",
+		"description": "Dozent: Prof. Dr. Jens Ginzel\nMax. Anzahl von Teilnehmer/-innen: 36\nRhythmus: wöchentlich\n\nOriginaler Titel: LE",
+		"startTime": "2026-04-15T08:10:00",
+		"endTime": "2026-04-15T11:25:00"
+	},
+	{
+		"name": "LE (Antriebe und Leistungselektronik)",
 		"location": "106, Stiftstraße 69",
 		"description": "Dozent: Prof. Dr. Jens Ginzel\nMax. Anzahl von Teilnehmer/-innen: 36\nRhythmus: wöchentlich\n\nOriginaler Titel: LE",
 		"startTime": "2026-04-09T08:10:00",
@@ -12,13 +26,6 @@
 		"description": "Dozent: Prof. Dr. Jens Ginzel\nMax. Anzahl von Teilnehmer/-innen: 36\nRhythmus: wöchentlich\n\nOriginaler Titel: LE",
 		"startTime": "2026-04-16T08:10:00",
 		"endTime": "2026-04-16T11:25:00"
-	},
-	{
-		"name": "LE (Antriebe und Leistungselektronik)",
-		"location": "106, Stiftstraße 69",
-		"description": "Dozent: Prof. Dr. Jens Ginzel\nMax. Anzahl von Teilnehmer/-innen: 36\nRhythmus: wöchentlich\n\nOriginaler Titel: LE",
-		"startTime": "2026-04-30T08:10:00",
-		"endTime": "2026-04-30T11:25:00"
 	},
 	{
 		"name": "LE (Antriebe und Leistungselektronik)",
@@ -68,12 +75,5 @@
 		"description": "Dozent: Prof. Dr. Jens Ginzel\nMax. Anzahl von Teilnehmer/-innen: 36\nRhythmus: wöchentlich\n\nOriginaler Titel: LE",
 		"startTime": "2026-07-09T08:10:00",
 		"endTime": "2026-07-09T11:25:00"
-	},
-	{
-		"name": "LE (Antriebe und Leistungselektronik)",
-		"location": "12.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Jens Ginzel\nMax. Anzahl von Teilnehmer/-innen: 36\nRhythmus: Einzeltermin\n\nOriginaler Titel: LE",
-		"startTime": "2026-04-15T08:10:00",
-		"endTime": "2026-04-15T11:25:00"
 	}
 ]

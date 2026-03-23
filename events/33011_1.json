@@ -3,13 +3,6 @@
 		"name": "IBL (Industriebetriebslehre)",
 		"location": "310, Berliner Tor 21",
 		"description": "Dozenten: Aleksandra Kaiser, Prof. Dr. Torsten Bleich\nRhythmus: wöchentlich\n\nOriginaler Titel: Industriebetriebslehre",
-		"startTime": "2026-04-09T12:15:00",
-		"endTime": "2026-04-09T15:30:00"
-	},
-	{
-		"name": "IBL (Industriebetriebslehre)",
-		"location": "310, Berliner Tor 21",
-		"description": "Dozenten: Aleksandra Kaiser, Prof. Dr. Torsten Bleich\nRhythmus: wöchentlich\n\nOriginaler Titel: Industriebetriebslehre",
 		"startTime": "2026-04-16T12:15:00",
 		"endTime": "2026-04-16T15:30:00"
 	},
@@ -82,12 +75,5 @@
 		"description": "Dozenten: Aleksandra Kaiser, Prof. Dr. Torsten Bleich\nRhythmus: wöchentlich\n\nOriginaler Titel: Industriebetriebslehre",
 		"startTime": "2026-07-02T12:15:00",
 		"endTime": "2026-07-02T15:30:00"
-	},
-	{
-		"name": "IBL (Industriebetriebslehre)",
-		"location": "310, Berliner Tor 21",
-		"description": "Dozenten: Aleksandra Kaiser, Prof. Dr. Torsten Bleich\nRhythmus: wöchentlich\n\nOriginaler Titel: Industriebetriebslehre",
-		"startTime": "2026-07-09T12:15:00",
-		"endTime": "2026-07-09T15:30:00"
 	}
 ]

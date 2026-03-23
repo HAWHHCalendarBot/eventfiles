@@ -8,13 +8,6 @@
 	},
 	{
 		"name": "SE (Software Engineering)",
-		"location": "110, Stiftstraße 69",
-		"description": "Dozent: Prof. Dr. Wolfgang Renz\nMax. Anzahl von Teilnehmer/-innen: 45\nRhythmus: Einzeltermin\n\nOriginaler Titel: SE",
-		"startTime": "2026-04-08T12:10:00",
-		"endTime": "2026-04-08T15:40:00"
-	},
-	{
-		"name": "SE (Software Engineering)",
 		"location": "0.02, Steindamm 94",
 		"description": "Dozent: Prof. Dr. Wolfgang Renz\nMax. Anzahl von Teilnehmer/-innen: 45\nRhythmus: Einzeltermin\n\nOriginaler Titel: SE",
 		"startTime": "2026-04-09T12:10:00",
@@ -75,5 +68,12 @@
 		"description": "Dozent: Prof. Dr. Wolfgang Renz\nMax. Anzahl von Teilnehmer/-innen: 45\nRhythmus: wöchentlich\n\nOriginaler Titel: SE",
 		"startTime": "2026-06-24T12:10:00",
 		"endTime": "2026-06-24T15:40:00"
+	},
+	{
+		"name": "SE (Software Engineering)",
+		"location": "110, Stiftstraße 69",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nMax. Anzahl von Teilnehmer/-innen: 45\nRhythmus: wöchentlich\n\nOriginaler Titel: SE",
+		"startTime": "2026-07-01T12:10:00",
+		"endTime": "2026-07-01T15:40:00"
 	}
 ]

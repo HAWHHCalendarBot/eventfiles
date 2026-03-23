@@ -10,13 +10,6 @@
 		"name": "PH1 (Physik 1)",
 		"location": "0.02, Steindamm 94",
 		"description": "Dozent: Prof. Dr. Benno Radt\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: wöchentlich\n\nOriginaler Titel: PH1",
-		"startTime": "2026-04-24T12:10:00",
-		"endTime": "2026-04-24T15:40:00"
-	},
-	{
-		"name": "PH1 (Physik 1)",
-		"location": "0.02, Steindamm 94",
-		"description": "Dozent: Prof. Dr. Benno Radt\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: wöchentlich\n\nOriginaler Titel: PH1",
 		"startTime": "2026-05-08T12:10:00",
 		"endTime": "2026-05-08T15:40:00"
 	},
@@ -82,5 +75,19 @@
 		"description": "Dozent: Prof. Dr. Benno Radt\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: wöchentlich\n\nOriginaler Titel: PH1",
 		"startTime": "2026-07-10T12:10:00",
 		"endTime": "2026-07-10T15:40:00"
+	},
+	{
+		"name": "PH1 (Physik 1)",
+		"location": "0.02, Steindamm 94",
+		"description": "Dozent: Prof. Dr. Benno Radt\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: wöchentlich\n\nOriginaler Titel: PH1",
+		"startTime": "2026-07-17T12:10:00",
+		"endTime": "2026-07-17T15:40:00"
+	},
+	{
+		"name": "PH1 (Physik 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Benno Radt\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: Einzeltermin\n\nOriginaler Titel: PH1",
+		"startTime": "2026-04-21T12:10:00",
+		"endTime": "2026-04-21T15:40:00"
 	}
 ]

@@ -3,13 +3,6 @@
 		"name": "WSK-E (Werkstoffkunde 1)",
 		"location": "227, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr.-Ing. Shahram Sheikhi\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde 1",
-		"startTime": "2026-04-10T12:15:00",
-		"endTime": "2026-04-10T15:30:00"
-	},
-	{
-		"name": "WSK-E (Werkstoffkunde 1)",
-		"location": "227, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr.-Ing. Shahram Sheikhi\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde 1",
 		"startTime": "2026-04-17T12:15:00",
 		"endTime": "2026-04-17T15:30:00"
 	},
@@ -82,12 +75,5 @@
 		"description": "Dozent: Prof. Dr.-Ing. Shahram Sheikhi\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde 1",
 		"startTime": "2026-07-03T12:15:00",
 		"endTime": "2026-07-03T15:30:00"
-	},
-	{
-		"name": "WSK-E (Werkstoffkunde 1)",
-		"location": "227, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr.-Ing. Shahram Sheikhi\nRhythmus: wöchentlich\n\nOriginaler Titel: Werkstoffkunde 1",
-		"startTime": "2026-07-10T12:15:00",
-		"endTime": "2026-07-10T15:30:00"
 	}
 ]
