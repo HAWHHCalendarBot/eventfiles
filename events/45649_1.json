@@ -1,8 +1,15 @@
 [
 	{
 		"name": "FTP1.LV (Fertigungstechnik I)",
-		"location": "106, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Mauricio de Campos Porath\nRhythmus: wöchentlich\n\nOriginaler Titel: Fertigungstechnik I - Labor",
+		"location": "231, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr. Mauricio de Campos Porath\nRhythmus: Einzeltermin\n\nOriginaler Titel: Fertigungstechnik I - Labor",
+		"startTime": "2026-04-08T08:15:00",
+		"endTime": "2026-04-08T11:30:00"
+	},
+	{
+		"name": "FTP1.LV (Fertigungstechnik I)",
+		"location": "425, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr. Mauricio de Campos Porath\nRhythmus: Einzeltermin\n\nOriginaler Titel: Fertigungstechnik I - Labor",
 		"startTime": "2026-04-08T08:15:00",
 		"endTime": "2026-04-08T11:30:00"
 	},
@@ -89,12 +96,5 @@
 		"description": "Dozent: Prof. Dr. Mauricio de Campos Porath\nRhythmus: wöchentlich\n\nOriginaler Titel: Fertigungstechnik I - Labor",
 		"startTime": "2026-07-01T08:15:00",
 		"endTime": "2026-07-01T11:30:00"
-	},
-	{
-		"name": "FTP1.LV (Fertigungstechnik I)",
-		"location": "106, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Mauricio de Campos Porath\nRhythmus: wöchentlich\n\nOriginaler Titel: Fertigungstechnik I - Labor",
-		"startTime": "2026-07-08T08:15:00",
-		"endTime": "2026-07-08T11:30:00"
 	}
 ]

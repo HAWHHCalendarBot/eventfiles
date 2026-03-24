@@ -1,8 +1,8 @@
 [
 	{
 		"name": "FTT-E (Fertigungstechnik Labor)",
-		"location": "106, Berliner Tor 21",
-		"description": "Dozenten: Prof. Dr. Mauricio de Campos Porath, Benjamin Remmers\nRhythmus: wöchentlich\n\nOriginaler Titel: Fertigungstechnik Labor",
+		"location": "232, Berliner Tor 21",
+		"description": "Dozenten: Benjamin Remmers, Prof. Dr. Mauricio de Campos Porath\nRhythmus: Einzeltermin\n\nOriginaler Titel: Fertigungstechnik Labor",
 		"startTime": "2026-04-07T08:15:00",
 		"endTime": "2026-04-07T11:30:00"
 	},
@@ -89,12 +89,5 @@
 		"description": "Dozenten: Prof. Dr. Mauricio de Campos Porath, Benjamin Remmers\nRhythmus: wöchentlich\n\nOriginaler Titel: Fertigungstechnik Labor",
 		"startTime": "2026-06-30T08:15:00",
 		"endTime": "2026-06-30T11:30:00"
-	},
-	{
-		"name": "FTT-E (Fertigungstechnik Labor)",
-		"location": "106, Berliner Tor 21",
-		"description": "Dozenten: Prof. Dr. Mauricio de Campos Porath, Benjamin Remmers\nRhythmus: wöchentlich\n\nOriginaler Titel: Fertigungstechnik Labor",
-		"startTime": "2026-07-07T08:15:00",
-		"endTime": "2026-07-07T11:30:00"
 	}
 ]

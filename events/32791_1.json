@@ -1,8 +1,15 @@
 [
 	{
 		"name": "FTT L (Fertigungstechnik Laborpraktikum)",
-		"location": "106, Berliner Tor 21",
-		"description": "Dozent: Benjamin Remmers\nRhythmus: wöchentlich\n\nOriginaler Titel: Fertigungstechnik Laborpraktikum",
+		"location": "523, Berliner Tor 21",
+		"description": "Dozent: Benjamin Remmers\nRhythmus: Einzeltermin\n\nOriginaler Titel: Fertigungstechnik Laborpraktikum",
+		"startTime": "2026-04-09T08:15:00",
+		"endTime": "2026-04-09T11:30:00"
+	},
+	{
+		"name": "FTT L (Fertigungstechnik Laborpraktikum)",
+		"location": "522, Berliner Tor 21",
+		"description": "Dozent: Benjamin Remmers\nRhythmus: Einzeltermin\n\nOriginaler Titel: Fertigungstechnik Laborpraktikum",
 		"startTime": "2026-04-09T08:15:00",
 		"endTime": "2026-04-09T11:30:00"
 	},
@@ -82,12 +89,5 @@
 		"description": "Dozent: Benjamin Remmers\nRhythmus: wöchentlich\n\nOriginaler Titel: Fertigungstechnik Laborpraktikum",
 		"startTime": "2026-07-02T08:15:00",
 		"endTime": "2026-07-02T11:30:00"
-	},
-	{
-		"name": "FTT L (Fertigungstechnik Laborpraktikum)",
-		"location": "106, Berliner Tor 21",
-		"description": "Dozent: Benjamin Remmers\nRhythmus: wöchentlich\n\nOriginaler Titel: Fertigungstechnik Laborpraktikum",
-		"startTime": "2026-07-09T08:15:00",
-		"endTime": "2026-07-09T11:30:00"
 	}
 ]
