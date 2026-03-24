@@ -1881,9 +1881,222 @@
 						}
 					}
 				},
-				"Bachelor Hebammenwissenschaft (PO WS 2022/23)": {},
-				"Bachelor Interdisziplinäre Gesundheitsversorgung und Management (PO WS 2015/16)": {},
-				"Bachelor Pflege (PO WS 2020/21)": {},
+				"Bachelor Hebammenwissenschaft (PO WS 2022/23)": {
+					"subDirectories": {
+						"2. Semester": {
+							"subDirectories": {
+								"Fachprojekt: Die werdende und junge Familie individuell begleiten": {
+									"subDirectories": {
+										"Die werdende und junge Familie individuell begleiten": {
+											"events": {
+												"20083_1": "M4.2 LV/01 (Die werdende und junge Familie individuell begleiten)",
+												"20083_2": "M4.2 LV/02 (Die werdende und junge Familie individuell begleiten)"
+											}
+										}
+									}
+								},
+								"Biopsychosoziales Gesundheitsassessment": {
+									"subDirectories": {
+										"Biopsychosoziales Gesundheitsassessment": {
+											"events": {
+												"20107_1": "M6.2 LV/01 (Biopsychosoziales Gesundheitsassessment)",
+												"20107_2": "M6.2 LV/02 (Biopsychosoziales Gesundheitsassessment)",
+												"20107_3": "M6.2 LV/03 (Biopsychosoziales Gesundheitsassessment)",
+												"20107_4": "M6.2 LV/04 (Biopsychosoziales Gesundheitsassessment)"
+											}
+										}
+									}
+								},
+								"Hebammenkunde als wissenschaftliche Disziplin": {
+									"events": {
+										"20036_1": "M7 LV/01 (Hebammenkunde als wissenschaftliche Disziplin)",
+										"20036_2": "M7 LV/02 (Hebammenkunde als wissenschaftliche Disziplin)"
+									}
+								},
+								"Körperwahrnehmung": {
+									"subDirectories": {
+										"Körperwahrnehmung": {
+											"events": {
+												"20080_1": "M8.2 LV/01 (Körperwahrnehmung)",
+												"20080_2": "M8.2 LV/02 (Körperwahrnehmung)"
+											}
+										}
+									}
+								}
+							}
+						},
+						"4. Semester": {
+							"subDirectories": {
+								"Ethik": {
+									"events": {
+										"20127_1": "M12 LV/01 (Ethik)",
+										"20127_2": "M12 LV/02 (Ethik)"
+									}
+								}
+							}
+						},
+						"6. Semester": {
+							"subDirectories": {
+								"Bachelorwerkstatt": {
+									"events": {
+										"20124_1": "M18.1 LV/01 (Bachelorwerkstatt)",
+										"20124_2": "M18.1 LV/02 (Bachelorwerkstatt)"
+									}
+								},
+								"Freiberufliche Hebammentätigkeit": {
+									"events": {
+										"20055_1": "M19.1 LV/01 (Freiberufliche Hebammentätigkeit)",
+										"20055_2": "M19.1 LV/02 (Freiberufliche Hebammentätigkeit)"
+									}
+								}
+							}
+						}
+					}
+				},
+				"Bachelor Interdisziplinäre Gesundheitsversorgung und Management (PO WS 2015/16)": {
+					"subDirectories": {
+						"2. Semester": {
+							"subDirectories": {
+								"Beratung, Kommunikation und Entscheidungsfindung": {
+									"events": {
+										"20567_1": "M9 LV1 (Beratung, Kommunikation und Entscheidungsfindung)",
+										"20584_1": "M9 LV2 (Beratung, Kommunikation und Entscheidungsfindung)"
+									}
+								}
+							},
+							"events": {
+								"20538_1": "M6 LV (Wissenschaftliches Arbeiten und Forschungsprozess)",
+								"20490_1": "M7 LV (Ethik und Priorisierung)",
+								"20489_1": "M8 LV1 (Reflexion und Fallverstehen)",
+								"20539_1": "M10 LV (Sozialrecht)",
+								"20504_1": "M11 LV (Organisation)"
+							}
+						},
+						"6. Semester": {
+							"subDirectories": {
+								"Wahlpflichtmodule": {
+									"events": {
+										"20563_1": "WP QM (Qualitätsmanagement)",
+										"20590_1": "WP RV (Ringvorlesung CCG)",
+										"43016_1": "WP MHC (Fachenglisch)"
+									}
+								}
+							},
+							"events": {
+								"20543_1": "M24 LV (Kolloquium Methodenvertiefung)"
+							}
+						}
+					}
+				},
+				"Bachelor Pflege (PO WS 2020/21)": {
+					"subDirectories": {
+						"2. Semester": {
+							"subDirectories": {
+								"Lernbegleitung bei Erwachsenen im klinischen Bereich": {
+									"events": {
+										"20353_1": "M2.1 LV2/01 (Lernbegleitung bei Erwachsenen im klinischen Bereich)",
+										"20353_2": "M2.1 LV2/02 (Lernbegleitung bei Erwachsenen im klinischen Bereich)"
+									}
+								}
+							}
+						},
+						"4. Semester": {
+							"subDirectories": {
+								"Ethik in der pflegerischen Versorgung": {
+									"events": {
+										"20467_1": "M4.1 LV/01 (Ethik in der pflegerischen Versorgung)",
+										"20467_2": "M4.1 LV/02 (Ethik in der pflegerischen Versorgung)"
+									}
+								},
+								"Ältere mehrfach und/ oder lebenslimitiert erkrankte Menschen in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen": {
+									"subDirectories": {
+										"Menschen im Alter begleiten und pflegen": {
+											"events": {
+												"20420_1": "M4.3 LV3/01 (Menschen im Alter begleiten und pflegen)",
+												"20420_2": "M4.3 LV3/02 (Menschen im Alter begleiten und pflegen)"
+											}
+										},
+										"Palliative Pflege": {
+											"events": {
+												"20434_1": "M4.3 LV6/01 (Palliative Pflege)",
+												"20434_2": "M4.3 LV6/02 (Palliative Pflege)"
+											}
+										}
+									}
+								},
+								"Gesundheitspolitik und Gesundheitssystem": {
+									"events": {
+										"20364_1": "M4.4 LV/01 (Gesundheitspolitik und Gesundheitssystem)",
+										"20364_2": "M4.4 LV/02 (Gesundheitspolitik und Gesundheitssystem)"
+									}
+								},
+								"Pflegerische Versorgung von Menschen mit akuten gesundheitlichen Beeinträchtigungen": {
+									"subDirectories": {
+										"Pflegerische Versorgung von Menschen mit akuten gesundheitlichen Beeinträchtigungen": {
+											"events": {
+												"20398_1": "M4.5 LV2/01 (Pflegerische Versorgung von Menschen mit akuten gesundheitlichen Beeinträchtigungen)",
+												"20398_2": "M4.5 LV2/02 (Pflegerische Versorgung von Menschen mit akuten gesundheitlichen Beeinträchtigungen)"
+											}
+										}
+									}
+								},
+								"Pflegerische Versorgung von Menschen mit psychischen Erkrankungen": {
+									"subDirectories": {
+										"Pflegerische Versorgung von Menschen mit psychischen Erkrankungen": {
+											"events": {
+												"20416_1": "M4.6 LV2/01 (Pflegerische Versorgung von Menschen mit psychischen Erkrankungen)",
+												"20416_2": "M4.6 LV2/02 (Pflegerische Versorgung von Menschen mit psychischen Erkrankungen)"
+											}
+										}
+									}
+								}
+							},
+							"events": {
+								"20347_1": "M4.2 LV1 (Pflegeforschung)"
+							}
+						},
+						"6. Semester": {
+							"subDirectories": {
+								"Patientenedukation": {
+									"events": {
+										"20430_1": "M6.1 LV1 (Patientenedukation)",
+										"20402_1": "M6.1 LV2 (Patientenedukation)"
+									}
+								},
+								"Pflegewissenschaftliches Fachprojekt": {
+									"events": {
+										"20379_1": "M6.3 LV/01 (Pflegewissenschaftliches Fachprojekt)",
+										"20379_2": "M6.3 LV/02 (Pflegewissenschaftliches Fachprojekt)",
+										"20379_3": "M6.3 LV/03 (Pflegewissenschaftliches Fachprojekt)"
+									}
+								},
+								"Wahlpflichtmodul": {
+									"events": {
+										"20390_1": "M6.4 LV1 (Bachelor-Schreibwerkstatt)",
+										"20444_1": "M6.4 WPD (Wahlpflichtfach)"
+									}
+								},
+								"Management in der gesundheitlichen Versorgung": {
+									"events": {
+										"20332_1": "M6.5 LV1 (Management in der gesundheitlichen Versorgung)",
+										"20387_1": "M6.5 LV2 (Management in der gesundheitlichen Versorgung)",
+										"20343_1": "M6.5 LV3 (Management in der gesundheitlichen Versorgung)"
+									}
+								},
+								"Pflegerische Versorgung von Menschen mit chronischen Erkrankungen/ Behinderungen": {
+									"events": {
+										"20468_1": "M6.6 LV1 (Pflegerische Versorgung von Menschen mit chronischen Erkrankungen/ Behinderungen)",
+										"20418_1": "M6.6 LV2 (Pflegerische Versorgung von Menschen mit chronischen Erkrankungen/ Behinderungen)",
+										"20411_1": "M6.6 LV3 (Pflegerische Versorgung von Menschen mit chronischen Erkrankungen/ Behinderungen)"
+									}
+								}
+							},
+							"events": {
+								"20465_1": "M6.2 LV (Konstruktiver Umgang mit Diversity in der gesundheitlichen Versorgung)"
+							}
+						}
+					}
+				},
 				"Master Health Sciences (PO WS 2023/24)": {
 					"subDirectories": {
 						"2. Semester": {
@@ -1933,8 +2146,42 @@
 						}
 					}
 				},
-				"Master Pflege (PO WS 2020/21)": {},
-				"Master Sozial- und Gesundheitsmanagement (PO WS 2020/21)": {},
+				"Master Pflege (PO WS 2020/21)": {
+					"subDirectories": {
+						"4. Semester": {
+							"subDirectories": {
+								"Modul 11 Begleitveranstaltung": {
+									"events": {
+										"45341_1": "Abschlussversnstaltung/01 (Modul 11 Begleitveranstaltung)",
+										"45341_2": "Abschlussversnstaltung/02 (Modul 11 Begleitveranstaltung)"
+									}
+								}
+							}
+						}
+					}
+				},
+				"Master Sozial- und Gesundheitsmanagement (PO WS 2020/21)": {
+					"subDirectories": {
+						"1. Semester": {
+							"events": {
+								"45659_1": "WuI (Wissenschaft und Innovation)",
+								"20201_1": "Org (Organisation)",
+								"20197_1": "HRM (Human Resource Management)"
+							}
+						},
+						"2. Semester": {
+							"events": {
+								"20150_1": "QM (Qualitätsmanagement)"
+							}
+						},
+						"4. Semester": {
+							"events": {
+								"37281_1": "AMS (Advanced Management Studies)",
+								"20188_1": "MA We (Master-Werkstatt)"
+							}
+						}
+					}
+				},
 				"Master Public Health (PO SoSe 2021)": {
 					"subDirectories": {
 						"1. Semester": {
@@ -6499,16 +6746,9 @@
 									}
 								},
 								"Mikroprozessortechnik": {
-									"subDirectories": {
-										"Mikroprozessortechnik Laborpraktikum": {
-											"events": {
-												"29227_1": "MPP/01 (Mikroprozessortechnik Laborpraktikum)",
-												"29227_2": "MPP/02 (Mikroprozessortechnik Laborpraktikum)"
-											}
-										}
-									},
 									"events": {
-										"29365_1": "MP (Mikroprozessortechnik)"
+										"29365_1": "MP (Mikroprozessortechnik)",
+										"29227_1": "MPP (Mikroprozessortechnik Laborpraktikum)"
 									}
 								},
 								"Sensorik und EMV": {
@@ -6732,7 +6972,128 @@
 		},
 		"Fakultät Management, Governance und Medien": {
 			"subDirectories": {
-				"Bachelor E-Government (PO WS 2023/24)": {},
+				"Bachelor E-Government (PO WS 2023/24)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"Mathematik und Programmierung 1": {
+									"subDirectories": {
+										"Unit 3: Algorithmen und Datenstrukturen – Übung": {
+											"events": {
+												"25096_1": "PM2 U3Ü/01 (Unit 3: Algorithmen und Datenstrukturen – Übung)",
+												"25096_2": "PM2 U3Ü/02 (Unit 3: Algorithmen und Datenstrukturen – Übung)"
+											}
+										}
+									},
+									"events": {
+										"25043_1": "PM2 U3 (Unit 3: Algorithmen und Datenstrukturen)"
+									}
+								},
+								"Grundlagen staatlichen Entscheidens und Handelns": {
+									"events": {
+										"25084_1": "PM5 U3 (Unit 3: Grundlagen der Volkswirtschaftslehre und Digitalwirtschaft II)",
+										"25101_1": "PM5 U4 (Unit 4: Verwaltungsverfahren und Verwaltungshandeln II)",
+										"25085_1": "PM5 U5 (Unit 5: Verwaltung, Staat und Gesellschaft)"
+									}
+								},
+								"Grundlagen der Personalpsychologie": {
+									"events": {
+										"25150_1": "PM6 U2 (Unit 2: Konflikte und Konfliktbewältigung im beruflichen Kontext)",
+										"25120_1": "PM6 U3 (Unit 3: Psychologie der Veränderung)"
+									}
+								}
+							},
+							"events": {
+								"25034_1": "PM4 U3 (Unit 3: Zivilrecht: Allgemeiner Teil und Schuldrecht)"
+							}
+						},
+						"2. Semester": {
+							"subDirectories": {
+								"Software und Prozesse": {
+									"events": {
+										"25153_1": "PM7 U1 (Unit 1: Software Engineering 1)",
+										"25033_1": "PM7 U2 (Unit 2: Prozessmanagement)"
+									}
+								},
+								"Vertiefungsseminare E-Government I": {
+									"subDirectories": {
+										"Unit 1: Seminar 1": {
+											"events": {
+												"25089_1": "PM8 U1/01 (Unit 1: Seminar 1)",
+												"25089_2": "PM8 U1/02 (Unit 1: Seminar 1)"
+											}
+										},
+										"Unit 2: Seminar 2": {
+											"events": {
+												"25058_1": "PM8 U2/01 (Unit 2: Seminar 2)",
+												"25058_2": "PM8 U2/02 (Unit 2: Seminar 2)"
+											}
+										}
+									}
+								}
+							}
+						},
+						"4. Semester": {
+							"subDirectories": {
+								"IT-Sicherheit, Datenschutz und Informationsfreiheit": {
+									"events": {
+										"25110_1": "PM11 U1 (Unit 1: IT-Sicherheit)",
+										"25067_1": "PM11 U2 (Unit 2: Datenschutz und Informationsfreiheitsrecht)"
+									}
+								},
+								"Verteilte Systeme und Datenbanken 1": {
+									"events": {
+										"25104_1": "PM12 U1 (Unit 1: Verteilte Systeme und Computernetze)",
+										"25147_1": "PM12 U2 (Unit 2: Modellbildung und Datenbanken 1)"
+									}
+								},
+								"IT-Management und IT-Recht": {
+									"events": {
+										"25040_1": "PM13 U1 (Unit 1: IT-Management)",
+										"25121_1": "PM13 U2 (Unit 2: Grundlagen des IT-Rechts)"
+									}
+								},
+								"Personal, Organisation, Innovation": {
+									"events": {
+										"25078_1": "PM14 U1 (Unit 1: Personale und organisationale Voraussetzungen von Innovationsfähigkeit und -bereitschaft)",
+										"25100_1": "PM14 U2 (Unit 2: Organisationstheorien: Grundlagen organisationaler Gestaltung)",
+										"25030_1": "PM14 U3 (Unit 3: Personalrecht)"
+									}
+								},
+								"Unit 1: Seminar 1": {
+									"events": {
+										"25142_1": "PM15 U1/01 (Unit 1: Seminar 1)",
+										"25142_2": "PM15 U1/02 (Unit 1: Seminar 1)"
+									}
+								}
+							},
+							"events": {
+								"25054_1": "PM16 U1 (Unit 1: Öffentliche Finanzwirtschaft mit SAP)"
+							}
+						},
+						"6. Semester": {
+							"subDirectories": {
+								"Content-Management- und Social-Media- Systeme": {
+									"subDirectories": {
+										"Unit 2: Anwendung von CM- und Social-Media-Systemen": {
+											"events": {
+												"25124_1": "PM20 U2/01 (Unit 2: Anwendung von CM- und Social-Media-Systemen)",
+												"25124_2": "PM20 U2/02 (Unit 2: Anwendung von CM- und Social-Media-Systemen)",
+												"25124_3": "PM20 U2/03 (Unit 2: Anwendung von CM- und Social-Media-Systemen)"
+											}
+										}
+									},
+									"events": {
+										"25149_1": "PM20 U1 (Unit 1: Grundlagen von CM- und Social-Media-Systemen)"
+									}
+								}
+							},
+							"events": {
+								"25143_1": "PM 21 U2 (Unit 2: Forschungsmethoden II und Theorie-Praxis- Reflexion)"
+							}
+						}
+					}
+				},
 				"Bachelor Marketing / Technische Betriebswirtschaftslehre (PO WS 2023/24)": {},
 				"Bachelor Logistik / Technische Betriebswirtschaftslehre (PO WS 2023/24)": {},
 				"Bachelor International Business (PO WS 2023/24)": {},
