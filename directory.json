@@ -2618,9 +2618,17 @@
 											}
 										},
 										"Software-Entwicklung in RUST": {
+											"subDirectories": {
+												"Software-Entwicklung in RUST Praktikum": {
+													"events": {
+														"35935_1": "WP_RP/01 (Software-Entwicklung in RUST Praktikum)",
+														"35935_2": "WP_RP/02 (Software-Entwicklung in RUST Praktikum)",
+														"35935_3": "WP_RP/03 (Software-Entwicklung in RUST Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"35936_1": "WP_R (Software-Entwicklung in RUST)",
-												"35935_1": "WP_RP (Software-Entwicklung in RUST Praktikum)"
+												"35936_1": "WP_R (Software-Entwicklung in RUST)"
 											}
 										},
 										"Certified Tester Foundation Level": {
@@ -2812,6 +2820,9 @@
 										"30975_1": "AA (Analysis und Lineare Algebra)"
 									}
 								}
+							},
+							"events": {
+								"31119_1": "AFÜ (Automatentheorie und Formale Sprachen Übung)"
 							}
 						},
 						"3. Semester": {
@@ -3055,9 +3066,17 @@
 											}
 										},
 										"Software-Entwicklung in RUST": {
+											"subDirectories": {
+												"Software-Entwicklung in RUST Praktikum": {
+													"events": {
+														"35935_1": "WP_RP/01 (Software-Entwicklung in RUST Praktikum)",
+														"35935_2": "WP_RP/02 (Software-Entwicklung in RUST Praktikum)",
+														"35935_3": "WP_RP/03 (Software-Entwicklung in RUST Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"35936_1": "WP_R (Software-Entwicklung in RUST)",
-												"35935_1": "WP_RP (Software-Entwicklung in RUST Praktikum)"
+												"35936_1": "WP_R (Software-Entwicklung in RUST)"
 											}
 										},
 										"Certified Tester Foundation Level": {
@@ -3502,9 +3521,17 @@
 											}
 										},
 										"Software-Entwicklung in RUST": {
+											"subDirectories": {
+												"Software-Entwicklung in RUST Praktikum": {
+													"events": {
+														"35935_1": "WP_RP/01 (Software-Entwicklung in RUST Praktikum)",
+														"35935_2": "WP_RP/02 (Software-Entwicklung in RUST Praktikum)",
+														"35935_3": "WP_RP/03 (Software-Entwicklung in RUST Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"35936_1": "WP_R (Software-Entwicklung in RUST)",
-												"35935_1": "WP_RP (Software-Entwicklung in RUST Praktikum)"
+												"35936_1": "WP_R (Software-Entwicklung in RUST)"
 											}
 										},
 										"Certified Tester Foundation Level": {
@@ -3779,9 +3806,17 @@
 											}
 										},
 										"Software-Entwicklung in RUST": {
+											"subDirectories": {
+												"Software-Entwicklung in RUST Praktikum": {
+													"events": {
+														"35935_1": "WP_RP/01 (Software-Entwicklung in RUST Praktikum)",
+														"35935_2": "WP_RP/02 (Software-Entwicklung in RUST Praktikum)",
+														"35935_3": "WP_RP/03 (Software-Entwicklung in RUST Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"35936_1": "WP_R (Software-Entwicklung in RUST)",
-												"35935_1": "WP_RP (Software-Entwicklung in RUST Praktikum)"
+												"35936_1": "WP_R (Software-Entwicklung in RUST)"
 											}
 										},
 										"AI Engineering": {
@@ -7161,7 +7196,23 @@
 					}
 				},
 				"Bachelor Internationale Wirtschaft und Außenhandel (PO WS 2013/14)": {},
-				"Bachelor Public Management (PO WS 2022/23)": {},
+				"Bachelor Public Management (PO WS 2022/23)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"Wahlpflichtmodul I": {
+									"events": {
+										"18638_1": "WM9 R (Introduction to the American Constitution)",
+										"37264_1": "WM9 Allg (Verhaltensökonomie)",
+										"41715_1": "WM9 Allg (Diversity Management)",
+										"45662_1": "WM9 Allg (Aktuelle Themen der Verwaltungsdigitalisierung)",
+										"45663_1": "WM9 Allg (Resonanz und Gesellschaftlicher Zusammenhalt)"
+									}
+								}
+							}
+						}
+					}
+				},
 				"Master Internationales Management / International Business (PO WS 2014/15)": {},
 				"Master International Business (PO WS 2023/24)": {},
 				"Master Internationale Logistik und Management (PO WS 2023/24)": {},

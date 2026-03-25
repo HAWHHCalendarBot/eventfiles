@@ -3,13 +3,6 @@
 		"name": "MANU (Mathematik und Numerik)",
 		"location": "201, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr. Ivo Nowak\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik und Numerik",
-		"startTime": "2026-04-07T12:15:00",
-		"endTime": "2026-04-07T15:30:00"
-	},
-	{
-		"name": "MANU (Mathematik und Numerik)",
-		"location": "201, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Ivo Nowak\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik und Numerik",
 		"startTime": "2026-04-14T12:15:00",
 		"endTime": "2026-04-14T15:30:00"
 	},
@@ -89,12 +82,5 @@
 		"description": "Dozent: Prof. Dr. Ivo Nowak\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik und Numerik",
 		"startTime": "2026-06-30T12:15:00",
 		"endTime": "2026-06-30T15:30:00"
-	},
-	{
-		"name": "MANU (Mathematik und Numerik)",
-		"location": "201, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Ivo Nowak\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik und Numerik",
-		"startTime": "2026-07-07T12:15:00",
-		"endTime": "2026-07-07T15:30:00"
 	}
 ]

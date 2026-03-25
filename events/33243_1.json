@@ -89,12 +89,5 @@
 		"description": "Dozent: Norbert Jeschke\nRhythmus: wöchentlich\n\nOriginaler Titel: Technische Thermodynamik 2 Laborpraktikum",
 		"startTime": "2026-07-09T08:15:00",
 		"endTime": "2026-07-09T11:30:00"
-	},
-	{
-		"name": "TTD-2 L (Technische Thermodynamik 2 Laborpraktikum)",
-		"location": "01 Halle, Berliner Tor 11",
-		"description": "Dozent: Norbert Jeschke\nRhythmus: Einzeltermin\n\nOriginaler Titel: Technische Thermodynamik 2 Laborpraktikum",
-		"startTime": "2026-04-10T12:15:00",
-		"endTime": "2026-04-10T15:30:00"
 	}
 ]
