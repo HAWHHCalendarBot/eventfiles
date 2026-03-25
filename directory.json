@@ -170,9 +170,16 @@
 								"Vertiefungsrichtung Automatisierung und Energietechnik": {
 									"subDirectories": {
 										"Steuerungstechnik": {
+											"subDirectories": {
+												"Steuerungstechnik Praktikum": {
+													"events": {
+														"30015_1": "STP/01 (Steuerungstechnik Praktikum)",
+														"30015_2": "STP/02 (Steuerungstechnik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30112_1": "ST (Steuerungstechnik)",
-												"30015_1": "STP (Steuerungstechnik Praktikum)"
+												"30112_1": "ST (Steuerungstechnik)"
 											}
 										},
 										"Grundlagen der Energietechnik": {
@@ -227,9 +234,16 @@
 									}
 								},
 								"Regelungstechnik": {
+									"subDirectories": {
+										"Regelungstechnik Praktikum": {
+											"events": {
+												"30147_1": "RTP/01 (Regelungstechnik Praktikum)",
+												"30147_2": "RTP/02 (Regelungstechnik Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"29937_1": "RT (Regelungstechnik)",
-										"30147_1": "RTP (Regelungstechnik Praktikum)"
+										"29937_1": "RT (Regelungstechnik)"
 									}
 								}
 							}
@@ -4738,21 +4752,21 @@
 								},
 								"Informatik 1": {
 									"subDirectories": {
-										"Informatik 1 PO25": {
+										"Informatik 1": {
 											"events": {
-												"37366_1": "Inf1/01 (Informatik 1 PO25)",
-												"37366_2": "Inf1/02 (Informatik 1 PO25)",
-												"37366_3": "Inf1/03 (Informatik 1 PO25)"
+												"37366_1": "Inf1/01 (Informatik 1)",
+												"37366_2": "Inf1/02 (Informatik 1)",
+												"37366_3": "Inf1/03 (Informatik 1)"
 											}
 										},
-										"Informatik 1 Praktikum PO25": {
+										"Informatik 1 Praktikum": {
 											"events": {
-												"37365_1": "Inf1 P/01 (Informatik 1 Praktikum PO25)",
-												"37365_2": "Inf1 P/02 (Informatik 1 Praktikum PO25)",
-												"37365_3": "Inf1 P/03 (Informatik 1 Praktikum PO25)",
-												"37365_4": "Inf1 P/04 (Informatik 1 Praktikum PO25)",
-												"37365_5": "Inf1 P/05 (Informatik 1 Praktikum PO25)",
-												"37365_6": "Inf1 P/06 (Informatik 1 Praktikum PO25)"
+												"37365_1": "Inf1 P/01 (Informatik 1 Praktikum)",
+												"37365_2": "Inf1 P/02 (Informatik 1 Praktikum)",
+												"37365_3": "Inf1 P/03 (Informatik 1 Praktikum)",
+												"37365_4": "Inf1 P/04 (Informatik 1 Praktikum)",
+												"37365_5": "Inf1 P/05 (Informatik 1 Praktikum)",
+												"37365_6": "Inf1 P/06 (Informatik 1 Praktikum)"
 											}
 										}
 									}
@@ -4937,21 +4951,21 @@
 								},
 								"Informatik 1": {
 									"subDirectories": {
-										"Informatik 1 PO25": {
+										"Informatik 1": {
 											"events": {
-												"37366_1": "Inf1/01 (Informatik 1 PO25)",
-												"37366_2": "Inf1/02 (Informatik 1 PO25)",
-												"37366_3": "Inf1/03 (Informatik 1 PO25)"
+												"37366_1": "Inf1/01 (Informatik 1)",
+												"37366_2": "Inf1/02 (Informatik 1)",
+												"37366_3": "Inf1/03 (Informatik 1)"
 											}
 										},
-										"Informatik 1 Praktikum PO25": {
+										"Informatik 1 Praktikum": {
 											"events": {
-												"37365_1": "Inf1 P/01 (Informatik 1 Praktikum PO25)",
-												"37365_2": "Inf1 P/02 (Informatik 1 Praktikum PO25)",
-												"37365_3": "Inf1 P/03 (Informatik 1 Praktikum PO25)",
-												"37365_4": "Inf1 P/04 (Informatik 1 Praktikum PO25)",
-												"37365_5": "Inf1 P/05 (Informatik 1 Praktikum PO25)",
-												"37365_6": "Inf1 P/06 (Informatik 1 Praktikum PO25)"
+												"37365_1": "Inf1 P/01 (Informatik 1 Praktikum)",
+												"37365_2": "Inf1 P/02 (Informatik 1 Praktikum)",
+												"37365_3": "Inf1 P/03 (Informatik 1 Praktikum)",
+												"37365_4": "Inf1 P/04 (Informatik 1 Praktikum)",
+												"37365_5": "Inf1 P/05 (Informatik 1 Praktikum)",
+												"37365_6": "Inf1 P/06 (Informatik 1 Praktikum)"
 											}
 										}
 									}
@@ -5155,21 +5169,21 @@
 								},
 								"Informatik 1": {
 									"subDirectories": {
-										"Informatik 1 PO25": {
+										"Informatik 1": {
 											"events": {
-												"37366_1": "Inf1/01 (Informatik 1 PO25)",
-												"37366_2": "Inf1/02 (Informatik 1 PO25)",
-												"37366_3": "Inf1/03 (Informatik 1 PO25)"
+												"37366_1": "Inf1/01 (Informatik 1)",
+												"37366_2": "Inf1/02 (Informatik 1)",
+												"37366_3": "Inf1/03 (Informatik 1)"
 											}
 										},
-										"Informatik 1 Praktikum PO25": {
+										"Informatik 1 Praktikum": {
 											"events": {
-												"37365_1": "Inf1 P/01 (Informatik 1 Praktikum PO25)",
-												"37365_2": "Inf1 P/02 (Informatik 1 Praktikum PO25)",
-												"37365_3": "Inf1 P/03 (Informatik 1 Praktikum PO25)",
-												"37365_4": "Inf1 P/04 (Informatik 1 Praktikum PO25)",
-												"37365_5": "Inf1 P/05 (Informatik 1 Praktikum PO25)",
-												"37365_6": "Inf1 P/06 (Informatik 1 Praktikum PO25)"
+												"37365_1": "Inf1 P/01 (Informatik 1 Praktikum)",
+												"37365_2": "Inf1 P/02 (Informatik 1 Praktikum)",
+												"37365_3": "Inf1 P/03 (Informatik 1 Praktikum)",
+												"37365_4": "Inf1 P/04 (Informatik 1 Praktikum)",
+												"37365_5": "Inf1 P/05 (Informatik 1 Praktikum)",
+												"37365_6": "Inf1 P/06 (Informatik 1 Praktikum)"
 											}
 										}
 									}
@@ -5372,21 +5386,21 @@
 								},
 								"Informatik 1": {
 									"subDirectories": {
-										"Informatik 1 PO25": {
+										"Informatik 1": {
 											"events": {
-												"37366_1": "Inf1/01 (Informatik 1 PO25)",
-												"37366_2": "Inf1/02 (Informatik 1 PO25)",
-												"37366_3": "Inf1/03 (Informatik 1 PO25)"
+												"37366_1": "Inf1/01 (Informatik 1)",
+												"37366_2": "Inf1/02 (Informatik 1)",
+												"37366_3": "Inf1/03 (Informatik 1)"
 											}
 										},
-										"Informatik 1 Praktikum PO25": {
+										"Informatik 1 Praktikum": {
 											"events": {
-												"37365_1": "Inf1 P/01 (Informatik 1 Praktikum PO25)",
-												"37365_2": "Inf1 P/02 (Informatik 1 Praktikum PO25)",
-												"37365_3": "Inf1 P/03 (Informatik 1 Praktikum PO25)",
-												"37365_4": "Inf1 P/04 (Informatik 1 Praktikum PO25)",
-												"37365_5": "Inf1 P/05 (Informatik 1 Praktikum PO25)",
-												"37365_6": "Inf1 P/06 (Informatik 1 Praktikum PO25)"
+												"37365_1": "Inf1 P/01 (Informatik 1 Praktikum)",
+												"37365_2": "Inf1 P/02 (Informatik 1 Praktikum)",
+												"37365_3": "Inf1 P/03 (Informatik 1 Praktikum)",
+												"37365_4": "Inf1 P/04 (Informatik 1 Praktikum)",
+												"37365_5": "Inf1 P/05 (Informatik 1 Praktikum)",
+												"37365_6": "Inf1 P/06 (Informatik 1 Praktikum)"
 											}
 										}
 									}
@@ -7207,6 +7221,24 @@
 										"41715_1": "WM9 Allg (Diversity Management)",
 										"45662_1": "WM9 Allg (Aktuelle Themen der Verwaltungsdigitalisierung)",
 										"45663_1": "WM9 Allg (Resonanz und Gesellschaftlicher Zusammenhalt)"
+									}
+								}
+							}
+						},
+						"4. Semester": {
+							"subDirectories": {
+								"Wahlpflichtmodul II": {
+									"events": {
+										"36250_1": "WM18 U1 R (Vergaberecht)",
+										"36251_1": "WM18 U1 R (Vertiefung Familienrecht)",
+										"36254_1": "WM18 U2 Allg (KI in der öffentlichen Verwaltung)",
+										"36255_1": "WM18 U2 Allg (Politischer Protest und soziale Bewegungen)",
+										"45500_1": "WM18 U1 R (Legal Technology)",
+										"45501_1": "WM18 U1 R (Verfassungsrechtliche Probleme im Strafrecht)",
+										"45502_1": "WM18 U1 (Gesundheitsmanagement)",
+										"45503_1": "WM18 U2 Allg (Netzwerk- und Kooperationsmanagement in Wirtschaft und Verwaltung)",
+										"45680_1": "WM18 U2 Allg (Zukünfte denken: Soziale Imaginationen im 21. Jahrhundert)",
+										"45752_1": "WM18 U1 R (Arbeitsrecht)"
 									}
 								}
 							}
@@ -9276,21 +9308,21 @@
 							"subDirectories": {
 								"Informatik": {
 									"subDirectories": {
-										"Informatik 1 PO25": {
+										"Informatik 1": {
 											"events": {
-												"37366_1": "Inf1/01 (Informatik 1 PO25)",
-												"37366_2": "Inf1/02 (Informatik 1 PO25)",
-												"37366_3": "Inf1/03 (Informatik 1 PO25)"
+												"37366_1": "Inf1/01 (Informatik 1)",
+												"37366_2": "Inf1/02 (Informatik 1)",
+												"37366_3": "Inf1/03 (Informatik 1)"
 											}
 										},
-										"Informatik 1 Praktikum PO25": {
+										"Informatik 1 Praktikum": {
 											"events": {
-												"37365_1": "Inf1 P/01 (Informatik 1 Praktikum PO25)",
-												"37365_2": "Inf1 P/02 (Informatik 1 Praktikum PO25)",
-												"37365_3": "Inf1 P/03 (Informatik 1 Praktikum PO25)",
-												"37365_4": "Inf1 P/04 (Informatik 1 Praktikum PO25)",
-												"37365_5": "Inf1 P/05 (Informatik 1 Praktikum PO25)",
-												"37365_6": "Inf1 P/06 (Informatik 1 Praktikum PO25)"
+												"37365_1": "Inf1 P/01 (Informatik 1 Praktikum)",
+												"37365_2": "Inf1 P/02 (Informatik 1 Praktikum)",
+												"37365_3": "Inf1 P/03 (Informatik 1 Praktikum)",
+												"37365_4": "Inf1 P/04 (Informatik 1 Praktikum)",
+												"37365_5": "Inf1 P/05 (Informatik 1 Praktikum)",
+												"37365_6": "Inf1 P/06 (Informatik 1 Praktikum)"
 											}
 										}
 									}

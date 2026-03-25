@@ -17,8 +17,8 @@
 		"name": "WP_EEI (Einführung in die Energieinformatik)",
 		"location": "6.65, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Jan Sudeikat\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in die Energieinformatik ^ Freitag ohne 5+8+11+14",
-		"startTime": "2026-05-15T08:15:00",
-		"endTime": "2026-05-15T11:45:00"
+		"startTime": "2026-05-08T08:15:00",
+		"endTime": "2026-05-08T11:45:00"
 	},
 	{
 		"name": "WP_EEI (Einführung in die Energieinformatik)",
@@ -31,8 +31,8 @@
 		"name": "WP_EEI (Einführung in die Energieinformatik)",
 		"location": "6.65, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Jan Sudeikat\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in die Energieinformatik ^ Freitag ohne 5+8+11+14",
-		"startTime": "2026-06-05T08:15:00",
-		"endTime": "2026-06-05T11:45:00"
+		"startTime": "2026-05-29T08:15:00",
+		"endTime": "2026-05-29T11:45:00"
 	},
 	{
 		"name": "WP_EEI (Einführung in die Energieinformatik)",
@@ -45,8 +45,8 @@
 		"name": "WP_EEI (Einführung in die Energieinformatik)",
 		"location": "6.65, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Jan Sudeikat\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in die Energieinformatik ^ Freitag ohne 5+8+11+14",
-		"startTime": "2026-06-26T08:15:00",
-		"endTime": "2026-06-26T11:45:00"
+		"startTime": "2026-06-19T08:15:00",
+		"endTime": "2026-06-19T11:45:00"
 	},
 	{
 		"name": "WP_EEI (Einführung in die Energieinformatik)",
@@ -54,5 +54,12 @@
 		"description": "Dozent: Prof. Dr. Jan Sudeikat\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in die Energieinformatik ^ Freitag ohne 5+8+11+14",
 		"startTime": "2026-07-03T08:15:00",
 		"endTime": "2026-07-03T11:45:00"
+	},
+	{
+		"name": "WP_EEI (Einführung in die Energieinformatik)",
+		"location": "6.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Jan Sudeikat\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in die Energieinformatik ^ Freitag ohne 5+8+11+14",
+		"startTime": "2026-07-10T08:15:00",
+		"endTime": "2026-07-10T11:45:00"
 	}
 ]
