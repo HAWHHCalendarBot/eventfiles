@@ -452,9 +452,16 @@
 						"1. Semester": {
 							"subDirectories": {
 								"Mathematik 1": {
+									"subDirectories": {
+										"Mathematik 1": {
+											"events": {
+												"35676_1": "MAE1/01 (Mathematik 1)",
+												"35676_2": "MAE1/02 (Mathematik 1)"
+											}
+										}
+									},
 									"events": {
-										"35707_1": "MA1 (Mathematik 1)",
-										"35676_1": "MAE1 (Mathematik 1)"
+										"35707_1": "MA1 (Mathematik 1)"
 									}
 								},
 								"Grundlagen der Elektrotechnik 1": {
@@ -1098,6 +1105,11 @@
 				},
 				"Bachelor Medientechnik (PO WS 2016/17)": {
 					"subDirectories": {
+						"2. Semester": {
+							"events": {
+								"22489_1": "MATH2 Üb (Mathematik 2 Übung)"
+							}
+						},
 						"4. Semester": {
 							"subDirectories": {
 								"Wahlpflichtmodule Technik": {
@@ -1197,6 +1209,9 @@
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
 								}
+							},
+							"events": {
+								"43240_1": "SRP1 (Sustainable Research Project 1)"
 							}
 						},
 						"2. Semester": {
@@ -1219,6 +1234,9 @@
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
 								}
+							},
+							"events": {
+								"43240_1": "SRP1 (Sustainable Research Project 1)"
 							}
 						},
 						"2. Semester": {
