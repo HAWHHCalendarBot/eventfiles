@@ -3,13 +3,6 @@
 		"name": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 		"location": "228, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr. Hans-Joachim Schelberg\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Methodische Produktentwicklung Laborpraktikum^englischDM (2. Parallelgruppe)",
-		"startTime": "2026-04-07T08:15:00",
-		"endTime": "2026-04-07T11:30:00"
-	},
-	{
-		"name": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
-		"location": "228, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Hans-Joachim Schelberg\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Methodische Produktentwicklung Laborpraktikum^englischDM (2. Parallelgruppe)",
 		"startTime": "2026-04-14T08:15:00",
 		"endTime": "2026-04-14T11:30:00"
 	},
@@ -89,12 +82,5 @@
 		"description": "Dozent: Prof. Dr. Hans-Joachim Schelberg\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Methodische Produktentwicklung Laborpraktikum^englischDM (2. Parallelgruppe)",
 		"startTime": "2026-06-30T08:15:00",
 		"endTime": "2026-06-30T11:30:00"
-	},
-	{
-		"name": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
-		"location": "228, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Hans-Joachim Schelberg\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Methodische Produktentwicklung Laborpraktikum^englischDM (2. Parallelgruppe)",
-		"startTime": "2026-07-07T08:15:00",
-		"endTime": "2026-07-07T11:30:00"
 	}
 ]

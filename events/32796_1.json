@@ -2,7 +2,7 @@
 	{
 		"name": "KONCH (Konstruktion C (konstruktive Arbeit))",
 		"location": "423, Berliner Tor 21",
-		"description": "Dozent: Niels Eiben\nRhythmus: wöchentlich\n\nOriginaler Titel: Konstruktion C HA^EK",
+		"description": "Dozenten: Prof. Dr. Andreas Meyer-Eschenbach, Niels Eiben\nRhythmus: Einzeltermin\n\nOriginaler Titel: Konstruktion C HA^EK",
 		"startTime": "2026-04-07T12:15:00",
 		"endTime": "2026-04-07T15:30:00"
 	},
@@ -89,12 +89,5 @@
 		"description": "Dozent: Niels Eiben\nRhythmus: wöchentlich\n\nOriginaler Titel: Konstruktion C HA^EK",
 		"startTime": "2026-06-30T12:15:00",
 		"endTime": "2026-06-30T15:30:00"
-	},
-	{
-		"name": "KONCH (Konstruktion C (konstruktive Arbeit))",
-		"location": "423, Berliner Tor 21",
-		"description": "Dozent: Niels Eiben\nRhythmus: wöchentlich\n\nOriginaler Titel: Konstruktion C HA^EK",
-		"startTime": "2026-07-07T12:15:00",
-		"endTime": "2026-07-07T15:30:00"
 	}
 ]
