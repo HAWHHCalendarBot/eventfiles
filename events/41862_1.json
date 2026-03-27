@@ -1,6 +1,13 @@
 [
 	{
 		"name": "AINF-E (Angewandte Informatik Labor)",
+		"location": "340, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr. Ivo Nowak\nRhythmus: Einzeltermin\n\nOriginaler Titel: Angewandte Informatik Labor",
+		"startTime": "2026-04-07T12:15:00",
+		"endTime": "2026-04-07T15:30:00"
+	},
+	{
+		"name": "AINF-E (Angewandte Informatik Labor)",
 		"location": "231, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr. Ivo Nowak\nRhythmus: wöchentlich\n\nOriginaler Titel: Angewandte Informatik Labor",
 		"startTime": "2026-04-13T12:15:00",

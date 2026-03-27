@@ -40,5 +40,12 @@
 		"description": "Dozent: Prof. Amena Ahmad\nMax. Anzahl von Teilnehmer/-innen: 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Literature Search and Scientific Methods",
 		"startTime": "2026-07-09T10:15:00",
 		"endTime": "2026-07-09T16:00:00"
+	},
+	{
+		"name": "LSSM (Literature Search and Scientific Methods)",
+		"location": "(kein Raum angegeben)",
+		"description": "Max. Anzahl von Teilnehmer/-innen: 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Literature Search and Scientific Methods",
+		"startTime": "2026-07-10T10:15:00",
+		"endTime": "2026-07-10T16:00:00"
 	}
 ]

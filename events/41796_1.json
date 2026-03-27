@@ -1,6 +1,13 @@
 [
 	{
 		"name": "STL-1-E (Strömungslehre 1 Labor)",
+		"location": "232, Berliner Tor 21",
+		"description": "Dozent: Elena Nitze\nRhythmus: Einzeltermin\n\nOriginaler Titel: Strömungslehre 1 Labor",
+		"startTime": "2026-04-10T12:15:00",
+		"endTime": "2026-04-10T15:30:00"
+	},
+	{
+		"name": "STL-1-E (Strömungslehre 1 Labor)",
 		"location": "01 Halle, Berliner Tor 11",
 		"description": "Dozent: Elena Nitze\nRhythmus: wöchentlich\n\nOriginaler Titel: Strömungslehre 1 Labor",
 		"startTime": "2026-04-13T12:15:00",

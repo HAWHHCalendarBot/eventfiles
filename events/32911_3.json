@@ -1,8 +1,8 @@
 [
 	{
 		"name": "EPH l/03 (Experimentalphysik Laborpraktikum)",
-		"location": "323, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr.-Ing. Marcus Wolff\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Experimentalphysik Laborpraktikum^Kohorte2c (3. Parallelgruppe)",
+		"location": "228, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr.-Ing. Marcus Wolff\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: Einzeltermin\n\nOriginaler Titel: Experimentalphysik Laborpraktikum^Kohorte2c (3. Parallelgruppe)",
 		"startTime": "2026-04-07T08:15:00",
 		"endTime": "2026-04-07T11:30:00"
 	},
@@ -89,13 +89,6 @@
 		"description": "Dozent: Prof. Dr.-Ing. Marcus Wolff\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Experimentalphysik Laborpraktikum^Kohorte2c (3. Parallelgruppe)",
 		"startTime": "2026-06-30T08:15:00",
 		"endTime": "2026-06-30T11:30:00"
-	},
-	{
-		"name": "EPH l/03 (Experimentalphysik Laborpraktikum)",
-		"location": "323, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr.-Ing. Marcus Wolff\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Experimentalphysik Laborpraktikum^Kohorte2c (3. Parallelgruppe)",
-		"startTime": "2026-07-07T08:15:00",
-		"endTime": "2026-07-07T11:30:00"
 	},
 	{
 		"name": "EPH l/03 (Experimentalphysik Laborpraktikum)",

@@ -4105,6 +4105,12 @@
 						},
 						"2. Semester": {
 							"subDirectories": {
+								"Mathematik 2": {
+									"events": {
+										"42425_1": "MA2 LV1 (Mathematik 2)",
+										"42434_1": "MA2 LV2 (Mathematik 2 Übung)"
+									}
+								},
 								"Informatik 2": {
 									"events": {
 										"42414_1": "Inf2 LV1 (Informatik 2)",
@@ -4129,9 +4135,6 @@
 										"42404_1": "HCI LV2 (Human-Computer Interaction 2)"
 									}
 								}
-							},
-							"events": {
-								"42425_1": "MA2 LV1 (Mathematik 2)"
 							}
 						},
 						"3. Semester": {
@@ -4962,27 +4965,6 @@
 												"26880_6": "Phy P/06 (Physik Praktikum)",
 												"26880_7": "Phy P/07 (Physik Praktikum)",
 												"26880_8": "Phy P/08 (Physik Praktikum)"
-											}
-										}
-									}
-								},
-								"Informatik 1": {
-									"subDirectories": {
-										"Informatik 1": {
-											"events": {
-												"37366_1": "Inf1/01 (Informatik 1)",
-												"37366_2": "Inf1/02 (Informatik 1)",
-												"37366_3": "Inf1/03 (Informatik 1)"
-											}
-										},
-										"Informatik 1 Praktikum": {
-											"events": {
-												"37365_1": "Inf1 P/01 (Informatik 1 Praktikum)",
-												"37365_2": "Inf1 P/02 (Informatik 1 Praktikum)",
-												"37365_3": "Inf1 P/03 (Informatik 1 Praktikum)",
-												"37365_4": "Inf1 P/04 (Informatik 1 Praktikum)",
-												"37365_5": "Inf1 P/05 (Informatik 1 Praktikum)",
-												"37365_6": "Inf1 P/06 (Informatik 1 Praktikum)"
 											}
 										}
 									}
