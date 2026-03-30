@@ -1,50 +1,57 @@
 [
 	{
 		"name": "D LV2 (Design 2)",
-		"location": "E42, Finkenau 35, Altbau",
-		"description": "Dozent: Prof. Ralf Hebecker\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Eric Jannot\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
 		"startTime": "2026-04-15T13:45:00",
 		"endTime": "2026-04-15T17:00:00"
 	},
 	{
 		"name": "D LV2 (Design 2)",
 		"location": "E42, Finkenau 35, Altbau",
-		"description": "Dozent: Prof. Ralf Hebecker\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
-		"startTime": "2026-04-29T13:45:00",
-		"endTime": "2026-04-29T17:00:00"
+		"description": "Dozent: Eric Jannot\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
+		"startTime": "2026-04-22T13:45:00",
+		"endTime": "2026-04-22T17:00:00"
 	},
 	{
 		"name": "D LV2 (Design 2)",
 		"location": "E42, Finkenau 35, Altbau",
-		"description": "Dozent: Prof. Ralf Hebecker\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
-		"startTime": "2026-05-13T13:45:00",
-		"endTime": "2026-05-13T17:00:00"
+		"description": "Dozent: Eric Jannot\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
+		"startTime": "2026-05-06T13:45:00",
+		"endTime": "2026-05-06T17:00:00"
 	},
 	{
 		"name": "D LV2 (Design 2)",
 		"location": "E42, Finkenau 35, Altbau",
-		"description": "Dozent: Prof. Ralf Hebecker\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
+		"description": "Dozent: Eric Jannot\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
+		"startTime": "2026-05-20T13:45:00",
+		"endTime": "2026-05-20T17:00:00"
+	},
+	{
+		"name": "D LV2 (Design 2)",
+		"location": "E42, Finkenau 35, Altbau",
+		"description": "Dozent: Eric Jannot\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
 		"startTime": "2026-05-27T13:45:00",
 		"endTime": "2026-05-27T17:00:00"
 	},
 	{
 		"name": "D LV2 (Design 2)",
 		"location": "E42, Finkenau 35, Altbau",
-		"description": "Dozent: Prof. Ralf Hebecker\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
+		"description": "Dozent: Eric Jannot\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
 		"startTime": "2026-06-10T13:45:00",
 		"endTime": "2026-06-10T17:00:00"
 	},
 	{
 		"name": "D LV2 (Design 2)",
 		"location": "E42, Finkenau 35, Altbau",
-		"description": "Dozent: Prof. Ralf Hebecker\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
+		"description": "Dozent: Eric Jannot\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
 		"startTime": "2026-06-24T13:45:00",
 		"endTime": "2026-06-24T17:00:00"
 	},
 	{
 		"name": "D LV2 (Design 2)",
 		"location": "E42, Finkenau 35, Altbau",
-		"description": "Dozent: Prof. Ralf Hebecker\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
+		"description": "Dozent: Eric Jannot\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Design 2 ^ (1MI-D.LV2)",
 		"startTime": "2026-07-08T13:45:00",
 		"endTime": "2026-07-08T17:00:00"
 	}

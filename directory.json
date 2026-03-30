@@ -82,9 +82,17 @@
 									}
 								},
 								"Elektronik 1": {
+									"subDirectories": {
+										"Elektronik 1 Praktikum": {
+											"events": {
+												"30045_1": "ELP/01 (Elektronik 1 Praktikum)",
+												"30045_2": "ELP/02 (Elektronik 1 Praktikum)",
+												"30045_3": "ELP/03 (Elektronik 1 Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"29971_1": "EL (Elektronik 1)",
-										"30045_1": "ELP (Elektronik 1 Praktikum)"
+										"29971_1": "EL (Elektronik 1)"
 									}
 								},
 								"Programmieren 2": {
@@ -153,14 +161,6 @@
 									},
 									"events": {
 										"30091_1": "OP (Objektorientierte Programmierung)"
-									}
-								},
-								"Technisches Englisch": {
-									"events": {
-										"29959_1": "TE/01 (Technisches Englisch)",
-										"29959_2": "TE/02 (Technisches Englisch)",
-										"29959_3": "TE/03 (Technisches Englisch)",
-										"29959_4": "TE/04 (Technisches Englisch)"
 									}
 								}
 							}
@@ -253,9 +253,16 @@
 								"Vertiefungsrichtung Automatisierung und Energietechnik": {
 									"subDirectories": {
 										"Prozessleittechnik und Bussysteme": {
+											"subDirectories": {
+												"Prozessleittechnik und Bussysteme Praktikum": {
+													"events": {
+														"30148_1": "PBP/01 (Prozessleittechnik und Bussysteme Praktikum)",
+														"30148_2": "PBP/03 (Prozessleittechnik und Bussysteme Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30109_1": "PB (Prozessleittechnik und Bussysteme)",
-												"30148_1": "PBP (Prozessleittechnik und Bussysteme Praktikum)"
+												"30109_1": "PB (Prozessleittechnik und Bussysteme)"
 											}
 										},
 										"Antriebe und Leistungselektronik": {
@@ -385,8 +392,8 @@
 										},
 										"Applied System Engineering": {
 											"events": {
-												"37047_1": "WP_ASE (Applied System Engineering)",
-												"37050_1": "WP_ASEP (Applied System Engineering)"
+												"37050_1": "WP_ASEP (Applied System Engineering)",
+												"37047_1": "WP_ASE (Applied System Engineering)"
 											}
 										},
 										"Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz": {
@@ -498,11 +505,16 @@
 												"35761_1": "LSE1/01 (Lernen und Studiermethodik)",
 												"35761_2": "LSE1/02 (Lernen und Studiermethodik)"
 											}
+										},
+										"Lernen und Studiermethodik 1": {
+											"events": {
+												"35737_2": "LSL1/02 (Lernen und Studiermethodik 1)",
+												"35737_3": "LSL1/03 (Lernen und Studiermethodik 1)",
+												"35737_4": "LSL1/04 (Lernen und Studiermethodik 1)"
+											}
 										}
 									},
 									"events": {
-										"35737_1": "LSL1 (Lernen und Studiermethodik 1)",
-										"35716_1": "LSL2 (Lernen und Studiermethodik 2)",
 										"30003_1": "LP (Lernprojekt)"
 									}
 								}
@@ -573,9 +585,17 @@
 									}
 								},
 								"Betriebswirtschaft und Ökonomie": {
+									"subDirectories": {
+										"Betriebswirtschaft und Ökonomie": {
+											"events": {
+												"35748_1": "EME/01 (Betriebswirtschaft und Ökonomie)",
+												"35748_2": "EME/02 (Betriebswirtschaft und Ökonomie)",
+												"35748_3": "EME/03 (Betriebswirtschaft und Ökonomie)"
+											}
+										}
+									},
 									"events": {
-										"35771_1": "EM (Betriebswirtschaft und Ökonomie)",
-										"35748_1": "EME (Betriebswirtschaft und Ökonomie)"
+										"35771_1": "EM (Betriebswirtschaft und Ökonomie)"
 									}
 								}
 							}
@@ -723,8 +743,8 @@
 										},
 										"Applied System Engineering": {
 											"events": {
-												"37047_1": "WP_ASE (Applied System Engineering)",
-												"37050_1": "WP_ASEP (Applied System Engineering)"
+												"37050_1": "WP_ASEP (Applied System Engineering)",
+												"37047_1": "WP_ASE (Applied System Engineering)"
 											}
 										},
 										"LED Technik": {
@@ -775,8 +795,8 @@
 										},
 										"Applied System Engineering": {
 											"events": {
-												"37047_1": "WP_ASE (Applied System Engineering)",
-												"37050_1": "WP_ASEP (Applied System Engineering)"
+												"37050_1": "WP_ASEP (Applied System Engineering)",
+												"37047_1": "WP_ASE (Applied System Engineering)"
 											}
 										},
 										"LED Technik": {
@@ -988,8 +1008,8 @@
 										},
 										"Applied System Engineering": {
 											"events": {
-												"37047_1": "WP_ASE (Applied System Engineering)",
-												"37050_1": "WP_ASEP (Applied System Engineering)"
+												"37050_1": "WP_ASEP (Applied System Engineering)",
+												"37047_1": "WP_ASE (Applied System Engineering)"
 											}
 										},
 										"Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz": {
@@ -1052,8 +1072,8 @@
 										},
 										"Applied System Engineering": {
 											"events": {
-												"37047_1": "WP_ASE (Applied System Engineering)",
-												"37050_1": "WP_ASEP (Applied System Engineering)"
+												"37050_1": "WP_ASEP (Applied System Engineering)",
+												"37047_1": "WP_ASE (Applied System Engineering)"
 											}
 										},
 										"Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz": {
@@ -2358,8 +2378,7 @@
 											"events": {
 												"35137_1": "DBP/01 (Datenbanken Praktikum)",
 												"35137_2": "DBP/02 (Datenbanken Praktikum)",
-												"35137_3": "DBP/03 (Datenbanken Praktikum)",
-												"35137_4": "DBP/04 (Datenbanken Praktikum)"
+												"35137_3": "DBP/03 (Datenbanken Praktikum)"
 											}
 										}
 									},
@@ -2700,7 +2719,7 @@
 												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
 											}
 										},
-										"ai_Agentic AI": {
+										"Agentic AI": {
 											"subDirectories": {
 												"Agentic AI Praktikum": {
 													"events": {
@@ -2714,13 +2733,13 @@
 												"44763_1": "WP_AgAI (Agentic AI)"
 											}
 										},
-										"ai_Einführung in die Robotik Kurs B": {
+										"Einführung in die Robotik Kurs B": {
 											"events": {
 												"44776_1": "WP_ERB (Einführung in die Robotik Kurs B)",
 												"44779_1": "WP_ERBP (Einführung in die Robotik Kurs B Praktikum)"
 											}
 										},
-										"ai_Einführung in die Energieinformatik": {
+										"Einführung in die Energieinformatik": {
 											"events": {
 												"44770_1": "WP_EEI (Einführung in die Energieinformatik)",
 												"44773_1": "WP_EEIP (Einführung in die Energieinformatik Praktikum)"
@@ -3147,7 +3166,7 @@
 												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
 											}
 										},
-										"ai_Agentic AI": {
+										"Agentic AI": {
 											"subDirectories": {
 												"Agentic AI Praktikum": {
 													"events": {
@@ -3161,13 +3180,13 @@
 												"44763_1": "WP_AgAI (Agentic AI)"
 											}
 										},
-										"ai_Einführung in die Robotik Kurs B": {
+										"Einführung in die Robotik Kurs B": {
 											"events": {
 												"44776_1": "WP_ERB (Einführung in die Robotik Kurs B)",
 												"44779_1": "WP_ERBP (Einführung in die Robotik Kurs B Praktikum)"
 											}
 										},
-										"ai_Einführung in die Energieinformatik": {
+										"Einführung in die Energieinformatik": {
 											"events": {
 												"44770_1": "WP_EEI (Einführung in die Energieinformatik)",
 												"44773_1": "WP_EEIP (Einführung in die Energieinformatik Praktikum)"
@@ -3602,7 +3621,7 @@
 												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
 											}
 										},
-										"ai_Agentic AI": {
+										"Agentic AI": {
 											"subDirectories": {
 												"Agentic AI Praktikum": {
 													"events": {
@@ -3616,13 +3635,13 @@
 												"44763_1": "WP_AgAI (Agentic AI)"
 											}
 										},
-										"ai_Einführung in die Robotik Kurs B": {
+										"Einführung in die Robotik Kurs B": {
 											"events": {
 												"44776_1": "WP_ERB (Einführung in die Robotik Kurs B)",
 												"44779_1": "WP_ERBP (Einführung in die Robotik Kurs B Praktikum)"
 											}
 										},
-										"ai_Einführung in die Energieinformatik": {
+										"Einführung in die Energieinformatik": {
 											"events": {
 												"44770_1": "WP_EEI (Einführung in die Energieinformatik)",
 												"44773_1": "WP_EEIP (Einführung in die Energieinformatik Praktikum)"

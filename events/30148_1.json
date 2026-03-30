@@ -1,29 +1,29 @@
 [
 	{
-		"name": "PBP (Prozessleittechnik und Bussysteme Praktikum)",
+		"name": "PBP/01 (Prozessleittechnik und Bussysteme Praktikum)",
 		"location": "4.02, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: PBP/01",
+		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: PBP/01 (1. Parallelgruppe)",
 		"startTime": "2026-04-29T09:55:00",
 		"endTime": "2026-04-29T11:25:00"
 	},
 	{
-		"name": "PBP (Prozessleittechnik und Bussysteme Praktikum)",
+		"name": "PBP/01 (Prozessleittechnik und Bussysteme Praktikum)",
 		"location": "4.02, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: PBP/01",
+		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: PBP/01 (1. Parallelgruppe)",
 		"startTime": "2026-05-20T08:10:00",
 		"endTime": "2026-05-20T11:25:00"
 	},
 	{
-		"name": "PBP (Prozessleittechnik und Bussysteme Praktikum)",
+		"name": "PBP/01 (Prozessleittechnik und Bussysteme Praktikum)",
 		"location": "4.02, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: PBP/01",
+		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: PBP/01 (1. Parallelgruppe)",
 		"startTime": "2026-06-10T08:10:00",
 		"endTime": "2026-06-10T11:25:00"
 	},
 	{
-		"name": "PBP (Prozessleittechnik und Bussysteme Praktikum)",
+		"name": "PBP/01 (Prozessleittechnik und Bussysteme Praktikum)",
 		"location": "4.02, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: PBP/01",
+		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: PBP/01 (1. Parallelgruppe)",
 		"startTime": "2026-07-01T08:10:00",
 		"endTime": "2026-07-01T11:25:00"
 	}

@@ -2,6 +2,13 @@
 	{
 		"name": "AS (Antriebstechnik für mobile Systeme)",
 		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Michael Röther\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: AS",
+		"startTime": "2026-04-07T12:10:00",
+		"endTime": "2026-04-07T15:40:00"
+	},
+	{
+		"name": "AS (Antriebstechnik für mobile Systeme)",
+		"location": "8.61, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Michael Röther\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: AS",
 		"startTime": "2026-04-14T08:10:00",
 		"endTime": "2026-04-14T11:25:00"
@@ -68,12 +75,5 @@
 		"description": "Dozent: Prof. Dr. Michael Röther\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: AS",
 		"startTime": "2026-06-16T08:10:00",
 		"endTime": "2026-06-16T11:25:00"
-	},
-	{
-		"name": "AS (Antriebstechnik für mobile Systeme)",
-		"location": "8.61, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Michael Röther\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: AS",
-		"startTime": "2026-06-23T08:10:00",
-		"endTime": "2026-06-23T11:25:00"
 	}
 ]
