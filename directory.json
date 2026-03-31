@@ -9202,6 +9202,13 @@
 											}
 										}
 									}
+								},
+								"Grundlagen Projektmanagement": {
+									"events": {
+										"32344_1": "BP_PM_PF/01 (Grundlagen Projektmanagement)",
+										"32344_2": "BP_PM_PF/02 (Grundlagen Projektmanagement)",
+										"32344_3": "BP_PM_PF/03 (Grundlagen Projektmanagement)"
+									}
 								}
 							}
 						}
