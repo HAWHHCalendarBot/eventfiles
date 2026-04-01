@@ -8,13 +8,6 @@
 	},
 	{
 		"name": "Org (Organisation)",
-		"location": "6.08, Alexanderstraße 1",
-		"description": "Dozent: Prof. Dr. Constanze Sörensen\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Organisation",
-		"startTime": "2026-04-10T09:00:00",
-		"endTime": "2026-04-10T13:00:00"
-	},
-	{
-		"name": "Org (Organisation)",
 		"location": "6.07, Alexanderstraße 1",
 		"description": "Dozent: Prof. Dr. Constanze Sörensen\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Organisation",
 		"startTime": "2026-04-24T14:00:00",
@@ -22,21 +15,7 @@
 	},
 	{
 		"name": "Org (Organisation)",
-		"location": "6.08, Alexanderstraße 1",
-		"description": "Dozent: Prof. Dr. Constanze Sörensen\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Organisation",
-		"startTime": "2026-04-24T14:00:00",
-		"endTime": "2026-04-24T17:00:00"
-	},
-	{
-		"name": "Org (Organisation)",
 		"location": "6.07, Alexanderstraße 1",
-		"description": "Dozent: Prof. Dr. Constanze Sörensen\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Organisation",
-		"startTime": "2026-05-08T09:00:00",
-		"endTime": "2026-05-08T17:15:00"
-	},
-	{
-		"name": "Org (Organisation)",
-		"location": "6.08, Alexanderstraße 1",
 		"description": "Dozent: Prof. Dr. Constanze Sörensen\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Organisation",
 		"startTime": "2026-05-08T09:00:00",
 		"endTime": "2026-05-08T17:15:00"
@@ -51,13 +30,6 @@
 	{
 		"name": "Org (Organisation)",
 		"location": "6.07, Alexanderstraße 1",
-		"description": "Dozent: Prof. Dr. Constanze Sörensen\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Organisation",
-		"startTime": "2026-06-02T09:00:00",
-		"endTime": "2026-06-02T13:00:00"
-	},
-	{
-		"name": "Org (Organisation)",
-		"location": "6.08, Alexanderstraße 1",
 		"description": "Dozent: Prof. Dr. Constanze Sörensen\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Organisation",
 		"startTime": "2026-06-02T09:00:00",
 		"endTime": "2026-06-02T13:00:00"
