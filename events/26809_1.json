@@ -1,6 +1,13 @@
 [
 	{
 		"name": "FBRT P (Fermentations- und Bioreaktortechnik Praktikum)",
+		"location": "0.45, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Prof. Dr. Christian Kaiser, Petra Derr\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Fermentations- und Bioreaktortechnik Praktikum",
+		"startTime": "2026-04-07T08:30:00",
+		"endTime": "2026-04-07T14:30:00"
+	},
+	{
+		"name": "FBRT P (Fermentations- und Bioreaktortechnik Praktikum)",
 		"location": "05 BT Gebäude Bioverfahrenstechnik 2, Ulmenliet 20, Biotechnologie",
 		"description": "Dozenten: Prof. Dr. Christian Kaiser, Petra Derr\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Fermentations- und Bioreaktortechnik Praktikum",
 		"startTime": "2026-04-07T08:30:00",
@@ -96,6 +103,20 @@
 		"description": "Dozenten: Prof. Dr. Christian Kaiser, Petra Derr\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Fermentations- und Bioreaktortechnik Praktikum",
 		"startTime": "2026-07-07T08:30:00",
 		"endTime": "2026-07-07T17:45:00"
+	},
+	{
+		"name": "FBRT P (Fermentations- und Bioreaktortechnik Praktikum)",
+		"location": "0.43 Claus Wacker Saal, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Prof. Dr. Christian Kaiser, Petra Derr\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Fermentations- und Bioreaktortechnik Praktikum",
+		"startTime": "2026-04-07T14:31:00",
+		"endTime": "2026-04-07T17:45:00"
+	},
+	{
+		"name": "FBRT P (Fermentations- und Bioreaktortechnik Praktikum)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Prof. Dr. Christian Kaiser, Petra Derr\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Fermentations- und Bioreaktortechnik Praktikum",
+		"startTime": "2026-04-13T08:30:00",
+		"endTime": "2026-04-13T14:00:00"
 	},
 	{
 		"name": "FBRT P (Fermentations- und Bioreaktortechnik Praktikum)",

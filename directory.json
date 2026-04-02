@@ -279,9 +279,17 @@
 											}
 										},
 										"Reglersynthese": {
+											"subDirectories": {
+												"Reglersynthese Praktikum": {
+													"events": {
+														"30120_1": "RYP/01 (Reglersynthese Praktikum)",
+														"30120_2": "RYP/02 (Reglersynthese Praktikum)",
+														"30120_3": "RYP/03 (Reglersynthese Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30038_1": "RY (Reglersynthese)",
-												"30120_1": "RYP (Reglersynthese Praktikum)"
+												"30038_1": "RY (Reglersynthese)"
 											}
 										},
 										"Energietechnik": {
@@ -2884,8 +2892,7 @@
 										"Signalverarbeitung und Stochastik Übungen": {
 											"events": {
 												"30908_1": "SSÜ/01 (Signalverarbeitung und Stochastik Übungen)",
-												"30908_2": "SSÜ/02 (Signalverarbeitung und Stochastik Übungen)",
-												"30908_3": "SSÜ/03 (Signalverarbeitung und Stochastik Übungen)"
+												"30908_2": "SSÜ/02 (Signalverarbeitung und Stochastik Übungen)"
 											}
 										}
 									},
@@ -2940,8 +2947,7 @@
 										"Intelligente Sensorsysteme Praktikum": {
 											"events": {
 												"31115_1": "ISSP/01 (Intelligente Sensorsysteme Praktikum)",
-												"31115_2": "ISSP/02 (Intelligente Sensorsysteme Praktikum)",
-												"31115_3": "ISSP/03 (Intelligente Sensorsysteme Praktikum)"
+												"31115_2": "ISSP/02 (Intelligente Sensorsysteme Praktikum)"
 											}
 										}
 									},
@@ -3341,8 +3347,7 @@
 										"Signalverarbeitung und Stochastik Übungen": {
 											"events": {
 												"30908_1": "SSÜ/01 (Signalverarbeitung und Stochastik Übungen)",
-												"30908_2": "SSÜ/02 (Signalverarbeitung und Stochastik Übungen)",
-												"30908_3": "SSÜ/03 (Signalverarbeitung und Stochastik Übungen)"
+												"30908_2": "SSÜ/02 (Signalverarbeitung und Stochastik Übungen)"
 											}
 										}
 									},

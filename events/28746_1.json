@@ -1,100 +1,51 @@
 [
 	{
 		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-04-07T14:30:00",
-		"endTime": "2026-04-07T17:45:00"
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Michael Kuffer\nRhythmus: Einzeltermin\n\nOriginaler Titel: Recht im Rettungswesen",
+		"startTime": "2026-04-14T10:00:00",
+		"endTime": "2026-04-14T12:00:00"
 	},
 	{
 		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-04-14T14:30:00",
-		"endTime": "2026-04-14T17:45:00"
+		"location": "N5.17, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Michael Kuffer\nRhythmus: Einzeltermin\n\nOriginaler Titel: Recht im Rettungswesen",
+		"startTime": "2026-05-05T08:30:00",
+		"endTime": "2026-05-05T16:00:00"
 	},
 	{
 		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-04-21T14:30:00",
-		"endTime": "2026-04-21T17:45:00"
+		"location": "1.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Michael Kuffer\nRhythmus: Einzeltermin\n\nOriginaler Titel: Recht im Rettungswesen",
+		"startTime": "2026-05-06T08:30:00",
+		"endTime": "2026-05-06T16:00:00"
 	},
 	{
 		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-04-28T14:30:00",
-		"endTime": "2026-04-28T17:45:00"
+		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Michael Kuffer\nRhythmus: Einzeltermin\n\nOriginaler Titel: Recht im Rettungswesen",
+		"startTime": "2026-06-09T08:30:00",
+		"endTime": "2026-06-09T16:00:00"
 	},
 	{
 		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-05-05T14:30:00",
-		"endTime": "2026-05-05T17:45:00"
+		"location": "0.70, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Michael Kuffer\nRhythmus: Einzeltermin\n\nOriginaler Titel: Recht im Rettungswesen",
+		"startTime": "2026-06-10T08:30:00",
+		"endTime": "2026-06-10T16:00:00"
 	},
 	{
 		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-05-12T14:30:00",
-		"endTime": "2026-05-12T17:45:00"
+		"location": "S 2.21 Physik Hörsaal, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Michael Kuffer\nRhythmus: Einzeltermin\n\nOriginaler Titel: Recht im Rettungswesen",
+		"startTime": "2026-07-07T08:30:00",
+		"endTime": "2026-07-07T16:00:00"
 	},
 	{
 		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-05-19T14:30:00",
-		"endTime": "2026-05-19T17:45:00"
-	},
-	{
-		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-05-26T14:30:00",
-		"endTime": "2026-05-26T17:45:00"
-	},
-	{
-		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-06-02T14:30:00",
-		"endTime": "2026-06-02T17:45:00"
-	},
-	{
-		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-06-09T14:30:00",
-		"endTime": "2026-06-09T17:45:00"
-	},
-	{
-		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-06-16T14:30:00",
-		"endTime": "2026-06-16T17:45:00"
-	},
-	{
-		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-06-23T14:30:00",
-		"endTime": "2026-06-23T17:45:00"
-	},
-	{
-		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-06-30T14:30:00",
-		"endTime": "2026-06-30T17:45:00"
-	},
-	{
-		"name": "RGR (Recht im Rettungswesen)",
-		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
-		"description": "Rhythmus: wöchentlich\n\nOriginaler Titel: Recht im Rettungswesen",
-		"startTime": "2026-07-07T14:30:00",
-		"endTime": "2026-07-07T17:45:00"
+		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Michael Kuffer\nRhythmus: Einzeltermin\n\nOriginaler Titel: Recht im Rettungswesen",
+		"startTime": "2026-07-08T08:30:00",
+		"endTime": "2026-07-08T16:00:00"
 	}
 ]

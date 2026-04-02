@@ -82,12 +82,5 @@
 		"description": "Dozent: Prof. Dr. Anja Behrens-Potratz\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Management in der gesundheitlichen Versorgung",
 		"startTime": "2026-07-09T09:00:00",
 		"endTime": "2026-07-09T11:30:00"
-	},
-	{
-		"name": "M6.5 LV1 (Management in der gesundheitlichen Versorgung)",
-		"location": "6.01, Alexanderstraße 1",
-		"description": "Dozent: Prof. Dr. Anja Behrens-Potratz\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Management in der gesundheitlichen Versorgung",
-		"startTime": "2026-06-18T08:30:00",
-		"endTime": "2026-06-18T11:45:00"
 	}
 ]

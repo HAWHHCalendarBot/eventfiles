@@ -1,6 +1,13 @@
 [
 	{
 		"name": "GT (Grundlagen der Informatik)",
+		"location": "4.05, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Franz-Josef Korf\nMax. Anzahl von Teilnehmer/-innen: 70\nRhythmus: Einzeltermin\n\nOriginaler Titel: Grundlagen der Informatik ^ (1ITS-GT.LV-P) 1.FS",
+		"startTime": "2026-04-15T08:15:00",
+		"endTime": "2026-04-15T11:30:00"
+	},
+	{
+		"name": "GT (Grundlagen der Informatik)",
 		"location": "3.60, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Franz-Josef Korf\nMax. Anzahl von Teilnehmer/-innen: 70\nRhythmus: wöchentlich\n\nOriginaler Titel: Grundlagen der Informatik ^ (1ITS-GT.LV-P) 1.FS",
 		"startTime": "2026-04-15T13:45:00",
