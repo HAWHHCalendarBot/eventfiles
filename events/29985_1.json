@@ -2,16 +2,23 @@
 	{
 		"name": "AN1 (Analysis 1)",
 		"location": "0.02, Steindamm 94",
-		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: AN1",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: wöchentlich\n\nOriginaler Titel: AN1",
 		"startTime": "2026-04-14T08:10:00",
 		"endTime": "2026-04-14T11:25:00"
 	},
 	{
 		"name": "AN1 (Analysis 1)",
 		"location": "0.02, Steindamm 94",
-		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: AN1",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: wöchentlich\n\nOriginaler Titel: AN1",
 		"startTime": "2026-04-28T08:10:00",
 		"endTime": "2026-04-28T11:25:00"
+	},
+	{
+		"name": "AN1 (Analysis 1)",
+		"location": "0.02, Steindamm 94",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 72\nRhythmus: wöchentlich\n\nOriginaler Titel: AN1",
+		"startTime": "2026-05-05T08:10:00",
+		"endTime": "2026-05-05T11:25:00"
 	},
 	{
 		"name": "AN1 (Analysis 1)",

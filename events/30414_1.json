@@ -31,20 +31,6 @@
 		"name": "IPJ2/01 (Integrationsprojekt 2 Regenerative Energie)",
 		"location": "13.65, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr.-Ing. Ingo Winzenick\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: IPJ2/01 (1. Parallelgruppe)",
-		"startTime": "2026-05-07T12:10:00",
-		"endTime": "2026-05-07T15:40:00"
-	},
-	{
-		"name": "IPJ2/01 (Integrationsprojekt 2 Regenerative Energie)",
-		"location": "13.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Ingo Winzenick\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: IPJ2/01 (1. Parallelgruppe)",
-		"startTime": "2026-05-21T12:10:00",
-		"endTime": "2026-05-21T15:40:00"
-	},
-	{
-		"name": "IPJ2/01 (Integrationsprojekt 2 Regenerative Energie)",
-		"location": "13.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Ingo Winzenick\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: IPJ2/01 (1. Parallelgruppe)",
 		"startTime": "2026-05-28T12:10:00",
 		"endTime": "2026-05-28T15:40:00"
 	},
@@ -89,5 +75,33 @@
 		"description": "Dozent: Prof. Dr.-Ing. Ingo Winzenick\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: IPJ2/01 (1. Parallelgruppe)",
 		"startTime": "2026-07-09T12:10:00",
 		"endTime": "2026-07-09T15:40:00"
+	},
+	{
+		"name": "IPJ2/01 (Integrationsprojekt 2 Regenerative Energie)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ingo Winzenick\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: IPJ2/01 (1. Parallelgruppe)",
+		"startTime": "2026-06-18T15:55:00",
+		"endTime": "2026-06-18T17:25:00"
+	},
+	{
+		"name": "IPJ2/01 (Integrationsprojekt 2 Regenerative Energie)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ingo Winzenick\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: IPJ2/01 (1. Parallelgruppe)",
+		"startTime": "2026-06-25T15:55:00",
+		"endTime": "2026-06-25T17:25:00"
+	},
+	{
+		"name": "IPJ2/01 (Integrationsprojekt 2 Regenerative Energie)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ingo Winzenick\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: IPJ2/01 (1. Parallelgruppe)",
+		"startTime": "2026-07-02T15:55:00",
+		"endTime": "2026-07-02T17:25:00"
+	},
+	{
+		"name": "IPJ2/01 (Integrationsprojekt 2 Regenerative Energie)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ingo Winzenick\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: IPJ2/01 (1. Parallelgruppe)",
+		"startTime": "2026-07-09T15:55:00",
+		"endTime": "2026-07-09T17:25:00"
 	}
 ]

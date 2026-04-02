@@ -1,6 +1,13 @@
 [
 	{
 		"name": "AINF L (Angewandte Informatik Laborpraktikum)",
+		"location": "402, Berliner Tor 21",
+		"description": "Dozenten: Prof. Dr. Ivo Nowak, Prof. Dr. Robin Wilke\nRhythmus: Einzeltermin\n\nOriginaler Titel: Angewandte Informatik Laborpraktikum",
+		"startTime": "2026-04-07T12:15:00",
+		"endTime": "2026-04-07T15:30:00"
+	},
+	{
+		"name": "AINF L (Angewandte Informatik Laborpraktikum)",
 		"location": "328, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr. Robin Wilke\nRhythmus: wöchentlich\n\nOriginaler Titel: Angewandte Informatik Laborpraktikum",
 		"startTime": "2026-04-07T12:15:00",
