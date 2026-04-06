@@ -1,0 +1,37 @@
+[
+	{
+		"name": "SEL/03 (Software Engineering)",
+		"location": "5.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: SEL/03 (3. Parallelgruppe)",
+		"startTime": "2026-04-08T09:55:00",
+		"endTime": "2026-04-08T11:25:00"
+	},
+	{
+		"name": "SEL/03 (Software Engineering)",
+		"location": "13.01a, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: SEL/03 (3. Parallelgruppe)",
+		"startTime": "2026-05-12T15:55:00",
+		"endTime": "2026-05-12T17:25:00"
+	},
+	{
+		"name": "SEL/03 (Software Engineering)",
+		"location": "13.01a, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: SEL/03 (3. Parallelgruppe)",
+		"startTime": "2026-05-26T15:55:00",
+		"endTime": "2026-05-26T17:25:00"
+	},
+	{
+		"name": "SEL/03 (Software Engineering)",
+		"location": "13.01a, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: SEL/03 (3. Parallelgruppe)",
+		"startTime": "2026-06-09T15:55:00",
+		"endTime": "2026-06-09T17:25:00"
+	},
+	{
+		"name": "SEL/03 (Software Engineering)",
+		"location": "13.01a, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Wolfgang Renz\nParallelgruppe: 3\nMax. Anzahl von Teilnehmer/-innen: 12\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: SEL/03 (3. Parallelgruppe)",
+		"startTime": "2026-06-23T15:55:00",
+		"endTime": "2026-06-23T17:25:00"
+	}
+]

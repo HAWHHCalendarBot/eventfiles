@@ -645,9 +645,17 @@
 									}
 								},
 								"Software Engineering": {
+									"subDirectories": {
+										"Software Engineering": {
+											"events": {
+												"35783_1": "SEL/01 (Software Engineering)",
+												"35783_2": "SEL/02 (Software Engineering)",
+												"35783_3": "SEL/03 (Software Engineering)"
+											}
+										}
+									},
 									"events": {
-										"35652_1": "SE (Software Engineering)",
-										"35783_1": "SEL (Software Engineering)"
+										"35652_1": "SE (Software Engineering)"
 									}
 								},
 								"Datenbanken": {
@@ -6760,8 +6768,7 @@
 											"events": {
 												"29292_1": "PRP2/01 (Programmiertechniken 2 Laborpraktikum)",
 												"29292_2": "PRP2/02 (Programmiertechniken 2 Laborpraktikum)",
-												"29292_3": "PRP2/03 (Programmiertechniken 2 Laborpraktikum)",
-												"29292_4": "PRP2/04 (Programmiertechniken 2 Laborpraktikum)"
+												"29292_3": "PRP2/03 (Programmiertechniken 2 Laborpraktikum)"
 											}
 										}
 									},
