@@ -75,5 +75,12 @@
 		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nRhythmus: wöchentlich\n\nOriginaler Titel: Mikroprozessortechnik ^PG1: BMT4 (Schulz)",
 		"startTime": "2026-06-26T08:30:00",
 		"endTime": "2026-06-26T11:45:00"
+	},
+	{
+		"name": "MP (Mikroprozessortechnik)",
+		"location": "110, Stiftstraße 69",
+		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nRhythmus: wöchentlich\n\nOriginaler Titel: Mikroprozessortechnik ^PG1: BMT4 (Schulz)",
+		"startTime": "2026-07-03T08:30:00",
+		"endTime": "2026-07-03T11:45:00"
 	}
 ]

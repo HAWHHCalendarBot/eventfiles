@@ -59,13 +59,6 @@
 		"name": "MP (Mikroprozessortechnik)",
 		"location": "1.13, Berliner Tor 5",
 		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: MP",
-		"startTime": "2026-06-12T15:55:00",
-		"endTime": "2026-06-12T19:10:00"
-	},
-	{
-		"name": "MP (Mikroprozessortechnik)",
-		"location": "1.13, Berliner Tor 5",
-		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: MP",
 		"startTime": "2026-06-19T15:55:00",
 		"endTime": "2026-06-19T19:10:00"
 	},
@@ -75,19 +68,5 @@
 		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: MP",
 		"startTime": "2026-06-26T15:55:00",
 		"endTime": "2026-06-26T19:10:00"
-	},
-	{
-		"name": "MP (Mikroprozessortechnik)",
-		"location": "1.13, Berliner Tor 5",
-		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: MP",
-		"startTime": "2026-07-03T15:55:00",
-		"endTime": "2026-07-03T19:10:00"
-	},
-	{
-		"name": "MP (Mikroprozessortechnik)",
-		"location": "1.13, Berliner Tor 5",
-		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: MP",
-		"startTime": "2026-07-10T15:55:00",
-		"endTime": "2026-07-10T19:10:00"
 	}
 ]

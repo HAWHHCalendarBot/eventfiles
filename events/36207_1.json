@@ -45,13 +45,6 @@
 		"name": "WP_ESV (Embedded Systems Verification and Test)",
 		"location": "8.04, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: wöchentlich\n\nOriginaler Titel: WP-Schulz",
-		"startTime": "2026-06-12T12:10:00",
-		"endTime": "2026-06-12T15:40:00"
-	},
-	{
-		"name": "WP_ESV (Embedded Systems Verification and Test)",
-		"location": "8.04, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: wöchentlich\n\nOriginaler Titel: WP-Schulz",
 		"startTime": "2026-06-19T12:10:00",
 		"endTime": "2026-06-19T15:40:00"
 	},
@@ -68,5 +61,26 @@
 		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: wöchentlich\n\nOriginaler Titel: WP-Schulz",
 		"startTime": "2026-07-10T12:10:00",
 		"endTime": "2026-07-10T15:40:00"
+	},
+	{
+		"name": "WP_ESV (Embedded Systems Verification and Test)",
+		"location": "8.04, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: wöchentlich\n\nOriginaler Titel: WP-Schulz",
+		"startTime": "2026-07-17T12:10:00",
+		"endTime": "2026-07-17T15:40:00"
+	},
+	{
+		"name": "WP_ESV (Embedded Systems Verification and Test)",
+		"location": "8.04, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: wöchentlich\n\nOriginaler Titel: WP-Schulz",
+		"startTime": "2026-06-03T15:55:00",
+		"endTime": "2026-06-03T17:25:00"
+	},
+	{
+		"name": "WP_ESV (Embedded Systems Verification and Test)",
+		"location": "8.04, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Peter Schulz\nMax. Anzahl von Teilnehmer/-innen: 14\nRhythmus: wöchentlich\n\nOriginaler Titel: WP-Schulz",
+		"startTime": "2026-06-10T15:55:00",
+		"endTime": "2026-06-10T17:25:00"
 	}
 ]
