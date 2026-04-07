@@ -1,29 +1,29 @@
 [
 	{
-		"name": "ETP2 (Elektrotechnik 2 und Elektronik 1 Praktikum)",
+		"name": "ETP2/01 (Elektrotechnik 2 und Elektronik 1 Praktikum)",
 		"location": "5.02, Berliner Tor 7",
-		"description": "Dozenten: Jannik Rittwage, Sigrid Rachow\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: ETP2/01",
+		"description": "Dozenten: Jannik Rittwage, Sigrid Rachow\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: ETP2/01 (1. Parallelgruppe)",
 		"startTime": "2026-05-06T12:10:00",
 		"endTime": "2026-05-06T13:40:00"
 	},
 	{
-		"name": "ETP2 (Elektrotechnik 2 und Elektronik 1 Praktikum)",
+		"name": "ETP2/01 (Elektrotechnik 2 und Elektronik 1 Praktikum)",
 		"location": "5.02, Berliner Tor 7",
-		"description": "Dozenten: Jannik Rittwage, Sigrid Rachow\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP2/01",
+		"description": "Dozenten: Jannik Rittwage, Sigrid Rachow\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP2/01 (1. Parallelgruppe)",
 		"startTime": "2026-05-20T12:10:00",
 		"endTime": "2026-05-20T15:40:00"
 	},
 	{
-		"name": "ETP2 (Elektrotechnik 2 und Elektronik 1 Praktikum)",
+		"name": "ETP2/01 (Elektrotechnik 2 und Elektronik 1 Praktikum)",
 		"location": "5.02, Berliner Tor 7",
-		"description": "Dozenten: Jannik Rittwage, Sigrid Rachow\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP2/01",
+		"description": "Dozenten: Jannik Rittwage, Sigrid Rachow\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP2/01 (1. Parallelgruppe)",
 		"startTime": "2026-06-10T12:10:00",
 		"endTime": "2026-06-10T15:40:00"
 	},
 	{
-		"name": "ETP2 (Elektrotechnik 2 und Elektronik 1 Praktikum)",
+		"name": "ETP2/01 (Elektrotechnik 2 und Elektronik 1 Praktikum)",
 		"location": "5.02, Berliner Tor 7",
-		"description": "Dozenten: Jannik Rittwage, Sigrid Rachow\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP2/01",
+		"description": "Dozenten: Jannik Rittwage, Sigrid Rachow\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: ETP2/01 (1. Parallelgruppe)",
 		"startTime": "2026-07-01T12:10:00",
 		"endTime": "2026-07-01T15:40:00"
 	}

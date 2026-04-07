@@ -38,13 +38,6 @@
 		"name": "BV (Bildverarbeitung)",
 		"location": "4.05, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Peer Stelldinger\nRhythmus: wöchentlich\n\nOriginaler Titel: Bildverarbeitung ^PG1: BMT6_Robo (Stelldinger)",
-		"startTime": "2026-05-18T12:15:00",
-		"endTime": "2026-05-18T15:30:00"
-	},
-	{
-		"name": "BV (Bildverarbeitung)",
-		"location": "4.05, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Peer Stelldinger\nRhythmus: wöchentlich\n\nOriginaler Titel: Bildverarbeitung ^PG1: BMT6_Robo (Stelldinger)",
 		"startTime": "2026-06-01T12:15:00",
 		"endTime": "2026-06-01T15:30:00"
 	},
@@ -66,13 +59,6 @@
 		"name": "BV (Bildverarbeitung)",
 		"location": "4.05, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Peer Stelldinger\nRhythmus: wöchentlich\n\nOriginaler Titel: Bildverarbeitung ^PG1: BMT6_Robo (Stelldinger)",
-		"startTime": "2026-06-22T12:15:00",
-		"endTime": "2026-06-22T15:30:00"
-	},
-	{
-		"name": "BV (Bildverarbeitung)",
-		"location": "4.05, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Peer Stelldinger\nRhythmus: wöchentlich\n\nOriginaler Titel: Bildverarbeitung ^PG1: BMT6_Robo (Stelldinger)",
 		"startTime": "2026-06-29T12:15:00",
 		"endTime": "2026-06-29T15:30:00"
 	},
@@ -89,5 +75,19 @@
 		"description": "Dozent: Prof. Dr. Peer Stelldinger\nRhythmus: wöchentlich\n\nOriginaler Titel: Bildverarbeitung ^PG1: BMT6_Robo (Stelldinger)",
 		"startTime": "2026-07-13T12:15:00",
 		"endTime": "2026-07-13T15:30:00"
+	},
+	{
+		"name": "BV (Bildverarbeitung)",
+		"location": "10.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Peer Stelldinger\nRhythmus: Einzeltermin\n\nOriginaler Titel: Bildverarbeitung ^PG1: BMT6_Robo (Stelldinger)",
+		"startTime": "2026-05-18T12:15:00",
+		"endTime": "2026-05-18T15:30:00"
+	},
+	{
+		"name": "BV (Bildverarbeitung)",
+		"location": "10.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Peer Stelldinger\nRhythmus: Einzeltermin\n\nOriginaler Titel: Bildverarbeitung ^PG1: BMT6_Robo (Stelldinger)",
+		"startTime": "2026-06-22T12:15:00",
+		"endTime": "2026-06-22T15:30:00"
 	}
 ]

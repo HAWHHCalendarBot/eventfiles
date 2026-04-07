@@ -1,29 +1,29 @@
 [
 	{
-		"name": "DIL (Digitaltechnik)",
+		"name": "DIL/01 (Digitaltechnik)",
 		"location": "8.01, Berliner Tor 7",
-		"description": "Dozenten: Prof. Dr.-Ing. Jochen Rust, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: DIL/01",
+		"description": "Dozenten: Prof. Dr.-Ing. Jochen Rust, Abdulhai Al-Mohamed Zein\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: DIL/01 (1. Parallelgruppe)",
 		"startTime": "2026-04-29T12:10:00",
 		"endTime": "2026-04-29T13:40:00"
 	},
 	{
-		"name": "DIL (Digitaltechnik)",
+		"name": "DIL/01 (Digitaltechnik)",
 		"location": "8.01, Berliner Tor 7",
-		"description": "Dozenten: Prof. Dr.-Ing. Jochen Rust, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DIL/01",
+		"description": "Dozenten: Prof. Dr.-Ing. Jochen Rust, Abdulhai Al-Mohamed Zein\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DIL/01 (1. Parallelgruppe)",
 		"startTime": "2026-05-20T12:10:00",
 		"endTime": "2026-05-20T15:40:00"
 	},
 	{
-		"name": "DIL (Digitaltechnik)",
+		"name": "DIL/01 (Digitaltechnik)",
 		"location": "8.01, Berliner Tor 7",
-		"description": "Dozenten: Prof. Dr.-Ing. Jochen Rust, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DIL/01",
+		"description": "Dozenten: Prof. Dr.-Ing. Jochen Rust, Abdulhai Al-Mohamed Zein\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DIL/01 (1. Parallelgruppe)",
 		"startTime": "2026-06-10T12:10:00",
 		"endTime": "2026-06-10T15:40:00"
 	},
 	{
-		"name": "DIL (Digitaltechnik)",
+		"name": "DIL/01 (Digitaltechnik)",
 		"location": "8.01, Berliner Tor 7",
-		"description": "Dozenten: Prof. Dr.-Ing. Jochen Rust, Abdulhai Al-Mohamed Zein\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DIL/01",
+		"description": "Dozenten: Prof. Dr.-Ing. Jochen Rust, Abdulhai Al-Mohamed Zein\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: DIL/01 (1. Parallelgruppe)",
 		"startTime": "2026-07-01T12:10:00",
 		"endTime": "2026-07-01T15:40:00"
 	}

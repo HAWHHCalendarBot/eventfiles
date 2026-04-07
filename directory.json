@@ -35,9 +35,17 @@
 									}
 								},
 								"Grundlagen der Elektrotechnik 1": {
+									"subDirectories": {
+										"Grundlagen der Elektrotechnik Praktikum": {
+											"events": {
+												"29941_1": "ETP1/01 (Grundlagen der Elektrotechnik Praktikum)",
+												"29941_2": "ETP1/02 (Grundlagen der Elektrotechnik Praktikum)",
+												"29941_3": "ETP1/03 (Grundlagen der Elektrotechnik Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"29933_1": "ET1 (Grundlagen der Elektrotechnik 1)",
-										"29941_1": "ETP1 (Grundlagen der Elektrotechnik Praktikum)"
+										"29933_1": "ET1 (Grundlagen der Elektrotechnik 1)"
 									}
 								},
 								"Programmieren 1": {
@@ -62,9 +70,16 @@
 						"2. Semester": {
 							"subDirectories": {
 								"Analysis 2": {
+									"subDirectories": {
+										"Analysis 2 Übung": {
+											"events": {
+												"30093_1": "ANÜ2/01 (Analysis 2 Übung)",
+												"30093_2": "ANÜ2/02 (Analysis 2 Übung)"
+											}
+										}
+									},
 									"events": {
-										"30154_1": "AN2 (Analysis 2)",
-										"30093_1": "ANÜ2 (Analysis 2 Übung)"
+										"30154_1": "AN2 (Analysis 2)"
 									}
 								},
 								"Grundlagen der Elektrotechnik 2": {
@@ -124,7 +139,8 @@
 											"events": {
 												"30104_1": "NSP/01 (Numerik und Stochastik Praktikum)",
 												"30104_2": "NSP/02 (Numerik und Stochastik Praktikum)",
-												"30104_3": "NSP/03 (Numerik und Stochastik Praktikum)"
+												"30104_3": "NSP/03 (Numerik und Stochastik Praktikum)",
+												"30104_4": "NSP/04 (Numerik und Stochastik Praktikum)"
 											}
 										}
 									},
@@ -139,15 +155,33 @@
 									}
 								},
 								"Elektronik 2": {
+									"subDirectories": {
+										"Elektronik 2 Praktikum": {
+											"events": {
+												"30051_1": "ELP2/01 (Elektronik 2 Praktikum)",
+												"30051_2": "ELP2/02 (Elektronik 2 Praktikum)",
+												"30051_3": "ELP2/03 (Elektronik 2 Praktikum)",
+												"30051_4": "ELP2/04 (Elektronik 2 Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30101_1": "EL2 (Elektronik 2)",
-										"30051_1": "ELP2 (Elektronik 2 Praktikum)"
+										"30101_1": "EL2 (Elektronik 2)"
 									}
 								},
 								"Digitaltechnik": {
+									"subDirectories": {
+										"Digitaltechnik Praktikum": {
+											"events": {
+												"30001_1": "DIP/01 (Digitaltechnik Praktikum)",
+												"30001_2": "DIP/02 (Digitaltechnik Praktikum)",
+												"30001_3": "DIP/03 (Digitaltechnik Praktikum)",
+												"30001_4": "DIP/04 (Digitaltechnik Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"29934_1": "DI (Digitaltechnik)",
-										"30001_1": "DIP (Digitaltechnik Praktikum)"
+										"29934_1": "DI (Digitaltechnik)"
 									}
 								},
 								"Objektorientierte Programmierung": {
@@ -156,7 +190,8 @@
 											"events": {
 												"30172_1": "OPP/01 (Objektorientierte Programmierung Praktikum)",
 												"30172_2": "OPP/02 (Objektorientierte Programmierung Praktikum)",
-												"30172_3": "OPP/03 (Objektorientierte Programmierung Praktikum)"
+												"30172_3": "OPP/03 (Objektorientierte Programmierung Praktikum)",
+												"30172_4": "OPP/04 (Objektorientierte Programmierung Praktikum)"
 											}
 										}
 									},
@@ -215,9 +250,17 @@
 									}
 								},
 								"Signale und Systeme 2": {
+									"subDirectories": {
+										"Signale und Systeme 2 Praktikum": {
+											"events": {
+												"29915_1": "SSP2/01 (Signale und Systeme 2 Praktikum)",
+												"29915_4": "SSP2/02 (Signale und Systeme 2 Praktikum)",
+												"29915_3": "SSP2/03 (Signale und Systeme 2 Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"29966_1": "SS2 (Signale und Systeme 2)",
-										"29915_1": "SSP2 (Signale und Systeme 2 Praktikum)"
+										"29966_1": "SS2 (Signale und Systeme 2)"
 									}
 								},
 								"Mikroprozessortechnik": {
@@ -239,7 +282,8 @@
 										"Regelungstechnik Praktikum": {
 											"events": {
 												"30147_1": "RTP/01 (Regelungstechnik Praktikum)",
-												"30147_2": "RTP/02 (Regelungstechnik Praktikum)"
+												"30147_2": "RTP/02 (Regelungstechnik Praktikum)",
+												"30147_3": "RTP/03 (Regelungstechnik Praktikum)"
 											}
 										}
 									},
@@ -258,6 +302,7 @@
 												"Prozessleittechnik und Bussysteme Praktikum": {
 													"events": {
 														"30148_1": "PBP/01 (Prozessleittechnik und Bussysteme Praktikum)",
+														"30148_3": "PBP/02 (Prozessleittechnik und Bussysteme Praktikum)",
 														"30148_2": "PBP/03 (Prozessleittechnik und Bussysteme Praktikum)"
 													}
 												}
@@ -300,15 +345,29 @@
 											}
 										},
 										"Prozessautomatisierung": {
+											"subDirectories": {
+												"Prozessautomatisierung Praktikum": {
+													"events": {
+														"29949_1": "PAP/01 (Prozessautomatisierung Praktikum)",
+														"29949_2": "PAP/02 (Prozessautomatisierung Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"29979_1": "PA (Prozessautomatisierung)",
-												"29949_1": "PAP (Prozessautomatisierung Praktikum)"
+												"29979_1": "PA (Prozessautomatisierung)"
 											}
 										},
 										"Zustandsregelung": {
+											"subDirectories": {
+												"Zustandsregelung Praktikum": {
+													"events": {
+														"29976_1": "ZTP/01 (Zustandsregelung Praktikum)",
+														"29976_2": "ZTP/02 (Zustandsregelung Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30111_1": "ZT (Zustandsregelung)",
-												"29976_1": "ZTP (Zustandsregelung Praktikum)"
+												"30111_1": "ZT (Zustandsregelung)"
 											}
 										}
 									}
@@ -316,27 +375,56 @@
 								"Vertiefungsrichtung Digitale Informationstechnik": {
 									"subDirectories": {
 										"Digitale Systeme": {
+											"subDirectories": {
+												"Digitale Systeme Praktikum": {
+													"events": {
+														"30095_1": "DYP/01 (Digitale Systeme Praktikum)",
+														"30095_2": "DYP/02 (Digitale Systeme Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30134_1": "DY (Digitale Systeme)",
-												"30095_1": "DYP (Digitale Systeme Praktikum)"
+												"30134_1": "DY (Digitale Systeme)"
 											}
 										},
 										"Betriebssysteme": {
+											"subDirectories": {
+												"Betriebssysteme Praktikum": {
+													"events": {
+														"29956_1": "BSP/01 (Betriebssysteme Praktikum)",
+														"29956_2": "BSP/02 (Betriebssysteme Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"29939_1": "BS (Betriebssysteme)",
-												"29956_1": "BSP (Betriebssysteme Praktikum)"
+												"29939_1": "BS (Betriebssysteme)"
 											}
 										},
 										"Digitale Signalverarbeitung": {
+											"subDirectories": {
+												"Digitale Signalverarbeitung Praktikum": {
+													"events": {
+														"30143_1": "DVP/01 (Digitale Signalverarbeitung Praktikum)",
+														"30143_2": "DVP/02 (Digitale Signalverarbeitung Praktikum)",
+														"30143_3": "DVP/03 (Digitale Signalverarbeitung Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30022_1": "DV (Digitale Signalverarbeitung)",
-												"30143_1": "DVP (Digitale Signalverarbeitung Praktikum)"
+												"30022_1": "DV (Digitale Signalverarbeitung)"
 											}
 										},
 										"Digitale Übertragungstechnik": {
+											"subDirectories": {
+												"Digitale Übertragungstechnik Praktikum": {
+													"events": {
+														"29930_1": "DÜP/01 (Digitale Übertragungstechnik Praktikum)",
+														"29930_2": "DÜP/02 (Digitale Übertragungstechnik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"29919_1": "DÜ (Digitale Übertragungstechnik)",
-												"29930_1": "DÜP (Digitale Übertragungstechnik Praktikum)"
+												"29919_1": "DÜ (Digitale Übertragungstechnik)"
 											}
 										}
 									}
@@ -344,27 +432,56 @@
 								"Vertiefungsrichtung Kommunikationstechnik": {
 									"subDirectories": {
 										"Digitale Systeme": {
+											"subDirectories": {
+												"Digitale Systeme Praktikum": {
+													"events": {
+														"30095_1": "DYP/01 (Digitale Systeme Praktikum)",
+														"30095_2": "DYP/02 (Digitale Systeme Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30134_1": "DY (Digitale Systeme)",
-												"30095_1": "DYP (Digitale Systeme Praktikum)"
+												"30134_1": "DY (Digitale Systeme)"
 											}
 										},
 										"Digitale Signalverarbeitung": {
+											"subDirectories": {
+												"Digitale Signalverarbeitung Praktikum": {
+													"events": {
+														"30143_1": "DVP/01 (Digitale Signalverarbeitung Praktikum)",
+														"30143_2": "DVP/02 (Digitale Signalverarbeitung Praktikum)",
+														"30143_3": "DVP/03 (Digitale Signalverarbeitung Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30022_1": "DV (Digitale Signalverarbeitung)",
-												"30143_1": "DVP (Digitale Signalverarbeitung Praktikum)"
+												"30022_1": "DV (Digitale Signalverarbeitung)"
 											}
 										},
 										"Digitale Übertragungstechnik": {
+											"subDirectories": {
+												"Digitale Übertragungstechnik Praktikum": {
+													"events": {
+														"29930_1": "DÜP/01 (Digitale Übertragungstechnik Praktikum)",
+														"29930_2": "DÜP/02 (Digitale Übertragungstechnik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"29919_1": "DÜ (Digitale Übertragungstechnik)",
-												"29930_1": "DÜP (Digitale Übertragungstechnik Praktikum)"
+												"29919_1": "DÜ (Digitale Übertragungstechnik)"
 											}
 										},
 										"Elektromagnetische Verträglichkeit": {
+											"subDirectories": {
+												"Elektromagnetische Verträglichkeit Praktikum": {
+													"events": {
+														"29981_1": "EVP/01 (Elektromagnetische Verträglichkeit Praktikum)",
+														"29981_2": "EVP/02 (Elektromagnetische Verträglichkeit Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30084_1": "EV (Elektromagnetische Verträglichkeit)",
-												"29981_1": "EVP (Elektromagnetische Verträglichkeit Praktikum)"
+												"30084_1": "EV (Elektromagnetische Verträglichkeit)"
 											}
 										}
 									}
@@ -481,9 +598,17 @@
 									}
 								},
 								"Grundlagen der Elektrotechnik 1": {
+									"subDirectories": {
+										"Grundlagen der Elektrotechnik 1": {
+											"events": {
+												"35744_1": "EEL1/01 (Grundlagen der Elektrotechnik 1)",
+												"35744_2": "EEL1/02 (Grundlagen der Elektrotechnik 1)",
+												"35744_3": "EEL1/03 (Grundlagen der Elektrotechnik 1)"
+											}
+										}
+									},
 									"events": {
-										"35759_1": "EE1 (Grundlagen der Elektrotechnik 1)",
-										"35744_1": "EEL1 (Grundlagen der Elektrotechnik 1)"
+										"35759_1": "EE1 (Grundlagen der Elektrotechnik 1)"
 									}
 								},
 								"Programmieren 1": {
@@ -532,27 +657,57 @@
 						"2. Semester": {
 							"subDirectories": {
 								"Mathematik 2": {
+									"subDirectories": {
+										"Mathematik 2": {
+											"events": {
+												"35763_1": "MAE2/01 (Mathematik 2)",
+												"35763_2": "MAE2/02 (Mathematik 2)"
+											}
+										}
+									},
 									"events": {
-										"35781_1": "MA2 (Mathematik 2)",
-										"35763_1": "MAE2 (Mathematik 2)"
+										"35781_1": "MA2 (Mathematik 2)"
 									}
 								},
 								"Grundlagen der Elektrotechnik 2": {
+									"subDirectories": {
+										"Grundlagen der Elektrotechnik 2": {
+											"events": {
+												"35765_1": "EEL2/01 (Grundlagen der Elektrotechnik 2)",
+												"35765_2": "EEL2/02 (Grundlagen der Elektrotechnik 2)",
+												"35765_3": "EEL2/03 (Grundlagen der Elektrotechnik 2)"
+											}
+										}
+									},
 									"events": {
-										"35757_1": "EE2 (Grundlagen der Elektrotechnik 2)",
-										"35765_1": "EEL2 (Grundlagen der Elektrotechnik 2)"
+										"35757_1": "EE2 (Grundlagen der Elektrotechnik 2)"
 									}
 								},
 								"Elektronik 1": {
+									"subDirectories": {
+										"Elektronik 1": {
+											"events": {
+												"35708_1": "ELL1/01 (Elektronik 1)",
+												"35708_2": "ELL1/02 (Elektronik 1)",
+												"35708_3": "ELL1/03 (Elektronik 1)"
+											}
+										}
+									},
 									"events": {
-										"35760_1": "EL1 (Elektronik 1)",
-										"35708_1": "ELL1 (Elektronik 1)"
+										"35760_1": "EL1 (Elektronik 1)"
 									}
 								},
 								"Programmieren 2": {
+									"subDirectories": {
+										"Programmieren 2": {
+											"events": {
+												"35730_1": "SOL2/01 (Programmieren 2)",
+												"35730_2": "SOL2/02 (Programmieren 2)"
+											}
+										}
+									},
 									"events": {
-										"35650_1": "SO2 (Programmieren 2)",
-										"35730_1": "SOL2 (Programmieren 2)"
+										"35650_1": "SO2 (Programmieren 2)"
 									}
 								}
 							},
@@ -567,7 +722,8 @@
 										"Signale und Systeme 1": {
 											"events": {
 												"35750_1": "SSL1/01 (Signale und Systeme 1)",
-												"35750_2": "SSL1/02 (Signale und Systeme 1)"
+												"35750_2": "SSL1/02 (Signale und Systeme 1)",
+												"35750_3": "SSL1/03 (Signale und Systeme 1)"
 											}
 										}
 									},
@@ -576,21 +732,44 @@
 									}
 								},
 								"Elektronik 2": {
+									"subDirectories": {
+										"Elektronik 2": {
+											"events": {
+												"35673_1": "ELL2/01 (Elektronik 2)",
+												"35673_2": "ELL2/02 (Elektronik 2)",
+												"35673_3": "ELL2/03 (Elektronik 2)"
+											}
+										}
+									},
 									"events": {
-										"35786_1": "EL2 (Elektronik 2)",
-										"35673_1": "ELL2 (Elektronik 2)"
+										"35786_1": "EL2 (Elektronik 2)"
 									}
 								},
 								"Digitaltechnik": {
+									"subDirectories": {
+										"Digitaltechnik": {
+											"events": {
+												"35647_1": "DIL/01 (Digitaltechnik)",
+												"35647_2": "DIL/02 (Digitaltechnik)",
+												"35647_3": "DIL/03 (Digitaltechnik)"
+											}
+										}
+									},
 									"events": {
-										"35768_1": "DI (Digitaltechnik)",
-										"35647_1": "DIL (Digitaltechnik)"
+										"35768_1": "DI (Digitaltechnik)"
 									}
 								},
 								"Algorithmen und Datenstrukturen": {
+									"subDirectories": {
+										"Algorithmen und Datenstrukturen": {
+											"events": {
+												"35669_1": "ADL/01 (Algorithmen und Datenstrukturen)",
+												"35669_2": "ADL/02 (Algorithmen und Datenstrukturen)"
+											}
+										}
+									},
 									"events": {
-										"35705_1": "AD (Algorithmen und Datenstrukturen)",
-										"35669_1": "ADL (Algorithmen und Datenstrukturen)"
+										"35705_1": "AD (Algorithmen und Datenstrukturen)"
 									}
 								},
 								"Betriebswirtschaft und Ökonomie": {
@@ -612,9 +791,16 @@
 						"4. Semester": {
 							"subDirectories": {
 								"Signale und Systeme 2": {
+									"subDirectories": {
+										"Signale und Systeme 2": {
+											"events": {
+												"35741_1": "SSL2/01 (Signale und Systeme 2)",
+												"35741_2": "SSL2/02 (Signale und Systeme 2)"
+											}
+										}
+									},
 									"events": {
-										"35779_1": "SS2 (Signale und Systeme 2)",
-										"35741_1": "SSL2 (Signale und Systeme 2)"
+										"35779_1": "SS2 (Signale und Systeme 2)"
 									}
 								},
 								"Digitale Systeme": {
@@ -622,7 +808,8 @@
 										"Digitale Systeme": {
 											"events": {
 												"35645_1": "DSL/01 (Digitale Systeme)",
-												"35645_2": "DSL/02 (Digitale Systeme)"
+												"35645_2": "DSL/02 (Digitale Systeme)",
+												"35645_3": "DSL/03 (Digitale Systeme)"
 											}
 										}
 									},
@@ -636,7 +823,8 @@
 											"events": {
 												"35696_1": "MCL/01 (Mikrocontroller)",
 												"35696_2": "MCL/02 (Mikrocontroller)",
-												"35696_3": "MCL/03 (Mikrocontroller)"
+												"35696_3": "MCL/03 (Mikrocontroller)",
+												"35696_4": "MCL/04 (Mikrocontroller)"
 											}
 										}
 									},
@@ -703,15 +891,31 @@
 									}
 								},
 								"Bussysteme und Sensorik": {
+									"subDirectories": {
+										"Bussysteme und Sensorik": {
+											"events": {
+												"35715_1": "BUL/01 (Bussysteme und Sensorik)",
+												"35715_2": "BUL/02 (Bussysteme und Sensorik)",
+												"35715_3": "BUL/03 (Bussysteme und Sensorik)"
+											}
+										}
+									},
 									"events": {
-										"35791_1": "BU (Bussysteme und Sensorik)",
-										"35715_1": "BUL (Bussysteme und Sensorik)"
+										"35791_1": "BU (Bussysteme und Sensorik)"
 									}
 								},
 								"Betriebssysteme": {
+									"subDirectories": {
+										"Betriebssysteme": {
+											"events": {
+												"35678_1": "OSL/01 (Betriebssysteme)",
+												"35678_2": "OSL/02 (Betriebssysteme)",
+												"35678_3": "OSL/03 (Betriebssysteme)"
+											}
+										}
+									},
 									"events": {
-										"35721_1": "OS (Betriebssysteme)",
-										"35678_1": "OSL (Betriebssysteme)"
+										"35721_1": "OS (Betriebssysteme)"
 									}
 								},
 								"Digitale Signalverarbeitung": {
@@ -720,7 +924,8 @@
 											"events": {
 												"35764_1": "DPL/01 (Digitale Signalverarbeitung)",
 												"35764_2": "DPL/02 (Digitale Signalverarbeitung)",
-												"35764_3": "DPL/03 (Digitale Signalverarbeitung)"
+												"35764_3": "DPL/03 (Digitale Signalverarbeitung)",
+												"35764_4": "DPL/04 (Digitale Signalverarbeitung)"
 											}
 										}
 									},
@@ -729,9 +934,17 @@
 									}
 								},
 								"Digitale Übertragungstechnik": {
+									"subDirectories": {
+										"Digitale Übertragungstechnik": {
+											"events": {
+												"35720_1": "DCL/01 (Digitale Übertragungstechnik)",
+												"35720_2": "DCL/02 (Digitale Übertragungstechnik)",
+												"35720_3": "DCL/03 (Digitale Übertragungstechnik)"
+											}
+										}
+									},
 									"events": {
-										"35769_1": "DC (Digitale Übertragungstechnik)",
-										"35720_1": "DCL (Digitale Übertragungstechnik)"
+										"35769_1": "DC (Digitale Übertragungstechnik)"
 									}
 								}
 							}
@@ -878,9 +1091,16 @@
 									}
 								},
 								"Elektrotechnik 2 und Elektronik 1": {
+									"subDirectories": {
+										"Elektrotechnik 2 und Elektronik 1 Praktikum": {
+											"events": {
+												"30383_1": "ETP2/01 (Elektrotechnik 2 und Elektronik 1 Praktikum)",
+												"30383_2": "ETP2/02 (Elektrotechnik 2 und Elektronik 1 Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30431_1": "ET2 (Elektrotechnik 2 und Elektronik 1)",
-										"30383_1": "ETP2 (Elektrotechnik 2 und Elektronik 1 Praktikum)"
+										"30431_1": "ET2 (Elektrotechnik 2 und Elektronik 1)"
 									}
 								},
 								"Elektrische und regenerative Energietechnik 1": {
@@ -890,9 +1110,16 @@
 									}
 								},
 								"Programmieren 2": {
+									"subDirectories": {
+										"Programmieren 2 Praktikum": {
+											"events": {
+												"30401_1": "PRP2/01 (Programmieren 2 Praktikum)",
+												"30401_2": "PRP2/02 (Programmieren 2 Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30562_1": "PR2 (Programmieren 2)",
-										"30401_1": "PRP2 (Programmieren 2 Praktikum)"
+										"30562_1": "PR2 (Programmieren 2)"
 									}
 								}
 							},
@@ -904,15 +1131,29 @@
 						"4. Semester": {
 							"subDirectories": {
 								"Steuerungssysteme und Bussysteme": {
+									"subDirectories": {
+										"Steuerungssysteme und Bussysteme Praktikum": {
+											"events": {
+												"30517_1": "SBP/01 (Steuerungssysteme und Bussysteme Praktikum)",
+												"30517_2": "SBP/02 (Steuerungssysteme und Bussysteme Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30491_1": "SB (Steuerungssysteme und Bussysteme)",
-										"30517_1": "SBP (Steuerungssysteme und Bussysteme Praktikum)"
+										"30491_1": "SB (Steuerungssysteme und Bussysteme)"
 									}
 								},
 								"Regelungstechnik": {
+									"subDirectories": {
+										"Regelungstechnik Praktikum": {
+											"events": {
+												"30550_1": "RTP/01 (Regelungstechnik Praktikum)",
+												"30550_2": "RTP/02 (Regelungstechnik Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30553_1": "RT (Regelungstechnik)",
-										"30550_1": "RTP (Regelungstechnik Praktikum)"
+										"30553_1": "RT (Regelungstechnik)"
 									}
 								},
 								"Mikroprozessortechnik": {
@@ -1191,9 +1432,16 @@
 						"1. Semester": {
 							"subDirectories": {
 								"Antriebstechnik für mobile Systeme": {
+									"subDirectories": {
+										"Antriebstechnik für mobile Systeme Praktikum": {
+											"events": {
+												"29867_1": "ASP/01 (Antriebstechnik für mobile Systeme Praktikum)",
+												"29867_2": "ASP/02 (Antriebstechnik für mobile Systeme Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"29892_1": "AS (Antriebstechnik für mobile Systeme)",
-										"29867_1": "ASP (Antriebstechnik für mobile Systeme Praktikum)"
+										"29892_1": "AS (Antriebstechnik für mobile Systeme)"
 									}
 								}
 							}
@@ -2443,8 +2691,7 @@
 												"35033_2": "GKAP/02 (Graphentheoretische Konzepte und Algorithmen Praktikum)",
 												"35033_3": "GKAP/03 (Graphentheoretische Konzepte und Algorithmen Praktikum)",
 												"35033_4": "GKAP/04 (Graphentheoretische Konzepte und Algorithmen Praktikum)",
-												"35033_5": "GKAP/05 (Graphentheoretische Konzepte und Algorithmen Praktikum)",
-												"35033_6": "GKAP/06 (Graphentheoretische Konzepte und Algorithmen Praktikum)"
+												"35033_5": "GKAP/05 (Graphentheoretische Konzepte und Algorithmen Praktikum)"
 											}
 										}
 									},
@@ -2674,9 +2921,16 @@
 											}
 										},
 										"Technik von Webbrowsern": {
+											"subDirectories": {
+												"Technik von Webbrowsern Praktikum": {
+													"events": {
+														"35875_1": "WP_TWBP/01 (Technik von Webbrowsern Praktikum)",
+														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"35876_1": "WP_TWB (Technik von Webbrowsern)",
-												"35875_1": "WP_TWBP (Technik von Webbrowsern Praktikum)"
+												"35876_1": "WP_TWB (Technik von Webbrowsern)"
 											}
 										},
 										"Einführung in die Computergrafik": {
@@ -2785,8 +3039,7 @@
 												"30944_1": "GTP/01 (Grundlagen der Informatik Praktikum)",
 												"30944_2": "GTP/02 (Grundlagen der Informatik Praktikum)",
 												"30944_3": "GTP/03 (Grundlagen der Informatik Praktikum)",
-												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)",
-												"30944_5": "GTP/05 (Grundlagen der Informatik Praktikum)"
+												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)"
 											}
 										}
 									},
@@ -3120,9 +3373,16 @@
 											}
 										},
 										"Technik von Webbrowsern": {
+											"subDirectories": {
+												"Technik von Webbrowsern Praktikum": {
+													"events": {
+														"35875_1": "WP_TWBP/01 (Technik von Webbrowsern Praktikum)",
+														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"35876_1": "WP_TWB (Technik von Webbrowsern)",
-												"35875_1": "WP_TWBP (Technik von Webbrowsern Praktikum)"
+												"35876_1": "WP_TWB (Technik von Webbrowsern)"
 											}
 										},
 										"Einführung in die Computergrafik": {
@@ -3231,8 +3491,7 @@
 												"30944_1": "GTP/01 (Grundlagen der Informatik Praktikum)",
 												"30944_2": "GTP/02 (Grundlagen der Informatik Praktikum)",
 												"30944_3": "GTP/03 (Grundlagen der Informatik Praktikum)",
-												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)",
-												"30944_5": "GTP/05 (Grundlagen der Informatik Praktikum)"
+												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)"
 											}
 										}
 									},
@@ -3575,9 +3834,16 @@
 											}
 										},
 										"Technik von Webbrowsern": {
+											"subDirectories": {
+												"Technik von Webbrowsern Praktikum": {
+													"events": {
+														"35875_1": "WP_TWBP/01 (Technik von Webbrowsern Praktikum)",
+														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"35876_1": "WP_TWB (Technik von Webbrowsern)",
-												"35875_1": "WP_TWBP (Technik von Webbrowsern Praktikum)"
+												"35876_1": "WP_TWB (Technik von Webbrowsern)"
 											}
 										},
 										"Einführung in die Computergrafik": {
@@ -3846,9 +4112,16 @@
 								"Wahlpflicht": {
 									"subDirectories": {
 										"Technik von Webbrowsern": {
+											"subDirectories": {
+												"Technik von Webbrowsern Praktikum": {
+													"events": {
+														"35875_1": "WP_TWBP/01 (Technik von Webbrowsern Praktikum)",
+														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"35876_1": "WP_TWB (Technik von Webbrowsern)",
-												"35875_1": "WP_TWBP (Technik von Webbrowsern Praktikum)"
+												"35876_1": "WP_TWB (Technik von Webbrowsern)"
 											}
 										},
 										"Einführung in die Computergrafik": {
@@ -5854,6 +6127,12 @@
 										"26567_1": "DA-PW (Data Acquisition, Practical Work)"
 									}
 								},
+								"Advanced Biosignal Processing": {
+									"events": {
+										"26574_1": "ABP (Biosignal Processing)",
+										"26538_1": "AFT (Advanced Filtering Techniques for Biosignals)"
+									}
+								},
 								"Medical Image Processing": {
 									"events": {
 										"26683_1": "MIP (Medical Image Processing)",
@@ -5873,9 +6152,6 @@
 										"26566_1": "MRTS-PW (Medical Real Time Systems Practical Work)"
 									}
 								}
-							},
-							"events": {
-								"26574_1": "ABP (Biosignal Processing)"
 							}
 						},
 						"2. Semester": {
@@ -6768,7 +7044,8 @@
 											"events": {
 												"29292_1": "PRP2/01 (Programmiertechniken 2 Laborpraktikum)",
 												"29292_2": "PRP2/02 (Programmiertechniken 2 Laborpraktikum)",
-												"29292_3": "PRP2/03 (Programmiertechniken 2 Laborpraktikum)"
+												"29292_3": "PRP2/03 (Programmiertechniken 2 Laborpraktikum)",
+												"29292_4": "PRP2/04 (Programmiertechniken 2 Laborpraktikum)"
 											}
 										}
 									},
