@@ -236,15 +236,29 @@
 								"Vertiefungsrichtung Digitale Informationstechnik und Kommunikationstechnik": {
 									"subDirectories": {
 										"Grundlagen der Nachrichtentechnik": {
+											"subDirectories": {
+												"Grundlagen der Nachrichtentechnik Praktikum": {
+													"events": {
+														"30122_1": "GNP/01 (Grundlagen der Nachrichtentechnik Praktikum)",
+														"30122_2": "GNP/02 (Grundlagen der Nachrichtentechnik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30152_1": "GN (Grundlagen der Nachrichtentechnik)",
-												"30122_1": "GNP (Grundlagen der Nachrichtentechnik Praktikum)"
+												"30152_1": "GN (Grundlagen der Nachrichtentechnik)"
 											}
 										},
 										"Elektronik 3": {
+											"subDirectories": {
+												"Elektronik 3 Praktikum": {
+													"events": {
+														"30105_1": "ELP3/01 (Elektronik 3 Praktikum)",
+														"30105_2": "ELP3/02 (Elektronik 3 Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"29972_1": "EL3 (Elektronik 3)",
-												"30105_1": "ELP3 (Elektronik 3 Praktikum)"
+												"29972_1": "EL3 (Elektronik 3)"
 											}
 										}
 									}
@@ -1104,9 +1118,16 @@
 									}
 								},
 								"Elektrische und regenerative Energietechnik 1": {
+									"subDirectories": {
+										"Elektrische und regenerative Energietechnik 1 Praktikum": {
+											"events": {
+												"30488_1": "ERP1/01 (Elektrische und regenerative Energietechnik 1 Praktikum)",
+												"30488_2": "ERP1/02 (Elektrische und regenerative Energietechnik 1 Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30569_1": "ER1 (Elektrische und regenerative Energietechnik 1)",
-										"30488_1": "ERP1 (Elektrische und regenerative Energietechnik 1 Praktikum)"
+										"30569_1": "ER1 (Elektrische und regenerative Energietechnik 1)"
 									}
 								},
 								"Programmieren 2": {
@@ -1204,9 +1225,16 @@
 									}
 								},
 								"Gebäudeeffizienz": {
+									"subDirectories": {
+										"Gebäudeeffizienz Praktikum": {
+											"events": {
+												"30400_1": "GFP/01 (Gebäudeeffizienz Praktikum)",
+												"30400_2": "GFP/02 (Gebäudeeffizienz Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30483_1": "GF (Gebäudeeffizienz)",
-										"30400_1": "GFP (Gebäudeeffizienz Praktikum)"
+										"30483_1": "GF (Gebäudeeffizienz)"
 									}
 								},
 								"Informations- und Kommunikationstechnologien für Energienetze": {
@@ -2588,8 +2616,7 @@
 												"35142_2": "PTP/02 (Programmiertechnik Praktikum)",
 												"35142_3": "PTP/03 (Programmiertechnik Praktikum)",
 												"35142_4": "PTP/04 (Programmiertechnik Praktikum)",
-												"35142_5": "PTP/05 (Programmiertechnik Praktikum)",
-												"35142_6": "PTP/06 (Programmiertechnik Praktikum)"
+												"35142_5": "PTP/05 (Programmiertechnik Praktikum)"
 											}
 										}
 									},
@@ -3031,13 +3058,55 @@
 										"31026_1": "DM (Diskrete Mathematik)",
 										"30971_1": "DMÜ (Diskrete Mathematik Übungen)"
 									}
+								},
+								"Grundlagen der Technischen Informatik": {
+									"subDirectories": {
+										"Grundlagen der Informatik Praktikum": {
+											"events": {
+												"30944_1": "GTP/01 (Grundlagen der Informatik Praktikum)",
+												"30944_2": "GTP/02 (Grundlagen der Informatik Praktikum)",
+												"30944_3": "GTP/03 (Grundlagen der Informatik Praktikum)",
+												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)",
+												"30944_5": "GTP/05 (Grundlagen der Informatik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30976_1": "GT (Grundlagen der Informatik)"
+									}
+								},
+								"Programmiertechnik": {
+									"subDirectories": {
+										"Programmiertechnik Praktikum": {
+											"events": {
+												"31012_1": "PTP/01 (Programmiertechnik Praktikum)",
+												"31012_2": "PTP/02 (Programmiertechnik Praktikum)",
+												"31012_3": "PTP/03 (Programmiertechnik Praktikum)",
+												"31012_4": "PTP/04 (Programmiertechnik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30997_1": "PT (Programmiertechnik)"
+									}
+								},
+								"Mess- und Sensortechnik": {
+									"subDirectories": {
+										"Mess- und Sensortechnik Praktikum": {
+											"events": {
+												"31079_1": "MSP/01 (Mess- und Sensortechnik Praktikum)",
+												"31079_3": "MSP/03 (Mess- und Sensortechnik Praktikum)",
+												"31079_4": "MSP/04 (Mess- und Sensortechnik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"31136_1": "MS (Mess- und Sensortechnik)"
+									}
 								}
 							},
 							"events": {
-								"30976_1": "GT (Grundlagen der Informatik)",
-								"30985_1": "PM1 (Programmiermethodik I)",
-								"30997_1": "PT (Programmiertechnik)",
-								"31136_1": "MS (Mess- und Sensortechnik)"
+								"30985_1": "PM1 (Programmiermethodik I)"
 							}
 						},
 						"2. Semester": {
@@ -3441,6 +3510,37 @@
 										"30971_1": "DMÜ (Diskrete Mathematik Übungen)"
 									}
 								},
+								"Grundlagen der Technischen Informatik": {
+									"subDirectories": {
+										"Grundlagen der Informatik Praktikum": {
+											"events": {
+												"30944_1": "GTP/01 (Grundlagen der Informatik Praktikum)",
+												"30944_2": "GTP/02 (Grundlagen der Informatik Praktikum)",
+												"30944_3": "GTP/03 (Grundlagen der Informatik Praktikum)",
+												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)",
+												"30944_5": "GTP/05 (Grundlagen der Informatik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30976_1": "GT (Grundlagen der Informatik)"
+									}
+								},
+								"Programmiertechnik": {
+									"subDirectories": {
+										"Programmiertechnik Praktikum": {
+											"events": {
+												"31012_1": "PTP/01 (Programmiertechnik Praktikum)",
+												"31012_2": "PTP/02 (Programmiertechnik Praktikum)",
+												"31012_3": "PTP/03 (Programmiertechnik Praktikum)",
+												"31012_4": "PTP/04 (Programmiertechnik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30997_1": "PT (Programmiertechnik)"
+									}
+								},
 								"Betriebswirtschaft": {
 									"subDirectories": {
 										"Betriebswirtschaft Übungen": {
@@ -3456,9 +3556,7 @@
 								}
 							},
 							"events": {
-								"30976_1": "GT (Grundlagen der Informatik)",
-								"30985_1": "PM1 (Programmiermethodik I)",
-								"30997_1": "PT (Programmiertechnik)"
+								"30985_1": "PM1 (Programmiermethodik I)"
 							}
 						},
 						"2. Semester": {
