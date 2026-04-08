@@ -3031,56 +3031,13 @@
 										"31026_1": "DM (Diskrete Mathematik)",
 										"30971_1": "DMÜ (Diskrete Mathematik Übungen)"
 									}
-								},
-								"Grundlagen der Technischen Informatik": {
-									"subDirectories": {
-										"Grundlagen der Informatik Praktikum": {
-											"events": {
-												"30944_1": "GTP/01 (Grundlagen der Informatik Praktikum)",
-												"30944_2": "GTP/02 (Grundlagen der Informatik Praktikum)",
-												"30944_3": "GTP/03 (Grundlagen der Informatik Praktikum)",
-												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)"
-											}
-										}
-									},
-									"events": {
-										"30976_1": "GT (Grundlagen der Informatik)"
-									}
-								},
-								"Programmiertechnik": {
-									"subDirectories": {
-										"Programmiertechnik Praktikum": {
-											"events": {
-												"31012_1": "PTP/01 (Programmiertechnik Praktikum)",
-												"31012_2": "PTP/02 (Programmiertechnik Praktikum)",
-												"31012_3": "PTP/03 (Programmiertechnik Praktikum)",
-												"31012_4": "PTP/04 (Programmiertechnik Praktikum)",
-												"31012_5": "PTP/05 (Programmiertechnik Praktikum)",
-												"31012_6": "PTP/06 (Programmiertechnik Praktikum)"
-											}
-										}
-									},
-									"events": {
-										"30997_1": "PT (Programmiertechnik)"
-									}
-								},
-								"Mess- und Sensortechnik": {
-									"subDirectories": {
-										"Mess- und Sensortechnik Praktikum": {
-											"events": {
-												"31079_1": "MSP/01 (Mess- und Sensortechnik Praktikum)",
-												"31079_3": "MSP/03 (Mess- und Sensortechnik Praktikum)",
-												"31079_4": "MSP/04 (Mess- und Sensortechnik Praktikum)"
-											}
-										}
-									},
-									"events": {
-										"31136_1": "MS (Mess- und Sensortechnik)"
-									}
 								}
 							},
 							"events": {
-								"30985_1": "PM1 (Programmiermethodik I)"
+								"30976_1": "GT (Grundlagen der Informatik)",
+								"30985_1": "PM1 (Programmiermethodik I)",
+								"30997_1": "PT (Programmiertechnik)",
+								"31136_1": "MS (Mess- und Sensortechnik)"
 							}
 						},
 						"2. Semester": {
@@ -3484,38 +3441,6 @@
 										"30971_1": "DMÜ (Diskrete Mathematik Übungen)"
 									}
 								},
-								"Grundlagen der Technischen Informatik": {
-									"subDirectories": {
-										"Grundlagen der Informatik Praktikum": {
-											"events": {
-												"30944_1": "GTP/01 (Grundlagen der Informatik Praktikum)",
-												"30944_2": "GTP/02 (Grundlagen der Informatik Praktikum)",
-												"30944_3": "GTP/03 (Grundlagen der Informatik Praktikum)",
-												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)"
-											}
-										}
-									},
-									"events": {
-										"30976_1": "GT (Grundlagen der Informatik)"
-									}
-								},
-								"Programmiertechnik": {
-									"subDirectories": {
-										"Programmiertechnik Praktikum": {
-											"events": {
-												"31012_1": "PTP/01 (Programmiertechnik Praktikum)",
-												"31012_2": "PTP/02 (Programmiertechnik Praktikum)",
-												"31012_3": "PTP/03 (Programmiertechnik Praktikum)",
-												"31012_4": "PTP/04 (Programmiertechnik Praktikum)",
-												"31012_5": "PTP/05 (Programmiertechnik Praktikum)",
-												"31012_6": "PTP/06 (Programmiertechnik Praktikum)"
-											}
-										}
-									},
-									"events": {
-										"30997_1": "PT (Programmiertechnik)"
-									}
-								},
 								"Betriebswirtschaft": {
 									"subDirectories": {
 										"Betriebswirtschaft Übungen": {
@@ -3531,7 +3456,9 @@
 								}
 							},
 							"events": {
-								"30985_1": "PM1 (Programmiermethodik I)"
+								"30976_1": "GT (Grundlagen der Informatik)",
+								"30985_1": "PM1 (Programmiermethodik I)",
+								"30997_1": "PT (Programmiertechnik)"
 							}
 						},
 						"2. Semester": {
