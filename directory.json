@@ -149,9 +149,17 @@
 									}
 								},
 								"Signale und Systeme 1": {
+									"subDirectories": {
+										"Signale und Systeme 1 Praktikum": {
+											"events": {
+												"30144_1": "SSP1/01 (Signale und Systeme 1 Praktikum)",
+												"30144_2": "SSP1/02 (Signale und Systeme 1 Praktikum)",
+												"30144_3": "SSP1/03 (Signale und Systeme 1 Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"29955_1": "SS1 (Signale und Systeme 1)",
-										"30144_1": "SSP1 (Signale und Systeme 1 Praktikum)"
+										"29955_1": "SS1 (Signale und Systeme 1)"
 									}
 								},
 								"Elektronik 2": {
@@ -778,7 +786,8 @@
 										"Algorithmen und Datenstrukturen": {
 											"events": {
 												"35669_1": "ADL/01 (Algorithmen und Datenstrukturen)",
-												"35669_2": "ADL/02 (Algorithmen und Datenstrukturen)"
+												"35669_2": "ADL/02 (Algorithmen und Datenstrukturen)",
+												"35669_3": "ADL/03 (Algorithmen und Datenstrukturen)"
 											}
 										}
 									},
@@ -1099,9 +1108,16 @@
 						"2. Semester": {
 							"subDirectories": {
 								"Mathematik 2": {
+									"subDirectories": {
+										"Mathematik 2 Übung": {
+											"events": {
+												"30455_1": "MAÜ2/01 (Mathematik 2 Übung)",
+												"30455_2": "MAÜ2/02 (Mathematik 2 Übung)"
+											}
+										}
+									},
 									"events": {
-										"30497_1": "MA2 (Mathematik 2)",
-										"30455_1": "MAÜ2 (Mathematik 2 Übung)"
+										"30497_1": "MA2 (Mathematik 2)"
 									}
 								},
 								"Elektrotechnik 2 und Elektronik 1": {
