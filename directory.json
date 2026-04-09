@@ -12,7 +12,8 @@
 											"events": {
 												"30135_1": "ANÜ1/01 (Analysis 1 Übung)",
 												"30135_2": "ANÜ1/02 (Analysis 1 Übung)",
-												"30135_3": "ANÜ1/03 (Analysis 1 Übung)"
+												"30135_3": "ANÜ1/03 (Analysis 1 Übung)",
+												"30135_4": "ANÜ1/04 (Analysis 1 Übung)"
 											}
 										}
 									},
@@ -40,7 +41,8 @@
 											"events": {
 												"29941_1": "ETP1/01 (Grundlagen der Elektrotechnik Praktikum)",
 												"29941_2": "ETP1/02 (Grundlagen der Elektrotechnik Praktikum)",
-												"29941_3": "ETP1/03 (Grundlagen der Elektrotechnik Praktikum)"
+												"29941_3": "ETP1/03 (Grundlagen der Elektrotechnik Praktikum)",
+												"29941_4": "ETP1/04 (Grundlagen der Elektrotechnik Praktikum)"
 											}
 										}
 									},
@@ -54,7 +56,8 @@
 											"events": {
 												"29974_1": "PRP1/01 (Programmieren 1 Praktikum)",
 												"29974_2": "PRP1/02 (Programmieren 1 Praktikum)",
-												"29974_3": "PRP1/03 (Programmieren 1 Praktikum)"
+												"29974_3": "PRP1/03 (Programmieren 1 Praktikum)",
+												"29974_4": "PRP1/04 (Programmieren 1 Praktikum)"
 											}
 										}
 									},
@@ -949,7 +952,8 @@
 												"35764_1": "DPL/01 (Digitale Signalverarbeitung)",
 												"35764_2": "DPL/02 (Digitale Signalverarbeitung)",
 												"35764_3": "DPL/03 (Digitale Signalverarbeitung)",
-												"35764_4": "DPL/04 (Digitale Signalverarbeitung)"
+												"35764_4": "DPL/04 (Digitale Signalverarbeitung)",
+												"35764_5": "DPL/05 (Digitale Signalverarbeitung)"
 											}
 										}
 									},
@@ -963,7 +967,8 @@
 											"events": {
 												"35720_1": "DCL/01 (Digitale Übertragungstechnik)",
 												"35720_2": "DCL/02 (Digitale Übertragungstechnik)",
-												"35720_3": "DCL/03 (Digitale Übertragungstechnik)"
+												"35720_3": "DCL/03 (Digitale Übertragungstechnik)",
+												"35720_4": "DCL/04 (Digitale Übertragungstechnik)"
 											}
 										}
 									},
@@ -1428,45 +1433,199 @@
 				},
 				"Bachelor Medientechnik (PO WS 2016/17)": {
 					"subDirectories": {
-						"2. Semester": {
+						"1. Semester": {
+							"subDirectories": {
+								"Mathematik 1": {
+									"events": {
+										"22367_1": "MATH1 (Mathematik 1)",
+										"22467_1": "MATH1 Üb (Mathematik 1 Übung)"
+									}
+								},
+								"Elektrotechnik": {
+									"events": {
+										"22317_1": "ET1 Vor (Elektrotechnik 1)",
+										"22344_1": "ET2 (Elektrotechnik 2)",
+										"22513_1": "ET1 Lab (Elektrotechnik 1 Laborpraktikum)",
+										"22404_1": "ET2 Lab (Elektrotechnik 2 Laborpraktikum)"
+									}
+								},
+								"Grundlagen Gestaltung": {
+									"events": {
+										"22331_1": "GEST (Gestaltung)",
+										"22422_1": "BG/DRAM1 (Bildgestaltung/Dramaturgie 1)"
+									}
+								}
+							},
 							"events": {
-								"22489_1": "MATH2 Üb (Mathematik 2 Übung)"
+								"22348_1": "TI (Technische Informatik)",
+								"22474_1": "TP (Technisches Projekt Durchführung)"
+							}
+						},
+						"2. Semester": {
+							"subDirectories": {
+								"Mathematik 2": {
+									"events": {
+										"22329_1": "MATH2 (Mathematik 2)",
+										"22489_1": "MATH2 Üb (Mathematik 2 Übung)"
+									}
+								},
+								"Lichttechnik": {
+									"events": {
+										"22490_1": "LT (Lichttechnik)",
+										"22378_1": "LT Lab (Lichttechnik Laborpraktikum)"
+									}
+								},
+								"Videotechnik 1": {
+									"events": {
+										"22451_1": "BG/DRAM2 (Bildgestaltung/Dramaturgie 2 Laborpraktikum)",
+										"22408_1": "VID1 (Videotechnik 1)"
+									}
+								}
+							},
+							"events": {
+								"22465_1": "PHY2 (Physik 2)"
+							}
+						},
+						"3. Semester": {
+							"subDirectories": {
+								"Nachrichtentechnik 1": {
+									"events": {
+										"22313_1": "Nat1 (Nachrichtentechnik 1)",
+										"22503_1": "NT Lab (Nachrichtentechnik Laborpraktikum)"
+									}
+								},
+								"Tontechnik 1": {
+									"events": {
+										"22388_1": "TON1 (Tontechnik 1)",
+										"22286_1": "TON1 Lab (Tontechnik 1 Laborpraktikum)"
+									}
+								},
+								"Videotechnik 2": {
+									"events": {
+										"22295_1": "VID2 (Videotechnik 2)",
+										"22363_1": "VID2 Lab (Videotechnik 2 Laborpraktikum)"
+									}
+								},
+								"Elektronik": {
+									"events": {
+										"22491_1": "EL (Elektronik)",
+										"22357_1": "EL Lab (Elektronik Laborpraktikum)"
+									}
+								}
+							},
+							"events": {
+								"22332_1": "P1 (Programmieren 1)",
+								"22324_1": "SCUT (ShortCut)"
 							}
 						},
 						"4. Semester": {
 							"subDirectories": {
+								"Wahlpflichtmodule Gestaltung": {
+									"events": {
+										"22464_1": "MD1 (Media Design 1)",
+										"22515_1": "MD2 (Media Design 2)",
+										"22385_1": "PDRA (Praxis Dramaturgie)",
+										"22398_1": "FT (Filmton)",
+										"22409_1": "WAHR (Wahrnehmung)"
+									}
+								},
 								"Wahlpflichtmodule Technik": {
 									"events": {
+										"22466_1": "ATP (Audiotechnik und -produktion)",
+										"22312_1": "VTP (Videotechnik und -produktion)",
+										"22423_1": "EVT (Eventtechnik)",
 										"22429_1": "AVPRG (Audio-Video-Programmierung)",
 										"22452_1": "RDB (Relationale Datenbanken)",
 										"22414_1": "ASaAI (Adaptive Systems and Artificial Intelligence)",
+										"22499_1": "MLTF (Medien- und lichttechnische Fachplanung)",
+										"39867_1": "AE (Angewandte Elektronik)",
+										"39870_1": "LS (Lichtsystem)",
 										"22292_1": "MixR (Mixed Reality)"
 									}
+								},
+								"Digitale Signalverarbeitung": {
+									"events": {
+										"22506_1": "DSIG (Digitale Signalverarbeitung)",
+										"22355_1": "DSIG Lab (Digitale Signalverarbeitung Laborpraktikum)"
+									}
+								},
+								"Netzwerke": {
+									"events": {
+										"22517_1": "NW (Netzwerke)",
+										"22473_1": "NW Lab (Netzwerke Laborpraktikum)"
+									}
+								},
+								"Tontechnik 2": {
+									"events": {
+										"22288_1": "TON2 (Tontechnik 2)",
+										"22485_1": "TON2 Lab (Tontechnik 2 Laborpraktikum)"
+									}
 								}
+							},
+							"events": {
+								"22475_1": "PA (Projekt A)"
 							}
 						},
 						"5. Semester": {
 							"subDirectories": {
+								"Wahlpflichtmodule Gestaltung": {
+									"events": {
+										"22464_1": "MD1 (Media Design 1)",
+										"22515_1": "MD2 (Media Design 2)",
+										"22385_1": "PDRA (Praxis Dramaturgie)",
+										"22398_1": "FT (Filmton)",
+										"22409_1": "WAHR (Wahrnehmung)"
+									}
+								},
 								"Wahlpflichtmodule Technik": {
 									"events": {
+										"22466_1": "ATP (Audiotechnik und -produktion)",
+										"22312_1": "VTP (Videotechnik und -produktion)",
+										"22423_1": "EVT (Eventtechnik)",
 										"22429_1": "AVPRG (Audio-Video-Programmierung)",
 										"22452_1": "RDB (Relationale Datenbanken)",
 										"22414_1": "ASaAI (Adaptive Systems and Artificial Intelligence)",
+										"22499_1": "MLTF (Medien- und lichttechnische Fachplanung)",
+										"39867_1": "AE (Angewandte Elektronik)",
+										"39870_1": "LS (Lichtsystem)",
 										"22292_1": "MixR (Mixed Reality)"
 									}
 								}
+							},
+							"events": {
+								"22402_1": "ITS (IT-Systeme)",
+								"22353_1": "NT2 (Nachrichtentechnik/Telekommunikation)",
+								"22345_1": "MR (Medienrecht)"
 							}
 						},
 						"6. Semester": {
 							"subDirectories": {
+								"Wahlpflichtmodule Gestaltung": {
+									"events": {
+										"22464_1": "MD1 (Media Design 1)",
+										"22515_1": "MD2 (Media Design 2)",
+										"22385_1": "PDRA (Praxis Dramaturgie)",
+										"22398_1": "FT (Filmton)",
+										"22409_1": "WAHR (Wahrnehmung)"
+									}
+								},
 								"Wahlpflichtmodule Technik": {
 									"events": {
+										"22466_1": "ATP (Audiotechnik und -produktion)",
+										"22312_1": "VTP (Videotechnik und -produktion)",
+										"22423_1": "EVT (Eventtechnik)",
 										"22429_1": "AVPRG (Audio-Video-Programmierung)",
 										"22452_1": "RDB (Relationale Datenbanken)",
 										"22414_1": "ASaAI (Adaptive Systems and Artificial Intelligence)",
+										"22499_1": "MLTF (Medien- und lichttechnische Fachplanung)",
+										"39867_1": "AE (Angewandte Elektronik)",
+										"39870_1": "LS (Lichtsystem)",
 										"22292_1": "MixR (Mixed Reality)"
 									}
 								}
+							},
+							"events": {
+								"22379_1": "BWL (Betriebswirtschaftslehre)"
 							}
 						}
 					}
@@ -1598,7 +1757,29 @@
 						}
 					}
 				},
-				"Master Zeitabhängige Medien / Sound Vision (PO SoSe 2025)": {}
+				"Master Zeitabhängige Medien / Sound Vision (PO SoSe 2025)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"Künstlerisches / Wissenschaftliches Kolloquium": {
+									"events": {
+										"24971_1": "KWA (Künstlerisches / Wissenschaftliches Arbeiten)",
+										"24970_1": "WS (Wissenschaftliches Seminar)"
+									}
+								},
+								"Theorie": {
+									"events": {
+										"24932_1": "ÄSD (Ästhetik & Dramaturgie)",
+										"24924_1": "WM (Wissenschaftliche Methodik)"
+									}
+								}
+							},
+							"events": {
+								"24923_1": "TS (Teamprojekt Seminar)"
+							}
+						}
+					}
+				}
 			}
 		},
 		"Fakultät Gesundheit": {
@@ -3099,7 +3280,8 @@
 												"31012_1": "PTP/01 (Programmiertechnik Praktikum)",
 												"31012_2": "PTP/02 (Programmiertechnik Praktikum)",
 												"31012_3": "PTP/03 (Programmiertechnik Praktikum)",
-												"31012_4": "PTP/04 (Programmiertechnik Praktikum)"
+												"31012_4": "PTP/04 (Programmiertechnik Praktikum)",
+												"31012_5": "PTP/05 (Programmiertechnik Praktikum)"
 											}
 										}
 									},
@@ -3550,7 +3732,8 @@
 												"31012_1": "PTP/01 (Programmiertechnik Praktikum)",
 												"31012_2": "PTP/02 (Programmiertechnik Praktikum)",
 												"31012_3": "PTP/03 (Programmiertechnik Praktikum)",
-												"31012_4": "PTP/04 (Programmiertechnik Praktikum)"
+												"31012_4": "PTP/04 (Programmiertechnik Praktikum)",
+												"31012_5": "PTP/05 (Programmiertechnik Praktikum)"
 											}
 										}
 									},

@@ -10,13 +10,6 @@
 		"name": "MAT-2.1/03 (Mathematik 2)",
 		"location": "407, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr. Ulf Teschke\nParallelgruppe: 3\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 2^2c (3. Parallelgruppe)",
-		"startTime": "2026-04-15T12:15:00",
-		"endTime": "2026-04-15T15:30:00"
-	},
-	{
-		"name": "MAT-2.1/03 (Mathematik 2)",
-		"location": "407, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Ulf Teschke\nParallelgruppe: 3\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 2^2c (3. Parallelgruppe)",
 		"startTime": "2026-04-22T12:15:00",
 		"endTime": "2026-04-22T15:30:00"
 	},
@@ -194,5 +187,12 @@
 		"description": "Dozent: Prof. Dr. Ulf Teschke\nParallelgruppe: 3\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 2^2c (3. Parallelgruppe)",
 		"startTime": "2026-07-08T15:45:00",
 		"endTime": "2026-07-08T17:15:00"
+	},
+	{
+		"name": "MAT-2.1/03 (Mathematik 2)",
+		"location": "110, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr. Ulf Teschke\nParallelgruppe: 3\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mathematik 2^2c (3. Parallelgruppe)",
+		"startTime": "2026-04-15T12:15:00",
+		"endTime": "2026-04-15T15:30:00"
 	}
 ]

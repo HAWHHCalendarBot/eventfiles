@@ -10,13 +10,6 @@
 		"name": "MAT-1 (Mathematik 1)",
 		"location": "424, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr. Ulf Teschke\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1",
-		"startTime": "2026-04-15T08:15:00",
-		"endTime": "2026-04-15T11:30:00"
-	},
-	{
-		"name": "MAT-1 (Mathematik 1)",
-		"location": "424, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Ulf Teschke\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1",
 		"startTime": "2026-04-22T08:15:00",
 		"endTime": "2026-04-22T11:30:00"
 	},
@@ -197,10 +190,17 @@
 	},
 	{
 		"name": "MAT-1 (Mathematik 1)",
-		"location": "403, Berliner Tor 21",
-		"description": "Dozent: Prof. Dr. Ulf Teschke\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1",
+		"location": "110, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr. Ulf Teschke\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mathematik 1",
 		"startTime": "2026-04-14T14:00:00",
 		"endTime": "2026-04-14T17:15:00"
+	},
+	{
+		"name": "MAT-1 (Mathematik 1)",
+		"location": "110, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr. Ulf Teschke\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mathematik 1",
+		"startTime": "2026-04-15T08:15:00",
+		"endTime": "2026-04-15T11:30:00"
 	},
 	{
 		"name": "MAT-1 (Mathematik 1)",
