@@ -10,13 +10,6 @@
 		"name": "MD (Mechatronisches Design)",
 		"location": "4.15, Berliner Tor 5",
 		"description": "Dozent: Prof. Dr.-Ing. Benedikt Plaumann\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechatronisches Design ^PG1: BMT5 (Plaumann)",
-		"startTime": "2026-04-16T10:15:00",
-		"endTime": "2026-04-16T11:45:00"
-	},
-	{
-		"name": "MD (Mechatronisches Design)",
-		"location": "4.15, Berliner Tor 5",
-		"description": "Dozent: Prof. Dr.-Ing. Benedikt Plaumann\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechatronisches Design ^PG1: BMT5 (Plaumann)",
 		"startTime": "2026-04-23T10:15:00",
 		"endTime": "2026-04-23T11:45:00"
 	},
@@ -89,5 +82,12 @@
 		"description": "Dozent: Prof. Dr.-Ing. Benedikt Plaumann\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechatronisches Design ^PG1: BMT5 (Plaumann)",
 		"startTime": "2026-07-09T10:15:00",
 		"endTime": "2026-07-09T11:45:00"
+	},
+	{
+		"name": "MD (Mechatronisches Design)",
+		"location": "404, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr.-Ing. Benedikt Plaumann\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mechatronisches Design ^PG1: BMT5 (Plaumann)",
+		"startTime": "2026-04-16T10:15:00",
+		"endTime": "2026-04-16T11:45:00"
 	}
 ]

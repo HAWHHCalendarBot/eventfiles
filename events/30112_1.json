@@ -75,5 +75,26 @@
 		"description": "Dozent: Prof. Dr.-Ing. Ulfert Meiners\nMax. Anzahl von Teilnehmer/-innen: 36\nRhythmus: wöchentlich\n\nOriginaler Titel: ST",
 		"startTime": "2026-06-25T12:10:00",
 		"endTime": "2026-06-25T15:40:00"
+	},
+	{
+		"name": "ST (Steuerungstechnik)",
+		"location": "8.61, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ulfert Meiners\nMax. Anzahl von Teilnehmer/-innen: 36\nRhythmus: Einzeltermin\n\nOriginaler Titel: ST",
+		"startTime": "2026-04-16T08:10:00",
+		"endTime": "2026-04-16T11:25:00"
+	},
+	{
+		"name": "ST (Steuerungstechnik)",
+		"location": "8.62, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ulfert Meiners\nMax. Anzahl von Teilnehmer/-innen: 36\nRhythmus: wöchentlich\n\nOriginaler Titel: ST",
+		"startTime": "2026-04-23T09:55:00",
+		"endTime": "2026-04-23T11:25:00"
+	},
+	{
+		"name": "ST (Steuerungstechnik)",
+		"location": "8.62, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ulfert Meiners\nMax. Anzahl von Teilnehmer/-innen: 36\nRhythmus: wöchentlich\n\nOriginaler Titel: ST",
+		"startTime": "2026-04-30T09:55:00",
+		"endTime": "2026-04-30T11:25:00"
 	}
 ]
