@@ -188,7 +188,8 @@
 												"30001_1": "DIP/01 (Digitaltechnik Praktikum)",
 												"30001_2": "DIP/02 (Digitaltechnik Praktikum)",
 												"30001_3": "DIP/03 (Digitaltechnik Praktikum)",
-												"30001_4": "DIP/04 (Digitaltechnik Praktikum)"
+												"30001_4": "DIP/04 (Digitaltechnik Praktikum)",
+												"30001_5": "DIP/05 (Digitaltechnik Praktikum)"
 											}
 										}
 									},
@@ -375,7 +376,8 @@
 												"Prozessautomatisierung Praktikum": {
 													"events": {
 														"29949_1": "PAP/01 (Prozessautomatisierung Praktikum)",
-														"29949_2": "PAP/02 (Prozessautomatisierung Praktikum)"
+														"29949_2": "PAP/02 (Prozessautomatisierung Praktikum)",
+														"29949_3": "PAP/03 (Prozessautomatisierung Praktikum)"
 													}
 												}
 											},
@@ -7329,9 +7331,16 @@
 									}
 								},
 								"Mikroprozessortechnik": {
+									"subDirectories": {
+										"Mikroprozessortechnik Laborpraktikum": {
+											"events": {
+												"29227_1": "MPP/01 (Mikroprozessortechnik Laborpraktikum)",
+												"29227_2": "MPP/02 (Mikroprozessortechnik Laborpraktikum)"
+											}
+										}
+									},
 									"events": {
-										"29365_1": "MP (Mikroprozessortechnik)",
-										"29227_1": "MPP (Mikroprozessortechnik Laborpraktikum)"
+										"29365_1": "MP (Mikroprozessortechnik)"
 									}
 								},
 								"Sensorik und EMV": {
