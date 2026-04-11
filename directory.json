@@ -1237,9 +1237,16 @@
 						"6. Semester": {
 							"subDirectories": {
 								"Antriebe und Leistungselektronik": {
+									"subDirectories": {
+										"Antriebe und Leistungselektronik Praktikum": {
+											"events": {
+												"30552_1": "ATP/01 (Antriebe und Leistungselektronik Praktikum)",
+												"30552_2": "ATP/02 (Antriebe und Leistungselektronik Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30448_1": "AT (Antriebe und Leistungselektronik)",
-										"30552_1": "ATP (Antriebe und Leistungselektronik Praktikum)"
+										"30448_1": "AT (Antriebe und Leistungselektronik)"
 									}
 								},
 								"Elektrische Energieverteilung": {
