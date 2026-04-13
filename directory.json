@@ -343,7 +343,8 @@
 												"Antriebe und Leistungselektronik Praktikum": {
 													"events": {
 														"30035_1": "LEP/01 (Antriebe und Leistungselektronik Praktikum)",
-														"30035_2": "LEP/02 (Antriebe und Leistungselektronik Praktikum)"
+														"30035_2": "LEP/02 (Antriebe und Leistungselektronik Praktikum)",
+														"30035_3": "LEP/03 (Antriebe und Leistungselektronik Praktikum)"
 													}
 												}
 											},
@@ -366,9 +367,17 @@
 											}
 										},
 										"Energietechnik": {
+											"subDirectories": {
+												"Energietechnik Praktikum": {
+													"events": {
+														"30024_1": "ENP/01 (Energietechnik Praktikum)",
+														"30024_2": "ENP/02 (Energietechnik Praktikum)",
+														"30024_3": "ENP/03 (Energietechnik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30047_1": "EN (Energietechnik)",
-												"30024_1": "ENP (Energietechnik Praktikum)"
+												"30047_1": "EN (Energietechnik)"
 											}
 										},
 										"Prozessautomatisierung": {
@@ -1202,9 +1211,16 @@
 									}
 								},
 								"Mikroprozessortechnik": {
+									"subDirectories": {
+										"Mikroprozessortechnik Praktikum": {
+											"events": {
+												"30427_1": "MPP/01 (Mikroprozessortechnik Praktikum)",
+												"30427_2": "MPP/02 (Mikroprozessortechnik Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30524_1": "MP (Mikroprozessortechnik)",
-										"30427_1": "MPP (Mikroprozessortechnik Praktikum)"
+										"30524_1": "MP (Mikroprozessortechnik)"
 									}
 								},
 								"Digitaltechnik": {
@@ -1662,6 +1678,14 @@
 						"2. Semester": {
 							"subDirectories": {
 								"Wahlpflichtmodule": {
+									"subDirectories": {
+										"Digitale Regelungstechnik": {
+											"events": {
+												"42664_1": "WPM_DRT (Digitale Regelungstechnik)",
+												"42667_1": "WPM_DRTP (Digitale Regelungstechnik)"
+											}
+										}
+									},
 									"events": {
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
@@ -1703,6 +1727,14 @@
 						"1. Semester": {
 							"subDirectories": {
 								"Wahlpflichtmodule": {
+									"subDirectories": {
+										"Digitale Regelungstechnik": {
+											"events": {
+												"42664_1": "WPM_DRT (Digitale Regelungstechnik)",
+												"42667_1": "WPM_DRTP (Digitale Regelungstechnik)"
+											}
+										}
+									},
 									"events": {
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
@@ -1715,6 +1747,14 @@
 						"2. Semester": {
 							"subDirectories": {
 								"Wahlpflichtmodule": {
+									"subDirectories": {
+										"Digitale Regelungstechnik": {
+											"events": {
+												"42664_1": "WPM_DRT (Digitale Regelungstechnik)",
+												"42667_1": "WPM_DRTP (Digitale Regelungstechnik)"
+											}
+										}
+									},
 									"events": {
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
@@ -1728,6 +1768,14 @@
 						"1. Semester": {
 							"subDirectories": {
 								"Wahlpflichtmodule": {
+									"subDirectories": {
+										"Digitale Regelungstechnik": {
+											"events": {
+												"42664_1": "WPM_DRT (Digitale Regelungstechnik)",
+												"42667_1": "WPM_DRTP (Digitale Regelungstechnik)"
+											}
+										}
+									},
 									"events": {
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
@@ -1740,6 +1788,14 @@
 						"2. Semester": {
 							"subDirectories": {
 								"Wahlpflichtmodule": {
+									"subDirectories": {
+										"Digitale Regelungstechnik": {
+											"events": {
+												"42664_1": "WPM_DRT (Digitale Regelungstechnik)",
+												"42667_1": "WPM_DRTP (Digitale Regelungstechnik)"
+											}
+										}
+									},
 									"events": {
 										"36325_1": "WPM_IPL (Image Processing)"
 									}
