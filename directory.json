@@ -6818,7 +6818,8 @@
 													"events": {
 														"33742_1": "SEM/01 (Seminar)",
 														"33742_2": "SEM/02 (Seminar)",
-														"33742_3": "SEM/03 (Seminar)"
+														"33742_3": "SEM/03 (Seminar)",
+														"33742_4": "SEM/04 (Seminar)"
 													}
 												},
 												"Planen und Präsentieren von Arbeiten": {
@@ -6855,7 +6856,8 @@
 													"events": {
 														"33742_1": "SEM/01 (Seminar)",
 														"33742_2": "SEM/02 (Seminar)",
-														"33742_3": "SEM/03 (Seminar)"
+														"33742_3": "SEM/03 (Seminar)",
+														"33742_4": "SEM/04 (Seminar)"
 													}
 												},
 												"Planen und Präsentieren von Arbeiten": {
@@ -6883,7 +6885,8 @@
 													"events": {
 														"33742_1": "SEM/01 (Seminar)",
 														"33742_2": "SEM/02 (Seminar)",
-														"33742_3": "SEM/03 (Seminar)"
+														"33742_3": "SEM/03 (Seminar)",
+														"33742_4": "SEM/04 (Seminar)"
 													}
 												},
 												"Planen und Präsentieren von Arbeiten": {
@@ -7204,7 +7207,8 @@
 													"events": {
 														"33742_1": "SEM/01 (Seminar)",
 														"33742_2": "SEM/02 (Seminar)",
-														"33742_3": "SEM/03 (Seminar)"
+														"33742_3": "SEM/03 (Seminar)",
+														"33742_4": "SEM/04 (Seminar)"
 													}
 												},
 												"Planen und Präsentieren von Arbeiten": {
@@ -7242,7 +7246,8 @@
 													"events": {
 														"33742_1": "SEM/01 (Seminar)",
 														"33742_2": "SEM/02 (Seminar)",
-														"33742_3": "SEM/03 (Seminar)"
+														"33742_3": "SEM/03 (Seminar)",
+														"33742_4": "SEM/04 (Seminar)"
 													}
 												},
 												"Planen und Präsentieren von Arbeiten": {
@@ -7410,9 +7415,16 @@
 									}
 								},
 								"Sensorik und EMV": {
+									"subDirectories": {
+										"Sensorik und EMV Laborpraktikum": {
+											"events": {
+												"29512_1": "EMP/01 (Sensorik und EMV Laborpraktikum)",
+												"29512_2": "EMP/02 (Sensorik und EMV Laborpraktikum)"
+											}
+										}
+									},
 									"events": {
-										"29411_1": "EM (Sensorik und EMV)",
-										"29512_1": "EMP (Sensorik und EMV Laborpraktikum)"
+										"29411_1": "EM (Sensorik und EMV)"
 									}
 								},
 								"Thermo- und Fluiddynamik": {
@@ -7473,13 +7485,35 @@
 									}
 								},
 								"Integrationsfächer": {
+									"subDirectories": {
+										"Seminar": {
+											"events": {
+												"33742_1": "SEM/01 (Seminar)",
+												"33742_2": "SEM/02 (Seminar)",
+												"33742_3": "SEM/03 (Seminar)",
+												"33742_4": "SEM/04 (Seminar)"
+											}
+										}
+									},
 									"events": {
-										"32334_1": "IF-EN (IF Technisches Englisch)",
+										"32263_1": "IF-TET (IF Technik und Ethik)",
 										"32277_1": "IF-Office (IF MS Office)",
 										"32412_1": "IF-RET (IF Rhetorik)",
 										"32211_1": "IF-GP (IF Grafisches Programmieren)",
-										"32263_1": "IF-TET (IF Technik und Ethik)",
-										"37271_1": "IF-PM (IF Patentrecht)"
+										"32334_1": "IF-EN (IF Technisches Englisch)",
+										"37271_1": "IF-PM (IF Patentrecht)",
+										"39210_1": "GW_3DS (3D Simulation)",
+										"36073_1": "GW_AR (Arbeitsrecht)",
+										"44755_1": "DGKI (Daten, Gesellschaft und KI)",
+										"36070_1": "GW_DfE (Datenschutz für Einsteiger)",
+										"35888_1": "GW_SW (Die Schreibwerkstatt)",
+										"44751_1": "GW_GSt (Grüner Stadtteil-digital vernetzt und gemeinsam gestaltet)",
+										"36023_1": "GW_HtW (Hack The World A Better Place)",
+										"44759_1": "DGKI (Meine Hochschule als Diskursraum)",
+										"35891_1": "GW_VGD (Video Game Design)",
+										"39207_1": "GW_KAW (Was tun, wenn Kommunikation zur Waffe wird?)",
+										"44747_1": "RV KK (Wie konstruiert und gestaltet Informatik die Gesellschaft?)",
+										"37032_1": "GW_WPR (Wirtschaftsprivatrecht)"
 									}
 								}
 							}
