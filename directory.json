@@ -1546,15 +1546,38 @@
 						"4. Semester": {
 							"subDirectories": {
 								"Wahlpflichtmodule Gestaltung": {
+									"subDirectories": {
+										"Game Design": {
+											"events": {
+												"42447_1": "GD LV1 (Game Design 1)",
+												"42427_1": "GD LV2 (Game Design 2)"
+											}
+										}
+									},
 									"events": {
 										"22464_1": "MD1 (Media Design 1)",
 										"22515_1": "MD2 (Media Design 2)",
 										"22385_1": "PDRA (Praxis Dramaturgie)",
 										"22398_1": "FT (Filmton)",
-										"22409_1": "WAHR (Wahrnehmung)"
+										"22409_1": "WAHR (Wahrnehmung)",
+										"42441_1": "IAS LV1 (Interactive Storytelling 1)"
 									}
 								},
 								"Wahlpflichtmodule Technik": {
+									"subDirectories": {
+										"Media Programming": {
+											"events": {
+												"42361_1": "MP LV1 (Media Programming)",
+												"42403_1": "MP LV2 (Media Programming)"
+											}
+										},
+										"Programming Basics 2": {
+											"events": {
+												"42407_1": "P2 LV/01 (Programming Basics 2)",
+												"42407_2": "P2 LV/02 (Programming Basics 2)"
+											}
+										}
+									},
 									"events": {
 										"22466_1": "ATP (Audiotechnik und -produktion)",
 										"22312_1": "VTP (Videotechnik und -produktion)",
@@ -1565,7 +1588,9 @@
 										"22499_1": "MLTF (Medien- und lichttechnische Fachplanung)",
 										"39867_1": "AE (Angewandte Elektronik)",
 										"39870_1": "LS (Lichtsystem)",
-										"22292_1": "MixR (Mixed Reality)"
+										"22292_1": "MixR (Mixed Reality)",
+										"42375_1": "WP LV (Web Programming)",
+										"42343_1": "CI LV (Computational Intelligence)"
 									}
 								},
 								"Digitale Signalverarbeitung": {
@@ -1594,15 +1619,38 @@
 						"5. Semester": {
 							"subDirectories": {
 								"Wahlpflichtmodule Gestaltung": {
+									"subDirectories": {
+										"Game Design": {
+											"events": {
+												"42447_1": "GD LV1 (Game Design 1)",
+												"42427_1": "GD LV2 (Game Design 2)"
+											}
+										}
+									},
 									"events": {
 										"22464_1": "MD1 (Media Design 1)",
 										"22515_1": "MD2 (Media Design 2)",
 										"22385_1": "PDRA (Praxis Dramaturgie)",
 										"22398_1": "FT (Filmton)",
-										"22409_1": "WAHR (Wahrnehmung)"
+										"22409_1": "WAHR (Wahrnehmung)",
+										"42441_1": "IAS LV1 (Interactive Storytelling 1)"
 									}
 								},
 								"Wahlpflichtmodule Technik": {
+									"subDirectories": {
+										"Media Programming": {
+											"events": {
+												"42361_1": "MP LV1 (Media Programming)",
+												"42403_1": "MP LV2 (Media Programming)"
+											}
+										},
+										"Programming Basics 2": {
+											"events": {
+												"42407_1": "P2 LV/01 (Programming Basics 2)",
+												"42407_2": "P2 LV/02 (Programming Basics 2)"
+											}
+										}
+									},
 									"events": {
 										"22466_1": "ATP (Audiotechnik und -produktion)",
 										"22312_1": "VTP (Videotechnik und -produktion)",
@@ -1613,7 +1661,9 @@
 										"22499_1": "MLTF (Medien- und lichttechnische Fachplanung)",
 										"39867_1": "AE (Angewandte Elektronik)",
 										"39870_1": "LS (Lichtsystem)",
-										"22292_1": "MixR (Mixed Reality)"
+										"22292_1": "MixR (Mixed Reality)",
+										"42375_1": "WP LV (Web Programming)",
+										"42343_1": "CI LV (Computational Intelligence)"
 									}
 								}
 							},
@@ -1626,15 +1676,38 @@
 						"6. Semester": {
 							"subDirectories": {
 								"Wahlpflichtmodule Gestaltung": {
+									"subDirectories": {
+										"Game Design": {
+											"events": {
+												"42447_1": "GD LV1 (Game Design 1)",
+												"42427_1": "GD LV2 (Game Design 2)"
+											}
+										}
+									},
 									"events": {
 										"22464_1": "MD1 (Media Design 1)",
 										"22515_1": "MD2 (Media Design 2)",
 										"22385_1": "PDRA (Praxis Dramaturgie)",
 										"22398_1": "FT (Filmton)",
-										"22409_1": "WAHR (Wahrnehmung)"
+										"22409_1": "WAHR (Wahrnehmung)",
+										"42441_1": "IAS LV1 (Interactive Storytelling 1)"
 									}
 								},
 								"Wahlpflichtmodule Technik": {
+									"subDirectories": {
+										"Media Programming": {
+											"events": {
+												"42361_1": "MP LV1 (Media Programming)",
+												"42403_1": "MP LV2 (Media Programming)"
+											}
+										},
+										"Programming Basics 2": {
+											"events": {
+												"42407_1": "P2 LV/01 (Programming Basics 2)",
+												"42407_2": "P2 LV/02 (Programming Basics 2)"
+											}
+										}
+									},
 									"events": {
 										"22466_1": "ATP (Audiotechnik und -produktion)",
 										"22312_1": "VTP (Videotechnik und -produktion)",
@@ -1645,7 +1718,9 @@
 										"22499_1": "MLTF (Medien- und lichttechnische Fachplanung)",
 										"39867_1": "AE (Angewandte Elektronik)",
 										"39870_1": "LS (Lichtsystem)",
-										"22292_1": "MixR (Mixed Reality)"
+										"22292_1": "MixR (Mixed Reality)",
+										"42375_1": "WP LV (Web Programming)",
+										"42343_1": "CI LV (Computational Intelligence)"
 									}
 								}
 							},

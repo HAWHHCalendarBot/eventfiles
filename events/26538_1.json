@@ -1,93 +1,44 @@
 [
 	{
 		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
+		"location": "S3.02, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-04-10T12:30:00",
+		"startTime": "2026-04-10T10:15:00",
 		"endTime": "2026-04-10T14:00:00"
 	},
 	{
 		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
+		"location": "S3.02, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-04-17T12:30:00",
+		"startTime": "2026-04-17T10:15:00",
 		"endTime": "2026-04-17T14:00:00"
 	},
 	{
 		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
+		"location": "S3.02, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-04-24T12:30:00",
+		"startTime": "2026-04-24T10:15:00",
 		"endTime": "2026-04-24T14:00:00"
 	},
 	{
 		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
+		"location": "S3.02, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-05-08T12:30:00",
+		"startTime": "2026-05-08T10:15:00",
 		"endTime": "2026-05-08T14:00:00"
 	},
 	{
 		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
+		"location": "S3.02, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-05-15T12:30:00",
+		"startTime": "2026-05-15T10:15:00",
 		"endTime": "2026-05-15T14:00:00"
 	},
 	{
 		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
+		"location": "S3.02, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-05-22T12:30:00",
+		"startTime": "2026-05-22T10:15:00",
 		"endTime": "2026-05-22T14:00:00"
-	},
-	{
-		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-05-29T12:30:00",
-		"endTime": "2026-05-29T14:00:00"
-	},
-	{
-		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-06-05T12:30:00",
-		"endTime": "2026-06-05T14:00:00"
-	},
-	{
-		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-06-12T12:30:00",
-		"endTime": "2026-06-12T14:00:00"
-	},
-	{
-		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-06-19T12:30:00",
-		"endTime": "2026-06-19T14:00:00"
-	},
-	{
-		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-06-26T12:30:00",
-		"endTime": "2026-06-26T14:00:00"
-	},
-	{
-		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-07-03T12:30:00",
-		"endTime": "2026-07-03T14:00:00"
-	},
-	{
-		"name": "AFT (Advanced Filtering Techniques for Biosignals)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Markus Riemenschneider\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Filtering Techniques for Biosignals",
-		"startTime": "2026-07-10T12:30:00",
-		"endTime": "2026-07-10T14:00:00"
 	}
 ]
