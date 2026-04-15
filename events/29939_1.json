@@ -50,30 +50,30 @@
 	},
 	{
 		"name": "BS (Betriebssysteme)",
-		"location": "8.62, Berliner Tor 7",
+		"location": "14.86, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Holger Gräßner\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: BS",
+		"startTime": "2026-04-21T08:10:00",
+		"endTime": "2026-04-21T11:25:00"
+	},
+	{
+		"name": "BS (Betriebssysteme)",
+		"location": "13.03b, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Holger Gräßner\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BS",
 		"startTime": "2026-06-22T12:10:00",
 		"endTime": "2026-06-22T15:40:00"
 	},
 	{
 		"name": "BS (Betriebssysteme)",
-		"location": "8.62, Berliner Tor 7",
+		"location": "13.03b, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Holger Gräßner\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BS",
 		"startTime": "2026-06-29T12:10:00",
 		"endTime": "2026-06-29T15:40:00"
 	},
 	{
 		"name": "BS (Betriebssysteme)",
-		"location": "8.62, Berliner Tor 7",
+		"location": "13.03b, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Holger Gräßner\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BS",
 		"startTime": "2026-07-06T12:10:00",
 		"endTime": "2026-07-06T15:40:00"
-	},
-	{
-		"name": "BS (Betriebssysteme)",
-		"location": "14.86, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Holger Gräßner\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: BS",
-		"startTime": "2026-04-21T08:10:00",
-		"endTime": "2026-04-21T11:25:00"
 	}
 ]
