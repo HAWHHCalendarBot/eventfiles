@@ -7966,6 +7966,18 @@
 									}
 								}
 							}
+						},
+						"6. Semester": {
+							"subDirectories": {
+								"Unit 2: Theorie-Praxis-Reflexion": {
+									"events": {
+										"18100_1": "PM 22 U2/01 (Unit 2: Theorie-Praxis-Reflexion)",
+										"18100_2": "PM 22 U2/02 (Unit 2: Theorie-Praxis-Reflexion)",
+										"18100_3": "PM 22 U2/03 (Unit 2: Theorie-Praxis-Reflexion)",
+										"18100_4": "PM 22 U2/04 (Unit 2: Theorie-Praxis-Reflexion)"
+									}
+								}
+							}
 						}
 					}
 				},
