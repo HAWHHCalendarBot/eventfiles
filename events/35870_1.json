@@ -40,12 +40,5 @@
 		"description": "Dozent: Prof. Dr. Olaf Zukunft\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: NoSQL und Big Data ^ 2U",
 		"startTime": "2026-07-10T08:15:00",
 		"endTime": "2026-07-10T11:45:00"
-	},
-	{
-		"name": "WP_NBD (NoSQL und Big Data)",
-		"location": "5.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Olaf Zukunft\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: NoSQL und Big Data ^ 2U",
-		"startTime": "2026-07-24T08:15:00",
-		"endTime": "2026-07-24T11:45:00"
 	}
 ]
