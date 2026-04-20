@@ -33,5 +33,12 @@
 		"description": "Dozent: Dr. med. Dr. Maria Noftz\nRhythmus: Einzeltermin\n\nOriginaler Titel: Evidence Based Public Health",
 		"startTime": "2026-06-05T10:00:00",
 		"endTime": "2026-06-05T16:00:00"
+	},
+	{
+		"name": "EBPH (Evidence Based Public Health)",
+		"location": "5.08, Alexanderstraße 1",
+		"description": "Dozent: Dr. med. Dr. Maria Noftz\nRhythmus: Einzeltermin\n\nOriginaler Titel: Evidence Based Public Health",
+		"startTime": "2026-06-30T10:00:00",
+		"endTime": "2026-06-30T16:00:00"
 	}
 ]
