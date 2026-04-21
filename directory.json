@@ -8132,9 +8132,16 @@
 									}
 								},
 								"Strömungslehre 1": {
+									"subDirectories": {
+										"Strömungslehre 1": {
+											"events": {
+												"32886_1": "STL-1/01 (Strömungslehre 1)",
+												"32886_2": "STL-1/02 (Strömungslehre 1)"
+											}
+										}
+									},
 									"events": {
-										"32768_1": "STL-1 L (Strömungslehre 1 Laborpraktikum)",
-										"32886_1": "STL-1 (Strömungslehre 1)"
+										"32768_1": "STL-1 L (Strömungslehre 1 Laborpraktikum)"
 									}
 								}
 							},
@@ -9979,8 +9986,15 @@
 									}
 								},
 								"Strömungslehre 1": {
+									"subDirectories": {
+										"Strömungslehre 1": {
+											"events": {
+												"41824_1": "STL-1-E/01 (Strömungslehre 1)",
+												"41824_2": "STL-1-E/02 (Strömungslehre 1)"
+											}
+										}
+									},
 									"events": {
-										"41824_1": "STL-1-E (Strömungslehre 1)",
 										"41796_1": "STL-1-E (Strömungslehre 1 Labor)"
 									}
 								}
