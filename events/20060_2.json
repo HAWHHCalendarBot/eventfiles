@@ -52,13 +52,6 @@
 		"name": "M8.1 LV/02 (Körperwahrnehmung)",
 		"location": "6.03, Alexanderstraße 1",
 		"description": "Dozenten: Prof. Dr. Vanessa Hoffmann, Prof. Dr. Kirsten Hötting, Prof. Dr. Claudia Limmer, Dr. Nina Reitis\nParallelgruppe: 2\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Körperwahrnehmung ^ B (2. Parallelgruppe)",
-		"startTime": "2026-06-04T10:00:00",
-		"endTime": "2026-06-04T12:30:00"
-	},
-	{
-		"name": "M8.1 LV/02 (Körperwahrnehmung)",
-		"location": "6.03, Alexanderstraße 1",
-		"description": "Dozenten: Prof. Dr. Vanessa Hoffmann, Prof. Dr. Kirsten Hötting, Prof. Dr. Claudia Limmer, Dr. Nina Reitis\nParallelgruppe: 2\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Körperwahrnehmung ^ B (2. Parallelgruppe)",
 		"startTime": "2026-06-11T10:00:00",
 		"endTime": "2026-06-11T12:30:00"
 	},
@@ -89,5 +82,12 @@
 		"description": "Dozenten: Prof. Dr. Vanessa Hoffmann, Prof. Dr. Kirsten Hötting, Prof. Dr. Claudia Limmer, Dr. Nina Reitis\nParallelgruppe: 2\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: Körperwahrnehmung ^ B (2. Parallelgruppe)",
 		"startTime": "2026-07-09T10:00:00",
 		"endTime": "2026-07-09T12:30:00"
+	},
+	{
+		"name": "M8.1 LV/02 (Körperwahrnehmung)",
+		"location": "5.03, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Vanessa Hoffmann, Prof. Dr. Kirsten Hötting, Prof. Dr. Claudia Limmer, Dr. Nina Reitis\nParallelgruppe: 2\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Körperwahrnehmung ^ B (2. Parallelgruppe)",
+		"startTime": "2026-04-27T14:00:00",
+		"endTime": "2026-04-27T17:30:00"
 	}
 ]

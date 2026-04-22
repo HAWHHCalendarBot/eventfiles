@@ -5988,6 +5988,7 @@
 							"subDirectories": {
 								"Wahlpflicht": {
 									"events": {
+										"27521_1": "UA Ötox P (Umweltanalytik und Ökotoxikologie Praktikum)",
 										"26968_1": "IPS (Interdisziplinäres Seminar über nachhaltige Konzepte zur Reduzierung der Antibiotikabelastung in den Gewässern (PharmCycle))",
 										"27566_1": "NaMo (Nachhaltige Mobilität)",
 										"28347_1": "WStoT (Werkstofftechnik)",
@@ -7938,6 +7939,103 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
+								"Unit 2: Kosten- und Leistungsrechnung": {
+									"events": {
+										"18037_1": "PM3 U2/01 (Unit 2: Kosten- und Leistungsrechnung)",
+										"18037_2": "PM3 U2/02 (Unit 2: Kosten- und Leistungsrechnung)",
+										"18037_3": "PM3 U2/03 (Unit 2: Kosten- und Leistungsrechnung)",
+										"18037_4": "PM3 U2/04 (Unit 2: Kosten- und Leistungsrechnung)",
+										"18037_5": "PM3 U2/05 (Unit 2: Kosten- und Leistungsrechnung)"
+									}
+								},
+								"Volkswirtschaftslehre und Standortpolitik": {
+									"subDirectories": {
+										"Unit 2: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik II": {
+											"events": {
+												"18111_1": "PM4 U2/01 (Unit 2: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik II)",
+												"18111_2": "PM4 U2/02 (Unit 2: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik II)",
+												"18111_3": "PM4 U2/03 (Unit 2: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik II)",
+												"18111_4": "PM4 U2/04 (Unit 2: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik II)",
+												"18111_5": "PM4 U2/05 (Unit 2: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik II)"
+											}
+										},
+										"Unit 3: Regionalökonomie und Standortpolitik": {
+											"events": {
+												"18083_1": "PM4 U3/01 (Unit 3: Regionalökonomie und Standortpolitik)",
+												"18083_2": "PM4 U3/02 (Unit 3: Regionalökonomie und Standortpolitik)",
+												"18083_3": "PM4 U3/03 (Unit 3: Regionalökonomie und Standortpolitik)",
+												"18083_4": "PM4 U3/04 (Unit 3: Regionalökonomie und Standortpolitik)",
+												"18083_5": "PM4 U3/05 (Unit 3: Regionalökonomie und Standortpolitik)"
+											}
+										}
+									}
+								},
+								"Informationstechnische Grundlagen und Projektmanagement": {
+									"subDirectories": {
+										"Unit 2: Grundlagen des E-Governments": {
+											"events": {
+												"18115_1": "PM5 U2/01 (Unit 2: Grundlagen des E-Governments)",
+												"18115_2": "PM5 U2/02 (Unit 2: Grundlagen des E-Governments)",
+												"18115_3": "PM5 U2/03 (Unit 2: Grundlagen des E-Governments)",
+												"18115_4": "PM5 U2/04 (Unit 2: Grundlagen des E-Governments)",
+												"18115_5": "PM5 U2/05 (Unit 2: Grundlagen des E-Governments)"
+											}
+										},
+										"Unit 3: Projektmanagement": {
+											"events": {
+												"18017_1": "PM5 U3/01 (Unit 3: Projektmanagement)",
+												"18017_2": "PM5 U3/02 (Unit 3: Projektmanagement)",
+												"18017_3": "PM5 U3/03 (Unit 3: Projektmanagement)",
+												"18017_4": "PM5 U3/04 (Unit 3: Projektmanagement)",
+												"18017_5": "PM5 U3/05 (Unit 3: Projektmanagement)"
+											}
+										}
+									}
+								},
+								"Grundlagen des öffentlichen Rechts": {
+									"subDirectories": {
+										"Unit 3: Allgemeines Verwaltungsrecht II": {
+											"events": {
+												"18038_1": "PM6 U3/01 (Unit 3: Allgemeines Verwaltungsrecht II)",
+												"18038_2": "PM6 U3/02 (Unit 3: Allgemeines Verwaltungsrecht II)",
+												"18038_3": "PM6 U3/03 (Unit 3: Allgemeines Verwaltungsrecht II)",
+												"18038_4": "PM6 U3/04 (Unit 3: Allgemeines Verwaltungsrecht II)",
+												"18038_5": "PM6 U3/05 (Unit 3: Allgemeines Verwaltungsrecht II)"
+											}
+										},
+										"Unit 4: Staats- und Europarecht II": {
+											"events": {
+												"18180_1": "PM6 U4/01 (Unit 4: Staats- und Europarecht II)",
+												"18180_2": "PM6 U4/02 (Unit 4: Staats- und Europarecht II)",
+												"18180_3": "PM6 U4/03 (Unit 4: Staats- und Europarecht II)",
+												"18180_4": "PM6 U4/04 (Unit 4: Staats- und Europarecht II)",
+												"18180_5": "PM6 U4/05 (Unit 4: Staats- und Europarecht II)"
+											}
+										}
+									}
+								},
+								"Zivilrecht und Personalrecht": {
+									"subDirectories": {
+										"Unit 3: Zivilrecht II": {
+											"events": {
+												"18174_1": "PM7 U3/01 (Unit 3: Zivilrecht II)",
+												"18174_2": "PM7 U3/02 (Unit 3: Zivilrecht II)",
+												"18174_3": "PM7 U3/03 (Unit 3: Zivilrecht II)",
+												"18174_4": "PM7 U3/04 (Unit 3: Zivilrecht II)",
+												"18174_5": "PM7 U3/05 (Unit 3: Zivilrecht II)"
+											}
+										},
+										"Unit 4: Personalrecht II": {
+											"events": {
+												"18088_1": "PM7 U4/01 (Unit 4: Personalrecht II)",
+												"18088_2": "PM7 U4/02 (Unit 4: Personalrecht II)",
+												"18088_3": "PM7 U4/03 (Unit 4: Personalrecht II)",
+												"18088_4": "PM7 U4/04 (Unit 4: Personalrecht II)",
+												"18088_5": "PM7 U4/05 (Unit 4: Personalrecht II)"
+											}
+										}
+									}
+								},
 								"Wahlpflichtmodul I": {
 									"events": {
 										"18638_1": "WM9 R (Introduction to the American Constitution)",
@@ -7945,6 +8043,41 @@
 										"41715_1": "WM9 Allg (Diversity Management)",
 										"45662_1": "WM9 Allg (Aktuelle Themen der Verwaltungsdigitalisierung)",
 										"45663_1": "WM9 Allg (Resonanz und Gesellschaftlicher Zusammenhalt)"
+									}
+								}
+							}
+						},
+						"2. Semester": {
+							"subDirectories": {
+								"Verwaltungswissenschaftliche Grundlagen II": {
+									"subDirectories": {
+										"Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung II": {
+											"events": {
+												"18035_1": "PM8 U1/01 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung II)",
+												"18035_2": "PM8 U1/02 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung II)",
+												"18035_3": "PM8 U1/03 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung II)",
+												"18035_4": "PM8 U1/04 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung II)",
+												"18035_5": "PM8 U1/05 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung II)"
+											}
+										},
+										"Unit 2: Verwaltung, Staat und Gesellschaft II": {
+											"events": {
+												"18029_1": "PM8 U2/01 (Unit 2: Verwaltung, Staat und Gesellschaft II)",
+												"18029_2": "PM8 U2/02 (Unit 2: Verwaltung, Staat und Gesellschaft II)",
+												"18029_3": "PM8 U2/03 (Unit 2: Verwaltung, Staat und Gesellschaft II)",
+												"18029_4": "PM8 U2/04 (Unit 2: Verwaltung, Staat und Gesellschaft II)",
+												"18029_5": "PM8 U2/05 (Unit 2: Verwaltung, Staat und Gesellschaft II)"
+											}
+										},
+										"Unit 3: Personalpsychologie II": {
+											"events": {
+												"18030_1": "PM8 U3/01 (Unit 3: Personalpsychologie II)",
+												"18030_2": "PM8 U3/02 (Unit 3: Personalpsychologie II)",
+												"18030_3": "PM8 U3/03 (Unit 3: Personalpsychologie II)",
+												"18030_4": "PM8 U3/04 (Unit 3: Personalpsychologie II)",
+												"18030_5": "PM8 U3/05 (Unit 3: Personalpsychologie II)"
+											}
+										}
 									}
 								}
 							}
