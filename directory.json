@@ -8082,8 +8082,118 @@
 								}
 							}
 						},
+						"3. Semester": {
+							"subDirectories": {
+								"Studienprojekt": {
+									"events": {
+										"18059_1": "PM11/01 (Studienprojekt)",
+										"18059_2": "PM11/02 (Studienprojekt)",
+										"18059_3": "PM11/03 (Studienprojekt)",
+										"18059_4": "PM11/04 (Studienprojekt)",
+										"18059_5": "PM11/05 (Studienprojekt)"
+									}
+								}
+							}
+						},
 						"4. Semester": {
 							"subDirectories": {
+								"Interne und externe Ressourcensteuerung": {
+									"subDirectories": {
+										"Unit 1: Öffentliche Finanzwirtschaft III": {
+											"events": {
+												"18076_1": "PM12 U1/01 (Unit 1: Öffentliche Finanzwirtschaft III)",
+												"18076_2": "PM12 U1/02 (Unit 1: Öffentliche Finanzwirtschaft III)",
+												"18076_3": "PM12 U1/03 (Unit 1: Öffentliche Finanzwirtschaft III)",
+												"18076_4": "PM12 U1/04 (Unit 1: Öffentliche Finanzwirtschaft III)",
+												"18076_5": "PM12 U1/05 (Unit 1: Öffentliche Finanzwirtschaft III)"
+											}
+										},
+										"Unit 2: Planung und Steuerung von öffentlichen Investitionen": {
+											"events": {
+												"18191_1": "PM12 U2/01 (Unit 2: Planung und Steuerung von öffentlichen Investitionen)",
+												"18191_2": "PM12 U2/02 (Unit 2: Planung und Steuerung von öffentlichen Investitionen)",
+												"18191_3": "PM12 U2/03 (Unit 2: Planung und Steuerung von öffentlichen Investitionen)",
+												"18191_4": "PM12 U2/04 (Unit 2: Planung und Steuerung von öffentlichen Investitionen)",
+												"18191_5": "PM12 U2/05 (Unit 2: Planung und Steuerung von öffentlichen Investitionen)"
+											}
+										}
+									}
+								},
+								"Personalmanagement": {
+									"subDirectories": {
+										"Unit 1: Personalwirtschaft": {
+											"events": {
+												"18128_1": "PM13 U1/01 (Unit 1: Personalwirtschaft)",
+												"18128_2": "PM13 U1/02 (Unit 1: Personalwirtschaft)",
+												"18128_3": "PM13 U1/03 (Unit 1: Personalwirtschaft)",
+												"18128_4": "PM13 U1/04 (Unit 1: Personalwirtschaft)",
+												"18128_5": "PM13 U1/05 (Unit 1: Personalwirtschaft)"
+											}
+										},
+										"Unit 2: Eignungsdiagnostik und Personalentwicklung": {
+											"events": {
+												"18144_1": "PM13 U2/01 (Unit 2: Eignungsdiagnostik und Personalentwicklung)",
+												"18144_2": "PM13 U2/02 (Unit 2: Eignungsdiagnostik und Personalentwicklung)",
+												"18144_3": "PM13 U2/03 (Unit 2: Eignungsdiagnostik und Personalentwicklung)",
+												"18144_4": "PM13 U2/04 (Unit 2: Eignungsdiagnostik und Personalentwicklung)",
+												"18144_5": "PM13 U2/05 (Unit 2: Eignungsdiagnostik und Personalentwicklung)"
+											}
+										}
+									}
+								},
+								"Grundrechte und Ordnungswidrigkeitenrecht": {
+									"subDirectories": {
+										"Unit 1: Deutsche und europäische Grundrechte (Staats- und Europarecht III)": {
+											"events": {
+												"18063_1": "PM14 U1/01 (Unit 1: Deutsche und europäische Grundrechte (Staats- und Europarecht III))",
+												"18063_2": "PM14 U1/02 (Unit 1: Deutsche und europäische Grundrechte (Staats- und Europarecht III))",
+												"18063_3": "PM14 U1/03 (Unit 1: Deutsche und europäische Grundrechte (Staats- und Europarecht III))",
+												"18063_4": "PM14 U1/04 (Unit 1: Deutsche und europäische Grundrechte (Staats- und Europarecht III))",
+												"18063_5": "PM14 U1/05 (Unit 1: Deutsche und europäische Grundrechte (Staats- und Europarecht III))"
+											}
+										},
+										"Unit 2: Ordnungswidrigkeitenrecht": {
+											"events": {
+												"18054_1": "PM14 U2/01 (Unit 2: Ordnungswidrigkeitenrecht)",
+												"18054_2": "PM14 U2/02 (Unit 2: Ordnungswidrigkeitenrecht)",
+												"18054_3": "PM14 U2/03 (Unit 2: Ordnungswidrigkeitenrecht)",
+												"18054_4": "PM14 U2/04 (Unit 2: Ordnungswidrigkeitenrecht)",
+												"18054_5": "PM14 U2/05 (Unit 2: Ordnungswidrigkeitenrecht)"
+											}
+										}
+									}
+								},
+								"Unit 1: Datenbanken": {
+									"events": {
+										"18135_1": "PM15 U1/01 (Unit 1: Datenbanken)",
+										"18135_2": "PM15 U1/02 (Unit 1: Datenbanken)",
+										"18135_3": "PM15 U1/03 (Unit 1: Datenbanken)",
+										"18135_4": "PM15 U1/04 (Unit 1: Datenbanken)",
+										"18135_5": "PM15 U1/05 (Unit 1: Datenbanken)"
+									}
+								},
+								"Vertiefung im Verwaltungsrecht": {
+									"subDirectories": {
+										"Unit 1: Allgemeines Verwaltungsrecht III": {
+											"events": {
+												"18130_1": "PM16 U1/01 (Unit 1: Allgemeines Verwaltungsrecht III)",
+												"18130_2": "PM16 U1/02 (Unit 1: Allgemeines Verwaltungsrecht III)",
+												"18130_3": "PM16 U1/03 (Unit 1: Allgemeines Verwaltungsrecht III)",
+												"18130_4": "PM16 U1/04 (Unit 1: Allgemeines Verwaltungsrecht III)",
+												"18130_5": "PM16 U1/05 (Unit 1: Allgemeines Verwaltungsrecht III)"
+											}
+										},
+										"Unit 2: Besonderes Verwaltungsrecht I/Gefahrenabwehrrecht": {
+											"events": {
+												"18129_1": "PM16 U2/01 (Unit 2: Besonderes Verwaltungsrecht I/Gefahrenabwehrrecht)",
+												"18129_2": "PM16 U2/02 (Unit 2: Besonderes Verwaltungsrecht I/Gefahrenabwehrrecht)",
+												"18129_3": "PM16 U2/03 (Unit 2: Besonderes Verwaltungsrecht I/Gefahrenabwehrrecht)",
+												"18129_4": "PM16 U2/04 (Unit 2: Besonderes Verwaltungsrecht I/Gefahrenabwehrrecht)",
+												"18129_5": "PM16 U2/05 (Unit 2: Besonderes Verwaltungsrecht I/Gefahrenabwehrrecht)"
+											}
+										}
+									}
+								},
 								"Wahlpflichtmodul II": {
 									"events": {
 										"36250_1": "WM18 U1 R (Vergaberecht)",
