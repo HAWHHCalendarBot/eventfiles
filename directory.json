@@ -3350,9 +3350,16 @@
 											}
 										},
 										"AI Engineering": {
+											"subDirectories": {
+												"AI Engineering Praktikum": {
+													"events": {
+														"42998_1": "WP_AIEP/01 (AI Engineering Praktikum)",
+														"42998_2": "WP_AIEP/02 (AI Engineering Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"42995_1": "WP_AIE (AI Engineering)",
-												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
+												"42995_1": "WP_AIE (AI Engineering)"
 											}
 										},
 										"Agentic AI": {
@@ -3803,9 +3810,16 @@
 											}
 										},
 										"AI Engineering": {
+											"subDirectories": {
+												"AI Engineering Praktikum": {
+													"events": {
+														"42998_1": "WP_AIEP/01 (AI Engineering Praktikum)",
+														"42998_2": "WP_AIEP/02 (AI Engineering Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"42995_1": "WP_AIE (AI Engineering)",
-												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
+												"42995_1": "WP_AIE (AI Engineering)"
 											}
 										},
 										"Agentic AI": {
@@ -4265,9 +4279,16 @@
 											}
 										},
 										"AI Engineering": {
+											"subDirectories": {
+												"AI Engineering Praktikum": {
+													"events": {
+														"42998_1": "WP_AIEP/01 (AI Engineering Praktikum)",
+														"42998_2": "WP_AIEP/02 (AI Engineering Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"42995_1": "WP_AIE (AI Engineering)",
-												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
+												"42995_1": "WP_AIE (AI Engineering)"
 											}
 										},
 										"Agentic AI": {
@@ -4526,9 +4547,16 @@
 											}
 										},
 										"AI Engineering": {
+											"subDirectories": {
+												"AI Engineering Praktikum": {
+													"events": {
+														"42998_1": "WP_AIEP/01 (AI Engineering Praktikum)",
+														"42998_2": "WP_AIEP/02 (AI Engineering Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"42995_1": "WP_AIE (AI Engineering)",
-												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
+												"42995_1": "WP_AIE (AI Engineering)"
 											}
 										},
 										"Evolutionäre Algorithmen": {
