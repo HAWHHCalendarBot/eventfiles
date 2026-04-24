@@ -43,6 +43,34 @@
 	},
 	{
 		"name": "SO1 (Programmieren 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: SO1",
+		"startTime": "2026-06-04T08:10:00",
+		"endTime": "2026-06-04T09:40:00"
+	},
+	{
+		"name": "SO1 (Programmieren 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: SO1",
+		"startTime": "2026-06-11T08:10:00",
+		"endTime": "2026-06-11T09:40:00"
+	},
+	{
+		"name": "SO1 (Programmieren 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: SO1",
+		"startTime": "2026-06-18T08:10:00",
+		"endTime": "2026-06-18T09:40:00"
+	},
+	{
+		"name": "SO1 (Programmieren 1)",
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: SO1",
+		"startTime": "2026-06-25T08:10:00",
+		"endTime": "2026-06-25T09:40:00"
+	},
+	{
+		"name": "SO1 (Programmieren 1)",
 		"location": "6.60, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Henning Dierks\nMax. Anzahl von Teilnehmer/-innen: 60\nRhythmus: wöchentlich\n\nOriginaler Titel: SO1",
 		"startTime": "2026-04-17T12:10:00",
