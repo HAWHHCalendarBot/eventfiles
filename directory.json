@@ -12652,6 +12652,16 @@
 									}
 								},
 								"Reflexive Praxis: Praxisprojekt in einem Studienschwerpunkt": {
+									"subDirectories": {
+										"Praxisprojekt im Studienschwerpunkt (Fortsetzung)": {
+											"events": {
+												"45660_1": "M 22.4.1 (Praxisprojekt (Fortsetzungsveranstaltung))",
+												"45660_2": "M 22.4.2 (Praxisprojekt (Fortsetzungsveranstaltung))",
+												"45660_3": "M 22.4.3 (Praxisprojekt (Fortsetzungsveranstaltung))",
+												"45660_4": "M 22.4.4 (Praxisprojekt (Fortsetzungsveranstaltung))"
+											}
+										}
+									},
 									"events": {
 										"25499_1": "M22.1 LV (Praxisprojekt im Studienschwerpunkt)",
 										"25498_1": "M22.3 TG (TPS Praxisbegleitung)",
@@ -12865,6 +12875,16 @@
 									}
 								},
 								"Reflexive Praxis: Praxisprojekt in einem Studienschwerpunkt": {
+									"subDirectories": {
+										"Praxisprojekt im Studienschwerpunkt (Fortsetzung)": {
+											"events": {
+												"45660_1": "M 22.4.1 (Praxisprojekt (Fortsetzungsveranstaltung))",
+												"45660_2": "M 22.4.2 (Praxisprojekt (Fortsetzungsveranstaltung))",
+												"45660_3": "M 22.4.3 (Praxisprojekt (Fortsetzungsveranstaltung))",
+												"45660_4": "M 22.4.4 (Praxisprojekt (Fortsetzungsveranstaltung))"
+											}
+										}
+									},
 									"events": {
 										"25499_1": "M22.1 LV (Praxisprojekt im Studienschwerpunkt)",
 										"25498_1": "M22.3 TG (TPS Praxisbegleitung)",
