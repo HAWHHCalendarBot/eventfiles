@@ -82,5 +82,12 @@
 		"description": "Dozent: Prof. Dr. Thomas Schiemann\nParallelgruppe: 2\nMax. Anzahl von Teilnehmer/-innen: 70\nRhythmus: wöchentlich\n\nOriginaler Titel: Informatik 1 Praktikum ^ Medizintechnik Gruppe 1 (2. Parallelgruppe)",
 		"startTime": "2026-07-06T12:30:00",
 		"endTime": "2026-07-06T14:00:00"
+	},
+	{
+		"name": "Inf1 P/02 (Informatik 1 Praktikum)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Parallelgruppe: 2\nMax. Anzahl von Teilnehmer/-innen: 70\nRhythmus: Einzeltermin\n\nOriginaler Titel: Informatik 1 Praktikum ^ Medizintechnik Gruppe 1 (2. Parallelgruppe)",
+		"startTime": "2026-05-06T16:15:00",
+		"endTime": "2026-05-06T17:45:00"
 	}
 ]

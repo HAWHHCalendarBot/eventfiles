@@ -96,5 +96,12 @@
 		"description": "Dozent: Dr. Alexander Laatsch\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Organische Chemie ^ Bt",
 		"startTime": "2026-05-19T10:15:00",
 		"endTime": "2026-05-19T11:45:00"
+	},
+	{
+		"name": "OC (Organische Chemie)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Max. Anzahl von Teilnehmer/-innen: 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Organische Chemie ^ Bt",
+		"startTime": "2026-05-06T12:30:00",
+		"endTime": "2026-05-06T14:00:00"
 	}
 ]
