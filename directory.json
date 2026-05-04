@@ -2673,6 +2673,11 @@
 				},
 				"Bachelor Pflege (PO WS 2020/21)": {
 					"subDirectories": {
+						"1. Semester": {
+							"events": {
+								"39196_1": "M1.4 LV (Sozialrecht und Sozialpolitik)"
+							}
+						},
 						"2. Semester": {
 							"subDirectories": {
 								"Lernbegleitung bei Erwachsenen im klinischen Bereich": {
