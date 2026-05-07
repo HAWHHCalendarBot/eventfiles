@@ -3296,7 +3296,8 @@
 												"Technik von Webbrowsern Praktikum": {
 													"events": {
 														"35875_1": "WP_TWBP/01 (Technik von Webbrowsern Praktikum)",
-														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)"
+														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)",
+														"35875_3": "WP_TWBP/03 (Technik von Webbrowsern Praktikum)"
 													}
 												}
 											},
@@ -3389,9 +3390,16 @@
 											}
 										},
 										"Einführung in die Energieinformatik": {
+											"subDirectories": {
+												"Einführung in die Energieinformatik Praktikum": {
+													"events": {
+														"44773_1": "WP_EEIP/01 (Einführung in die Energieinformatik Praktikum)",
+														"44773_2": "WP_EEIP/02 (Einführung in die Energieinformatik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"44770_1": "WP_EEI (Einführung in die Energieinformatik)",
-												"44773_1": "WP_EEIP (Einführung in die Energieinformatik Praktikum)"
+												"44770_1": "WP_EEI (Einführung in die Energieinformatik)"
 											}
 										}
 									}
@@ -3757,7 +3765,8 @@
 												"Technik von Webbrowsern Praktikum": {
 													"events": {
 														"35875_1": "WP_TWBP/01 (Technik von Webbrowsern Praktikum)",
-														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)"
+														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)",
+														"35875_3": "WP_TWBP/03 (Technik von Webbrowsern Praktikum)"
 													}
 												}
 											},
@@ -3850,9 +3859,16 @@
 											}
 										},
 										"Einführung in die Energieinformatik": {
+											"subDirectories": {
+												"Einführung in die Energieinformatik Praktikum": {
+													"events": {
+														"44773_1": "WP_EEIP/01 (Einführung in die Energieinformatik Praktikum)",
+														"44773_2": "WP_EEIP/02 (Einführung in die Energieinformatik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"44770_1": "WP_EEI (Einführung in die Energieinformatik)",
-												"44773_1": "WP_EEIP (Einführung in die Energieinformatik Praktikum)"
+												"44770_1": "WP_EEI (Einführung in die Energieinformatik)"
 											}
 										}
 									}
@@ -4227,7 +4243,8 @@
 												"Technik von Webbrowsern Praktikum": {
 													"events": {
 														"35875_1": "WP_TWBP/01 (Technik von Webbrowsern Praktikum)",
-														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)"
+														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)",
+														"35875_3": "WP_TWBP/03 (Technik von Webbrowsern Praktikum)"
 													}
 												}
 											},
@@ -4320,9 +4337,16 @@
 											}
 										},
 										"Einführung in die Energieinformatik": {
+											"subDirectories": {
+												"Einführung in die Energieinformatik Praktikum": {
+													"events": {
+														"44773_1": "WP_EEIP/01 (Einführung in die Energieinformatik Praktikum)",
+														"44773_2": "WP_EEIP/02 (Einführung in die Energieinformatik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"44770_1": "WP_EEI (Einführung in die Energieinformatik)",
-												"44773_1": "WP_EEIP (Einführung in die Energieinformatik Praktikum)"
+												"44770_1": "WP_EEI (Einführung in die Energieinformatik)"
 											}
 										}
 									}
@@ -4514,7 +4538,8 @@
 												"Technik von Webbrowsern Praktikum": {
 													"events": {
 														"35875_1": "WP_TWBP/01 (Technik von Webbrowsern Praktikum)",
-														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)"
+														"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)",
+														"35875_3": "WP_TWBP/03 (Technik von Webbrowsern Praktikum)"
 													}
 												}
 											},
@@ -4589,9 +4614,16 @@
 											}
 										},
 										"Einführung in die Energieinformatik": {
+											"subDirectories": {
+												"Einführung in die Energieinformatik Praktikum": {
+													"events": {
+														"44773_1": "WP_EEIP/01 (Einführung in die Energieinformatik Praktikum)",
+														"44773_2": "WP_EEIP/02 (Einführung in die Energieinformatik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"44770_1": "WP_EEI (Einführung in die Energieinformatik)",
-												"44773_1": "WP_EEIP (Einführung in die Energieinformatik Praktikum)"
+												"44770_1": "WP_EEI (Einführung in die Energieinformatik)"
 											}
 										},
 										"Einführung in die Robotik Kurs B": {
