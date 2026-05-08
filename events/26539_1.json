@@ -47,5 +47,19 @@
 		"description": "Dozent: Prof. Dr. Udo van Stevendaal\nRhythmus: wöchentlich\n\nOriginaler Titel: Advanced Imaging",
 		"startTime": "2026-05-19T14:30:00",
 		"endTime": "2026-05-19T17:45:00"
+	},
+	{
+		"name": "AI (Advanced Imaging (MR, US, CT))",
+		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
+		"description": "Rhythmus: Einzeltermin\n\nOriginaler Titel: Advanced Imaging",
+		"startTime": "2026-06-23T16:00:00",
+		"endTime": "2026-06-23T19:30:00"
+	},
+	{
+		"name": "AI (Advanced Imaging (MR, US, CT))",
+		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
+		"description": "Rhythmus: Einzeltermin\n\nOriginaler Titel: Advanced Imaging",
+		"startTime": "2026-06-30T16:00:00",
+		"endTime": "2026-06-30T19:30:00"
 	}
 ]
