@@ -31,13 +31,6 @@
 		"name": "PM6 U3/02 (Unit 3: Allgemeines Verwaltungsrecht II)",
 		"location": "1.14, Berliner Tor 5",
 		"description": "Dozent: David Stadermann\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Unit 3: Allgemeines Verwaltungsrecht II ^ 25C (2. Parallelgruppe)",
-		"startTime": "2026-05-15T10:00:00",
-		"endTime": "2026-05-15T11:30:00"
-	},
-	{
-		"name": "PM6 U3/02 (Unit 3: Allgemeines Verwaltungsrecht II)",
-		"location": "1.14, Berliner Tor 5",
-		"description": "Dozent: David Stadermann\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Unit 3: Allgemeines Verwaltungsrecht II ^ 25C (2. Parallelgruppe)",
 		"startTime": "2026-05-22T10:00:00",
 		"endTime": "2026-05-22T11:30:00"
 	},
@@ -96,5 +89,12 @@
 		"description": "Dozent: David Stadermann\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Unit 3: Allgemeines Verwaltungsrecht II ^ 25C (2. Parallelgruppe)",
 		"startTime": "2026-07-17T10:00:00",
 		"endTime": "2026-07-17T11:30:00"
+	},
+	{
+		"name": "PM6 U3/02 (Unit 3: Allgemeines Verwaltungsrecht II)",
+		"location": "1.15, Berliner Tor 5",
+		"description": "Dozent: David Stadermann\nParallelgruppe: 2\nRhythmus: Einzeltermin\n\nOriginaler Titel: Unit 3: Allgemeines Verwaltungsrecht II ^ 25C (2. Parallelgruppe)",
+		"startTime": "2026-05-20T08:15:00",
+		"endTime": "2026-05-20T09:45:00"
 	}
 ]
