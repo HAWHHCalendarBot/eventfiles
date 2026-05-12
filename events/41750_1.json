@@ -59,13 +59,6 @@
 		"name": "ArE (Angewandte regenerative Energietechnik)",
 		"location": "S4.05, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Timon Kampschulte\nRhythmus: wöchentlich\n\nOriginaler Titel: Angewandte regenerative Energietechnik",
-		"startTime": "2026-06-02T12:30:00",
-		"endTime": "2026-06-02T14:00:00"
-	},
-	{
-		"name": "ArE (Angewandte regenerative Energietechnik)",
-		"location": "S4.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Timon Kampschulte\nRhythmus: wöchentlich\n\nOriginaler Titel: Angewandte regenerative Energietechnik",
 		"startTime": "2026-06-09T12:30:00",
 		"endTime": "2026-06-09T14:00:00"
 	},
@@ -96,5 +89,12 @@
 		"description": "Dozent: Prof. Dr. Timon Kampschulte\nRhythmus: wöchentlich\n\nOriginaler Titel: Angewandte regenerative Energietechnik",
 		"startTime": "2026-07-07T12:30:00",
 		"endTime": "2026-07-07T14:00:00"
+	},
+	{
+		"name": "ArE (Angewandte regenerative Energietechnik)",
+		"location": "N4.09, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Timon Kampschulte\nRhythmus: Einzeltermin\n\nOriginaler Titel: Angewandte regenerative Energietechnik",
+		"startTime": "2026-05-27T16:15:00",
+		"endTime": "2026-05-27T17:45:00"
 	}
 ]
