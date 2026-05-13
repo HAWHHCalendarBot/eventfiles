@@ -5430,7 +5430,7 @@
 										"26845_2": "Che1/02 (Allgemeine und Anorganische Chemie)"
 									}
 								},
-								"Allgemeinwissenschaftliches WP": {
+								"Allgemeinwissenschaftliches Wahlpflichtmodul": {
 									"events": {
 										"27018_1": "ArUnS (Arbeits- und Unfallschutz)",
 										"26942_1": "Engl2 (Englisch 2)",
@@ -5501,7 +5501,7 @@
 						},
 						"3. Semester": {
 							"subDirectories": {
-								"Instumentelle Bioanalytik": {
+								"Instrumentelle Bioanalytik": {
 									"subDirectories": {
 										"Instrumentelle Analytik Praktikum": {
 											"events": {
