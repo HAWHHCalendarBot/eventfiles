@@ -4898,47 +4898,6 @@
 														"42439_1": "N LV1 (Netzwerke)",
 														"42480_1": "N LV2 (Netzwerke Labor)"
 													}
-												},
-												"Software-Entwicklung in RUST": {
-													"subDirectories": {
-														"Software-Entwicklung in RUST Praktikum": {
-															"events": {
-																"35935_1": "WP_RP/01 (Software-Entwicklung in RUST Praktikum)",
-																"35935_2": "WP_RP/02 (Software-Entwicklung in RUST Praktikum)",
-																"35935_3": "WP_RP/03 (Software-Entwicklung in RUST Praktikum)"
-															}
-														}
-													},
-													"events": {
-														"35936_1": "WP_R (Software-Entwicklung in RUST)"
-													}
-												},
-												"Technik von Webbrowsern": {
-													"subDirectories": {
-														"Technik von Webbrowsern Praktikum": {
-															"events": {
-																"35875_1": "WP_TWBP/01 (Technik von Webbrowsern Praktikum)",
-																"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)",
-																"35875_3": "WP_TWBP/03 (Technik von Webbrowsern Praktikum)"
-															}
-														}
-													},
-													"events": {
-														"35876_1": "WP_TWB (Technik von Webbrowsern)"
-													}
-												},
-												"AI Engineering": {
-													"subDirectories": {
-														"AI Engineering Praktikum": {
-															"events": {
-																"42998_1": "WP_AIEP/01 (AI Engineering Praktikum)",
-																"42998_2": "WP_AIEP/02 (AI Engineering Praktikum)"
-															}
-														}
-													},
-													"events": {
-														"42995_1": "WP_AIE (AI Engineering)"
-													}
 												}
 											},
 											"events": {
