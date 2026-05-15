@@ -1576,6 +1576,12 @@
 												"42407_1": "P2 LV/01 (Programming Basics 2)",
 												"42407_2": "P2 LV/02 (Programming Basics 2)"
 											}
+										},
+										"Kryptografie": {
+											"events": {
+												"22523_1": "KRY (Kryptografie)",
+												"22605_1": "KRY Lab (Kryptografie Laborpraktikum)"
+											}
 										}
 									},
 									"events": {
@@ -1649,6 +1655,12 @@
 												"42407_1": "P2 LV/01 (Programming Basics 2)",
 												"42407_2": "P2 LV/02 (Programming Basics 2)"
 											}
+										},
+										"Kryptografie": {
+											"events": {
+												"22523_1": "KRY (Kryptografie)",
+												"22605_1": "KRY Lab (Kryptografie Laborpraktikum)"
+											}
 										}
 									},
 									"events": {
@@ -1705,6 +1717,12 @@
 											"events": {
 												"42407_1": "P2 LV/01 (Programming Basics 2)",
 												"42407_2": "P2 LV/02 (Programming Basics 2)"
+											}
+										},
+										"Kryptografie": {
+											"events": {
+												"22523_1": "KRY (Kryptografie)",
+												"22605_1": "KRY Lab (Kryptografie Laborpraktikum)"
 											}
 										}
 									},
