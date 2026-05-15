@@ -4898,6 +4898,47 @@
 														"42439_1": "N LV1 (Netzwerke)",
 														"42480_1": "N LV2 (Netzwerke Labor)"
 													}
+												},
+												"Software-Entwicklung in RUST": {
+													"subDirectories": {
+														"Software-Entwicklung in RUST Praktikum": {
+															"events": {
+																"35935_1": "WP_RP/01 (Software-Entwicklung in RUST Praktikum)",
+																"35935_2": "WP_RP/02 (Software-Entwicklung in RUST Praktikum)",
+																"35935_3": "WP_RP/03 (Software-Entwicklung in RUST Praktikum)"
+															}
+														}
+													},
+													"events": {
+														"35936_1": "WP_R (Software-Entwicklung in RUST)"
+													}
+												},
+												"Technik von Webbrowsern": {
+													"subDirectories": {
+														"Technik von Webbrowsern Praktikum": {
+															"events": {
+																"35875_1": "WP_TWBP/01 (Technik von Webbrowsern Praktikum)",
+																"35875_2": "WP_TWBP/02 (Technik von Webbrowsern Praktikum)",
+																"35875_3": "WP_TWBP/03 (Technik von Webbrowsern Praktikum)"
+															}
+														}
+													},
+													"events": {
+														"35876_1": "WP_TWB (Technik von Webbrowsern)"
+													}
+												},
+												"AI Engineering": {
+													"subDirectories": {
+														"AI Engineering Praktikum": {
+															"events": {
+																"42998_1": "WP_AIEP/01 (AI Engineering Praktikum)",
+																"42998_2": "WP_AIEP/02 (AI Engineering Praktikum)"
+															}
+														}
+													},
+													"events": {
+														"42995_1": "WP_AIE (AI Engineering)"
+													}
 												}
 											},
 											"events": {
@@ -4905,7 +4946,14 @@
 												"42441_1": "IAS LV1 (Interactive Storytelling 1)",
 												"42351_1": "TI LV (Theoretische Informatik)",
 												"42343_1": "CI LV (Computational Intelligence)",
-												"42401_1": "Sen LV (Smart Sensors)"
+												"42401_1": "Sen LV (Smart Sensors)",
+												"39867_1": "AE (Angewandte Elektronik)",
+												"22409_1": "WAHR (Wahrnehmung)",
+												"22385_1": "PDRA (Praxis Dramaturgie)",
+												"22312_1": "VTP (Videotechnik und -produktion)",
+												"22423_1": "EVT (Eventtechnik)",
+												"22466_1": "ATP (Audiotechnik und -produktion)",
+												"22398_1": "FT (Filmton)"
 											}
 										}
 									}
