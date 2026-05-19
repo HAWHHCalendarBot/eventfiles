@@ -555,8 +555,8 @@
 										},
 										"Applied System Engineering": {
 											"events": {
-												"37050_1": "WP_ASEP (Applied System Engineering)",
-												"37047_1": "WP_ASE (Applied System Engineering)"
+												"37047_1": "WP_ASE (Applied System Engineering)",
+												"37050_1": "WP_ASEP (Applied System Engineering)"
 											}
 										},
 										"Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz": {
@@ -1013,8 +1013,8 @@
 										},
 										"Applied System Engineering": {
 											"events": {
-												"37050_1": "WP_ASEP (Applied System Engineering)",
-												"37047_1": "WP_ASE (Applied System Engineering)"
+												"37047_1": "WP_ASE (Applied System Engineering)",
+												"37050_1": "WP_ASEP (Applied System Engineering)"
 											}
 										},
 										"LED Technik": {
@@ -1065,8 +1065,8 @@
 										},
 										"Applied System Engineering": {
 											"events": {
-												"37050_1": "WP_ASEP (Applied System Engineering)",
-												"37047_1": "WP_ASE (Applied System Engineering)"
+												"37047_1": "WP_ASE (Applied System Engineering)",
+												"37050_1": "WP_ASEP (Applied System Engineering)"
 											}
 										},
 										"LED Technik": {
@@ -1341,8 +1341,8 @@
 										},
 										"Applied System Engineering": {
 											"events": {
-												"37050_1": "WP_ASEP (Applied System Engineering)",
-												"37047_1": "WP_ASE (Applied System Engineering)"
+												"37047_1": "WP_ASE (Applied System Engineering)",
+												"37050_1": "WP_ASEP (Applied System Engineering)"
 											}
 										},
 										"Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz": {
@@ -1405,8 +1405,8 @@
 										},
 										"Applied System Engineering": {
 											"events": {
-												"37050_1": "WP_ASEP (Applied System Engineering)",
-												"37047_1": "WP_ASE (Applied System Engineering)"
+												"37047_1": "WP_ASE (Applied System Engineering)",
+												"37050_1": "WP_ASEP (Applied System Engineering)"
 											}
 										},
 										"Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz": {
@@ -6137,7 +6137,7 @@
 								"41739_1": "EGStP (Einführung und Grundlagen Studienprojekt)",
 								"27548_1": "UMan (Umweltmanagement)",
 								"27684_1": "AwAl (Abwasser- und Abluftbehandlung)",
-								"41745_1": "GuBB (Grundlagen umwelttechnische Beauftragte und Berater*innen)"
+								"41745_1": "GGAB (Grundlagen Gewässerschutz- und Abfallbeauftragte* r)"
 							}
 						}
 					}
