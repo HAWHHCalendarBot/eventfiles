@@ -166,5 +166,12 @@
 		"description": "Dozent: Prof. Dr.-Ing. Jens Baaran\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Statik ^PG1: B1_B, B2_SP-B, B2_SP-C (Baaran) (1. Parallelgruppe)",
 		"startTime": "2026-07-09T14:00:00",
 		"endTime": "2026-07-09T17:15:00"
+	},
+	{
+		"name": "TM1/01 (Statik)",
+		"location": "4.14 - Orpheus Raum, Berliner Tor 5",
+		"description": "Dozent: Prof. Dr.-Ing. Jens Baaran\nParallelgruppe: 1\nRhythmus: Einzeltermin\n\nOriginaler Titel: Statik ^PG1: B1_B, B2_SP-B, B2_SP-C (Baaran) (1. Parallelgruppe)",
+		"startTime": "2026-05-27T14:00:00",
+		"endTime": "2026-05-27T17:15:00"
 	}
 ]
