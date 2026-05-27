@@ -52,13 +52,6 @@
 		"name": "PM11 U2 (Unit 2: Datenschutz und Informationsfreiheitsrecht)",
 		"location": "41, Stiftstraße 69",
 		"description": "Dozent: Stephan Weiland\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: wöchentlich\n\nOriginaler Titel: Unit 2: Datenschutz und Informationsfreiheitsrecht ^ EGov24",
-		"startTime": "2026-05-27T14:15:00",
-		"endTime": "2026-05-27T15:45:00"
-	},
-	{
-		"name": "PM11 U2 (Unit 2: Datenschutz und Informationsfreiheitsrecht)",
-		"location": "41, Stiftstraße 69",
-		"description": "Dozent: Stephan Weiland\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: wöchentlich\n\nOriginaler Titel: Unit 2: Datenschutz und Informationsfreiheitsrecht ^ EGov24",
 		"startTime": "2026-06-03T14:15:00",
 		"endTime": "2026-06-03T15:45:00"
 	},
@@ -194,5 +187,12 @@
 		"description": "Dozent: Christopher Schack\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: wöchentlich\n\nOriginaler Titel: Unit 2: Datenschutz und Informationsfreiheitsrecht ^ EGov24",
 		"startTime": "2026-07-16T08:15:00",
 		"endTime": "2026-07-16T09:45:00"
+	},
+	{
+		"name": "PM11 U2 (Unit 2: Datenschutz und Informationsfreiheitsrecht)",
+		"location": "2.10, Berliner Tor 5",
+		"description": "Dozent: Stephan Weiland\nMax. Anzahl von Teilnehmer/-innen: 32\nRhythmus: Einzeltermin\n\nOriginaler Titel: Unit 2: Datenschutz und Informationsfreiheitsrecht ^ EGov24",
+		"startTime": "2026-05-27T10:00:00",
+		"endTime": "2026-05-27T11:45:00"
 	}
 ]
