@@ -1018,6 +1018,12 @@
 												"37050_1": "WP_ASEP (Applied System Engineering)"
 											}
 										},
+										"Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz": {
+											"events": {
+												"39231_1": "WP_RS (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)",
+												"39234_1": "WP_PZeE (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)"
+											}
+										},
 										"LED Technik": {
 											"events": {
 												"43081_1": "WP_LEDT (LED Technik)",
@@ -1068,6 +1074,12 @@
 											"events": {
 												"37047_1": "WP_ASE (Applied System Engineering)",
 												"37050_1": "WP_ASEP (Applied System Engineering)"
+											}
+										},
+										"Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz": {
+											"events": {
+												"39231_1": "WP_RS (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)",
+												"39234_1": "WP_PZeE (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)"
 											}
 										},
 										"LED Technik": {
