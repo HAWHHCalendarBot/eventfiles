@@ -82,19 +82,5 @@
 		"description": "Dozent: Prof. Dr. Christian Lins\nMax. Anzahl von Teilnehmer/-innen: 70\nRhythmus: wöchentlich\n\nOriginaler Titel: Algorithmen und Datenstrukturen ^ FS3",
 		"startTime": "2026-07-10T12:45:00",
 		"endTime": "2026-07-10T16:00:00"
-	},
-	{
-		"name": "AD (Algorithmen und Datenstrukturen)",
-		"location": "12.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Christian Lins\nMax. Anzahl von Teilnehmer/-innen: 70\nRhythmus: wöchentlich\n\nOriginaler Titel: Algorithmen und Datenstrukturen ^ FS3",
-		"startTime": "2026-07-17T12:45:00",
-		"endTime": "2026-07-17T16:00:00"
-	},
-	{
-		"name": "AD (Algorithmen und Datenstrukturen)",
-		"location": "12.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Christian Lins\nMax. Anzahl von Teilnehmer/-innen: 70\nRhythmus: wöchentlich\n\nOriginaler Titel: Algorithmen und Datenstrukturen ^ FS3",
-		"startTime": "2026-07-24T12:45:00",
-		"endTime": "2026-07-24T16:00:00"
 	}
 ]
