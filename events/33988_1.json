@@ -96,5 +96,12 @@
 		"description": "Dozent: Prof. Dr.-Ing. Ulrich Huber\nRhythmus: Einzeltermin\n\nOriginaler Titel: Leichtbaulabor ^PG1: BFL5_E+L (Huber)",
 		"startTime": "2026-05-26T08:30:00",
 		"endTime": "2026-05-26T11:45:00"
+	},
+	{
+		"name": "LFB.1 (Leichtbaulabor)",
+		"location": "5.15, Berliner Tor 5",
+		"description": "Rhythmus: Einzeltermin\n\nOriginaler Titel: Leichtbaulabor ^PG1: BFL5_E+L (Huber)",
+		"startTime": "2026-06-08T08:15:00",
+		"endTime": "2026-06-08T08:45:00"
 	}
 ]
