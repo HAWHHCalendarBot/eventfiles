@@ -6757,12 +6757,28 @@
 								"Studienschwerpunkt Antrieb und Fahrwerk": {
 									"subDirectories": {
 										"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Antrieb und Fahrwerk mit der Vertiefungsrichtung Antrieb": {
+											"subDirectories": {
+												"Fertigungstechnik für Fahrzeugbauer": {
+													"events": {
+														"33574_1": "FTA/01 (Fertigungstechnik für Fahrzeugbauer)",
+														"33574_2": "FTA/02 (Fertigungstechnik für Fahrzeugbauer)"
+													}
+												}
+											},
 											"events": {
 												"33653_1": "FEM KE (Finite Elemente Methode (KE))",
 												"33711_1": "VMK (Verbrennungsmotoren Konstruktion)"
 											}
 										},
 										"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Antrieb und Fahrwerk mit der Vertiefungsrichtung Fahrwerk": {
+											"subDirectories": {
+												"Fertigungstechnik für Fahrzeugbauer": {
+													"events": {
+														"33574_1": "FTA/01 (Fertigungstechnik für Fahrzeugbauer)",
+														"33574_2": "FTA/02 (Fertigungstechnik für Fahrzeugbauer)"
+													}
+												}
+											},
 											"events": {
 												"33653_1": "FEM KE (Finite Elemente Methode (KE))",
 												"33831_1": "FVT (Faserverbundtechnologie)",
