@@ -82,12 +82,5 @@
 		"description": "Dozent: Andreas Priesnitz\nMax. Anzahl von Teilnehmer/-innen: 70\nRhythmus: wöchentlich\n\nOriginaler Titel: Programmiertechnik ^ (1ITS-PT.LV-P) 1FS",
 		"startTime": "2026-07-16T16:15:00",
 		"endTime": "2026-07-16T19:30:00"
-	},
-	{
-		"name": "PT (Programmiertechnik)",
-		"location": "4.60, Berliner Tor 7",
-		"description": "Dozent: Andreas Priesnitz\nMax. Anzahl von Teilnehmer/-innen: 70\nRhythmus: wöchentlich\n\nOriginaler Titel: Programmiertechnik ^ (1ITS-PT.LV-P) 1FS",
-		"startTime": "2026-07-23T16:15:00",
-		"endTime": "2026-07-23T19:30:00"
 	}
 ]

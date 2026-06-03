@@ -89,12 +89,5 @@
 		"description": "Dozent: Dr. Christoph Spenke\nMax. Anzahl von Teilnehmer/-innen: 80\nRhythmus: wöchentlich\n\nOriginaler Titel: Diskrete Mathematik ^ FS1",
 		"startTime": "2026-07-13T16:15:00",
 		"endTime": "2026-07-13T19:30:00"
-	},
-	{
-		"name": "DM (Diskrete Mathematik)",
-		"location": "4.05, Berliner Tor 7",
-		"description": "Dozent: Dr. Christoph Spenke\nMax. Anzahl von Teilnehmer/-innen: 80\nRhythmus: wöchentlich\n\nOriginaler Titel: Diskrete Mathematik ^ FS1",
-		"startTime": "2026-07-20T16:15:00",
-		"endTime": "2026-07-20T19:30:00"
 	}
 ]

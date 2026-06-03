@@ -89,12 +89,5 @@
 		"description": "Dozent: Dr. Susanne Draheim\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Ethik ^ FS4",
 		"startTime": "2026-07-16T12:45:00",
 		"endTime": "2026-07-16T14:15:00"
-	},
-	{
-		"name": "ETH1 (Ethik)",
-		"location": "10.01, Berliner Tor 7",
-		"description": "Dozent: Dr. Susanne Draheim\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Ethik ^ FS4",
-		"startTime": "2026-07-23T12:45:00",
-		"endTime": "2026-07-23T14:15:00"
 	}
 ]
