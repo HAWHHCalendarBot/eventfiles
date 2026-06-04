@@ -4696,6 +4696,32 @@
 				},
 				"Bachelor Bibliotheks- und Informationsmanagement (PO WS 2021/22)": {
 					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"Metadatenmanagement und Wissensrepräsentation": {
+									"subDirectories": {
+										"Metadatenmanagement und Wissensrepräsentation 2": {
+											"events": {
+												"20018_1": "B1.LV2/01 (Metadatenmanagement und Wissensrepräsentation 2)",
+												"20018_2": "B1.LV2/02 (Metadatenmanagement und Wissensrepräsentation 2)"
+											}
+										},
+										"Datenbanken": {
+											"events": {
+												"19972_1": "B1.LV3/01 (Datenbanken)",
+												"19972_2": "B1.LV3/02 (Datenbanken)"
+											}
+										}
+									}
+								},
+								"Werkstatt Coding/Webtechnologien": {
+									"events": {
+										"19991_1": "B2.LV2/01 (Werkstatt Coding/Webtechnologien)",
+										"19991_2": "B2.LV2/02 (Werkstatt Coding/Webtechnologien)"
+									}
+								}
+							}
+						},
 						"2. Semester": {
 							"subDirectories": {
 								"Literaturerwerbung und Recht": {
