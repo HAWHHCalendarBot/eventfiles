@@ -78,20 +78,6 @@
 	},
 	{
 		"name": "SWA (Softwarearchitektur)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Tim Luecke\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Softwarearchitektur ^ FS5",
-		"startTime": "2026-07-13T08:15:00",
-		"endTime": "2026-07-13T09:45:00"
-	},
-	{
-		"name": "SWA (Softwarearchitektur)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Tim Luecke\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Softwarearchitektur ^ FS5",
-		"startTime": "2026-07-20T08:15:00",
-		"endTime": "2026-07-20T09:45:00"
-	},
-	{
-		"name": "SWA (Softwarearchitektur)",
 		"location": "5.60, Berliner Tor 7",
 		"description": "Dozent: Tim Luecke\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Softwarearchitektur ^ FS5",
 		"startTime": "2026-04-17T08:15:00",
@@ -131,12 +117,5 @@
 		"description": "Dozent: Tim Luecke\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwarearchitektur ^ FS5",
 		"startTime": "2026-07-03T08:15:00",
 		"endTime": "2026-07-03T11:45:00"
-	},
-	{
-		"name": "SWA (Softwarearchitektur)",
-		"location": "5.60, Berliner Tor 7",
-		"description": "Dozent: Tim Luecke\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwarearchitektur ^ FS5",
-		"startTime": "2026-07-17T08:15:00",
-		"endTime": "2026-07-17T11:45:00"
 	}
 ]
