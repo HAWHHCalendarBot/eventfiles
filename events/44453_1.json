@@ -75,5 +75,12 @@
 		"description": "Dozent: Prof. Dr.-Ing. Kolja Eger\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: CN",
 		"startTime": "2026-06-23T08:10:00",
 		"endTime": "2026-06-23T11:25:00"
+	},
+	{
+		"name": "CN (Communication Network)",
+		"location": "110, Stiftstraße 69",
+		"description": "Dozent: Prof. Dr.-Ing. Kolja Eger\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: CN",
+		"startTime": "2026-06-30T08:10:00",
+		"endTime": "2026-06-30T11:25:00"
 	}
 ]
