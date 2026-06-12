@@ -89,5 +89,12 @@
 		"description": "Dozent: Prof. Dr.-Ing. Eckart Nast\nRhythmus: wöchentlich\n\nOriginaler Titel: Festigkeit Leichtbau (KE) ^PG1: BFA5_KE,BMT6_LFS (Nast)",
 		"startTime": "2026-07-10T12:15:00",
 		"endTime": "2026-07-10T15:30:00"
+	},
+	{
+		"name": "FIL KE (Festigkeit Leichtbau (KE))",
+		"location": "4.17, Berliner Tor 5",
+		"description": "Dozent: Prof. Dr.-Ing. Eckart Nast\nRhythmus: Einzeltermin\n\nOriginaler Titel: Festigkeit Leichtbau (KE) ^PG1: BFA5_KE,BMT6_LFS (Nast)",
+		"startTime": "2026-07-02T15:45:00",
+		"endTime": "2026-07-02T19:00:00"
 	}
 ]
