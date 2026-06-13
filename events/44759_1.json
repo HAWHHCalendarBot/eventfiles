@@ -68,5 +68,12 @@
 		"description": "Dozenten: Prof. Dr. Martin Becke, Prof. Dr. Julia Padberg\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Meine Hochschule als Diskursraum",
 		"startTime": "2026-07-10T16:15:00",
 		"endTime": "2026-07-10T18:30:00"
+	},
+	{
+		"name": "DGKI (Meine Hochschule als Diskursraum)",
+		"location": "205, Stiftstraße 69",
+		"description": "Dozenten: Prof. Dr. Julia Padberg, Prof. Dr. Martin Becke\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Meine Hochschule als Diskursraum",
+		"startTime": "2026-07-01T11:45:00",
+		"endTime": "2026-07-01T13:30:00"
 	}
 ]
