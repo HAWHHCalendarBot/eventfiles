@@ -89,5 +89,12 @@
 		"description": "Dozent: Prof. Dr. Marc Hölling\nMax. Anzahl von Teilnehmer/-innen: 80\nRhythmus: Einzeltermin\n\nOriginaler Titel: Thermodynamik ^ 3U & 2V",
 		"startTime": "2026-05-20T12:30:00",
 		"endTime": "2026-05-20T16:00:00"
+	},
+	{
+		"name": "TD (Thermodynamik)",
+		"location": "S4.06, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Marc Hölling\nMax. Anzahl von Teilnehmer/-innen: 80\nRhythmus: Einzeltermin\n\nOriginaler Titel: Thermodynamik ^ 3U & 2V",
+		"startTime": "2026-07-02T08:30:00",
+		"endTime": "2026-07-02T11:45:00"
 	}
 ]
