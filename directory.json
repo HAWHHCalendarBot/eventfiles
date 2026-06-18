@@ -1790,6 +1790,19 @@
 												"42664_1": "WPM_DRT (Digitale Regelungstechnik)",
 												"42667_1": "WPM_DRTP (Digitale Regelungstechnik)"
 											}
+										},
+										"Machine Learning and Neural Network": {
+											"subDirectories": {
+												"Machine Learning and Neural Network Laboratory": {
+													"events": {
+														"44455_1": "MLNNL/01 (Machine Learning and Neural Network Laboratory)",
+														"44455_2": "MLNNL/02 (Machine Learning and Neural Network Laboratory)"
+													}
+												}
+											},
+											"events": {
+												"44409_1": "MLNN (Machine Learning and Neural Network)"
+											}
 										}
 									},
 									"events": {
@@ -1880,6 +1893,19 @@
 												"42664_1": "WPM_DRT (Digitale Regelungstechnik)",
 												"42667_1": "WPM_DRTP (Digitale Regelungstechnik)"
 											}
+										},
+										"Machine Learning and Neural Network": {
+											"subDirectories": {
+												"Machine Learning and Neural Network Laboratory": {
+													"events": {
+														"44455_1": "MLNNL/01 (Machine Learning and Neural Network Laboratory)",
+														"44455_2": "MLNNL/02 (Machine Learning and Neural Network Laboratory)"
+													}
+												}
+											},
+											"events": {
+												"44409_1": "MLNN (Machine Learning and Neural Network)"
+											}
 										}
 									},
 									"events": {
@@ -1899,6 +1925,19 @@
 											"events": {
 												"42664_1": "WPM_DRT (Digitale Regelungstechnik)",
 												"42667_1": "WPM_DRTP (Digitale Regelungstechnik)"
+											}
+										},
+										"Machine Learning and Neural Network": {
+											"subDirectories": {
+												"Machine Learning and Neural Network Laboratory": {
+													"events": {
+														"44455_1": "MLNNL/01 (Machine Learning and Neural Network Laboratory)",
+														"44455_2": "MLNNL/02 (Machine Learning and Neural Network Laboratory)"
+													}
+												}
+											},
+											"events": {
+												"44409_1": "MLNN (Machine Learning and Neural Network)"
 											}
 										}
 									},
