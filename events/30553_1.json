@@ -75,5 +75,19 @@
 		"description": "Dozent: Prof. Dr. Michael Erhard\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: RT",
 		"startTime": "2026-06-23T12:10:00",
 		"endTime": "2026-06-23T15:40:00"
+	},
+	{
+		"name": "RT (Regelungstechnik)",
+		"location": "110, Stiftstraße 69",
+		"description": "Dozent: Prof. Dr. Michael Erhard\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: RT",
+		"startTime": "2026-06-30T12:10:00",
+		"endTime": "2026-06-30T15:40:00"
+	},
+	{
+		"name": "RT (Regelungstechnik)",
+		"location": "110, Stiftstraße 69",
+		"description": "Dozent: Prof. Dr. Michael Erhard\nMax. Anzahl von Teilnehmer/-innen: 30\nRhythmus: wöchentlich\n\nOriginaler Titel: RT",
+		"startTime": "2026-07-07T12:10:00",
+		"endTime": "2026-07-07T15:40:00"
 	}
 ]
