@@ -47,5 +47,12 @@
 		"description": "Dozent: B.Eng. Jens Krause\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in das Studium der Gefahrenabwehr ^ Zweite Semesterhälfte (2. Parallelgruppe)",
 		"startTime": "2026-07-07T12:00:00",
 		"endTime": "2026-07-07T16:00:00"
+	},
+	{
+		"name": "EIStu/02 (Einführung in das Studium der Gefahrenabwehr)",
+		"location": "0.70, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: B.Eng. Jens Krause\nParallelgruppe: 2\nRhythmus: Einzeltermin\n\nOriginaler Titel: Einführung in das Studium der Gefahrenabwehr ^ Zweite Semesterhälfte (2. Parallelgruppe)",
+		"startTime": "2026-06-27T08:00:00",
+		"endTime": "2026-06-27T16:00:00"
 	}
 ]
