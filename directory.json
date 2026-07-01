@@ -10430,6 +10430,14 @@
 						"1. Semester": {
 							"subDirectories": {
 								"Allgemeiner Wahlpflichtbereich": {
+									"subDirectories": {
+										"Ausgewählte Themen der Energietechnik": {
+											"events": {
+												"32723_1": "AT-EN L (Ausgewählte Themen der Energietechnik Laborpraktikum)",
+												"32863_1": "AT-EN (Ausgewählte Themen der Energietechnik)"
+											}
+										}
+									},
 									"events": {
 										"26968_1": "IPS (Interdisziplinäres Seminar über nachhaltige Konzepte zur Reduzierung der Antibiotikabelastung in den Gewässern (PharmCycle))",
 										"28402_1": "PersF (Personalführung)"
