@@ -5312,10 +5312,22 @@
 						},
 						"2. Semester": {
 							"subDirectories": {
-								"Mathematik 3": {
-									"events": {
-										"26937_1": "Mat3/01 (Mathematik 3)",
-										"26937_2": "Mat3/02 (Mathematik 3)"
+								"Mathematik B": {
+									"subDirectories": {
+										"Mathematik 2": {
+											"events": {
+												"41736_1": "Mathe2/01 (Mathematik 2)",
+												"41736_2": "Mathe2/02 (Mathematik 2)",
+												"41736_3": "Mathe2/03 (Mathematik 2)",
+												"41736_4": "Mathe2/04 (Mathematik 2)"
+											}
+										},
+										"Mathematik 3": {
+											"events": {
+												"26937_1": "Mat3/01 (Mathematik 3)",
+												"26937_2": "Mat3/02 (Mathematik 3)"
+											}
+										}
 									}
 								},
 								"Physik B": {
@@ -6224,6 +6236,13 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
+								"Mathematik 1": {
+									"events": {
+										"41734_1": "Mathe1/01 (Mathematik 1)",
+										"41734_2": "Mathe1/02 (Mathematik 1)",
+										"41734_3": "Mathe1/03 (Mathematik 1)"
+									}
+								},
 								"Physik 1": {
 									"events": {
 										"26854_1": "Phy1/01 (Physik 1)",
@@ -6261,12 +6280,19 @@
 								}
 							},
 							"events": {
-								"41732_1": "Mathe1 (Mathematik 1)",
 								"28516_1": "RM (Risikomanagement)"
 							}
 						},
 						"2. Semester": {
 							"subDirectories": {
+								"Mathematik 2": {
+									"events": {
+										"41736_1": "Mathe2/01 (Mathematik 2)",
+										"41736_2": "Mathe2/02 (Mathematik 2)",
+										"41736_3": "Mathe2/03 (Mathematik 2)",
+										"41736_4": "Mathe2/04 (Mathematik 2)"
+									}
+								},
 								"Physik 2": {
 									"subDirectories": {
 										"Physik Praktikum": {
@@ -6307,7 +6333,6 @@
 								}
 							},
 							"events": {
-								"39397_1": "M2 (Mathematik 2)",
 								"28909_1": "Che1 (Grundlagen der Chemie)",
 								"37399_1": "PS (Psychologie und Soziologie)"
 							}
@@ -6414,10 +6439,22 @@
 						},
 						"2. Semester": {
 							"subDirectories": {
-								"Mathematik 3": {
-									"events": {
-										"26937_1": "Mat3/01 (Mathematik 3)",
-										"26937_2": "Mat3/02 (Mathematik 3)"
+								"Mathematik B": {
+									"subDirectories": {
+										"Mathematik 2": {
+											"events": {
+												"41736_1": "Mathe2/01 (Mathematik 2)",
+												"41736_2": "Mathe2/02 (Mathematik 2)",
+												"41736_3": "Mathe2/03 (Mathematik 2)",
+												"41736_4": "Mathe2/04 (Mathematik 2)"
+											}
+										},
+										"Mathematik 3": {
+											"events": {
+												"26937_1": "Mat3/01 (Mathematik 3)",
+												"26937_2": "Mat3/02 (Mathematik 3)"
+											}
+										}
 									}
 								},
 								"Physik B": {
@@ -10443,6 +10480,13 @@
 										"28402_1": "PersF (Personalführung)"
 									}
 								},
+								"Mathematik 1": {
+									"events": {
+										"41734_1": "Mathe1/01 (Mathematik 1)",
+										"41734_2": "Mathe1/02 (Mathematik 1)",
+										"41734_3": "Mathe1/03 (Mathematik 1)"
+									}
+								},
 								"Allgemeine und Anorganische Chemie": {
 									"events": {
 										"26845_1": "Che1/01 (Allgemeine und Anorganische Chemie)",
@@ -10457,13 +10501,20 @@
 								}
 							},
 							"events": {
-								"42959_1": "Mathe1 (Mathematik 1)",
 								"28212_1": "TM1 (Technische Mechanik)",
 								"28347_1": "WStoT (Werkstofftechnik)"
 							}
 						},
 						"2. Semester": {
 							"subDirectories": {
+								"Mathematik 2": {
+									"events": {
+										"41736_1": "Mathe2/01 (Mathematik 2)",
+										"41736_2": "Mathe2/02 (Mathematik 2)",
+										"41736_3": "Mathe2/03 (Mathematik 2)",
+										"41736_4": "Mathe2/04 (Mathematik 2)"
+									}
+								},
 								"Organische Chemie": {
 									"subDirectories": {
 										"Chemie Praktikum": {
@@ -10482,7 +10533,6 @@
 								}
 							},
 							"events": {
-								"42962_1": "Mat2 (Mathematik 2)",
 								"27569_1": "TM2 (Technische Mechanik 2)",
 								"27660_1": "TD (Thermodynamik)"
 							}
