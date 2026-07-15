@@ -12184,6 +12184,20 @@
 												"43853_8": "Komm/08 (Kommunikation und Gesprächsführung)",
 												"43853_9": "Komm/09 (Kommunikation und Gesprächsführung)"
 											}
+										},
+										"TPS Wahl für Praktikum": {
+											"events": {
+												"46301_0": "TPS-Wahl/00 (TPS Wahl für Praktikum)",
+												"46301_1": "TPS-Wahl/01 (TPS Wahl für Praktikum)",
+												"46301_2": "TPS-Wahl/02 (TPS Wahl für Praktikum)",
+												"46301_3": "TPS-Wahl/03 (TPS Wahl für Praktikum)",
+												"46301_4": "TPS-Wahl/04 (TPS Wahl für Praktikum)",
+												"46301_5": "TPS-Wahl/05 (TPS Wahl für Praktikum)",
+												"46301_6": "TPS-Wahl/06 (TPS Wahl für Praktikum)",
+												"46301_7": "TPS-Wahl/07 (TPS Wahl für Praktikum)",
+												"46301_8": "TPS-Wahl/08 (TPS Wahl für Praktikum)",
+												"46301_9": "TPS-Wahl/09 (TPS Wahl für Praktikum)"
+											}
 										}
 									},
 									"events": {
@@ -12567,6 +12581,20 @@
 												"43853_7": "Komm/07 (Kommunikation und Gesprächsführung)",
 												"43853_8": "Komm/08 (Kommunikation und Gesprächsführung)",
 												"43853_9": "Komm/09 (Kommunikation und Gesprächsführung)"
+											}
+										},
+										"TPS Wahl für Praktikum": {
+											"events": {
+												"46301_0": "TPS-Wahl/00 (TPS Wahl für Praktikum)",
+												"46301_1": "TPS-Wahl/01 (TPS Wahl für Praktikum)",
+												"46301_2": "TPS-Wahl/02 (TPS Wahl für Praktikum)",
+												"46301_3": "TPS-Wahl/03 (TPS Wahl für Praktikum)",
+												"46301_4": "TPS-Wahl/04 (TPS Wahl für Praktikum)",
+												"46301_5": "TPS-Wahl/05 (TPS Wahl für Praktikum)",
+												"46301_6": "TPS-Wahl/06 (TPS Wahl für Praktikum)",
+												"46301_7": "TPS-Wahl/07 (TPS Wahl für Praktikum)",
+												"46301_8": "TPS-Wahl/08 (TPS Wahl für Praktikum)",
+												"46301_9": "TPS-Wahl/09 (TPS Wahl für Praktikum)"
 											}
 										}
 									},
