@@ -6000,7 +6000,8 @@
 										"27944_1": "TZ (CAD / Technisches Zeichnen)",
 										"26987_1": "PeF1 (Personalführung 1)",
 										"28402_1": "PersF (Personalführung)",
-										"28056_1": "MiST (Mikrosystemtechnik)"
+										"28056_1": "MiST (Mikrosystemtechnik)",
+										"27221_1": "KCAD P (CAD Praktikum)"
 									}
 								}
 							},
@@ -6247,10 +6248,17 @@
 						"1. Semester": {
 							"subDirectories": {
 								"Mathematik 1": {
+									"subDirectories": {
+										"Mathematik 1": {
+											"events": {
+												"41734_1": "Mathe1/01 (Mathematik 1)",
+												"41734_2": "Mathe1/02 (Mathematik 1)",
+												"41734_3": "Mathe1/03 (Mathematik 1)"
+											}
+										}
+									},
 									"events": {
-										"41734_1": "Mathe1/01 (Mathematik 1)",
-										"41734_2": "Mathe1/02 (Mathematik 1)",
-										"41734_3": "Mathe1/03 (Mathematik 1)"
+										"41732_1": "Mathe1 (Mathematik 1)"
 									}
 								},
 								"Physik 1": {
@@ -6296,11 +6304,18 @@
 						"2. Semester": {
 							"subDirectories": {
 								"Mathematik 2": {
+									"subDirectories": {
+										"Mathematik 2": {
+											"events": {
+												"41736_1": "Mathe2/01 (Mathematik 2)",
+												"41736_2": "Mathe2/02 (Mathematik 2)",
+												"41736_3": "Mathe2/03 (Mathematik 2)",
+												"41736_4": "Mathe2/04 (Mathematik 2)"
+											}
+										}
+									},
 									"events": {
-										"41736_1": "Mathe2/01 (Mathematik 2)",
-										"41736_2": "Mathe2/02 (Mathematik 2)",
-										"41736_3": "Mathe2/03 (Mathematik 2)",
-										"41736_4": "Mathe2/04 (Mathematik 2)"
+										"39397_1": "M2 (Mathematik 2)"
 									}
 								},
 								"Physik 2": {
