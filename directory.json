@@ -12147,32 +12147,6 @@
 			"subDirectories": {
 				"Bachelor Soziale Arbeit (PO WS 2020/21)": {
 					"subDirectories": {
-						"1. Semester": {
-							"subDirectories": {
-								"M-03 Recht für die Soziale Arbeit: Sozialrecht - Arbeitslosen- und Existenzsicherungsrecht - Familien- und Jugendhilferecht": {
-									"subDirectories": {
-										"Wahl Rechtsseminare": {
-											"subDirectories": {
-												"Sozialrecht, Arbeitslosen- und Existenzsicherungsrecht": {
-													"events": {
-														"25852_1": "RSozA/01 (Sozialrecht, Arbeitslosen- und Existenzsicherungsrecht)",
-														"25852_2": "RSozA/02 (Sozialrecht, Arbeitslosen- und Existenzsicherungsrecht)",
-														"25852_3": "RSozA/03 (Sozialrecht, Arbeitslosen- und Existenzsicherungsrecht)"
-													}
-												},
-												"Familien- und Jugendhilferecht": {
-													"events": {
-														"25696_1": "RSozA/01 (Familien- und Jugendhilferecht)",
-														"25696_2": "RSozA/02 (Familien- und Jugendhilferecht)",
-														"25696_3": "RSozA/03 (Familien- und Jugendhilferecht)"
-													}
-												}
-											}
-										}
-									}
-								}
-							}
-						},
 						"2. Semester": {
 							"subDirectories": {
 								"Theorien und Professionsethik Sozialer Arbeit": {
@@ -12262,34 +12236,6 @@
 												"43849_6": "Psy2 LV/06 (Erwachsenenalter bis hohes Alter)"
 											}
 										}
-									}
-								}
-							}
-						},
-						"3. Semester": {
-							"subDirectories": {
-								"Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen": {
-									"events": {
-										"25778_1": "ProfH/01 (Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen)",
-										"25778_2": "ProfH/02 (Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen)",
-										"25778_3": "ProfH/03 (Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen)",
-										"25778_4": "ProfH/04 (Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen)",
-										"25778_5": "ProfH/05 (Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen)"
-									}
-								},
-								"Gesundheit und Soziale Arbeit": {
-									"events": {
-										"26055_1": "Ges SoA/01 (Gesundheit und Soziale Arbeit)",
-										"26055_2": "Ges SoA/02 (Gesundheit und Soziale Arbeit)"
-									}
-								},
-								"Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen": {
-									"events": {
-										"26057_1": "ProfH EK/01 (Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen)",
-										"26057_2": "ProfH EK/02 (Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen)",
-										"26057_3": "ProfH EK/03 (Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen)",
-										"26057_4": "ProfH EK/04 (Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen)",
-										"26057_5": "ProfH EK/05 (Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen)"
 									}
 								}
 							}
@@ -12468,109 +12414,11 @@
 									}
 								}
 							}
-						},
-						"7. Semester": {
-							"subDirectories": {
-								"M-25 Vertiefungs- und Wahlpflichtbereich III": {
-									"events": {
-										"25831_1": "WP (2 SWS) (Fachkräftemangel in der Kinder- und Jugendhilfe – Aktuelle Herausforderungen und Handlungsstrategien)",
-										"25983_1": "WP (2 SWS) (Traumafolgestörungen und andere psychische Belastungen im Kindes- und Jugendalter: Traumasensible Zugänge in der Praxis)",
-										"25935_1": "WP (2 SWS) (Suizidalen Krisen begegnen)",
-										"36532_1": "WP (2 SWS) (Ethik-Café)",
-										"36535_1": "WP (2 SWS) (Strengths-based interventions with children and families)",
-										"36538_1": "WP (2 SWS) (Armut macht krank. Krankheit macht arm.)",
-										"36539_1": "WP (4 SWS) (Erwerbsarbeit, gute Arbeit, Lohnarbeit, Soziale Arbeit, moderne Arbeit)",
-										"37232_1": "WP (4 SWS) (Journalismus und Soziale Arbeit)",
-										"41330_1": "WP (2 SWS) (Critical questions on ageing societies)",
-										"41331_1": "WP (2 SWS) (Ecological Social Work)",
-										"41332_1": "WP (2 SWS) (Diskurse zu Migration und Flucht)",
-										"41340_1": "WP (2 SWS) (Soziale Arbeit im Kontext (extrem) rechter Einstellungsmuster – Distanzierungsoptionen und Handlungsstrategien)",
-										"41717_1": "WP (2 SWS) (Kinder und Jugendliche als Betroffene von sexualisierter Gewalt – von der Prävention zur Intervention)",
-										"41718_1": "WP (4 SWS) (\"Kultur\"?)",
-										"44894_1": "WP (2 SWS) (Biographieforschung)",
-										"44895_1": "WP (4 SWS) (Kritische Soziale Arbeit)",
-										"44896_1": "WP (2 SWS) (Mehrsprachigkeit als Ressource für die Soziale Arbeit)",
-										"44897_1": "WP (2 SWS) (Trialog)",
-										"44898_1": "WP (2 SWS) (Fansozialarbeit)",
-										"44979_1": "WP (2 SWS) (Pediatric Psychology and Family Centered Care)"
-									}
-								},
-								"Bachelorwerkstatt I": {
-									"events": {
-										"25960_0": "BA-W/00 (Bachelorwerkstatt I)",
-										"25960_1": "BA-W/01 (Bachelorwerkstatt I)",
-										"25960_2": "BA-W/02 (Bachelorwerkstatt I)",
-										"25960_3": "BA-W/03 (Bachelorwerkstatt I)",
-										"25960_4": "BA-W/04 (Bachelorwerkstatt I)",
-										"25960_5": "BA-W/05 (Bachelorwerkstatt I)",
-										"25960_6": "BA-W/06 (Bachelorwerkstatt I)",
-										"25960_7": "BA-W/07 (Bachelorwerkstatt I)",
-										"25960_8": "BA-W/08 (Bachelorwerkstatt I)",
-										"25960_9": "BA-W/09 (Bachelorwerkstatt I)"
-									}
-								}
-							}
 						}
 					}
 				},
 				"Bachelor Soziale Arbeit (PO WS 2025/26)": {
 					"subDirectories": {
-						"1. Semester": {
-							"subDirectories": {
-								"M-03 Recht für die Soziale Arbeit: Sozialrecht, Arbeitslosen- und Existenzsicherungsrecht, Familien- und Jugendhilferecht": {
-									"subDirectories": {
-										"Wahl Rechtsseminare": {
-											"subDirectories": {
-												"Sozialrecht, Arbeitslosen- und Existenzsicherungsrecht": {
-													"events": {
-														"25852_1": "RSozA/01 (Sozialrecht, Arbeitslosen- und Existenzsicherungsrecht)",
-														"25852_2": "RSozA/02 (Sozialrecht, Arbeitslosen- und Existenzsicherungsrecht)",
-														"25852_3": "RSozA/03 (Sozialrecht, Arbeitslosen- und Existenzsicherungsrecht)"
-													}
-												},
-												"Familien- und Jugendhilferecht": {
-													"events": {
-														"25696_1": "RSozA/01 (Familien- und Jugendhilferecht)",
-														"25696_2": "RSozA/02 (Familien- und Jugendhilferecht)",
-														"25696_3": "RSozA/03 (Familien- und Jugendhilferecht)"
-													}
-												}
-											}
-										}
-									}
-								},
-								"Erwachsenenalter bis ins hohe Alter": {
-									"events": {
-										"43845_1": "ErzW2 LV/01 (Erwachsenenalter bis ins hohe Alter)",
-										"43845_2": "ErzW2 LV/02 (Erwachsenenalter bis ins hohe Alter)",
-										"43845_3": "ErzW2 LV/03 (Erwachsenenalter bis ins hohe Alter)",
-										"43845_4": "ErzW2 LV/04 (Erwachsenenalter bis ins hohe Alter)",
-										"43845_5": "ErzW2 LV/05 (Erwachsenenalter bis ins hohe Alter)",
-										"43845_6": "ErzW2 LV/06 (Erwachsenenalter bis ins hohe Alter)"
-									}
-								},
-								"Soziale Ungleichheitsstrukturen und ihr Einfluss auf Lebensformen, Biografien und Lebenslagen im Kontext des gesellschaftlichen Wandels": {
-									"events": {
-										"43846_1": "Soz2 LV/01 (Soziale Ungleichheitsstrukturen und ihr Einfluss auf Lebensformen, Biografien und Lebenslagen im Kontext des gesellschaftlichen Wandels)",
-										"43846_2": "Soz2 LV/02 (Soziale Ungleichheitsstrukturen und ihr Einfluss auf Lebensformen, Biografien und Lebenslagen im Kontext des gesellschaftlichen Wandels)",
-										"43846_3": "Soz2 LV/03 (Soziale Ungleichheitsstrukturen und ihr Einfluss auf Lebensformen, Biografien und Lebenslagen im Kontext des gesellschaftlichen Wandels)",
-										"43846_4": "Soz2 LV/04 (Soziale Ungleichheitsstrukturen und ihr Einfluss auf Lebensformen, Biografien und Lebenslagen im Kontext des gesellschaftlichen Wandels)",
-										"43846_5": "Soz2 LV/05 (Soziale Ungleichheitsstrukturen und ihr Einfluss auf Lebensformen, Biografien und Lebenslagen im Kontext des gesellschaftlichen Wandels)",
-										"43846_6": "Soz2 LV/06 (Soziale Ungleichheitsstrukturen und ihr Einfluss auf Lebensformen, Biografien und Lebenslagen im Kontext des gesellschaftlichen Wandels)"
-									}
-								},
-								"Erwachsenenalter bis hohes Alter": {
-									"events": {
-										"43849_1": "Psy2 LV/01 (Erwachsenenalter bis hohes Alter)",
-										"43849_2": "Psy2 LV/02 (Erwachsenenalter bis hohes Alter)",
-										"43849_3": "Psy2 LV/03 (Erwachsenenalter bis hohes Alter)",
-										"43849_4": "Psy2 LV/04 (Erwachsenenalter bis hohes Alter)",
-										"43849_5": "Psy2 LV/05 (Erwachsenenalter bis hohes Alter)",
-										"43849_6": "Psy2 LV/06 (Erwachsenenalter bis hohes Alter)"
-									}
-								}
-							}
-						},
 						"2. Semester": {
 							"subDirectories": {
 								"Theorien und Professionsethik Sozialer Arbeit": {
@@ -12626,34 +12474,6 @@
 										"25700_4": "PolGr SozA/04 (Politische Grundlagen Sozialer Arbeit)",
 										"25700_5": "PolGr SozA/05 (Politische Grundlagen Sozialer Arbeit)",
 										"25700_6": "PolGr SozA/06 (Politische Grundlagen Sozialer Arbeit)"
-									}
-								}
-							}
-						},
-						"3. Semester": {
-							"subDirectories": {
-								"Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen": {
-									"events": {
-										"25778_1": "ProfH/01 (Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen)",
-										"25778_2": "ProfH/02 (Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen)",
-										"25778_3": "ProfH/03 (Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen)",
-										"25778_4": "ProfH/04 (Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen)",
-										"25778_5": "ProfH/05 (Gruppenbezogene und sozialraumorientierte Konzepte und Arbeitsformen)"
-									}
-								},
-								"Gesundheit und Soziale Arbeit": {
-									"events": {
-										"26055_1": "Ges SoA/01 (Gesundheit und Soziale Arbeit)",
-										"26055_2": "Ges SoA/02 (Gesundheit und Soziale Arbeit)"
-									}
-								},
-								"Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen": {
-									"events": {
-										"26057_1": "ProfH EK/01 (Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen)",
-										"26057_2": "ProfH EK/02 (Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen)",
-										"26057_3": "ProfH EK/03 (Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen)",
-										"26057_4": "ProfH EK/04 (Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen)",
-										"26057_5": "ProfH EK/05 (Professionelles Handeln: Einzelfallbezogene Konzepte und Arbeitsformen)"
 									}
 								}
 							}
@@ -12800,11 +12620,6 @@
 										"25960_9": "BA-W/09 (Bachelorwerkstatt I)"
 									}
 								}
-							}
-						},
-						"7. Semester": {
-							"events": {
-								"41718_1": "WP (4 SWS) (\"Kultur\"?)"
 							}
 						}
 					}
@@ -12983,61 +12798,6 @@
 						}
 					}
 				},
-				"Master Soziale Arbeit (PO SoSe 2024)": {
-					"subDirectories": {
-						"1. Semester": {
-							"subDirectories": {
-								"M-01 Ideenwerkstatt und Wissensvernetzung": {
-									"events": {
-										"36293_1": "IW (Ideenwerkstatt Wissen)",
-										"36284_1": "IW (Wissen vernetzen)",
-										"36296_1": "IW (Kolloquium & Abschlusswerkstatt)"
-									}
-								},
-								"M-09 Wahlpflichtbereich": {
-									"events": {
-										"36295_1": "MS (Mastersalon)",
-										"44892_1": "WB (Familie, Jugendhilfe, Kinderschutz)",
-										"44893_1": "WB (Social Work Exchange: HAW)"
-									}
-								}
-							},
-							"events": {
-								"36287_1": "Wiss.SozA (Wissenschaft der Sozialen Arbeit)",
-								"36292_1": "Soz Man (Sozialmanagement)",
-								"36282_1": "Pers.Hand. (Personenorientiertes Handeln in der Sozialen Arbeit)"
-							}
-						},
-						"2. Semester": {
-							"events": {
-								"36278_1": "Lebenslage (Lebenslagenanalyse)",
-								"36310_1": "KonzepProj (Konzeptionen und Projekte der Sozialen Arbeit)",
-								"36279_1": "SozRo H (Sozialraumorientiertes Handeln in der Sozialen Arbeit)"
-							}
-						},
-						"3. Semester": {
-							"events": {
-								"36274_1": "Evaluation (Evaluation)"
-							}
-						}
-					}
-				},
-				"Master Angewandte Familienwissenschaften (PO SoSe 2018)": {
-					"subDirectories": {
-						"2. Semester": {
-							"events": {
-								"25426_1": "FamPsy PL (Allgemeine Familienpsychologie)",
-								"25415_1": "Soz PL (Soziologie der Familie)",
-								"25403_1": "EAK SL (Einführung in die Anwendungskompetenzen)"
-							}
-						},
-						"5. Semester": {
-							"events": {
-								"25412_1": "FK (Forschungskolloquium)"
-							}
-						}
-					}
-				},
 				"Bachelor Bildung und Erziehung (PO WS 2025/26)": {
 					"subDirectories": {
 						"1. Semester": {
@@ -13202,6 +12962,61 @@
 								"25584_1": "M21.2 TG A (Kompetenzentwicklung in der Kindheit (Fortsetzung))",
 								"25505_1": "M21.2 TG B (Institutionsentwicklung und Management (Fortsetzung))",
 								"25496_1": "M21.2 TG C (Entwicklungskontext Familie (Fortsetzung))"
+							}
+						}
+					}
+				},
+				"Master Soziale Arbeit (PO SoSe 2024)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"M-01 Ideenwerkstatt und Wissensvernetzung": {
+									"events": {
+										"36293_1": "IW (Ideenwerkstatt Wissen)",
+										"36284_1": "IW (Wissen vernetzen)",
+										"36296_1": "IW (Kolloquium & Abschlusswerkstatt)"
+									}
+								},
+								"M-09 Wahlpflichtbereich": {
+									"events": {
+										"36295_1": "MS (Mastersalon)",
+										"44892_1": "WB (Familie, Jugendhilfe, Kinderschutz)",
+										"44893_1": "WB (Social Work Exchange: HAW)"
+									}
+								}
+							},
+							"events": {
+								"36287_1": "Wiss.SozA (Wissenschaft der Sozialen Arbeit)",
+								"36292_1": "Soz Man (Sozialmanagement)",
+								"36282_1": "Pers.Hand. (Personenorientiertes Handeln in der Sozialen Arbeit)"
+							}
+						},
+						"2. Semester": {
+							"events": {
+								"36278_1": "Lebenslage (Lebenslagenanalyse)",
+								"36310_1": "KonzepProj (Konzeptionen und Projekte der Sozialen Arbeit)",
+								"36279_1": "SozRo H (Sozialraumorientiertes Handeln in der Sozialen Arbeit)"
+							}
+						},
+						"3. Semester": {
+							"events": {
+								"36274_1": "Evaluation (Evaluation)"
+							}
+						}
+					}
+				},
+				"Master Angewandte Familienwissenschaften (PO SoSe 2018)": {
+					"subDirectories": {
+						"2. Semester": {
+							"events": {
+								"25426_1": "FamPsy PL (Allgemeine Familienpsychologie)",
+								"25415_1": "Soz PL (Soziologie der Familie)",
+								"25403_1": "EAK SL (Einführung in die Anwendungskompetenzen)"
+							}
+						},
+						"5. Semester": {
+							"events": {
+								"25412_1": "FK (Forschungskolloquium)"
 							}
 						}
 					}
