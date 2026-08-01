@@ -12621,31 +12621,6 @@
 				},
 				"Bachelor Bildung und Erziehung (PO WS 2020/21)": {
 					"subDirectories": {
-						"1. Semester": {
-							"subDirectories": {
-								"Entwicklungspsychologie II": {
-									"events": {
-										"25539_1": "M 2.2.1 (Psychologie im Kontext der Kindheit)",
-										"25539_2": "M 2.2.2 (The Making of the Self)"
-									}
-								},
-								"Bildungssoziologie II": {
-									"events": {
-										"25575_1": "M 3.2.1 ((Koh A) Bildungssoziologie II)",
-										"25575_2": "M 3.2.2 ((Koh B) Bildungssoziologie II)"
-									}
-								},
-								"Selbstkompetenz II": {
-									"events": {
-										"25518_1": "M 6.1 (Selbstkompetenz II)",
-										"25518_2": "M 6.2 (Selbstkompetenz II)",
-										"25518_3": "M 6.3 (Selbstkompetenz II)",
-										"25518_4": "M 6.4 (Selbstkompetenz II)",
-										"25518_5": "M 6.5 (Selbstkompetenz II)"
-									}
-								}
-							}
-						},
 						"2. Semester": {
 							"subDirectories": {
 								"Didaktik: Lehr- und Lernformen": {
@@ -12685,17 +12660,6 @@
 												"43265_2": "M10 LV/02 (Praktikum)"
 											}
 										}
-									}
-								}
-							}
-						},
-						"3. Semester": {
-							"subDirectories": {
-								"Beratungskompetenz II": {
-									"events": {
-										"25460_1": "M 13.2.1 (Professionelles Handeln: Beratungskompetenz II)",
-										"25460_2": "M 13.2.2 (Professionelles Handeln: Beratungskompetenz II)",
-										"25460_3": "M 13.2.3 (Professionelles Handeln: Beratungskompetenz II)"
 									}
 								}
 							}
@@ -12740,86 +12704,11 @@
 									}
 								}
 							}
-						},
-						"5. und 6. Semester": {
-							"subDirectories": {
-								"M-18 Individuelle Förderung und Inklusion -": {
-									"events": {
-										"25531_1": "M18 TG1 (Lebenslagen von Kindern und Familien)",
-										"25487_1": "M18 TG2 (Kinder mit besonderen Bedürfnissen)",
-										"25451_1": "M18 LV3 (Pädagogische Ansätze und inklusive Konzepte)"
-									}
-								},
-								"M-19 Vertiefungs- und Wahlpflichtbereich - 1 SL+ Sem. im Umfang von 6 SWS": {
-									"events": {
-										"36271_1": "M19 LV (2 SWS) (Storytelling)",
-										"41730_1": "M19 LV (2 SWS) (Diversität und Vielfalt im Bilderbuch)"
-									}
-								},
-								"M-22 Reflexive Praxis: Praxisprojekt in einem Studienschwerpunkt -": {
-									"subDirectories": {
-										"Praxisprojekt im Studienschwerpunkt (Fortsetzung)": {
-											"events": {
-												"45660_1": "M 22.4.1 (Praxisprojekt (Fortsetzungsveranstaltung))",
-												"45660_2": "M 22.4.2 (Praxisprojekt (Fortsetzungsveranstaltung))",
-												"45660_3": "M 22.4.3 (Praxisprojekt (Fortsetzungsveranstaltung))",
-												"45660_4": "M 22.4.4 (Praxisprojekt (Fortsetzungsveranstaltung))"
-											}
-										}
-									},
-									"events": {
-										"25499_1": "M22.1 LV (Praxisprojekt im Studienschwerpunkt)",
-										"25498_1": "M22.3 TG (TPS Praxisbegleitung)",
-										"37334_1": "M5 LV (Praktikum)",
-										"45661_1": "M22.3 TG (TPS Praxisbegleitung (Fortsetzung))"
-									}
-								},
-								"Handlungskompetenz II": {
-									"events": {
-										"25437_1": "M 23.1 (Diversity Training for Education, Social Work and Healthcare)",
-										"25437_2": "M 23.2 (Sozialrecht)",
-										"25437_3": "M 23.3 (Team Work and Team Building)"
-									}
-								}
-							},
-							"events": {
-								"25446_1": "M20.2 A LV (Kompetenzentwicklung in der Kindheit (Fortsetzung))",
-								"25553_1": "M20.2 B LV2 (Institutionsentwicklung und Management (Fortsetzung))",
-								"25526_1": "M20.2 C LV2 (Entwicklungskontext Familie (Fortsetzung))",
-								"25584_1": "M21.2 TG A (Kompetenzentwicklung in der Kindheit (Fortsetzung))",
-								"25505_1": "M21.2 TG B (Institutionsentwicklung und Management (Fortsetzung))",
-								"25496_1": "M21.2 TG C (Entwicklungskontext Familie (Fortsetzung))"
-							}
 						}
 					}
 				},
 				"Bachelor Bildung und Erziehung (PO WS 2025/26)": {
 					"subDirectories": {
-						"1. Semester": {
-							"subDirectories": {
-								"Entwicklungspsychologie II": {
-									"events": {
-										"25539_1": "M 2.2.1 (Psychologie im Kontext der Kindheit)",
-										"25539_2": "M 2.2.2 (The Making of the Self)"
-									}
-								},
-								"Bildungssoziologie II": {
-									"events": {
-										"25575_1": "M 3.2.1 ((Koh A) Bildungssoziologie II)",
-										"25575_2": "M 3.2.2 ((Koh B) Bildungssoziologie II)"
-									}
-								},
-								"Selbstkompetenz II": {
-									"events": {
-										"25518_1": "M 6.1 (Selbstkompetenz II)",
-										"25518_2": "M 6.2 (Selbstkompetenz II)",
-										"25518_3": "M 6.3 (Selbstkompetenz II)",
-										"25518_4": "M 6.4 (Selbstkompetenz II)",
-										"25518_5": "M 6.5 (Selbstkompetenz II)"
-									}
-								}
-							}
-						},
 						"2. Semester": {
 							"subDirectories": {
 								"Didaktik: Lehr- und Lernformen": {
@@ -12863,17 +12752,6 @@
 								}
 							}
 						},
-						"3. Semester": {
-							"subDirectories": {
-								"Beratungskompetenz II": {
-									"events": {
-										"25460_1": "M 13.2.1 (Professionelles Handeln: Beratungskompetenz II)",
-										"25460_2": "M 13.2.2 (Professionelles Handeln: Beratungskompetenz II)",
-										"25460_3": "M 13.2.3 (Professionelles Handeln: Beratungskompetenz II)"
-									}
-								}
-							}
-						},
 						"4. Semester": {
 							"subDirectories": {
 								"Einführung: Kompetenzentwicklung in der Kindheit": {
@@ -12913,50 +12791,6 @@
 										}
 									}
 								}
-							}
-						},
-						"5. Semester": {
-							"subDirectories": {
-								"M-18 Individuelle Förderung und Inklusion -": {
-									"events": {
-										"25531_1": "M18 TG1 (Lebenslagen von Kindern und Familien)",
-										"25487_1": "M18 TG2 (Kinder mit besonderen Bedürfnissen)",
-										"25451_1": "M18 LV3 (Pädagogische Ansätze und inklusive Konzepte)"
-									}
-								},
-								"M-22 Reflexive Praxis: Praxisprojekt in einem Studienschwerpunkt -": {
-									"subDirectories": {
-										"Praxisprojekt im Studienschwerpunkt (Fortsetzung)": {
-											"events": {
-												"45660_1": "M 22.4.1 (Praxisprojekt (Fortsetzungsveranstaltung))",
-												"45660_2": "M 22.4.2 (Praxisprojekt (Fortsetzungsveranstaltung))",
-												"45660_3": "M 22.4.3 (Praxisprojekt (Fortsetzungsveranstaltung))",
-												"45660_4": "M 22.4.4 (Praxisprojekt (Fortsetzungsveranstaltung))"
-											}
-										}
-									},
-									"events": {
-										"25499_1": "M22.1 LV (Praxisprojekt im Studienschwerpunkt)",
-										"25498_1": "M22.3 TG (TPS Praxisbegleitung)",
-										"37334_1": "M5 LV (Praktikum)",
-										"45661_1": "M22.3 TG (TPS Praxisbegleitung (Fortsetzung))"
-									}
-								},
-								"Handlungskompetenz II": {
-									"events": {
-										"25437_1": "M 23.1 (Diversity Training for Education, Social Work and Healthcare)",
-										"25437_2": "M 23.2 (Sozialrecht)",
-										"25437_3": "M 23.3 (Team Work and Team Building)"
-									}
-								}
-							},
-							"events": {
-								"25446_1": "M20.2 A LV (Kompetenzentwicklung in der Kindheit (Fortsetzung))",
-								"25553_1": "M20.2 B LV2 (Institutionsentwicklung und Management (Fortsetzung))",
-								"25526_1": "M20.2 C LV2 (Entwicklungskontext Familie (Fortsetzung))",
-								"25584_1": "M21.2 TG A (Kompetenzentwicklung in der Kindheit (Fortsetzung))",
-								"25505_1": "M21.2 TG B (Institutionsentwicklung und Management (Fortsetzung))",
-								"25496_1": "M21.2 TG C (Entwicklungskontext Familie (Fortsetzung))"
 							}
 						}
 					}
