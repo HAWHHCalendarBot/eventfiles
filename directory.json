@@ -6243,18 +6243,11 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
-								"M-01 Mathematik 1 -": {
-									"subDirectories": {
-										"Mathematik 1": {
-											"events": {
-												"41734_1": "Mathe1/01 (Mathematik 1)",
-												"41734_2": "Mathe1/02 (Mathematik 1)",
-												"41734_3": "Mathe1/03 (Mathematik 1)"
-											}
-										}
-									},
+								"Mathematik 1": {
 									"events": {
-										"41732_1": "Mathe1 (Mathematik 1)"
+										"41734_1": "Mathe1/01 (Mathematik 1)",
+										"41734_2": "Mathe1/02 (Mathematik 1)",
+										"41734_3": "Mathe1/03 (Mathematik 1)"
 									}
 								},
 								"Physik 1": {
