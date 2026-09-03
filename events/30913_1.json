@@ -1,65 +1,100 @@
 [
 	{
 		"name": "SE2 (Software Engineering II)",
-		"location": "6.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Zhen Dai\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II ^ (1ITS-SE2.LV-P) 4.FS",
-		"startTime": "2026-04-16T12:45:00",
-		"endTime": "2026-04-16T14:15:00"
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2026-10-14T10:00:00",
+		"endTime": "2026-10-14T11:45:00"
 	},
 	{
 		"name": "SE2 (Software Engineering II)",
-		"location": "6.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Zhen Dai\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II ^ (1ITS-SE2.LV-P) 4.FS",
-		"startTime": "2026-04-23T12:45:00",
-		"endTime": "2026-04-23T14:15:00"
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2026-10-21T10:00:00",
+		"endTime": "2026-10-21T11:45:00"
 	},
 	{
 		"name": "SE2 (Software Engineering II)",
-		"location": "6.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Zhen Dai\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II ^ (1ITS-SE2.LV-P) 4.FS",
-		"startTime": "2026-04-30T12:45:00",
-		"endTime": "2026-04-30T14:15:00"
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2026-10-28T10:00:00",
+		"endTime": "2026-10-28T11:45:00"
 	},
 	{
 		"name": "SE2 (Software Engineering II)",
-		"location": "6.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Zhen Dai\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II ^ (1ITS-SE2.LV-P) 4.FS",
-		"startTime": "2026-05-07T12:45:00",
-		"endTime": "2026-05-07T14:15:00"
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2026-11-04T10:00:00",
+		"endTime": "2026-11-04T11:45:00"
 	},
 	{
 		"name": "SE2 (Software Engineering II)",
-		"location": "6.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Zhen Dai\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II ^ (1ITS-SE2.LV-P) 4.FS",
-		"startTime": "2026-05-21T12:45:00",
-		"endTime": "2026-05-21T14:15:00"
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2026-11-11T10:00:00",
+		"endTime": "2026-11-11T11:45:00"
 	},
 	{
 		"name": "SE2 (Software Engineering II)",
-		"location": "6.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Zhen Dai\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II ^ (1ITS-SE2.LV-P) 4.FS",
-		"startTime": "2026-05-28T12:45:00",
-		"endTime": "2026-05-28T14:15:00"
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2026-11-18T10:00:00",
+		"endTime": "2026-11-18T11:45:00"
 	},
 	{
 		"name": "SE2 (Software Engineering II)",
-		"location": "6.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Zhen Dai\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II ^ (1ITS-SE2.LV-P) 4.FS",
-		"startTime": "2026-06-04T12:45:00",
-		"endTime": "2026-06-04T14:15:00"
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2026-11-25T10:00:00",
+		"endTime": "2026-11-25T11:45:00"
 	},
 	{
 		"name": "SE2 (Software Engineering II)",
-		"location": "6.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Zhen Dai\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II ^ (1ITS-SE2.LV-P) 4.FS",
-		"startTime": "2026-06-11T12:45:00",
-		"endTime": "2026-06-11T14:15:00"
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2026-12-02T10:00:00",
+		"endTime": "2026-12-02T11:45:00"
 	},
 	{
 		"name": "SE2 (Software Engineering II)",
-		"location": "6.65, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Zhen Dai\nMax. Anzahl von Teilnehmer/-innen: 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II ^ (1ITS-SE2.LV-P) 4.FS",
-		"startTime": "2026-06-18T12:45:00",
-		"endTime": "2026-06-18T14:15:00"
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2026-12-09T10:00:00",
+		"endTime": "2026-12-09T11:45:00"
+	},
+	{
+		"name": "SE2 (Software Engineering II)",
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2026-12-16T10:00:00",
+		"endTime": "2026-12-16T11:45:00"
+	},
+	{
+		"name": "SE2 (Software Engineering II)",
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2027-01-06T10:00:00",
+		"endTime": "2027-01-06T11:45:00"
+	},
+	{
+		"name": "SE2 (Software Engineering II)",
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2027-01-13T10:00:00",
+		"endTime": "2027-01-13T11:45:00"
+	},
+	{
+		"name": "SE2 (Software Engineering II)",
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2027-01-20T10:00:00",
+		"endTime": "2027-01-20T11:45:00"
+	},
+	{
+		"name": "SE2 (Software Engineering II)",
+		"location": "2.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Lars Hamann\nTeilnehmer/-innen: ? / 40\nRhythmus: wöchentlich\n\nOriginaler Titel: Software Engineering II (1ITS-SE2.LV-P)",
+		"startTime": "2027-01-27T10:00:00",
+		"endTime": "2027-01-27T11:45:00"
 	}
 ]

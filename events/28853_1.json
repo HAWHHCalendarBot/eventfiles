@@ -1,282 +1,51 @@
 [
 	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-04-09T14:30:00",
-		"endTime": "2026-04-09T16:00:00"
+		"name": "MsT (Messtechnik)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr",
+		"startTime": "2026-10-07T14:30:00",
+		"endTime": "2026-10-07T17:45:00"
 	},
 	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-04-16T14:30:00",
-		"endTime": "2026-04-16T16:00:00"
+		"name": "MsT (Messtechnik)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr",
+		"startTime": "2026-10-14T14:30:00",
+		"endTime": "2026-10-14T17:45:00"
 	},
 	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-04-23T14:30:00",
-		"endTime": "2026-04-23T16:00:00"
+		"name": "MsT (Messtechnik)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr",
+		"startTime": "2026-10-21T14:30:00",
+		"endTime": "2026-10-21T17:45:00"
 	},
 	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-04-30T14:30:00",
-		"endTime": "2026-04-30T16:00:00"
+		"name": "MsT (Messtechnik)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr",
+		"startTime": "2026-10-28T14:30:00",
+		"endTime": "2026-10-28T17:45:00"
 	},
 	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-05-07T14:30:00",
-		"endTime": "2026-05-07T16:00:00"
+		"name": "MsT (Messtechnik)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr",
+		"startTime": "2026-11-04T14:30:00",
+		"endTime": "2026-11-04T17:45:00"
 	},
 	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-05-21T14:30:00",
-		"endTime": "2026-05-21T16:00:00"
+		"name": "MsT (Messtechnik)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr",
+		"startTime": "2026-11-11T14:30:00",
+		"endTime": "2026-11-11T17:45:00"
 	},
 	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-05-28T14:30:00",
-		"endTime": "2026-05-28T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-04T14:30:00",
-		"endTime": "2026-06-04T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-11T14:30:00",
-		"endTime": "2026-06-11T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-18T14:30:00",
-		"endTime": "2026-06-18T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-25T14:30:00",
-		"endTime": "2026-06-25T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-07-02T14:30:00",
-		"endTime": "2026-07-02T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-07-09T14:30:00",
-		"endTime": "2026-07-09T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-04-10T08:30:00",
-		"endTime": "2026-04-10T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-04-17T08:30:00",
-		"endTime": "2026-04-17T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-04-24T08:30:00",
-		"endTime": "2026-04-24T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-05-08T08:30:00",
-		"endTime": "2026-05-08T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-05-15T08:30:00",
-		"endTime": "2026-05-15T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-05-22T08:30:00",
-		"endTime": "2026-05-22T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-05-29T08:30:00",
-		"endTime": "2026-05-29T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-05T08:30:00",
-		"endTime": "2026-06-05T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-12T08:30:00",
-		"endTime": "2026-06-12T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-19T08:30:00",
-		"endTime": "2026-06-19T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-26T08:30:00",
-		"endTime": "2026-06-26T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-07-03T08:30:00",
-		"endTime": "2026-07-03T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "S4.02, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-07-10T08:30:00",
-		"endTime": "2026-07-10T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-05-28T14:30:00",
-		"endTime": "2026-05-28T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-04T14:30:00",
-		"endTime": "2026-06-04T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-11T14:30:00",
-		"endTime": "2026-06-11T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-18T14:30:00",
-		"endTime": "2026-06-18T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-25T14:30:00",
-		"endTime": "2026-06-25T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-07-02T14:30:00",
-		"endTime": "2026-07-02T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-07-09T14:30:00",
-		"endTime": "2026-07-09T16:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-05-29T08:30:00",
-		"endTime": "2026-05-29T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-05T08:30:00",
-		"endTime": "2026-06-05T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-12T08:30:00",
-		"endTime": "2026-06-12T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-19T08:30:00",
-		"endTime": "2026-06-19T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-06-26T08:30:00",
-		"endTime": "2026-06-26T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-07-03T08:30:00",
-		"endTime": "2026-07-03T10:00:00"
-	},
-	{
-		"name": "MsT/01 (Messtechnik)",
-		"location": "N 3.12 Labor für Umwelttechnik und Elektronik, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr Nachzügler (1. Parallelgruppe)",
-		"startTime": "2026-07-10T08:30:00",
-		"endTime": "2026-07-10T10:00:00"
+		"name": "MsT (Messtechnik)",
+		"location": "N4.08, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Veit Dominik Kunz\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^ Vorlesung Gefahrenabwehr",
+		"startTime": "2026-11-18T14:30:00",
+		"endTime": "2026-11-18T17:45:00"
 	}
 ]

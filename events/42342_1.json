@@ -1,100 +1,198 @@
 [
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-04-15T15:30:00",
-		"endTime": "2026-04-15T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-10-14T17:15:00",
+		"endTime": "2026-10-14T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-04-22T15:30:00",
-		"endTime": "2026-04-22T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-10-21T17:15:00",
+		"endTime": "2026-10-21T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-04-29T15:30:00",
-		"endTime": "2026-04-29T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-10-28T17:15:00",
+		"endTime": "2026-10-28T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-05-06T15:30:00",
-		"endTime": "2026-05-06T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-11-04T17:15:00",
+		"endTime": "2026-11-04T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-05-13T15:30:00",
-		"endTime": "2026-05-13T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-11-11T17:15:00",
+		"endTime": "2026-11-11T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-05-20T15:30:00",
-		"endTime": "2026-05-20T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-11-18T17:15:00",
+		"endTime": "2026-11-18T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-05-27T15:30:00",
-		"endTime": "2026-05-27T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-11-25T17:15:00",
+		"endTime": "2026-11-25T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-06-03T15:30:00",
-		"endTime": "2026-06-03T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-12-02T17:15:00",
+		"endTime": "2026-12-02T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-06-10T15:30:00",
-		"endTime": "2026-06-10T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-12-09T17:15:00",
+		"endTime": "2026-12-09T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-06-17T15:30:00",
-		"endTime": "2026-06-17T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-12-16T17:15:00",
+		"endTime": "2026-12-16T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-06-24T15:30:00",
-		"endTime": "2026-06-24T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2027-01-06T17:15:00",
+		"endTime": "2027-01-06T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-07-01T15:30:00",
-		"endTime": "2026-07-01T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2027-01-13T17:15:00",
+		"endTime": "2027-01-13T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-07-08T15:30:00",
-		"endTime": "2026-07-08T18:45:00"
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2027-01-20T17:15:00",
+		"endTime": "2027-01-20T18:45:00"
 	},
 	{
-		"name": "P1 LV/01 (Programming Basics 1)",
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "E62, Finkenau 35, Altbau",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2027-01-27T17:15:00",
+		"endTime": "2027-01-27T18:45:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
 		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Simon Dewert\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ (1MI-P1.LV) Online (1. Parallelgruppe)",
-		"startTime": "2026-07-15T15:30:00",
-		"endTime": "2026-07-15T18:45:00"
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-10-14T19:00:00",
+		"endTime": "2026-10-14T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-10-21T19:00:00",
+		"endTime": "2026-10-21T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-10-28T19:00:00",
+		"endTime": "2026-10-28T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-11-04T19:00:00",
+		"endTime": "2026-11-04T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-11-11T19:00:00",
+		"endTime": "2026-11-11T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-11-18T19:00:00",
+		"endTime": "2026-11-18T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-11-25T19:00:00",
+		"endTime": "2026-11-25T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-12-02T19:00:00",
+		"endTime": "2026-12-02T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-12-09T19:00:00",
+		"endTime": "2026-12-09T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2026-12-16T19:00:00",
+		"endTime": "2026-12-16T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2027-01-06T19:00:00",
+		"endTime": "2027-01-06T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2027-01-13T19:00:00",
+		"endTime": "2027-01-13T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2027-01-20T19:00:00",
+		"endTime": "2027-01-20T20:30:00"
+	},
+	{
+		"name": "P1 LV (Programming Basics 1)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Simon Dewert\nRhythmus: wöchentlich\n\nOriginaler Titel: Programming Basics 1 ^ MI FS1",
+		"startTime": "2027-01-27T19:00:00",
+		"endTime": "2027-01-27T20:30:00"
 	}
 ]

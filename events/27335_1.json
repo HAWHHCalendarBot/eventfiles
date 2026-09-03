@@ -1,191 +1,198 @@
 [
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-04-08T08:30:00",
-		"endTime": "2026-04-08T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-04-15T08:30:00",
-		"endTime": "2026-04-15T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-04-22T08:30:00",
-		"endTime": "2026-04-22T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-04-29T08:30:00",
-		"endTime": "2026-04-29T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-05-06T08:30:00",
-		"endTime": "2026-05-06T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-05-13T08:30:00",
-		"endTime": "2026-05-13T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-05-20T08:30:00",
-		"endTime": "2026-05-20T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-05-27T08:30:00",
-		"endTime": "2026-05-27T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-06-03T08:30:00",
-		"endTime": "2026-06-03T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-06-10T08:30:00",
-		"endTime": "2026-06-10T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-06-17T08:30:00",
-		"endTime": "2026-06-17T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-06-24T08:30:00",
-		"endTime": "2026-06-24T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-07-01T08:30:00",
-		"endTime": "2026-07-01T10:00:00"
-	},
-	{
-		"name": "MVT (Mechanische Verfahrenstechnik 2)",
-		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Kai Freudenthal\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-07-08T08:30:00",
-		"endTime": "2026-07-08T10:00:00"
+		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-10-06T10:15:00",
+		"endTime": "2026-10-06T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-04-09T14:30:00",
-		"endTime": "2026-04-09T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-10-13T10:15:00",
+		"endTime": "2026-10-13T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-04-16T14:30:00",
-		"endTime": "2026-04-16T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-10-20T10:15:00",
+		"endTime": "2026-10-20T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-04-23T14:30:00",
-		"endTime": "2026-04-23T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-10-27T10:15:00",
+		"endTime": "2026-10-27T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-04-30T14:30:00",
-		"endTime": "2026-04-30T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-11-03T10:15:00",
+		"endTime": "2026-11-03T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-05-07T14:30:00",
-		"endTime": "2026-05-07T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-11-10T10:15:00",
+		"endTime": "2026-11-10T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-05-21T14:30:00",
-		"endTime": "2026-05-21T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-11-17T10:15:00",
+		"endTime": "2026-11-17T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-05-28T14:30:00",
-		"endTime": "2026-05-28T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-11-24T10:15:00",
+		"endTime": "2026-11-24T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-06-04T14:30:00",
-		"endTime": "2026-06-04T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-12-01T10:15:00",
+		"endTime": "2026-12-01T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-06-11T14:30:00",
-		"endTime": "2026-06-11T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-12-08T10:15:00",
+		"endTime": "2026-12-08T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-06-18T14:30:00",
-		"endTime": "2026-06-18T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-12-15T10:15:00",
+		"endTime": "2026-12-15T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-06-25T14:30:00",
-		"endTime": "2026-06-25T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2027-01-05T10:15:00",
+		"endTime": "2027-01-05T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-07-02T14:30:00",
-		"endTime": "2026-07-02T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2027-01-12T10:15:00",
+		"endTime": "2027-01-12T11:45:00"
 	},
 	{
 		"name": "MVT (Mechanische Verfahrenstechnik 2)",
 		"location": "N 3.09 Fritz Landmann Raum, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nMax. Anzahl von Teilnehmer/-innen: 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Vorlesung 5V",
-		"startTime": "2026-07-09T14:30:00",
-		"endTime": "2026-07-09T16:00:00"
+		"description": "Dozent: Prof. Dr. Bernd Sadlowsky\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2027-01-19T10:15:00",
+		"endTime": "2027-01-19T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-10-08T10:15:00",
+		"endTime": "2026-10-08T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-10-15T10:15:00",
+		"endTime": "2026-10-15T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-10-22T10:15:00",
+		"endTime": "2026-10-22T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-10-29T10:15:00",
+		"endTime": "2026-10-29T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-11-05T10:15:00",
+		"endTime": "2026-11-05T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-11-12T10:15:00",
+		"endTime": "2026-11-12T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-11-19T10:15:00",
+		"endTime": "2026-11-19T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-11-26T10:15:00",
+		"endTime": "2026-11-26T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-12-03T10:15:00",
+		"endTime": "2026-12-03T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-12-10T10:15:00",
+		"endTime": "2026-12-10T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2026-12-17T10:15:00",
+		"endTime": "2026-12-17T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2027-01-07T10:15:00",
+		"endTime": "2027-01-07T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2027-01-14T10:15:00",
+		"endTime": "2027-01-14T11:45:00"
+	},
+	{
+		"name": "MVT (Mechanische Verfahrenstechnik 2)",
+		"location": "N2.30, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Kai Freudenthal\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Mechanische Verfahrenstechnik 2",
+		"startTime": "2027-01-21T10:15:00",
+		"endTime": "2027-01-21T11:45:00"
 	}
 ]

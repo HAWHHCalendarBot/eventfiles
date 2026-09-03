@@ -1,1 +1,51 @@
-[]
+[
+	{
+		"name": "OChe (Organische Chemie)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Alexander Laatsch\nTeilnehmer/-innen: ? / 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Organische Chemie ^ 2U/2V",
+		"startTime": "2026-11-24T08:30:00",
+		"endTime": "2026-11-24T11:45:00"
+	},
+	{
+		"name": "OChe (Organische Chemie)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Alexander Laatsch\nTeilnehmer/-innen: ? / 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Organische Chemie ^ 2U/2V",
+		"startTime": "2026-12-01T08:30:00",
+		"endTime": "2026-12-01T11:45:00"
+	},
+	{
+		"name": "OChe (Organische Chemie)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Alexander Laatsch\nTeilnehmer/-innen: ? / 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Organische Chemie ^ 2U/2V",
+		"startTime": "2026-12-08T08:30:00",
+		"endTime": "2026-12-08T11:45:00"
+	},
+	{
+		"name": "OChe (Organische Chemie)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Alexander Laatsch\nTeilnehmer/-innen: ? / 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Organische Chemie ^ 2U/2V",
+		"startTime": "2026-12-15T08:30:00",
+		"endTime": "2026-12-15T11:45:00"
+	},
+	{
+		"name": "OChe (Organische Chemie)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Alexander Laatsch\nTeilnehmer/-innen: ? / 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Organische Chemie ^ 2U/2V",
+		"startTime": "2027-01-05T08:30:00",
+		"endTime": "2027-01-05T11:45:00"
+	},
+	{
+		"name": "OChe (Organische Chemie)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Alexander Laatsch\nTeilnehmer/-innen: ? / 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Organische Chemie ^ 2U/2V",
+		"startTime": "2027-01-12T08:30:00",
+		"endTime": "2027-01-12T11:45:00"
+	},
+	{
+		"name": "OChe (Organische Chemie)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Alexander Laatsch\nTeilnehmer/-innen: ? / 50\nRhythmus: wöchentlich\n\nOriginaler Titel: Organische Chemie ^ 2U/2V",
+		"startTime": "2027-01-19T08:30:00",
+		"endTime": "2027-01-19T11:45:00"
+	}
+]

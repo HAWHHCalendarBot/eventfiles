@@ -1,30 +1,51 @@
 [
 	{
-		"name": "EinfHEV/01 (Einführung in Humanernährung und Verpflegung)",
-		"location": "1.10, Berliner Tor 5",
-		"description": "Dozent: Prof. Dr. Anja Carlsohn\nParallelgruppe: 1\nRhythmus: Einzeltermin\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung ^ PG 1 - Humanernährung (1. Parallelgruppe)",
-		"startTime": "2026-04-10T08:30:00",
-		"endTime": "2026-04-10T14:00:00"
+		"name": "EinfHEV (Einführung in Humanernährung und Verpflegung)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Ernestine Tecklenburg\nRhythmus: Einzeltermin\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung",
+		"startTime": "2026-10-09T08:30:00",
+		"endTime": "2026-10-09T11:45:00"
 	},
 	{
-		"name": "EinfHEV/01 (Einführung in Humanernährung und Verpflegung)",
-		"location": "1.10, Berliner Tor 5",
-		"description": "Dozent: Prof. Dr. Anja Carlsohn\nParallelgruppe: 1\nRhythmus: Einzeltermin\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung ^ PG 1 - Humanernährung (1. Parallelgruppe)",
-		"startTime": "2026-04-24T08:30:00",
-		"endTime": "2026-04-24T14:00:00"
+		"name": "EinfHEV (Einführung in Humanernährung und Verpflegung)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Anja Carlsohn\nRhythmus: vierwöchentlich\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung",
+		"startTime": "2026-10-16T08:30:00",
+		"endTime": "2026-10-16T14:00:00"
 	},
 	{
-		"name": "EinfHEV/01 (Einführung in Humanernährung und Verpflegung)",
-		"location": "1.10, Berliner Tor 5",
-		"description": "Dozent: Prof. Dr. Anja Carlsohn\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung ^ PG 1 - Humanernährung (1. Parallelgruppe)",
-		"startTime": "2026-06-26T08:30:00",
-		"endTime": "2026-06-26T14:00:00"
+		"name": "EinfHEV (Einführung in Humanernährung und Verpflegung)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Anja Carlsohn\nRhythmus: vierwöchentlich\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung",
+		"startTime": "2026-12-11T08:30:00",
+		"endTime": "2026-12-11T14:00:00"
 	},
 	{
-		"name": "EinfHEV/01 (Einführung in Humanernährung und Verpflegung)",
-		"location": "1.10, Berliner Tor 5",
-		"description": "Dozent: Prof. Dr. Anja Carlsohn\nParallelgruppe: 1\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung ^ PG 1 - Humanernährung (1. Parallelgruppe)",
-		"startTime": "2026-07-03T08:30:00",
-		"endTime": "2026-07-03T14:00:00"
+		"name": "EinfHEV (Einführung in Humanernährung und Verpflegung)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Anja Carlsohn\nRhythmus: vierwöchentlich\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung",
+		"startTime": "2027-01-08T08:30:00",
+		"endTime": "2027-01-08T14:00:00"
+	},
+	{
+		"name": "EinfHEV (Einführung in Humanernährung und Verpflegung)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Anja Carlsohn\nRhythmus: Einzeltermin\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung",
+		"startTime": "2026-10-23T08:30:00",
+		"endTime": "2026-10-23T14:00:00"
+	},
+	{
+		"name": "EinfHEV (Einführung in Humanernährung und Verpflegung)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Ernestine Tecklenburg\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung",
+		"startTime": "2027-01-15T08:30:00",
+		"endTime": "2027-01-15T11:45:00"
+	},
+	{
+		"name": "EinfHEV (Einführung in Humanernährung und Verpflegung)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Ernestine Tecklenburg\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung",
+		"startTime": "2027-01-22T08:30:00",
+		"endTime": "2027-01-22T11:45:00"
 	}
 ]

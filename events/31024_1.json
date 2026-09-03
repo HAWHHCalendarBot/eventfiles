@@ -1,23 +1,51 @@
 [
 	{
 		"name": "PMP2/01 (Programmiermethodik II Praktikum)",
-		"location": "11.01a, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Axel Schmolitzky\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Programmiermethodik II Praktikum ^ (1ITS-PMP2.LV-P) Gruppe 1 (A,2.FS) (1. Parallelgruppe)",
-		"startTime": "2026-05-22T12:45:00",
-		"endTime": "2026-05-22T16:00:00"
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Andreas Priesnitz\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Programmiermethodik II Praktikum ^ Gruppe 1 TurnG (1. Parallelgruppe)",
+		"startTime": "2026-10-16T16:15:00",
+		"endTime": "2026-10-16T17:45:00"
 	},
 	{
 		"name": "PMP2/01 (Programmiermethodik II Praktikum)",
-		"location": "11.01a, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Axel Schmolitzky\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Programmiermethodik II Praktikum ^ (1ITS-PMP2.LV-P) Gruppe 1 (A,2.FS) (1. Parallelgruppe)",
-		"startTime": "2026-06-12T12:45:00",
-		"endTime": "2026-06-12T16:00:00"
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Andreas Priesnitz\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Programmiermethodik II Praktikum ^ Gruppe 1 TurnG (1. Parallelgruppe)",
+		"startTime": "2026-10-30T16:15:00",
+		"endTime": "2026-10-30T17:45:00"
 	},
 	{
 		"name": "PMP2/01 (Programmiermethodik II Praktikum)",
-		"location": "11.01a, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Axel Schmolitzky\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Programmiermethodik II Praktikum ^ (1ITS-PMP2.LV-P) Gruppe 1 (A,2.FS) (1. Parallelgruppe)",
-		"startTime": "2026-07-03T12:45:00",
-		"endTime": "2026-07-03T16:00:00"
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Andreas Priesnitz\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Programmiermethodik II Praktikum ^ Gruppe 1 TurnG (1. Parallelgruppe)",
+		"startTime": "2026-11-13T16:15:00",
+		"endTime": "2026-11-13T17:45:00"
+	},
+	{
+		"name": "PMP2/01 (Programmiermethodik II Praktikum)",
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Andreas Priesnitz\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Programmiermethodik II Praktikum ^ Gruppe 1 TurnG (1. Parallelgruppe)",
+		"startTime": "2026-11-27T16:15:00",
+		"endTime": "2026-11-27T17:45:00"
+	},
+	{
+		"name": "PMP2/01 (Programmiermethodik II Praktikum)",
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Andreas Priesnitz\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Programmiermethodik II Praktikum ^ Gruppe 1 TurnG (1. Parallelgruppe)",
+		"startTime": "2026-12-11T16:15:00",
+		"endTime": "2026-12-11T17:45:00"
+	},
+	{
+		"name": "PMP2/01 (Programmiermethodik II Praktikum)",
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Andreas Priesnitz\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Programmiermethodik II Praktikum ^ Gruppe 1 TurnG (1. Parallelgruppe)",
+		"startTime": "2027-01-08T16:15:00",
+		"endTime": "2027-01-08T17:45:00"
+	},
+	{
+		"name": "PMP2/01 (Programmiermethodik II Praktikum)",
+		"location": "11.65, Berliner Tor 7",
+		"description": "Dozent: Andreas Priesnitz\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Programmiermethodik II Praktikum ^ Gruppe 1 TurnG (1. Parallelgruppe)",
+		"startTime": "2027-01-22T16:15:00",
+		"endTime": "2027-01-22T17:45:00"
 	}
 ]

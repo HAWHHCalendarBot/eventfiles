@@ -1,44 +1,51 @@
 [
 	{
 		"name": "SL (Strömungslehre)",
-		"location": "S2.30 Hörsaal Physik 2, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Isabell Bagemihl\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
-		"startTime": "2026-04-17T08:30:00",
-		"endTime": "2026-04-17T11:45:00"
+		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Isabell Bagemihl\nTeilnehmer/-innen: ? / 40\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
+		"startTime": "2026-10-16T08:30:00",
+		"endTime": "2026-10-16T11:45:00"
 	},
 	{
 		"name": "SL (Strömungslehre)",
-		"location": "S2.30 Hörsaal Physik 2, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Isabell Bagemihl\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
-		"startTime": "2026-05-15T08:30:00",
-		"endTime": "2026-05-15T11:45:00"
+		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Isabell Bagemihl\nTeilnehmer/-innen: ? / 40\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
+		"startTime": "2026-10-30T08:30:00",
+		"endTime": "2026-10-30T11:45:00"
 	},
 	{
 		"name": "SL (Strömungslehre)",
-		"location": "S2.30 Hörsaal Physik 2, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Isabell Bagemihl\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
-		"startTime": "2026-05-29T08:30:00",
-		"endTime": "2026-05-29T11:45:00"
+		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Isabell Bagemihl\nTeilnehmer/-innen: ? / 40\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
+		"startTime": "2026-11-13T08:30:00",
+		"endTime": "2026-11-13T11:45:00"
 	},
 	{
 		"name": "SL (Strömungslehre)",
-		"location": "S2.30 Hörsaal Physik 2, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Isabell Bagemihl\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
-		"startTime": "2026-06-12T08:30:00",
-		"endTime": "2026-06-12T11:45:00"
+		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Isabell Bagemihl\nTeilnehmer/-innen: ? / 40\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
+		"startTime": "2026-11-27T08:30:00",
+		"endTime": "2026-11-27T11:45:00"
 	},
 	{
 		"name": "SL (Strömungslehre)",
-		"location": "S2.30 Hörsaal Physik 2, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Isabell Bagemihl\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
-		"startTime": "2026-06-26T08:30:00",
-		"endTime": "2026-06-26T11:45:00"
+		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Isabell Bagemihl\nTeilnehmer/-innen: ? / 40\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
+		"startTime": "2026-12-11T08:30:00",
+		"endTime": "2026-12-11T11:45:00"
 	},
 	{
 		"name": "SL (Strömungslehre)",
-		"location": "S2.30 Hörsaal Physik 2, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Isabell Bagemihl\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
-		"startTime": "2026-07-10T08:30:00",
-		"endTime": "2026-07-10T11:45:00"
+		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Isabell Bagemihl\nTeilnehmer/-innen: ? / 40\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
+		"startTime": "2027-01-08T08:30:00",
+		"endTime": "2027-01-08T11:45:00"
+	},
+	{
+		"name": "SL (Strömungslehre)",
+		"location": "S3.03, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Isabell Bagemihl\nTeilnehmer/-innen: ? / 40\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Strömungslehre",
+		"startTime": "2027-01-22T08:30:00",
+		"endTime": "2027-01-22T11:45:00"
 	}
 ]

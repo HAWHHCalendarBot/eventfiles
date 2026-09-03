@@ -1,23 +1,16 @@
 [
 	{
 		"name": "KO PRAK (Kolloquium Praxissemester (An- und Abtestat))",
-		"location": "0.45, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: vierwöchentlich\n\nOriginaler Titel: An- und Abtestat",
-		"startTime": "2026-05-07T14:30:00",
-		"endTime": "2026-05-07T17:45:00"
+		"location": "N4.07, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Gesine Cornelissen\nTeilnehmer/-innen: ? / 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Kolloquium Praxissemester",
+		"startTime": "2026-10-15T14:30:00",
+		"endTime": "2026-10-15T17:45:00"
 	},
 	{
 		"name": "KO PRAK (Kolloquium Praxissemester (An- und Abtestat))",
-		"location": "0.45, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: vierwöchentlich\n\nOriginaler Titel: An- und Abtestat",
-		"startTime": "2026-07-02T14:30:00",
-		"endTime": "2026-07-02T17:45:00"
-	},
-	{
-		"name": "KO PRAK (Kolloquium Praxissemester (An- und Abtestat))",
-		"location": "N4.12, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Gesine Cornelissen\nMax. Anzahl von Teilnehmer/-innen: 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: An- und Abtestat",
-		"startTime": "2026-06-11T14:30:00",
-		"endTime": "2026-06-11T17:45:00"
+		"location": "N4.07, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Gesine Cornelissen\nTeilnehmer/-innen: ? / 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Kolloquium Praxissemester",
+		"startTime": "2027-01-07T14:30:00",
+		"endTime": "2027-01-07T17:45:00"
 	}
 ]

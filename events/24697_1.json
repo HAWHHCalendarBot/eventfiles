@@ -1,23 +1,51 @@
 [
 	{
 		"name": "Praktikum (Praktikum)",
-		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Nina Riedel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praktikum - Einführung",
-		"startTime": "2026-04-10T09:15:00",
-		"endTime": "2026-04-10T10:00:00"
+		"location": "S4.04, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Nina Riedel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praktikum",
+		"startTime": "2026-10-09T13:15:00",
+		"endTime": "2026-10-09T14:00:00"
 	},
 	{
 		"name": "Praktikum (Praktikum)",
-		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Nina Riedel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praktikum - Einführung",
-		"startTime": "2026-04-17T09:15:00",
-		"endTime": "2026-04-17T10:00:00"
+		"location": "S4.04, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Nina Riedel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praktikum",
+		"startTime": "2026-10-16T13:15:00",
+		"endTime": "2026-10-16T14:00:00"
 	},
 	{
 		"name": "Praktikum (Praktikum)",
-		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Nina Riedel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praktikum - Einführung",
-		"startTime": "2026-04-24T09:15:00",
-		"endTime": "2026-04-24T10:00:00"
+		"location": "S4.04, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Nina Riedel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praktikum",
+		"startTime": "2026-10-23T13:15:00",
+		"endTime": "2026-10-23T14:00:00"
+	},
+	{
+		"name": "Praktikum (Praktikum)",
+		"location": "S4.04, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Nina Riedel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praktikum",
+		"startTime": "2026-10-30T13:15:00",
+		"endTime": "2026-10-30T14:00:00"
+	},
+	{
+		"name": "Praktikum (Praktikum)",
+		"location": "S4.04, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Nina Riedel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praktikum",
+		"startTime": "2026-11-06T13:15:00",
+		"endTime": "2026-11-06T14:00:00"
+	},
+	{
+		"name": "Praktikum (Praktikum)",
+		"location": "S4.04, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Nina Riedel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praktikum",
+		"startTime": "2026-11-13T13:15:00",
+		"endTime": "2026-11-13T14:00:00"
+	},
+	{
+		"name": "Praktikum (Praktikum)",
+		"location": "S4.04, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Nina Riedel\nRhythmus: wöchentlich\n\nOriginaler Titel: Praktikum",
+		"startTime": "2026-11-20T13:15:00",
+		"endTime": "2026-11-20T14:00:00"
 	}
 ]

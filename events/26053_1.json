@@ -1,86 +1,30 @@
 [
 	{
 		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-04-21T08:15:00",
-		"endTime": "2026-04-21T09:45:00"
+		"location": "2.01, Alexanderstraße 1",
+		"description": "Dozent: Dr. Dr. Katherine Braun\nParallelgruppe: 1\nRhythmus: Einzeltermin\n\nOriginaler Titel: BASA M16.2.4 Konzepte, Theorien und Politiken der Migration (1. Parallelgruppe)",
+		"startTime": "2026-12-11T14:30:00",
+		"endTime": "2026-12-11T17:45:00"
 	},
 	{
 		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-04-28T08:15:00",
-		"endTime": "2026-04-28T09:45:00"
+		"location": "2.01, Alexanderstraße 1",
+		"description": "Dozent: Dr. Dr. Katherine Braun\nParallelgruppe: 1\nRhythmus: Einzeltermin\n\nOriginaler Titel: BASA M16.2.4 Konzepte, Theorien und Politiken der Migration (1. Parallelgruppe)",
+		"startTime": "2026-12-12T10:00:00",
+		"endTime": "2026-12-12T18:00:00"
 	},
 	{
 		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-05-05T08:15:00",
-		"endTime": "2026-05-05T09:45:00"
+		"location": "2.01, Alexanderstraße 1",
+		"description": "Dozent: Dr. Dr. Katherine Braun\nParallelgruppe: 1\nRhythmus: Einzeltermin\n\nOriginaler Titel: BASA M16.2.4 Konzepte, Theorien und Politiken der Migration (1. Parallelgruppe)",
+		"startTime": "2027-01-08T14:30:00",
+		"endTime": "2027-01-08T17:45:00"
 	},
 	{
 		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-05-12T08:15:00",
-		"endTime": "2026-05-12T09:45:00"
-	},
-	{
-		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-05-19T08:15:00",
-		"endTime": "2026-05-19T09:45:00"
-	},
-	{
-		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-05-26T08:15:00",
-		"endTime": "2026-05-26T09:45:00"
-	},
-	{
-		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-06-09T08:15:00",
-		"endTime": "2026-06-09T09:45:00"
-	},
-	{
-		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-06-16T08:15:00",
-		"endTime": "2026-06-16T09:45:00"
-	},
-	{
-		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-06-23T08:15:00",
-		"endTime": "2026-06-23T09:45:00"
-	},
-	{
-		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-06-30T08:15:00",
-		"endTime": "2026-06-30T09:45:00"
-	},
-	{
-		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-07-07T08:15:00",
-		"endTime": "2026-07-07T09:45:00"
-	},
-	{
-		"name": "Migra LV/01 (Migration)",
-		"location": "4.05, Alexanderstraße 1",
-		"description": "Dozent: Olga Kytidou\nParallelgruppe: 1\nMax. Anzahl von Teilnehmer/-innen: 20\nRhythmus: wöchentlich\n\nOriginaler Titel: BASA M16.10 Migration (1. Parallelgruppe)",
-		"startTime": "2026-07-14T08:15:00",
-		"endTime": "2026-07-14T09:45:00"
+		"location": "2.01, Alexanderstraße 1",
+		"description": "Dozent: Dr. Dr. Katherine Braun\nParallelgruppe: 1\nRhythmus: Einzeltermin\n\nOriginaler Titel: BASA M16.2.4 Konzepte, Theorien und Politiken der Migration (1. Parallelgruppe)",
+		"startTime": "2027-01-09T10:00:00",
+		"endTime": "2027-01-09T18:00:00"
 	}
 ]

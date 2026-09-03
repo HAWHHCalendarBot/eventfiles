@@ -1,23 +1,30 @@
 [
 	{
 		"name": "M11 PVL (Thesis Kolloquium)",
-		"location": "5.07, Alexanderstraße 1",
-		"description": "Dozenten: Jeniffer Asiimwe, Wiebke Bendt\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2026-04-15T10:00:00",
-		"endTime": "2026-04-15T14:00:00"
+		"location": "5.05, Alexanderstraße 1",
+		"description": "Dozent: Jeniffer Asiimwe\nTeilnehmer/-innen: ? / 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Thesis Kolloquium",
+		"startTime": "2026-10-01T10:00:00",
+		"endTime": "2026-10-01T13:45:00"
 	},
 	{
 		"name": "M11 PVL (Thesis Kolloquium)",
-		"location": "5.07, Alexanderstraße 1",
-		"description": "Dozenten: Jeniffer Asiimwe, Wiebke Bendt\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2026-04-29T10:00:00",
-		"endTime": "2026-04-29T14:00:00"
+		"location": "5.05, Alexanderstraße 1",
+		"description": "Dozent: Jeniffer Asiimwe\nTeilnehmer/-innen: ? / 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Thesis Kolloquium",
+		"startTime": "2026-10-15T10:00:00",
+		"endTime": "2026-10-15T13:45:00"
 	},
 	{
 		"name": "M11 PVL (Thesis Kolloquium)",
-		"location": "5.07, Alexanderstraße 1",
-		"description": "Dozenten: Jeniffer Asiimwe, Wiebke Bendt\nRhythmus: Einzeltermin\n\nOriginaler Titel: Termingruppe 1",
-		"startTime": "2026-05-20T10:00:00",
-		"endTime": "2026-05-20T14:00:00"
+		"location": "5.05, Alexanderstraße 1",
+		"description": "Dozent: Jeniffer Asiimwe\nTeilnehmer/-innen: ? / 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Thesis Kolloquium",
+		"startTime": "2026-10-29T10:00:00",
+		"endTime": "2026-10-29T13:45:00"
+	},
+	{
+		"name": "M11 PVL (Thesis Kolloquium)",
+		"location": "5.05, Alexanderstraße 1",
+		"description": "Dozent: Jeniffer Asiimwe\nTeilnehmer/-innen: ? / 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Thesis Kolloquium",
+		"startTime": "2026-11-12T10:00:00",
+		"endTime": "2026-11-12T13:45:00"
 	}
 ]
