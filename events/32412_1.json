@@ -37,6 +37,13 @@
 	{
 		"name": "IF-RET (IF Rhetorik)",
 		"location": "232, Berliner Tor 21",
+		"description": "Dozent: Dipl.-Ing. Sybille Hausburg\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: IF Rhetorik",
+		"startTime": "2027-01-06T08:15:00",
+		"endTime": "2027-01-06T11:30:00"
+	},
+	{
+		"name": "IF-RET (IF Rhetorik)",
+		"location": "232, Berliner Tor 21",
 		"description": "Dozent: Dipl.-Ing. Sybille Hausburg\nRhythmus: Einzeltermin\n\nOriginaler Titel: IF Rhetorik",
 		"startTime": "2027-01-16T09:00:00",
 		"endTime": "2027-01-16T12:00:00"

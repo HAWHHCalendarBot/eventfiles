@@ -44,15 +44,8 @@
 	{
 		"name": "IF-ZSM (IF Zeit- und Selbstmanagement)",
 		"location": "232, Berliner Tor 21",
-		"description": "Dozent: Dipl.-Ing. Sybille Hausburg\nRhythmus: Einzeltermin\n\nOriginaler Titel: IF Zeit- und Selbstmanagement",
-		"startTime": "2027-01-06T08:15:00",
-		"endTime": "2027-01-06T11:30:00"
-	},
-	{
-		"name": "IF-ZSM (IF Zeit- und Selbstmanagement)",
-		"location": "232, Berliner Tor 21",
-		"description": "Dozent: Dipl.-Ing. Sybille Hausburg\nRhythmus: Einzeltermin\n\nOriginaler Titel: IF Zeit- und Selbstmanagement",
-		"startTime": "2027-01-20T08:15:00",
-		"endTime": "2027-01-20T11:30:00"
+		"description": "Dozent: Dipl.-Ing. Sybille Hausburg\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: IF Zeit- und Selbstmanagement",
+		"startTime": "2026-12-30T08:15:00",
+		"endTime": "2026-12-30T11:30:00"
 	}
 ]
