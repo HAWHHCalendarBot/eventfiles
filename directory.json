@@ -4921,20 +4921,834 @@
 		},
 		"Fakultät Luftfahrt- und Fahrzeugsysteme": {
 			"subDirectories": {
-				"Bachelor Fahrzeugbau (PO SoSe 2022)": {},
-				"Bachelor Flugzeugbau (PO SoSe 2022)": {},
-				"Bachelor Mechatronik (PO WS 2019/20)": {
+				"Bachelor Fahrzeugbau (PO SoSe 2022)": {
 					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"Werkstoffkunde 2": {
+									"events": {
+										"33447_1": "WK2/01 (Werkstoffkunde 2)",
+										"33447_2": "WK2/02 (Werkstoffkunde 2)"
+									}
+								},
+								"Technisches Zeichnen": {
+									"events": {
+										"33551_1": "TZ/01 (Technisches Zeichnen)",
+										"33551_2": "TZ/02 (Technisches Zeichnen)"
+									}
+								}
+							}
+						},
+						"2. Semester": {
+							"subDirectories": {
+								"Mathematik 2": {
+									"events": {
+										"33465_1": "MA2/01 (Mathematik 2)",
+										"33465_2": "MA2/02 (Mathematik 2)"
+									}
+								},
+								"Festigkeitslehre": {
+									"events": {
+										"33419_1": "TM2/01 (Festigkeitslehre)",
+										"33419_2": "TM2/02 (Festigkeitslehre)"
+									}
+								},
+								"Datenverarbeitung": {
+									"events": {
+										"33545_1": "DV/01 (Datenverarbeitung)",
+										"33545_2": "DV/02 (Datenverarbeitung)"
+									}
+								},
+								"M-22050-FF Grundlagen der darstellenden Geometrie / Einführung in CAD": {
+									"subDirectories": {
+										"Grundlagen der darstellenden Geometrie 1b": {
+											"events": {
+												"33537_1": "DG1b/01 (Grundlagen der darstellenden Geometrie 1b)",
+												"33537_2": "DG1b/02 (Grundlagen der darstellenden Geometrie 1b)"
+											}
+										},
+										"Einführung in CAD": {
+											"events": {
+												"33464_1": "CAD/01 (Einführung in CAD)",
+												"33464_2": "CAD/02 (Einführung in CAD)"
+											}
+										}
+									}
+								}
+							}
+						},
+						"3. Semester": {
+							"subDirectories": {
+								"Studienschwerpunkt Antrieb und Fahrwerk": {
+									"subDirectories": {
+										"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Antrieb und Fahrwerk mit der Vertiefungsrichtung Antrieb": {
+											"events": {
+												"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)",
+												"33653_1": "FEM KE (Finite Elemente Methode (KE))",
+												"33711_1": "VMK (Verbrennungsmotoren Konstruktion)"
+											}
+										},
+										"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Antrieb und Fahrwerk mit der Vertiefungsrichtung Fahrwerk": {
+											"events": {
+												"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)",
+												"33653_1": "FEM KE (Finite Elemente Methode (KE))",
+												"33831_1": "FVT (Faserverbundtechnologie)",
+												"33875_1": "AFS (Aktive Fahrwerksysteme)"
+											}
+										},
+										"Dynamik": {
+											"events": {
+												"33709_1": "TM3/01 (Dynamik)",
+												"33709_2": "TM3/02 (Dynamik)"
+											}
+										},
+										"Maschinenelemente in Fahrzeug- und Flugzeugstrukturen": {
+											"events": {
+												"33815_1": "MFF/01 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)",
+												"33815_2": "MFF/02 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)"
+											}
+										},
+										"Strömungslehre": {
+											"events": {
+												"33688_1": "SLL/01 (Strömungslehre)",
+												"33688_2": "SLL/02 (Strömungslehre)"
+											}
+										},
+										"Thermodynamik": {
+											"events": {
+												"33566_1": "TH/01 (Thermodynamik)",
+												"33566_2": "TH/02 (Thermodynamik)"
+											}
+										},
+										"Grundlagen der Elektrotechnik": {
+											"events": {
+												"33740_1": "GET/01 (Grundlagen der Elektrotechnik)",
+												"33740_2": "GET/02 (Grundlagen der Elektrotechnik)"
+											}
+										}
+									}
+								},
+								"Studienschwerpunkt Karosserieentwicklung": {
+									"subDirectories": {
+										"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Karosserieentwicklung": {
+											"events": {
+												"33833_1": "QM (Qualitätsmanagement)",
+												"33790_1": "FZD (Fahrzeugdesign)"
+											}
+										},
+										"Dynamik": {
+											"events": {
+												"33709_1": "TM3/01 (Dynamik)",
+												"33709_2": "TM3/02 (Dynamik)"
+											}
+										},
+										"Maschinenelemente in Fahrzeug- und Flugzeugstrukturen": {
+											"events": {
+												"33815_1": "MFF/01 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)",
+												"33815_2": "MFF/02 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)"
+											}
+										},
+										"M-15150-FA Vertiefung Darstellende Geometrie": {
+											"events": {
+												"33592_1": "DG2 (Vertiefung Darstellende Geometrie)",
+												"33577_1": "DG2 KGP (Vertiefung Darstellende Geometrie)"
+											}
+										}
+									},
+									"events": {
+										"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)"
+									}
+								},
+								"Studienschwerpunkt Nutz- und Sonderfahrzeuge": {
+									"subDirectories": {
+										"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Nutz- und Sonderfahrzeuge": {
+											"subDirectories": {
+												"Messtechnik": {
+													"events": {
+														"33812_1": "MTL/01 (Messtechnik)",
+														"33812_2": "MTL/02 (Messtechnik)"
+													}
+												}
+											},
+											"events": {
+												"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)",
+												"33803_1": "FEM (Finite Elemente Methode)"
+											}
+										},
+										"Dynamik": {
+											"events": {
+												"33709_1": "TM3/01 (Dynamik)",
+												"33709_2": "TM3/02 (Dynamik)"
+											}
+										},
+										"Maschinenelemente in Fahrzeug- und Flugzeugstrukturen": {
+											"events": {
+												"33815_1": "MFF/01 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)",
+												"33815_2": "MFF/02 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)"
+											}
+										},
+										"Thermodynamik": {
+											"events": {
+												"33566_1": "TH/01 (Thermodynamik)",
+												"33566_2": "TH/02 (Thermodynamik)"
+											}
+										},
+										"Grundlagen der Elektrotechnik": {
+											"events": {
+												"33740_1": "GET/01 (Grundlagen der Elektrotechnik)",
+												"33740_2": "GET/02 (Grundlagen der Elektrotechnik)"
+											}
+										}
+									},
+									"events": {
+										"33736_1": "AST (Antriebsstrang)"
+									}
+								}
+							}
+						},
+						"4. Semester": {
+							"subDirectories": {
+								"Studienschwerpunkt Antrieb und Fahrwerk": {
+									"subDirectories": {
+										"Schwingungslehre und Akustik": {
+											"events": {
+												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
+												"33674_2": "TM4/02 (Schwingungslehre und Akustik)"
+											}
+										},
+										"Integratives Projekt": {
+											"events": {
+												"33813_1": "IP/01 (Integratives Projekt)",
+												"33813_2": "IP/02 (Integratives Projekt)",
+												"33813_3": "IP/03 (Integratives Projekt)"
+											}
+										},
+										"Messtechnik": {
+											"events": {
+												"33812_1": "MTL/01 (Messtechnik)",
+												"33812_2": "MTL/02 (Messtechnik)"
+											}
+										}
+									},
+									"events": {
+										"33818_1": "MIA (Maschinenelemente in Antriebssträngen)",
+										"33661_1": "FWG (Grundlagen der Fahrwerktechnik)",
+										"33801_1": "VMG (Grundlagen der Verbrennungsmotoren)"
+									}
+								},
+								"Studienschwerpunkt Karosserieentwicklung": {
+									"subDirectories": {
+										"Schwingungslehre und Akustik": {
+											"events": {
+												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
+												"33674_2": "TM4/02 (Schwingungslehre und Akustik)"
+											}
+										},
+										"Integratives Projekt": {
+											"events": {
+												"33813_1": "IP/01 (Integratives Projekt)",
+												"33813_2": "IP/02 (Integratives Projekt)",
+												"33813_3": "IP/03 (Integratives Projekt)"
+											}
+										}
+									},
+									"events": {
+										"33759_1": "KK1 (Einführung in die Karosseriekonstruktion)",
+										"33751_1": "FWB (Baugruppen der Fahrwerktechnik)",
+										"33581_1": "NK1 (Grundlagen der Nutzfahrzeugkonstruktion)"
+									}
+								},
+								"Studienschwerpunkt Nutz- und Sonderfahrzeuge": {
+									"subDirectories": {
+										"Schwingungslehre und Akustik": {
+											"events": {
+												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
+												"33674_2": "TM4/02 (Schwingungslehre und Akustik)"
+											}
+										},
+										"Integratives Projekt": {
+											"events": {
+												"33813_1": "IP/01 (Integratives Projekt)",
+												"33813_2": "IP/02 (Integratives Projekt)",
+												"33813_3": "IP/03 (Integratives Projekt)"
+											}
+										}
+									},
+									"events": {
+										"33818_1": "MIA (Maschinenelemente in Antriebssträngen)",
+										"33759_1": "KK1 (Einführung in die Karosseriekonstruktion)",
+										"33581_1": "NK1 (Grundlagen der Nutzfahrzeugkonstruktion)",
+										"33755_1": "NPV (Nutzfahrzeuge für den Personenverkehr)"
+									}
+								}
+							}
+						},
 						"5. Semester": {
 							"subDirectories": {
-								"Grundlagen Projektmanagement": {
+								"Studienschwerpunkt Antrieb und Fahrwerk": {
+									"subDirectories": {
+										"Vertiefungsrichtung Antrieb": {
+											"events": {
+												"33765_1": "VMV (Verfahren der Verbrennungsmotoren)"
+											}
+										},
+										"Vertiefungsrichtung Fahrwerk": {
+											"events": {
+												"33565_1": "FWF (Fahrwerk/Fahrverhalten)"
+											}
+										},
+										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
+											"subDirectories": {
+												"Seminar": {
+													"events": {
+														"33742_1": "SEM/01 (Seminar)",
+														"33742_2": "SEM/02 (Seminar)",
+														"33742_3": "SEM/03 (Seminar)"
+													}
+												},
+												"Planen und Präsentieren von Arbeiten": {
+													"events": {
+														"33595_1": "PPA/01 (Planen und Präsentieren von Arbeiten)",
+														"33595_2": "PPA/02 (Planen und Präsentieren von Arbeiten)"
+													}
+												}
+											}
+										},
+										"Grundlagen der Regelungstechnik": {
+											"events": {
+												"33763_1": "RTL/01 (Grundlagen der Regelungstechnik)",
+												"33763_2": "RTL/02 (Grundlagen der Regelungstechnik)"
+											}
+										},
+										"Fahrzeuglabor": {
+											"events": {
+												"33721_1": "FL/01 (Fahrzeuglabor)",
+												"33721_2": "FL/02 (Fahrzeuglabor)"
+											}
+										}
+									},
 									"events": {
-										"32344_1": "BP_PM_PF/01 (Grundlagen Projektmanagement)",
-										"32344_2": "BP_PM_PF/02 (Grundlagen Projektmanagement)",
-										"32344_3": "BP_PM_PF/03 (Grundlagen Projektmanagement)"
+										"33736_1": "AST (Antriebsstrang)"
+									}
+								},
+								"Studienschwerpunkt Karosserieentwicklung": {
+									"subDirectories": {
+										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
+											"subDirectories": {
+												"Seminar": {
+													"events": {
+														"33742_1": "SEM/01 (Seminar)",
+														"33742_2": "SEM/02 (Seminar)",
+														"33742_3": "SEM/03 (Seminar)"
+													}
+												},
+												"Planen und Präsentieren von Arbeiten": {
+													"events": {
+														"33595_1": "PPA/01 (Planen und Präsentieren von Arbeiten)",
+														"33595_2": "PPA/02 (Planen und Präsentieren von Arbeiten)"
+													}
+												}
+											}
+										}
+									},
+									"events": {
+										"33653_1": "FEM KE (Finite Elemente Methode (KE))",
+										"33792_1": "FIL KE (Festigkeit Leichtbau (KE))",
+										"33739_1": "KK2 (Prismatische und werkzeuggerechte Schalenbereiche)",
+										"33808_1": "CADK (CAD in der Karosseriekonstruktion)"
+									}
+								},
+								"Studienschwerpunkt Nutz- und Sonderfahrzeuge": {
+									"subDirectories": {
+										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
+											"subDirectories": {
+												"Seminar": {
+													"events": {
+														"33742_1": "SEM/01 (Seminar)",
+														"33742_2": "SEM/02 (Seminar)",
+														"33742_3": "SEM/03 (Seminar)"
+													}
+												},
+												"Planen und Präsentieren von Arbeiten": {
+													"events": {
+														"33595_1": "PPA/01 (Planen und Präsentieren von Arbeiten)",
+														"33595_2": "PPA/02 (Planen und Präsentieren von Arbeiten)"
+													}
+												}
+											}
+										}
+									},
+									"events": {
+										"33661_1": "FWG (Grundlagen der Fahrwerktechnik)",
+										"33800_1": "SF2 (Vertiefung Schienenfahrzeuge)"
+									}
+								}
+							}
+						},
+						"6. Semester": {
+							"subDirectories": {
+								"Studienschwerpunkt Antrieb und Fahrwerk": {
+									"subDirectories": {
+										"Vertiefungsrichtung Fahrwerk": {
+											"events": {
+												"33579_1": "FWK (Fahrwerksauslegung/-kinematik)"
+											}
+										},
+										"Vertiefungsrichtung Antrieb": {
+											"events": {
+												"33783_1": "VML Lab (Labor Verbrennungsmotoren)"
+											}
+										},
+										"Betriebswirtschaftslehre": {
+											"events": {
+												"33605_1": "BWL/01 (Betriebswirtschaftslehre)",
+												"33605_2": "BWL/02 (Betriebswirtschaftslehre)"
+											}
+										}
+									}
+								},
+								"Studienschwerpunkt Karosserieentwicklung": {
+									"subDirectories": {
+										"Betriebswirtschaftslehre": {
+											"events": {
+												"33605_1": "BWL/01 (Betriebswirtschaftslehre)",
+												"33605_2": "BWL/02 (Betriebswirtschaftslehre)"
+											}
+										}
+									},
+									"events": {
+										"33806_1": "STK (Strukturkonstruktion (Fa))",
+										"33689_1": "KK3 (Einführung in die Konstruktion von Baugruppen)"
+									}
+								},
+								"Vertiefung Nutz- und Sonderfahrzeuge": {
+									"subDirectories": {
+										"Betriebswirtschaftslehre": {
+											"events": {
+												"33605_1": "BWL/01 (Betriebswirtschaftslehre)",
+												"33605_2": "BWL/02 (Betriebswirtschaftslehre)"
+											}
+										},
+										"Fahrzeuglabor": {
+											"events": {
+												"33721_1": "FL/01 (Fahrzeuglabor)",
+												"33721_2": "FL/02 (Fahrzeuglabor)"
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				"Bachelor Flugzeugbau (PO SoSe 2022)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"Werkstoffkunde 2": {
+									"events": {
+										"33447_1": "WK2/01 (Werkstoffkunde 2)",
+										"33447_2": "WK2/02 (Werkstoffkunde 2)"
+									}
+								},
+								"Technisches Zeichnen": {
+									"events": {
+										"33551_1": "TZ/01 (Technisches Zeichnen)",
+										"33551_2": "TZ/02 (Technisches Zeichnen)"
+									}
+								}
+							}
+						},
+						"2. Semester": {
+							"subDirectories": {
+								"Mathematik 2": {
+									"events": {
+										"33465_1": "MA2/01 (Mathematik 2)",
+										"33465_2": "MA2/02 (Mathematik 2)"
+									}
+								},
+								"Festigkeitslehre": {
+									"events": {
+										"33419_1": "TM2/01 (Festigkeitslehre)",
+										"33419_2": "TM2/02 (Festigkeitslehre)"
+									}
+								},
+								"Datenverarbeitung": {
+									"events": {
+										"33545_1": "DV/01 (Datenverarbeitung)",
+										"33545_2": "DV/02 (Datenverarbeitung)"
+									}
+								},
+								"M-22050-FF Grundlagen der darstellenden Geometrie / Einführung in CAD": {
+									"subDirectories": {
+										"Grundlagen der darstellenden Geometrie 1b": {
+											"events": {
+												"33537_1": "DG1b/01 (Grundlagen der darstellenden Geometrie 1b)",
+												"33537_2": "DG1b/02 (Grundlagen der darstellenden Geometrie 1b)"
+											}
+										},
+										"Einführung in CAD": {
+											"events": {
+												"33464_1": "CAD/01 (Einführung in CAD)",
+												"33464_2": "CAD/02 (Einführung in CAD)"
+											}
+										}
+									}
+								}
+							}
+						},
+						"3. Semester": {
+							"subDirectories": {
+								"Studienschwerpunkt Entwurf und Leichtbau": {
+									"subDirectories": {
+										"Dynamik": {
+											"events": {
+												"33709_1": "TM3/01 (Dynamik)",
+												"33709_2": "TM3/02 (Dynamik)"
+											}
+										},
+										"Maschinenelemente in Fahrzeug- und Flugzeugstrukturen": {
+											"events": {
+												"33815_1": "MFF/01 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)",
+												"33815_2": "MFF/02 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)"
+											}
+										},
+										"Strömungslehre": {
+											"events": {
+												"33688_1": "SLL/01 (Strömungslehre)",
+												"33688_2": "SLL/02 (Strömungslehre)"
+											}
+										},
+										"Thermodynamik": {
+											"events": {
+												"33566_1": "TH/01 (Thermodynamik)",
+												"33566_2": "TH/02 (Thermodynamik)"
+											}
+										},
+										"Grundlagen der Elektrotechnik": {
+											"events": {
+												"33740_1": "GET/01 (Grundlagen der Elektrotechnik)",
+												"33740_2": "GET/02 (Grundlagen der Elektrotechnik)"
+											}
+										}
+									}
+								},
+								"Studienschwerpunkt Kabine und Kabinensysteme": {
+									"subDirectories": {
+										"Dynamik": {
+											"events": {
+												"33709_1": "TM3/01 (Dynamik)",
+												"33709_2": "TM3/02 (Dynamik)"
+											}
+										},
+										"Maschinenelemente in Fahrzeug- und Flugzeugstrukturen": {
+											"events": {
+												"33815_1": "MFF/01 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)",
+												"33815_2": "MFF/02 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)"
+											}
+										},
+										"Strömungslehre": {
+											"events": {
+												"33688_1": "SLL/01 (Strömungslehre)",
+												"33688_2": "SLL/02 (Strömungslehre)"
+											}
+										},
+										"Thermodynamik": {
+											"events": {
+												"33566_1": "TH/01 (Thermodynamik)",
+												"33566_2": "TH/02 (Thermodynamik)"
+											}
+										},
+										"Grundlagen der Elektrotechnik": {
+											"events": {
+												"33740_1": "GET/01 (Grundlagen der Elektrotechnik)",
+												"33740_2": "GET/02 (Grundlagen der Elektrotechnik)"
+											}
+										}
+									}
+								}
+							}
+						},
+						"4. Semester": {
+							"subDirectories": {
+								"Studienschwerpunkt Entwurf und Leichtbau": {
+									"subDirectories": {
+										"Schwingungslehre und Akustik": {
+											"events": {
+												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
+												"33674_2": "TM4/02 (Schwingungslehre und Akustik)"
+											}
+										},
+										"Integratives Projekt": {
+											"events": {
+												"33813_1": "IP/01 (Integratives Projekt)",
+												"33813_2": "IP/02 (Integratives Projekt)",
+												"33813_3": "IP/03 (Integratives Projekt)"
+											}
+										},
+										"M-15460-FL Aerodynamik mit Labor 1": {
+											"events": {
+												"33967_1": "AML1 Lab (Aerodynamik Labor 1)",
+												"33963_1": "AML1 (Aerodynamik 1)"
+											}
+										}
+									},
+									"events": {
+										"33653_1": "FEM KE (Finite Elemente Methode (KE))",
+										"33792_1": "FIL KE (Festigkeit Leichtbau (KE))"
+									}
+								},
+								"Studienschwerpunkt Kabine und Kabinensysteme": {
+									"subDirectories": {
+										"Schwingungslehre und Akustik": {
+											"events": {
+												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
+												"33674_2": "TM4/02 (Schwingungslehre und Akustik)"
+											}
+										},
+										"Integratives Projekt": {
+											"events": {
+												"33813_1": "IP/01 (Integratives Projekt)",
+												"33813_2": "IP/02 (Integratives Projekt)",
+												"33813_3": "IP/03 (Integratives Projekt)"
+											}
+										},
+										"Messtechnik": {
+											"events": {
+												"33812_1": "MTL/01 (Messtechnik)",
+												"33812_2": "MTL/02 (Messtechnik)"
+											}
+										}
+									},
+									"events": {
+										"33965_1": "AKA (Architektur der Kabine)",
+										"33948_1": "FPR (Flugzeugprojekt)"
+									}
+								}
+							}
+						},
+						"5. Semester": {
+							"subDirectories": {
+								"Studienschwerpunkt Entwurf und Leichtbau": {
+									"subDirectories": {
+										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
+											"subDirectories": {
+												"Seminar": {
+													"events": {
+														"33742_1": "SEM/01 (Seminar)",
+														"33742_2": "SEM/02 (Seminar)",
+														"33742_3": "SEM/03 (Seminar)"
+													}
+												},
+												"Planen und Präsentieren von Arbeiten": {
+													"events": {
+														"33595_1": "PPA/01 (Planen und Präsentieren von Arbeiten)",
+														"33595_2": "PPA/02 (Planen und Präsentieren von Arbeiten)"
+													}
+												}
+											}
+										},
+										"M-15490-FL Aerodynamik mit Labor 2": {
+											"events": {
+												"33981_1": "AML2 Lab (Aerodynamik 2 Labor)",
+												"33968_1": "AML2 (Aerodynamik 2)"
+											}
+										},
+										"M-15520-FL Labor im Flugzeugbau": {
+											"events": {
+												"33988_1": "LFB.1 (Leichtbaulabor)",
+												"34003_1": "LFB.2 (Flugmechaniklabor)"
+											}
+										}
+									},
+									"events": {
+										"33978_1": "SKO1 (Strukturkonstruktion 1)",
+										"33997_1": "FM (Flugmechanik)"
+									}
+								},
+								"Studienschwerpunkt Kabine und Kabinensysteme": {
+									"subDirectories": {
+										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
+											"subDirectories": {
+												"Seminar": {
+													"events": {
+														"33742_1": "SEM/01 (Seminar)",
+														"33742_2": "SEM/02 (Seminar)",
+														"33742_3": "SEM/03 (Seminar)"
+													}
+												},
+												"Planen und Präsentieren von Arbeiten": {
+													"events": {
+														"33595_1": "PPA/01 (Planen und Präsentieren von Arbeiten)",
+														"33595_2": "PPA/02 (Planen und Präsentieren von Arbeiten)"
+													}
+												}
+											}
+										},
+										"Grundlagen der Regelungstechnik": {
+											"events": {
+												"33763_1": "RTL/01 (Grundlagen der Regelungstechnik)",
+												"33763_2": "RTL/02 (Grundlagen der Regelungstechnik)"
+											}
+										}
+									},
+									"events": {
+										"33959_1": "MKS (Mechanische Kabinensysteme)",
+										"33971_1": "EKS (Elektrische Kabinensysteme)",
+										"33982_1": "FUS (Faserverbund- und Sandwichstrukturen)"
+									}
+								}
+							}
+						},
+						"6. Semester": {
+							"subDirectories": {
+								"Studienschwerpunkt Entwurf und Leichtbau": {
+									"subDirectories": {
+										"Betriebswirtschaftslehre": {
+											"events": {
+												"33605_1": "BWL/01 (Betriebswirtschaftslehre)",
+												"33605_2": "BWL/02 (Betriebswirtschaftslehre)"
+											}
+										}
+									},
+									"events": {
+										"33969_1": "SKO2 (Strukturkonstruktion2)",
+										"34001_1": "FE (Flugzeugentwurf)"
+									}
+								},
+								"Studienschwerpunkt Kabine und Kabinensysteme": {
+									"subDirectories": {
+										"Betriebswirtschaftslehre": {
+											"events": {
+												"33605_1": "BWL/01 (Betriebswirtschaftslehre)",
+												"33605_2": "BWL/02 (Betriebswirtschaftslehre)"
+											}
+										}
+									},
+									"events": {
+										"33994_1": "KMO (Kabinenmodule und -monumente)",
+										"33976_1": "LKK (Labor Kabine und Kabinensysteme)"
+									}
+								}
+							}
+						}
+					}
+				},
+				"Bachelor Mechatronik (PO WS 2019/20)": {
+					"subDirectories": {
+						"3. Semester": {
+							"subDirectories": {
+								"M-12 Konstruktion 3": {
+									"events": {
+										"29393_1": "KO3 (Konstruktion 3)",
+										"29211_1": "KOP3 (Konstruktion 3 Laborpraktikum)"
+									}
+								},
+								"M-13-P Mechatronische Systeme 1": {
+									"events": {
+										"29429_1": "MS1 (Mechatronische Systeme 1)",
+										"29400_1": "MSP1 (Mechatronische Systeme 1 Laborpraktikum)"
+									}
+								},
+								"M-14 Systems und Software Engineering": {
+									"subDirectories": {
+										"Systems und Software Engineering Laborpraktikum": {
+											"events": {
+												"29399_1": "SEP/01 (Systems und Software Engineering Laborpraktikum)",
+												"29399_2": "SEP/02 (Systems und Software Engineering Laborpraktikum)",
+												"29399_3": "SEP/03 (Systems und Software Engineering Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"29444_1": "SE (Systems und Software Engineering)"
+									}
+								},
+								"M-15-P Digitaltechnik": {
+									"events": {
+										"29304_1": "DT (Digitaltechnik)",
+										"29394_1": "DTP (Digitaltechnik Laborpraktikum)"
+									}
+								},
+								"M-16 Fertigungstechnik": {
+									"events": {
+										"29504_1": "FT (Fertigungstechnik)",
+										"29357_1": "FTP (Fertigungstechnik Praktikum)"
+									}
+								}
+							},
+							"events": {
+								"29245_1": "WK (Werkstoffkunde)"
+							}
+						},
+						"5. Semester": {
+							"subDirectories": {
+								"Studienschwerpunkt Mechatronik im Fahrzeug- und Flugzeugbau": {
+									"subDirectories": {
+										"M-SWP31 Simulation und Identifikation Dynamischer Systeme": {
+											"events": {
+												"29586_1": "SI (Simulation und Identifikation Dynamischer Systeme)",
+												"29585_1": "SIP (Simulation und Identifikation Dynamischer Systeme Laborpraktikum)"
+											}
+										}
+									}
+								},
+								"M-24-P Automatisierungstechnik 2": {
+									"subDirectories": {
+										"Automatisierungstechnik 2 Laborpraktikum": {
+											"events": {
+												"29428_1": "ATP2/01 (Automatisierungstechnik 2 Laborpraktikum)",
+												"29428_2": "ATP2/02 (Automatisierungstechnik 2 Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"29485_1": "AT2 (Automatisierungstechnik 2)"
+									}
+								},
+								"M-25-P Bussysteme": {
+									"subDirectories": {
+										"Bussysteme Laborpraktikum": {
+											"events": {
+												"29343_1": "BUP/01 (Bussysteme Laborpraktikum)",
+												"29343_2": "BUP/02 (Bussysteme Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"29432_1": "BU (Bussysteme)"
+									}
+								},
+								"M-27 Bachelorprojekt": {
+									"subDirectories": {
+										"Grundlagen Projektmanagement": {
+											"events": {
+												"32344_1": "BP_PM_PF/01 (Grundlagen Projektmanagement)",
+												"32344_2": "BP_PM_PF/02 (Grundlagen Projektmanagement)",
+												"32344_3": "BP_PM_PF/03 (Grundlagen Projektmanagement)"
+											}
+										}
+									},
+									"events": {
+										"29455_1": "PM (Grundlagen Projektmanagement)"
+									}
+								},
+								"M-26-P Mechatronisches Design": {
+									"events": {
+										"29435_1": "MD (Mechatronisches Design)",
+										"29342_1": "MDP (Mechatronisches Design Laborpraktikum)"
 									}
 								},
 								"M-IF01 Integrationsfächer": {
+									"subDirectories": {
+										"Seminar": {
+											"events": {
+												"33742_1": "SEM/01 (Seminar)",
+												"33742_2": "SEM/02 (Seminar)",
+												"33742_3": "SEM/03 (Seminar)"
+											}
+										}
+									},
 									"events": {
 										"32341_1": "IF-ZSM (IF Zeit- und Selbstmanagement)",
 										"32277_1": "IF-Office (IF MS Office)",
@@ -4954,11 +5768,142 @@
 									}
 								}
 							}
+						},
+						"6. Semester": {
+							"subDirectories": {
+								"Studienschwerpunkt Robotik": {
+									"subDirectories": {
+										"M-SWP14-P Robotertechnik": {
+											"events": {
+												"29449_1": "RO (Robotertechnik)",
+												"29327_1": "ROP (Robotertechnik Laborpraktikum)"
+											}
+										},
+										"M-SWP15-P Sensorik": {
+											"subDirectories": {
+												"Sensorik Laborpraktikum": {
+													"events": {
+														"29374_1": "SNP/01 (Sensorik Laborpraktikum)",
+														"29374_2": "SNP/02 (Sensorik Laborpraktikum)"
+													}
+												}
+											},
+											"events": {
+												"29487_1": "SN (Sensorik)"
+											}
+										}
+									}
+								},
+								"Studienschwerpunkt Dynamik der Antriebe": {
+									"subDirectories": {
+										"M-SWP22 Werkzeugmaschinen": {
+											"events": {
+												"29505_1": "WM (Werkzeugmaschinen)",
+												"29474_1": "WMP (Werkzeugmaschinen Laborpraktikum)"
+											}
+										},
+										"M-SWP23 Leistungselektronik": {
+											"subDirectories": {
+												"Leistungselektronik Laborpraktikum": {
+													"events": {
+														"29351_1": "LEP/01 (Leistungselektronik Laborpraktikum)",
+														"29351_2": "LEP/02 (Leistungselektronik Laborpraktikum)"
+													}
+												}
+											},
+											"events": {
+												"29412_1": "LE (Leistungselektronik)"
+											}
+										}
+									}
+								},
+								"Studienschwerpunkt Mechatronik im Fahrzeug- und Flugzeugbau": {
+									"events": {
+										"33831_1": "FVT (Faserverbundtechnologie)",
+										"33971_1": "EKS (Elektrische Kabinensysteme)",
+										"33875_1": "AFS (Aktive Fahrwerksysteme)"
+									}
+								}
+							}
 						}
 					}
 				},
-				"Master Fahrzeugbau (PO SoSe 2022)": {},
-				"Master Flugzeugbau (PO SoSe 2022)": {}
+				"Master Fahrzeugbau (PO SoSe 2022)": {
+					"subDirectories": {
+						"Pflichtmodule": {
+							"subDirectories": {
+								"Systems-Engineering": {
+									"events": {
+										"29082_1": "SYE.LV/01 (Systems-Engineering)",
+										"29082_2": "SYE.LV/02 (Systems-Engineering)"
+									}
+								}
+							},
+							"events": {
+								"29054_1": "MIP.LV (Management in der Produktentwicklung)"
+							}
+						},
+						"Übergreifende Wahlpflichtmodule für den Studiengang Fahrzeugbau": {
+							"events": {
+								"29057_1": "AKU.LV (Akustik)",
+								"28989_1": "BFV.LV (Berechnung von Faserverbundwerkstoffen)",
+								"29069_1": "ZUF (Zufallsschwingungen in Theorie und Anwendung)",
+								"29061_1": "BFA.LV (Betriebsfestigkeit im Fahrzeugbau)"
+							}
+						},
+						"Wahlpflichtmodule für den Studiengang Fahrzeugbau, Studienschwerpunkt Karosserieentwicklung": {
+							"events": {
+								"29043_1": "PER.LV (Package und Ergonomie)",
+								"29072_1": "SIK.LV1 (Simulationsbasierte Karosserieentwicklung)"
+							}
+						},
+						"Wahlpflichtmodule für den Studiengang Fahrzeugbau, Studienschwerpunkt Antrieb und Fahrwerk": {
+							"events": {
+								"28998_1": "AAK.LV (Alternative Antriebe und Kraftstoffe)",
+								"29016_1": "SIF.LV1 (Simulation in der Fahrwerktechnik)",
+								"29092_1": "SVS.LV (Statistische Versuchsplanung und Simulation)"
+							}
+						}
+					}
+				},
+				"Master Flugzeugbau (PO SoSe 2022)": {
+					"subDirectories": {
+						"Pflichtmodule": {
+							"subDirectories": {
+								"Systems-Engineering": {
+									"events": {
+										"29082_1": "SYE.LV/01 (Systems-Engineering)",
+										"29082_2": "SYE.LV/02 (Systems-Engineering)"
+									}
+								}
+							},
+							"events": {
+								"29054_1": "MIP.LV (Management in der Produktentwicklung)"
+							}
+						},
+						"Übergreifende Wahlpflichtmodule für den Studiengang Flugzeugbau": {
+							"events": {
+								"29160_1": "HAD.LV (Hubschrauberaerodynamik)",
+								"29057_1": "AKU.LV (Akustik)",
+								"28989_1": "BFV.LV (Berechnung von Faserverbundwerkstoffen)",
+								"29069_1": "ZUF (Zufallsschwingungen in Theorie und Anwendung)"
+							}
+						},
+						"Wahlpflichtmodule für den Studiengang Flugzeugbau, Studienschwerpunkt Entwurf und Leichtbau": {
+							"events": {
+								"29191_1": "FM2.LV (Flugmechanik 2)",
+								"29156_1": "HFL.LV (Höhere Festigkeitslehre für den Leichtbau)",
+								"29165_1": "VFB.LV (Versuchstechniken im Flugzeugbau)"
+							}
+						},
+						"Wahlpflichtmodule für den Studiengang Flugzeugbau, Studienschwerpunkt Kabine- und Kabinensysteme": {
+							"events": {
+								"29137_1": "ESW.LV (Entwurf und Dimensionierung von Sandwichstrukturen)",
+								"29167_1": "VEK.LV (Vertiefung elektrische Kabinensysteme)"
+							}
+						}
+					}
+				}
 			}
 		},
 		"Fakultät Management, Governance und Medien": {
@@ -5858,9 +6803,16 @@
 															}
 														},
 														"M-20910 Konstruktive Festigkeit": {
+															"subDirectories": {
+																"Konstruktive Festigkeit Laborpraktikum": {
+																	"events": {
+																		"32874_1": "KONFE L/01 (Konstruktive Festigkeit Laborpraktikum)",
+																		"32874_2": "KONFE L/02 (Konstruktive Festigkeit Laborpraktikum)"
+																	}
+																}
+															},
 															"events": {
-																"32703_1": "KONFE (Konstruktive Festigkeit)",
-																"32874_1": "KONFE L (Konstruktive Festigkeit Laborpraktikum)"
+																"32703_1": "KONFE (Konstruktive Festigkeit)"
 															}
 														},
 														"M-20940 Entwicklungs- und Konstruktionsmanagement": {
@@ -6150,9 +7102,16 @@
 																	}
 																},
 																"M-20910 Konstruktive Festigkeit": {
+																	"subDirectories": {
+																		"Konstruktive Festigkeit Laborpraktikum": {
+																			"events": {
+																				"32874_1": "KONFE L/01 (Konstruktive Festigkeit Laborpraktikum)",
+																				"32874_2": "KONFE L/02 (Konstruktive Festigkeit Laborpraktikum)"
+																			}
+																		}
+																	},
 																	"events": {
-																		"32703_1": "KONFE (Konstruktive Festigkeit)",
-																		"32874_1": "KONFE L (Konstruktive Festigkeit Laborpraktikum)"
+																		"32703_1": "KONFE (Konstruktive Festigkeit)"
 																	}
 																},
 																"M-20940 Entwicklungs- und Konstruktionsmanagement": {
@@ -6486,9 +7445,16 @@
 															}
 														},
 														"M-20910 Konstruktive Festigkeit": {
+															"subDirectories": {
+																"Konstruktive Festigkeit Laborpraktikum": {
+																	"events": {
+																		"32874_1": "KONFE L/01 (Konstruktive Festigkeit Laborpraktikum)",
+																		"32874_2": "KONFE L/02 (Konstruktive Festigkeit Laborpraktikum)"
+																	}
+																}
+															},
 															"events": {
-																"32703_1": "KONFE (Konstruktive Festigkeit)",
-																"32874_1": "KONFE L (Konstruktive Festigkeit Laborpraktikum)"
+																"32703_1": "KONFE (Konstruktive Festigkeit)"
 															}
 														},
 														"M-20940 Entwicklungs- und Konstruktionsmanagement": {
@@ -6991,9 +7957,16 @@
 													}
 												},
 												"M-20910 Konstruktive Festigkeit": {
+													"subDirectories": {
+														"Konstruktive Festigkeit Laborpraktikum": {
+															"events": {
+																"32874_1": "KONFE L/01 (Konstruktive Festigkeit Laborpraktikum)",
+																"32874_2": "KONFE L/02 (Konstruktive Festigkeit Laborpraktikum)"
+															}
+														}
+													},
 													"events": {
-														"32703_1": "KONFE (Konstruktive Festigkeit)",
-														"32874_1": "KONFE L (Konstruktive Festigkeit Laborpraktikum)"
+														"32703_1": "KONFE (Konstruktive Festigkeit)"
 													}
 												},
 												"M-20940 Entwicklungs- und Konstruktionsmanagement": {
@@ -7488,9 +8461,16 @@
 															}
 														},
 														"M-20910 Konstruktive Festigkeit": {
+															"subDirectories": {
+																"Konstruktive Festigkeit Laborpraktikum": {
+																	"events": {
+																		"32874_1": "KONFE L/01 (Konstruktive Festigkeit Laborpraktikum)",
+																		"32874_2": "KONFE L/02 (Konstruktive Festigkeit Laborpraktikum)"
+																	}
+																}
+															},
 															"events": {
-																"32703_1": "KONFE (Konstruktive Festigkeit)",
-																"32874_1": "KONFE L (Konstruktive Festigkeit Laborpraktikum)"
+																"32703_1": "KONFE (Konstruktive Festigkeit)"
 															}
 														},
 														"M-20940 Entwicklungs- und Konstruktionsmanagement": {
@@ -10490,7 +11470,6 @@
 										}
 									},
 									"events": {
-										"25498_1": "M22.3 TG (TPS Praxisbegleitung)",
 										"37334_1": "M5 LV (Praktikum)"
 									}
 								},
@@ -10698,7 +11677,6 @@
 										}
 									},
 									"events": {
-										"25498_1": "M22.3 TG (TPS Praxisbegleitung)",
 										"37334_1": "M5 LV (Praktikum)"
 									}
 								},

@@ -1,0 +1,30 @@
+[
+	{
+		"name": "DTP (Digitaltechnik Laborpraktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Robert Fitz\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Digitaltechnik Laborpraktikum ^PG1: BMT3,BMT5_SP (Fitz)",
+		"startTime": "2026-10-30T08:30:00",
+		"endTime": "2026-10-30T11:45:00"
+	},
+	{
+		"name": "DTP (Digitaltechnik Laborpraktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Robert Fitz\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Digitaltechnik Laborpraktikum ^PG1: BMT3,BMT5_SP (Fitz)",
+		"startTime": "2026-11-20T08:30:00",
+		"endTime": "2026-11-20T11:45:00"
+	},
+	{
+		"name": "DTP (Digitaltechnik Laborpraktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Robert Fitz\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Digitaltechnik Laborpraktikum ^PG1: BMT3,BMT5_SP (Fitz)",
+		"startTime": "2026-12-11T08:30:00",
+		"endTime": "2026-12-11T11:45:00"
+	},
+	{
+		"name": "DTP (Digitaltechnik Laborpraktikum)",
+		"location": "8.01, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Robert Fitz\nRhythmus: Einzeltermin\n\nOriginaler Titel: Digitaltechnik Laborpraktikum ^PG1: BMT3,BMT5_SP (Fitz)",
+		"startTime": "2027-01-15T08:30:00",
+		"endTime": "2027-01-15T11:45:00"
+	}
+]
