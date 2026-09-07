@@ -1,6 +1,13 @@
 [
 	{
 		"name": "MZCAD L/12 (Maschinenzeichnen und CAD Laborpraktikum)",
+		"location": "403, Berliner Tor 21",
+		"description": "Dozenten: Prof. Dr. Vera Schorbach, Andreas Theel\nParallelgruppe: 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: Maschinenzeichnen und CAD Labor^ 1cD (12. Parallelgruppe)",
+		"startTime": "2026-10-16T08:15:00",
+		"endTime": "2026-10-16T11:30:00"
+	},
+	{
+		"name": "MZCAD L/12 (Maschinenzeichnen und CAD Laborpraktikum)",
 		"location": "203, Berliner Tor 21",
 		"description": "Dozent: Andreas Theel\nParallelgruppe: 12\nRhythmus: wöchentlich\n\nOriginaler Titel: Maschinenzeichnen und CAD Labor^ 1cD (12. Parallelgruppe)",
 		"startTime": "2026-10-23T12:15:00",
