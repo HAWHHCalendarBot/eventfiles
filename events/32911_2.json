@@ -1,6 +1,13 @@
 [
 	{
 		"name": "EPH l/02 (Experimentalphysik Laborpraktikum)",
+		"location": "318, Berliner Tor 21",
+		"description": "Dozent: Dr. Jan Nissen\nParallelgruppe: 2\nTeilnehmer/-innen: ? / 60\nRhythmus: Einzeltermin\n\nOriginaler Titel: Experimentalphysik Laborpraktikum^ 2aB (2. Parallelgruppe)",
+		"startTime": "2026-10-08T08:15:00",
+		"endTime": "2026-10-08T11:30:00"
+	},
+	{
+		"name": "EPH l/02 (Experimentalphysik Laborpraktikum)",
 		"location": "323, Berliner Tor 21",
 		"description": "Dozent: Dr. Jan Nissen\nParallelgruppe: 2\nTeilnehmer/-innen: ? / 60\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Experimentalphysik Laborpraktikum^ 2aB (2. Parallelgruppe)",
 		"startTime": "2026-10-15T12:15:00",

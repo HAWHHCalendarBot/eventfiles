@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "WP_ICP (Introduction to Cryptography)",
+		"location": "14.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Heike Neumann\nTeilnehmer/-innen: ? / 22\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP37",
+		"startTime": "2026-11-13T12:10:00",
+		"endTime": "2026-11-13T15:40:00"
+	},
+	{
+		"name": "WP_ICP (Introduction to Cryptography)",
+		"location": "14.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Heike Neumann\nTeilnehmer/-innen: ? / 22\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP37",
+		"startTime": "2026-12-04T12:10:00",
+		"endTime": "2026-12-04T15:40:00"
+	},
+	{
+		"name": "WP_ICP (Introduction to Cryptography)",
+		"location": "14.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Heike Neumann\nTeilnehmer/-innen: ? / 22\nRhythmus: Einzeltermin\n\nOriginaler Titel: WPP37",
+		"startTime": "2027-01-08T12:10:00",
+		"endTime": "2027-01-08T15:40:00"
+	}
+]

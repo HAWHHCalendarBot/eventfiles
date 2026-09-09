@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "WP_EESP (Elektroenergiesysteme)",
+		"location": "10.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ingo Winzenick\nTeilnehmer/-innen: ? / 24\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP13",
+		"startTime": "2026-11-13T12:10:00",
+		"endTime": "2026-11-13T15:40:00"
+	},
+	{
+		"name": "WP_EESP (Elektroenergiesysteme)",
+		"location": "10.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ingo Winzenick\nTeilnehmer/-innen: ? / 24\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP13",
+		"startTime": "2026-12-04T12:10:00",
+		"endTime": "2026-12-04T15:40:00"
+	},
+	{
+		"name": "WP_EESP (Elektroenergiesysteme)",
+		"location": "10.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Ingo Winzenick\nTeilnehmer/-innen: ? / 24\nRhythmus: Einzeltermin\n\nOriginaler Titel: WPP13",
+		"startTime": "2027-01-08T12:10:00",
+		"endTime": "2027-01-08T15:40:00"
+	}
+]

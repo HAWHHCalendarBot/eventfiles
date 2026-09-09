@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "OBDHP (On-board data handling for highly autonomous systems Praktikum)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Pawel Buczek, Jan-Gerd Meß\nTeilnehmer/-innen: ? / 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP33",
+		"startTime": "2026-11-20T12:10:00",
+		"endTime": "2026-11-20T15:40:00"
+	},
+	{
+		"name": "OBDHP (On-board data handling for highly autonomous systems Praktikum)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Pawel Buczek, Jan-Gerd Meß\nTeilnehmer/-innen: ? / 12\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP33",
+		"startTime": "2026-12-11T12:10:00",
+		"endTime": "2026-12-11T15:40:00"
+	},
+	{
+		"name": "OBDHP (On-board data handling for highly autonomous systems Praktikum)",
+		"location": "13.60, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Pawel Buczek, Jan-Gerd Meß\nTeilnehmer/-innen: ? / 12\nRhythmus: Einzeltermin\n\nOriginaler Titel: WPP33",
+		"startTime": "2027-01-15T12:10:00",
+		"endTime": "2027-01-15T15:40:00"
+	}
+]

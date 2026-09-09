@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "WP_DRLP (Programmieren in RUST Praktikum)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Robert Heß\nTeilnehmer/-innen: ? / 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP43",
+		"startTime": "2026-11-20T12:10:00",
+		"endTime": "2026-11-20T15:40:00"
+	},
+	{
+		"name": "WP_DRLP (Programmieren in RUST Praktikum)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Robert Heß\nTeilnehmer/-innen: ? / 16\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP43",
+		"startTime": "2026-12-11T12:10:00",
+		"endTime": "2026-12-11T15:40:00"
+	},
+	{
+		"name": "WP_DRLP (Programmieren in RUST Praktikum)",
+		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Robert Heß\nTeilnehmer/-innen: ? / 16\nRhythmus: Einzeltermin\n\nOriginaler Titel: WPP43",
+		"startTime": "2027-01-15T12:10:00",
+		"endTime": "2027-01-15T15:40:00"
+	}
+]

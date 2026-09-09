@@ -1,1 +1,23 @@
-[]
+[
+	{
+		"name": "WP_ASEP (Applied System Engineering)",
+		"location": "8.62, Berliner Tor 7",
+		"description": "Dozent: Dr. Andreas Edom\nTeilnehmer/-innen: ? / 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP27",
+		"startTime": "2026-11-17T15:55:00",
+		"endTime": "2026-11-17T19:10:00"
+	},
+	{
+		"name": "WP_ASEP (Applied System Engineering)",
+		"location": "8.62, Berliner Tor 7",
+		"description": "Dozent: Dr. Andreas Edom\nTeilnehmer/-innen: ? / 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: WPP27",
+		"startTime": "2026-12-08T15:55:00",
+		"endTime": "2026-12-08T19:10:00"
+	},
+	{
+		"name": "WP_ASEP (Applied System Engineering)",
+		"location": "8.62, Berliner Tor 7",
+		"description": "Dozent: Dr. Andreas Edom\nTeilnehmer/-innen: ? / 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: WPP27",
+		"startTime": "2027-01-12T15:55:00",
+		"endTime": "2027-01-12T19:10:00"
+	}
+]
