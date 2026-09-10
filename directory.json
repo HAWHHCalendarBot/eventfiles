@@ -1809,7 +1809,6 @@
 									"subDirectories": {
 										"Intelligente Sensorsysteme Praktikum": {
 											"events": {
-												"31115_1": "ISSP/01 (Intelligente Sensorsysteme Praktikum)",
 												"31115_2": "ISSP/02 (Intelligente Sensorsysteme Praktikum)",
 												"31115_3": "ISSP/03 (Intelligente Sensorsysteme Praktikum)"
 											}
@@ -11376,7 +11375,8 @@
 										"25548_1": "M 4.1 ((Koh A) Propädeutik)",
 										"25548_2": "M 4.2 ((Koh A) Propädeutik)",
 										"25548_3": "M 4.3 ((Koh B) Propädeutik)",
-										"25548_4": "M 4.4 ((Koh B) Propädeutik)"
+										"25548_4": "M 4.4 ((Koh B) Propädeutik)",
+										"25548_5": "M 4.5 ((Koh A+B) Propädeutik)"
 									}
 								},
 								"M-05 Reflexive Praxis: Erkundung des Arbeitsfeldes": {
@@ -11583,7 +11583,8 @@
 										"25548_1": "M 4.1 ((Koh A) Propädeutik)",
 										"25548_2": "M 4.2 ((Koh A) Propädeutik)",
 										"25548_3": "M 4.3 ((Koh B) Propädeutik)",
-										"25548_4": "M 4.4 ((Koh B) Propädeutik)"
+										"25548_4": "M 4.4 ((Koh B) Propädeutik)",
+										"25548_5": "M 4.5 ((Koh A+B) Propädeutik)"
 									}
 								},
 								"M-05 Reflexive Praxis: Erkundung des Arbeitsfeldes": {
