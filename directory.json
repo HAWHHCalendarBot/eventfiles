@@ -2546,19 +2546,9 @@
 									}
 								},
 								"M-15 Betriebswirtschaft III": {
-									"subDirectories": {
-										"Betriebswirtschaft III": {
-											"events": {
-												"31230_1": "BWL3/01 (Betriebswirtschaft III)",
-												"31230_2": "BWL3/02 (Betriebswirtschaft III)"
-											}
-										},
-										"Praktikum Betriebswirtschaft III": {
-											"events": {
-												"31201_1": "BWLP3/01 (Praktikum Betriebswirtschaft III)",
-												"31201_2": "BWLP3/02 (Praktikum Betriebswirtschaft III)"
-											}
-										}
+									"events": {
+										"31230_1": "BWL3 (Betriebswirtschaft III)",
+										"31201_1": "BWLP3 (Praktikum Betriebswirtschaft III)"
 									}
 								}
 							}

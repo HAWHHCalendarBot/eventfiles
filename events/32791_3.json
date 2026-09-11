@@ -1,6 +1,13 @@
 [
 	{
 		"name": "FTT L/03 (Fertigungstechnik Laborpraktikum)",
+		"location": "423, Berliner Tor 21",
+		"description": "Dozent: Benjamin Remmers\nParallelgruppe: 3\nRhythmus: Einzeltermin\n\nOriginaler Titel: Fertigungstechnik Laborpraktikum^ 3aC (3. Parallelgruppe)",
+		"startTime": "2026-10-08T08:15:00",
+		"endTime": "2026-10-08T11:30:00"
+	},
+	{
+		"name": "FTT L/03 (Fertigungstechnik Laborpraktikum)",
 		"location": "106, Berliner Tor 21",
 		"description": "Dozenten: Benjamin Remmers, Prof. Dr.-Ing. Alexander Koch\nParallelgruppe: 3\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Fertigungstechnik Laborpraktikum^ 3aC (3. Parallelgruppe)",
 		"startTime": "2026-10-22T08:15:00",
