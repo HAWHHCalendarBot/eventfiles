@@ -6057,8 +6057,7 @@
 											"events": {
 												"32911_1": "EPH l/01 (Experimentalphysik Laborpraktikum)",
 												"32911_2": "EPH l/02 (Experimentalphysik Laborpraktikum)",
-												"32911_3": "EPH l/03 (Experimentalphysik Laborpraktikum)",
-												"32911_4": "EPH l/04 (Experimentalphysik Laborpraktikum)"
+												"32911_3": "EPH l/03 (Experimentalphysik Laborpraktikum)"
 											}
 										},
 										"Experimentalphysik": {
@@ -6077,15 +6076,12 @@
 												"32780_1": "MZCAD L/01 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_2": "MZCAD L/02 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_3": "MZCAD L/03 (Maschinenzeichnen und CAD Laborpraktikum)",
-												"32780_4": "MZCAD L/04 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_5": "MZCAD L/05 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_6": "MZCAD L/06 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_7": "MZCAD L/07 (Maschinenzeichnen und CAD Laborpraktikum)",
-												"32780_8": "MZCAD L/08 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_9": "MZCAD L/09 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_10": "MZCAD L/10 (Maschinenzeichnen und CAD Laborpraktikum)",
-												"32780_11": "MZCAD L/11 (Maschinenzeichnen und CAD Laborpraktikum)",
-												"32780_12": "MZCAD L/12 (Maschinenzeichnen und CAD Laborpraktikum)"
+												"32780_11": "MZCAD L/11 (Maschinenzeichnen und CAD Laborpraktikum)"
 											}
 										},
 										"Maschinenzeichnen und CAD": {
@@ -6110,8 +6106,7 @@
 											"events": {
 												"33079_1": "WSK L/01 (Werkstoffkunde Laborpraktikum)",
 												"33079_2": "WSK L/02 (Werkstoffkunde Laborpraktikum)",
-												"33079_3": "WSK L/03 (Werkstoffkunde Laborpraktikum)",
-												"33079_4": "WSK L/04 (Werkstoffkunde Laborpraktikum)"
+												"33079_3": "WSK L/03 (Werkstoffkunde Laborpraktikum)"
 											}
 										}
 									},
@@ -6126,15 +6121,12 @@
 												"32694_1": "ELPJ EL/01 (Praxisprojekt)",
 												"32694_2": "ELPJ EL/02 (Praxisprojekt)",
 												"32694_3": "ELPJ EL/03 (Praxisprojekt)",
-												"32694_4": "ELPJ EL/04 (Praxisprojekt)",
 												"32694_5": "ELPJ EL/05 (Praxisprojekt)",
 												"32694_6": "ELPJ EL/06 (Praxisprojekt)",
 												"32694_7": "ELPJ EL/07 (Praxisprojekt)",
-												"32694_8": "ELPJ EL/08 (Praxisprojekt)",
 												"32694_9": "ELPJ EL/09 (Praxisprojekt)",
 												"32694_10": "ELPJ EL/10 (Praxisprojekt)",
-												"32694_11": "ELPJ EL/11 (Praxisprojekt)",
-												"32694_12": "ELPJ EL/12 (Praxisprojekt)"
+												"32694_11": "ELPJ EL/11 (Praxisprojekt)"
 											}
 										}
 									},
@@ -6164,8 +6156,7 @@
 											"events": {
 												"33103_1": "KONA KNPA/01 (Konstruktion A Konstruktionsarbeit)",
 												"33103_2": "KONA KNPA/02 (Konstruktion A Konstruktionsarbeit)",
-												"33103_3": "KONA KNPA/03 (Konstruktion A Konstruktionsarbeit)",
-												"33103_4": "KONA KNPA/04 (Konstruktion A Konstruktionsarbeit)"
+												"33103_3": "KONA KNPA/03 (Konstruktion A Konstruktionsarbeit)"
 											}
 										}
 									},
@@ -6179,16 +6170,10 @@
 											"events": {
 												"32791_1": "FTT L/01 (Fertigungstechnik Laborpraktikum)",
 												"32791_2": "FTT L/02 (Fertigungstechnik Laborpraktikum)",
-												"32791_3": "FTT L/03 (Fertigungstechnik Laborpraktikum)",
-												"32791_4": "FTT L/04 (Fertigungstechnik Laborpraktikum)",
 												"32791_5": "FTT L/05 (Fertigungstechnik Laborpraktikum)",
 												"32791_6": "FTT L/06 (Fertigungstechnik Laborpraktikum)",
-												"32791_7": "FTT L/07 (Fertigungstechnik Laborpraktikum)",
-												"32791_8": "FTT L/08 (Fertigungstechnik Laborpraktikum)",
 												"32791_9": "FTT L/09 (Fertigungstechnik Laborpraktikum)",
-												"32791_10": "FTT L/10 (Fertigungstechnik Laborpraktikum)",
-												"32791_11": "FTT L/11 (Fertigungstechnik Laborpraktikum)",
-												"32791_12": "FTT L/12 (Fertigungstechnik Laborpraktikum)"
+												"32791_10": "FTT L/10 (Fertigungstechnik Laborpraktikum)"
 											}
 										}
 									},
@@ -6223,16 +6208,10 @@
 											"events": {
 												"32734_1": "KONB KNPA/01 (Konstruktion B Konstruktionsarbeit)",
 												"32734_2": "KONB KNPA/02 (Konstruktion B Konstruktionsarbeit)",
-												"32734_3": "KONB KNPA/03 (Konstruktion B Konstruktionsarbeit)",
-												"32734_4": "KONB KNPA/04 (Konstruktion B Konstruktionsarbeit)",
 												"32734_5": "KONB KNPA/05 (Konstruktion B Konstruktionsarbeit)",
 												"32734_6": "KONB KNPA/06 (Konstruktion B Konstruktionsarbeit)",
-												"32734_7": "KONB KNPA/07 (Konstruktion B Konstruktionsarbeit)",
-												"32734_8": "KONB KNPA/08 (Konstruktion B Konstruktionsarbeit)",
 												"32734_9": "KONB KNPA/09 (Konstruktion B Konstruktionsarbeit)",
-												"32734_10": "KONB KNPA/10 (Konstruktion B Konstruktionsarbeit)",
-												"32734_11": "KONB KNPA/11 (Konstruktion B Konstruktionsarbeit)",
-												"32734_12": "KONB KNPA/12 (Konstruktion B Konstruktionsarbeit)"
+												"32734_10": "KONB KNPA/10 (Konstruktion B Konstruktionsarbeit)"
 											}
 										}
 									}
@@ -6243,16 +6222,10 @@
 											"events": {
 												"32873_1": "AINF L/01 (Angewandte Informatik Laborpraktikum)",
 												"32873_2": "AINF L/02 (Angewandte Informatik Laborpraktikum)",
-												"32873_3": "AINF L/03 (Angewandte Informatik Laborpraktikum)",
-												"32873_4": "AINF L/04 (Angewandte Informatik Laborpraktikum)",
 												"32873_5": "AINF L/05 (Angewandte Informatik Laborpraktikum)",
 												"32873_6": "AINF L/06 (Angewandte Informatik Laborpraktikum)",
-												"32873_7": "AINF L/07 (Angewandte Informatik Laborpraktikum)",
-												"32873_8": "AINF L/08 (Angewandte Informatik Laborpraktikum)",
 												"32873_9": "AINF L/09 (Angewandte Informatik Laborpraktikum)",
-												"32873_10": "AINF L/10 (Angewandte Informatik Laborpraktikum)",
-												"32873_11": "AINF L/11 (Angewandte Informatik Laborpraktikum)",
-												"32873_12": "AINF L/12 (Angewandte Informatik Laborpraktikum)"
+												"32873_10": "AINF L/10 (Angewandte Informatik Laborpraktikum)"
 											}
 										},
 										"Angewandte Informatik": {
@@ -6277,16 +6250,10 @@
 											"events": {
 												"32768_1": "STL-1 L/01 (Strömungslehre 1 Laborpraktikum)",
 												"32768_2": "STL-1 L/02 (Strömungslehre 1 Laborpraktikum)",
-												"32768_3": "STL-1 L/03 (Strömungslehre 1 Laborpraktikum)",
-												"32768_4": "STL-1 L/04 (Strömungslehre 1 Laborpraktikum)",
 												"32768_5": "STL-1 L/05 (Strömungslehre 1 Laborpraktikum)",
 												"32768_6": "STL-1 L/06 (Strömungslehre 1 Laborpraktikum)",
-												"32768_7": "STL-1 L/07 (Strömungslehre 1 Laborpraktikum)",
-												"32768_8": "STL-1 L/08 (Strömungslehre 1 Laborpraktikum)",
 												"32768_9": "STL-1 L/09 (Strömungslehre 1 Laborpraktikum)",
-												"32768_10": "STL-1 L/10 (Strömungslehre 1 Laborpraktikum)",
-												"32768_11": "STL-1 L/11 (Strömungslehre 1 Laborpraktikum)",
-												"32768_12": "STL-1 L/12 (Strömungslehre 1 Laborpraktikum)"
+												"32768_10": "STL-1 L/10 (Strömungslehre 1 Laborpraktikum)"
 											}
 										},
 										"Strömungslehre 1": {
@@ -6315,11 +6282,8 @@
 												"Methodische Produktentwicklung Laborpraktikum": {
 													"events": {
 														"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 														"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_5": "MPE L/05 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_6": "MPE L/06 (Methodische Produktentwicklung Laborpraktikum)"
+														"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 													}
 												}
 											},
@@ -6328,41 +6292,20 @@
 											}
 										},
 										"M-20320 Softwareanwendungen im Maschinenbau": {
-											"subDirectories": {
-												"Softwareanwendungen im Maschinenbau Laborpraktikum": {
-													"events": {
-														"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-														"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
-													}
-												}
-											},
 											"events": {
+												"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
 												"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
 											}
 										},
 										"M-20330 Maschinelles Lernen und Datenanalyse": {
-											"subDirectories": {
-												"Maschinelles Lernen und Datenanalyse Laborpraktikum": {
-													"events": {
-														"33212_1": "MLDA L/01 (Maschinelles Lernen und Datenanalyse Laborpraktikum)",
-														"33212_2": "MLDA L/02 (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
-													}
-												}
-											},
 											"events": {
-												"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)"
+												"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
+												"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
 											}
 										},
 										"M-20340 Autonome mobile Systeme": {
-											"subDirectories": {
-												"Autonome mobile Systeme Laborpraktikum": {
-													"events": {
-														"32810_1": "AMS L/01 (Autonome mobile Systeme Laborpraktikum)",
-														"32810_2": "AMS L/02 (Autonome mobile Systeme Laborpraktikum)"
-													}
-												}
-											},
 											"events": {
+												"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
 												"33195_1": "AMS (Autonome mobile Systeme)"
 											}
 										}
@@ -6431,9 +6374,7 @@
 												"Konstruktion C Laborpraktikum": {
 													"events": {
 														"33094_1": "KONC L/01 (Konstruktion C Laborpraktikum)",
-														"33094_2": "KONC L/02 (Konstruktion C Laborpraktikum)",
-														"33094_3": "KONC L/03 (Konstruktion C Laborpraktikum)",
-														"33094_4": "KONC L/04 (Konstruktion C Laborpraktikum)"
+														"33094_2": "KONC L/02 (Konstruktion C Laborpraktikum)"
 													}
 												}
 											},
@@ -6446,9 +6387,7 @@
 												"Numerische Methoden der Mechanik Laborpraktikum": {
 													"events": {
 														"32970_1": "NMM L/01 (Numerische Methoden der Mechanik Laborpraktikum)",
-														"32970_2": "NMM L/02 (Numerische Methoden der Mechanik Laborpraktikum)",
-														"32970_3": "NMM L/03 (Numerische Methoden der Mechanik Laborpraktikum)",
-														"32970_4": "NMM L/04 (Numerische Methoden der Mechanik Laborpraktikum)"
+														"32970_2": "NMM L/02 (Numerische Methoden der Mechanik Laborpraktikum)"
 													}
 												}
 											},
@@ -6461,11 +6400,8 @@
 												"Methodische Produktentwicklung Laborpraktikum": {
 													"events": {
 														"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 														"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_5": "MPE L/05 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_6": "MPE L/06 (Methodische Produktentwicklung Laborpraktikum)"
+														"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 													}
 												}
 											},
@@ -6476,9 +6412,7 @@
 										"Konstruktion C (konstruktive Arbeit)": {
 											"events": {
 												"32796_1": "KONCH/01 (Konstruktion C (konstruktive Arbeit))",
-												"32796_2": "KONCH/02 (Konstruktion C (konstruktive Arbeit))",
-												"32796_3": "KONCH/03 (Konstruktion C (konstruktive Arbeit))",
-												"32796_4": "KONCH/04 (Konstruktion C (konstruktive Arbeit))"
+												"32796_2": "KONCH/02 (Konstruktion C (konstruktive Arbeit))"
 											}
 										}
 									}
@@ -6496,9 +6430,7 @@
 												"Unternehmensplanspiel und Investitionsrechnung Laborpraktikum": {
 													"events": {
 														"32726_1": "UPSIR L/01 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-														"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-														"32726_3": "UPSIR L/03 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-														"32726_4": "UPSIR L/04 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
+														"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
 													}
 												}
 											}
@@ -6508,9 +6440,7 @@
 												"Produktionsmittel und -logistik Laborpraktikum": {
 													"events": {
 														"32918_1": "PML L/01 (Produktionsmittel und -logistik Laborpraktikum)",
-														"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
-														"32918_3": "PML L/03 (Produktionsmittel und -logistik Laborpraktikum)",
-														"32918_4": "PML L/04 (Produktionsmittel und -logistik Laborpraktikum)"
+														"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)"
 													}
 												}
 											},
@@ -6523,9 +6453,7 @@
 												"Produktionsplanung und -steuerung Laborpraktikum": {
 													"events": {
 														"32933_1": "PPS L/01 (Produktionsplanung und -steuerung Laborpraktikum)",
-														"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)",
-														"32933_3": "PPS L/03 (Produktionsplanung und -steuerung Laborpraktikum)",
-														"32933_4": "PPS L/04 (Produktionsplanung und -steuerung Laborpraktikum)"
+														"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)"
 													}
 												}
 											},
@@ -6538,9 +6466,7 @@
 												"Werkzeugmaschinen Laborpraktikum": {
 													"events": {
 														"33037_1": "WZM L/01 (Werkzeugmaschinen Laborpraktikum)",
-														"33037_2": "WZM L/02 (Werkzeugmaschinen Laborpraktikum)",
-														"33037_3": "WZM L/03 (Werkzeugmaschinen Laborpraktikum)",
-														"33037_4": "WZM L/04 (Werkzeugmaschinen Laborpraktikum)"
+														"33037_2": "WZM L/02 (Werkzeugmaschinen Laborpraktikum)"
 													}
 												}
 											},
@@ -6555,17 +6481,9 @@
 										"Elektrische Antriebstechnik Laborpraktikum": {
 											"events": {
 												"33093_1": "EAT L/01 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_2": "EAT L/02 (Elektrische Antriebstechnik Laborpraktikum)",
 												"33093_3": "EAT L/03 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_4": "EAT L/04 (Elektrische Antriebstechnik Laborpraktikum)",
 												"33093_5": "EAT L/05 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_6": "EAT L/06 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_7": "EAT L/07 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_8": "EAT L/08 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_9": "EAT L/09 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_10": "EAT L/10 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_11": "EAT L/11 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_12": "EAT L/12 (Elektrische Antriebstechnik Laborpraktikum)"
+												"33093_7": "EAT L/07 (Elektrische Antriebstechnik Laborpraktikum)"
 											}
 										}
 									},
@@ -6669,9 +6587,7 @@
 																"Produktionsmittel und -logistik Laborpraktikum": {
 																	"events": {
 																		"32918_1": "PML L/01 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_3": "PML L/03 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_4": "PML L/04 (Produktionsmittel und -logistik Laborpraktikum)"
+																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)"
 																	}
 																}
 															},
@@ -6684,9 +6600,7 @@
 																"Produktionsplanung und -steuerung Laborpraktikum": {
 																	"events": {
 																		"32933_1": "PPS L/01 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_3": "PPS L/03 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_4": "PPS L/04 (Produktionsplanung und -steuerung Laborpraktikum)"
+																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)"
 																	}
 																}
 															},
@@ -6766,9 +6680,7 @@
 																"Konstruktion C Laborpraktikum": {
 																	"events": {
 																		"33094_1": "KONC L/01 (Konstruktion C Laborpraktikum)",
-																		"33094_2": "KONC L/02 (Konstruktion C Laborpraktikum)",
-																		"33094_3": "KONC L/03 (Konstruktion C Laborpraktikum)",
-																		"33094_4": "KONC L/04 (Konstruktion C Laborpraktikum)"
+																		"33094_2": "KONC L/02 (Konstruktion C Laborpraktikum)"
 																	}
 																}
 															},
@@ -6781,9 +6693,7 @@
 																"Numerische Methoden der Mechanik Laborpraktikum": {
 																	"events": {
 																		"32970_1": "NMM L/01 (Numerische Methoden der Mechanik Laborpraktikum)",
-																		"32970_2": "NMM L/02 (Numerische Methoden der Mechanik Laborpraktikum)",
-																		"32970_3": "NMM L/03 (Numerische Methoden der Mechanik Laborpraktikum)",
-																		"32970_4": "NMM L/04 (Numerische Methoden der Mechanik Laborpraktikum)"
+																		"32970_2": "NMM L/02 (Numerische Methoden der Mechanik Laborpraktikum)"
 																	}
 																}
 															},
@@ -6870,9 +6780,7 @@
 																"Unternehmensplanspiel und Investitionsrechnung Laborpraktikum": {
 																	"events": {
 																		"32726_1": "UPSIR L/01 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-																		"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-																		"32726_3": "UPSIR L/03 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-																		"32726_4": "UPSIR L/04 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
+																		"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
 																	}
 																}
 															}
@@ -6882,9 +6790,7 @@
 																"Produktionsmittel und -logistik Laborpraktikum": {
 																	"events": {
 																		"32918_1": "PML L/01 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_3": "PML L/03 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_4": "PML L/04 (Produktionsmittel und -logistik Laborpraktikum)"
+																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)"
 																	}
 																}
 															},
@@ -6897,9 +6803,7 @@
 																"Produktionsplanung und -steuerung Laborpraktikum": {
 																	"events": {
 																		"32933_1": "PPS L/01 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_3": "PPS L/03 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_4": "PPS L/04 (Produktionsplanung und -steuerung Laborpraktikum)"
+																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)"
 																	}
 																}
 															},
@@ -6912,9 +6816,7 @@
 																"Werkzeugmaschinen Laborpraktikum": {
 																	"events": {
 																		"33037_1": "WZM L/01 (Werkzeugmaschinen Laborpraktikum)",
-																		"33037_2": "WZM L/02 (Werkzeugmaschinen Laborpraktikum)",
-																		"33037_3": "WZM L/03 (Werkzeugmaschinen Laborpraktikum)",
-																		"33037_4": "WZM L/04 (Werkzeugmaschinen Laborpraktikum)"
+																		"33037_2": "WZM L/02 (Werkzeugmaschinen Laborpraktikum)"
 																	}
 																}
 															},
@@ -7066,15 +6968,8 @@
 														"Wahlpflichtmodule aus Entwicklung und Konstruktion": {
 															"subDirectories": {
 																"M-20320 Softwareanwendungen im Maschinenbau": {
-																	"subDirectories": {
-																		"Softwareanwendungen im Maschinenbau Laborpraktikum": {
-																			"events": {
-																				"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-																				"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
-																			}
-																		}
-																	},
 																	"events": {
+																		"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
 																		"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
 																	}
 																},
@@ -7178,11 +7073,8 @@
 																"Methodische Produktentwicklung Laborpraktikum": {
 																	"events": {
 																		"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 																		"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_5": "MPE L/05 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_6": "MPE L/06 (Methodische Produktentwicklung Laborpraktikum)"
+																		"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 																	}
 																}
 															},
@@ -7270,9 +7162,7 @@
 																"Produktionsmittel und -logistik Laborpraktikum": {
 																	"events": {
 																		"32918_1": "PML L/01 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_3": "PML L/03 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_4": "PML L/04 (Produktionsmittel und -logistik Laborpraktikum)"
+																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)"
 																	}
 																}
 															},
@@ -7285,9 +7175,7 @@
 																"Produktionsplanung und -steuerung Laborpraktikum": {
 																	"events": {
 																		"32933_1": "PPS L/01 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_3": "PPS L/03 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_4": "PPS L/04 (Produktionsplanung und -steuerung Laborpraktikum)"
+																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)"
 																	}
 																}
 															},
@@ -7304,11 +7192,8 @@
 																"Methodische Produktentwicklung Laborpraktikum": {
 																	"events": {
 																		"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 																		"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_5": "MPE L/05 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_6": "MPE L/06 (Methodische Produktentwicklung Laborpraktikum)"
+																		"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 																	}
 																}
 															},
@@ -7317,41 +7202,20 @@
 															}
 														},
 														"M-20320 Softwareanwendungen im Maschinenbau": {
-															"subDirectories": {
-																"Softwareanwendungen im Maschinenbau Laborpraktikum": {
-																	"events": {
-																		"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-																		"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
+																"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
 																"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
 															}
 														},
 														"M-20330 Maschinelles Lernen und Datenanalyse": {
-															"subDirectories": {
-																"Maschinelles Lernen und Datenanalyse Laborpraktikum": {
-																	"events": {
-																		"33212_1": "MLDA L/01 (Maschinelles Lernen und Datenanalyse Laborpraktikum)",
-																		"33212_2": "MLDA L/02 (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
-																"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)"
+																"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
+																"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
 															}
 														},
 														"M-20340 Autonome mobile Systeme": {
-															"subDirectories": {
-																"Autonome mobile Systeme Laborpraktikum": {
-																	"events": {
-																		"32810_1": "AMS L/01 (Autonome mobile Systeme Laborpraktikum)",
-																		"32810_2": "AMS L/02 (Autonome mobile Systeme Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
+																"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
 																"33195_1": "AMS (Autonome mobile Systeme)"
 															}
 														},
@@ -7415,9 +7279,7 @@
 																"Konstruktion C Laborpraktikum": {
 																	"events": {
 																		"33094_1": "KONC L/01 (Konstruktion C Laborpraktikum)",
-																		"33094_2": "KONC L/02 (Konstruktion C Laborpraktikum)",
-																		"33094_3": "KONC L/03 (Konstruktion C Laborpraktikum)",
-																		"33094_4": "KONC L/04 (Konstruktion C Laborpraktikum)"
+																		"33094_2": "KONC L/02 (Konstruktion C Laborpraktikum)"
 																	}
 																}
 															},
@@ -7430,9 +7292,7 @@
 																"Numerische Methoden der Mechanik Laborpraktikum": {
 																	"events": {
 																		"32970_1": "NMM L/01 (Numerische Methoden der Mechanik Laborpraktikum)",
-																		"32970_2": "NMM L/02 (Numerische Methoden der Mechanik Laborpraktikum)",
-																		"32970_3": "NMM L/03 (Numerische Methoden der Mechanik Laborpraktikum)",
-																		"32970_4": "NMM L/04 (Numerische Methoden der Mechanik Laborpraktikum)"
+																		"32970_2": "NMM L/02 (Numerische Methoden der Mechanik Laborpraktikum)"
 																	}
 																}
 															},
@@ -7512,9 +7372,7 @@
 																"Unternehmensplanspiel und Investitionsrechnung Laborpraktikum": {
 																	"events": {
 																		"32726_1": "UPSIR L/01 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-																		"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-																		"32726_3": "UPSIR L/03 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-																		"32726_4": "UPSIR L/04 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
+																		"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
 																	}
 																}
 															}
@@ -7524,9 +7382,7 @@
 																"Produktionsmittel und -logistik Laborpraktikum": {
 																	"events": {
 																		"32918_1": "PML L/01 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_3": "PML L/03 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_4": "PML L/04 (Produktionsmittel und -logistik Laborpraktikum)"
+																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)"
 																	}
 																}
 															},
@@ -7539,9 +7395,7 @@
 																"Produktionsplanung und -steuerung Laborpraktikum": {
 																	"events": {
 																		"32933_1": "PPS L/01 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_3": "PPS L/03 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_4": "PPS L/04 (Produktionsplanung und -steuerung Laborpraktikum)"
+																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)"
 																	}
 																}
 															},
@@ -7554,9 +7408,7 @@
 																"Werkzeugmaschinen Laborpraktikum": {
 																	"events": {
 																		"33037_1": "WZM L/01 (Werkzeugmaschinen Laborpraktikum)",
-																		"33037_2": "WZM L/02 (Werkzeugmaschinen Laborpraktikum)",
-																		"33037_3": "WZM L/03 (Werkzeugmaschinen Laborpraktikum)",
-																		"33037_4": "WZM L/04 (Werkzeugmaschinen Laborpraktikum)"
+																		"33037_2": "WZM L/02 (Werkzeugmaschinen Laborpraktikum)"
 																	}
 																}
 															},
@@ -7669,28 +7521,14 @@
 												"Austauschmodul": {
 													"subDirectories": {
 														"M-20330 Maschinelles Lernen und Datenanalyse": {
-															"subDirectories": {
-																"Maschinelles Lernen und Datenanalyse Laborpraktikum": {
-																	"events": {
-																		"33212_1": "MLDA L/01 (Maschinelles Lernen und Datenanalyse Laborpraktikum)",
-																		"33212_2": "MLDA L/02 (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
-																"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)"
+																"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
+																"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
 															}
 														},
 														"M-20340 Autonome mobile Systeme": {
-															"subDirectories": {
-																"Autonome mobile Systeme Laborpraktikum": {
-																	"events": {
-																		"32810_1": "AMS L/01 (Autonome mobile Systeme Laborpraktikum)",
-																		"32810_2": "AMS L/02 (Autonome mobile Systeme Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
+																"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
 																"33195_1": "AMS (Autonome mobile Systeme)"
 															}
 														},
@@ -7836,9 +7674,7 @@
 																"Unternehmensplanspiel und Investitionsrechnung Laborpraktikum": {
 																	"events": {
 																		"32726_1": "UPSIR L/01 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-																		"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-																		"32726_3": "UPSIR L/03 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-																		"32726_4": "UPSIR L/04 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
+																		"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
 																	}
 																}
 															}
@@ -7848,9 +7684,7 @@
 																"Produktionsmittel und -logistik Laborpraktikum": {
 																	"events": {
 																		"32918_1": "PML L/01 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_3": "PML L/03 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_4": "PML L/04 (Produktionsmittel und -logistik Laborpraktikum)"
+																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)"
 																	}
 																}
 															},
@@ -7863,9 +7697,7 @@
 																"Produktionsplanung und -steuerung Laborpraktikum": {
 																	"events": {
 																		"32933_1": "PPS L/01 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_3": "PPS L/03 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_4": "PPS L/04 (Produktionsplanung und -steuerung Laborpraktikum)"
+																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)"
 																	}
 																}
 															},
@@ -7878,9 +7710,7 @@
 																"Werkzeugmaschinen Laborpraktikum": {
 																	"events": {
 																		"33037_1": "WZM L/01 (Werkzeugmaschinen Laborpraktikum)",
-																		"33037_2": "WZM L/02 (Werkzeugmaschinen Laborpraktikum)",
-																		"33037_3": "WZM L/03 (Werkzeugmaschinen Laborpraktikum)",
-																		"33037_4": "WZM L/04 (Werkzeugmaschinen Laborpraktikum)"
+																		"33037_2": "WZM L/02 (Werkzeugmaschinen Laborpraktikum)"
 																	}
 																}
 															},
@@ -7921,15 +7751,8 @@
 													}
 												},
 												"M-20320 Softwareanwendungen im Maschinenbau": {
-													"subDirectories": {
-														"Softwareanwendungen im Maschinenbau Laborpraktikum": {
-															"events": {
-																"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-																"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
-															}
-														}
-													},
 													"events": {
+														"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
 														"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
 													}
 												},
@@ -8145,11 +7968,8 @@
 																		"Methodische Produktentwicklung Laborpraktikum": {
 																			"events": {
 																				"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-																				"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 																				"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
-																				"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)",
-																				"33112_5": "MPE L/05 (Methodische Produktentwicklung Laborpraktikum)",
-																				"33112_6": "MPE L/06 (Methodische Produktentwicklung Laborpraktikum)"
+																				"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 																			}
 																		}
 																	},
@@ -8158,28 +7978,14 @@
 																	}
 																},
 																"M-20330 Maschinelles Lernen und Datenanalyse": {
-																	"subDirectories": {
-																		"Maschinelles Lernen und Datenanalyse Laborpraktikum": {
-																			"events": {
-																				"33212_1": "MLDA L/01 (Maschinelles Lernen und Datenanalyse Laborpraktikum)",
-																				"33212_2": "MLDA L/02 (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
-																			}
-																		}
-																	},
 																	"events": {
-																		"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)"
+																		"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
+																		"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
 																	}
 																},
 																"M-20340 Autonome mobile Systeme": {
-																	"subDirectories": {
-																		"Autonome mobile Systeme Laborpraktikum": {
-																			"events": {
-																				"32810_1": "AMS L/01 (Autonome mobile Systeme Laborpraktikum)",
-																				"32810_2": "AMS L/02 (Autonome mobile Systeme Laborpraktikum)"
-																			}
-																		}
-																	},
 																	"events": {
+																		"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
 																		"33195_1": "AMS (Autonome mobile Systeme)"
 																	}
 																},
@@ -8222,15 +8028,8 @@
 															}
 														},
 														"M-20320 Softwareanwendungen im Maschinenbau": {
-															"subDirectories": {
-																"Softwareanwendungen im Maschinenbau Laborpraktikum": {
-																	"events": {
-																		"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-																		"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
+																"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
 																"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
 															}
 														}
@@ -8243,11 +8042,8 @@
 																"Methodische Produktentwicklung Laborpraktikum": {
 																	"events": {
 																		"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 																		"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_5": "MPE L/05 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_6": "MPE L/06 (Methodische Produktentwicklung Laborpraktikum)"
+																		"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 																	}
 																}
 															},
@@ -8256,41 +8052,20 @@
 															}
 														},
 														"M-20320 Softwareanwendungen im Maschinenbau": {
-															"subDirectories": {
-																"Softwareanwendungen im Maschinenbau Laborpraktikum": {
-																	"events": {
-																		"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-																		"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
+																"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
 																"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
 															}
 														},
 														"M-20330 Maschinelles Lernen und Datenanalyse": {
-															"subDirectories": {
-																"Maschinelles Lernen und Datenanalyse Laborpraktikum": {
-																	"events": {
-																		"33212_1": "MLDA L/01 (Maschinelles Lernen und Datenanalyse Laborpraktikum)",
-																		"33212_2": "MLDA L/02 (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
-																"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)"
+																"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
+																"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
 															}
 														},
 														"M-20340 Autonome mobile Systeme": {
-															"subDirectories": {
-																"Autonome mobile Systeme Laborpraktikum": {
-																	"events": {
-																		"32810_1": "AMS L/01 (Autonome mobile Systeme Laborpraktikum)",
-																		"32810_2": "AMS L/02 (Autonome mobile Systeme Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
+																"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
 																"33195_1": "AMS (Autonome mobile Systeme)"
 															}
 														},
@@ -8424,9 +8199,7 @@
 																"Konstruktion C Laborpraktikum": {
 																	"events": {
 																		"33094_1": "KONC L/01 (Konstruktion C Laborpraktikum)",
-																		"33094_2": "KONC L/02 (Konstruktion C Laborpraktikum)",
-																		"33094_3": "KONC L/03 (Konstruktion C Laborpraktikum)",
-																		"33094_4": "KONC L/04 (Konstruktion C Laborpraktikum)"
+																		"33094_2": "KONC L/02 (Konstruktion C Laborpraktikum)"
 																	}
 																}
 															},
@@ -8439,9 +8212,7 @@
 																"Numerische Methoden der Mechanik Laborpraktikum": {
 																	"events": {
 																		"32970_1": "NMM L/01 (Numerische Methoden der Mechanik Laborpraktikum)",
-																		"32970_2": "NMM L/02 (Numerische Methoden der Mechanik Laborpraktikum)",
-																		"32970_3": "NMM L/03 (Numerische Methoden der Mechanik Laborpraktikum)",
-																		"32970_4": "NMM L/04 (Numerische Methoden der Mechanik Laborpraktikum)"
+																		"32970_2": "NMM L/02 (Numerische Methoden der Mechanik Laborpraktikum)"
 																	}
 																}
 															},
@@ -8625,9 +8396,7 @@
 								"Experimentalphysik Labor": {
 									"events": {
 										"41939_1": "EPH-E/01 (Experimentalphysik Labor)",
-										"41939_2": "EPH-E/02 (Experimentalphysik Labor)",
-										"41939_3": "EPH-E/03 (Experimentalphysik Labor)",
-										"41939_4": "EPH-E/04 (Experimentalphysik Labor)"
+										"41939_2": "EPH-E/02 (Experimentalphysik Labor)"
 									}
 								},
 								"M-12 Werkstoffkunde": {
@@ -8635,9 +8404,7 @@
 										"Werkstoffkunde Labor": {
 											"events": {
 												"41946_1": "WSK-E/01 (Werkstoffkunde Labor)",
-												"41946_2": "WSK-E/02 (Werkstoffkunde Labor)",
-												"41946_3": "WSK-E/03 (Werkstoffkunde Labor)",
-												"41946_4": "WSK-E/04 (Werkstoffkunde Labor)"
+												"41946_2": "WSK-E/02 (Werkstoffkunde Labor)"
 											}
 										}
 									},
@@ -8663,9 +8430,7 @@
 										"Konstruktion A Konstruktionsarbeit": {
 											"events": {
 												"41945_1": "KONA-E/01 (Konstruktion A Konstruktionsarbeit)",
-												"41945_2": "KONA-E/02 (Konstruktion A Konstruktionsarbeit)",
-												"41945_3": "KONA-E/03 (Konstruktion A Konstruktionsarbeit)",
-												"41945_4": "KONA-E/04 (Konstruktion A Konstruktionsarbeit)"
+												"41945_2": "KONA-E/02 (Konstruktion A Konstruktionsarbeit)"
 											}
 										}
 									},
