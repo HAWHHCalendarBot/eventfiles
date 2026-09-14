@@ -6150,8 +6150,7 @@
 											"events": {
 												"33093_1": "EAT L/01 (Elektrische Antriebstechnik Laborpraktikum)",
 												"33093_3": "EAT L/03 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_5": "EAT L/05 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_7": "EAT L/07 (Elektrische Antriebstechnik Laborpraktikum)"
+												"33093_5": "EAT L/05 (Elektrische Antriebstechnik Laborpraktikum)"
 											}
 										}
 									},
@@ -7545,8 +7544,9 @@
 										"Mess-, Steuer- und Regelungstechnik Laborpraktikum": {
 											"events": {
 												"33067_1": "MSR L/01 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
-												"33067_2": "MSR L/02 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
-												"33067_3": "MSR L/03 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)"
+												"33067_3": "MSR L/03 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
+												"33067_4": "MSR L/04 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
+												"33067_6": "MSR L/06 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)"
 											}
 										}
 									}
