@@ -84,25 +84,33 @@
 								}
 							}
 						},
-						"7. Semester": {
+						"6. Semester": {
 							"subDirectories": {
-								"Wahlpflichtmodule": {
-									"events": {
-										"36149_1": "WP_EESP (Elektroenergiesysteme)",
-										"36176_1": "WP_KbPMP (Kompetenzbasiertes Projektmanagement)",
-										"36209_1": "WP_ESVP (Embedded Systems Verification and Test)",
-										"37050_1": "WP_ASEP (Applied System Engineering)",
-										"39234_1": "WP_PZeE (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)",
-										"43059_1": "OBDHP (On-board data handling for highly autonomous systems Praktikum)",
-										"43084_1": "WP_LEDTP (LED Technik Praktikum)",
-										"43091_1": "WP_ICP (Introduction to Cryptography)",
-										"44795_1": "WP_MLKIP (Einführung in Maschinelles Lernen & Künstliche Intelligenz)",
-										"45959_1": "WP_DRLP (Deep Reinforcement Learning Praktikum)",
-										"45964_1": "WP_DRLP (Programmieren in RUST Praktikum)",
-										"45969_1": "WP_DAP (Digitale Arithmetik Praktikum)"
+								"Vertiefungsrichtung Digitale Informationstechnik": {
+									"subDirectories": {
+										"Digitale Signalverarbeitung Praktikum": {
+											"events": {
+												"30143_1": "DVP/01 (Digitale Signalverarbeitung Praktikum)",
+												"30143_2": "DVP/02 (Digitale Signalverarbeitung Praktikum)"
+											}
+										}
 									}
 								},
-								"Wahlpflichtprojekt": {
+								"Vertiefungsrichtung Kommunikationstechnik": {
+									"subDirectories": {
+										"Digitale Signalverarbeitung Praktikum": {
+											"events": {
+												"30143_1": "DVP/01 (Digitale Signalverarbeitung Praktikum)",
+												"30143_2": "DVP/02 (Digitale Signalverarbeitung Praktikum)"
+											}
+										}
+									}
+								}
+							}
+						},
+						"7. Semester": {
+							"subDirectories": {
+								"": {
 									"events": {
 										"36157_1": "EPS (Entwicklung einer Partysimulation)",
 										"36160_1": "RP (Raspberry Pi)",
@@ -124,7 +132,7 @@
 					"subDirectories": {
 						"6. Semester": {
 							"subDirectories": {
-								"Wahlpflichtprojekt": {
+								"": {
 									"events": {
 										"36157_1": "EPS (Entwicklung einer Partysimulation)",
 										"36160_1": "RP (Raspberry Pi)",
@@ -137,44 +145,20 @@
 										"46030_1": "BlEP (Blue Engineering Project)",
 										"45971_1": "SustEng (Sustainability Engineering)"
 									}
+								},
+								"Digitale Signalverarbeitung": {
+									"events": {
+										"35764_1": "DPL/01 (Digitale Signalverarbeitung)",
+										"35764_2": "DPL/02 (Digitale Signalverarbeitung)",
+										"35764_3": "DPL/03 (Digitale Signalverarbeitung)",
+										"35764_4": "DPL/04 (Digitale Signalverarbeitung)"
+									}
 								}
 							}
 						},
 						"7. Semester": {
 							"subDirectories": {
-								"Wahlpflicht 1": {
-									"events": {
-										"36149_1": "WP_EESP (Elektroenergiesysteme)",
-										"36176_1": "WP_KbPMP (Kompetenzbasiertes Projektmanagement)",
-										"36209_1": "WP_ESVP (Embedded Systems Verification and Test)",
-										"37050_1": "WP_ASEP (Applied System Engineering)",
-										"39234_1": "WP_PZeE (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)",
-										"43059_1": "OBDHP (On-board data handling for highly autonomous systems Praktikum)",
-										"43084_1": "WP_LEDTP (LED Technik Praktikum)",
-										"43091_1": "WP_ICP (Introduction to Cryptography)",
-										"44795_1": "WP_MLKIP (Einführung in Maschinelles Lernen & Künstliche Intelligenz)",
-										"45959_1": "WP_DRLP (Deep Reinforcement Learning Praktikum)",
-										"45964_1": "WP_DRLP (Programmieren in RUST Praktikum)",
-										"45969_1": "WP_DAP (Digitale Arithmetik Praktikum)"
-									}
-								},
-								"Wahlpflicht 2": {
-									"events": {
-										"36149_1": "WP_EESP (Elektroenergiesysteme)",
-										"36176_1": "WP_KbPMP (Kompetenzbasiertes Projektmanagement)",
-										"36209_1": "WP_ESVP (Embedded Systems Verification and Test)",
-										"37050_1": "WP_ASEP (Applied System Engineering)",
-										"39234_1": "WP_PZeE (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)",
-										"43059_1": "OBDHP (On-board data handling for highly autonomous systems Praktikum)",
-										"43084_1": "WP_LEDTP (LED Technik Praktikum)",
-										"43091_1": "WP_ICP (Introduction to Cryptography)",
-										"44795_1": "WP_MLKIP (Einführung in Maschinelles Lernen & Künstliche Intelligenz)",
-										"45959_1": "WP_DRLP (Deep Reinforcement Learning Praktikum)",
-										"45964_1": "WP_DRLP (Programmieren in RUST Praktikum)",
-										"45969_1": "WP_DAP (Digitale Arithmetik Praktikum)"
-									}
-								},
-								"Wahlpflichtprojekt": {
+								"": {
 									"events": {
 										"36157_1": "EPS (Entwicklung einer Partysimulation)",
 										"36160_1": "RP (Raspberry Pi)",
@@ -196,39 +180,7 @@
 					"subDirectories": {
 						"7. Semester": {
 							"subDirectories": {
-								"Wahlpflichtmodule 1": {
-									"events": {
-										"36149_1": "WP_EESP (Elektroenergiesysteme)",
-										"36176_1": "WP_KbPMP (Kompetenzbasiertes Projektmanagement)",
-										"36209_1": "WP_ESVP (Embedded Systems Verification and Test)",
-										"37050_1": "WP_ASEP (Applied System Engineering)",
-										"39234_1": "WP_PZeE (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)",
-										"43059_1": "OBDHP (On-board data handling for highly autonomous systems Praktikum)",
-										"43084_1": "WP_LEDTP (LED Technik Praktikum)",
-										"43091_1": "WP_ICP (Introduction to Cryptography)",
-										"44795_1": "WP_MLKIP (Einführung in Maschinelles Lernen & Künstliche Intelligenz)",
-										"45959_1": "WP_DRLP (Deep Reinforcement Learning Praktikum)",
-										"45964_1": "WP_DRLP (Programmieren in RUST Praktikum)",
-										"45969_1": "WP_DAP (Digitale Arithmetik Praktikum)"
-									}
-								},
-								"Wahlpflichtmodule 2": {
-									"events": {
-										"36149_1": "WP_EESP (Elektroenergiesysteme)",
-										"36176_1": "WP_KbPMP (Kompetenzbasiertes Projektmanagement)",
-										"36209_1": "WP_ESVP (Embedded Systems Verification and Test)",
-										"37050_1": "WP_ASEP (Applied System Engineering)",
-										"39234_1": "WP_PZeE (Planung und Zertifizierung der elektrischen Eigenschaften von regenerativen Erzeugungsanlagen sowie von Speicher am Stromnetz)",
-										"43059_1": "OBDHP (On-board data handling for highly autonomous systems Praktikum)",
-										"43084_1": "WP_LEDTP (LED Technik Praktikum)",
-										"43091_1": "WP_ICP (Introduction to Cryptography)",
-										"44795_1": "WP_MLKIP (Einführung in Maschinelles Lernen & Künstliche Intelligenz)",
-										"45959_1": "WP_DRLP (Deep Reinforcement Learning Praktikum)",
-										"45964_1": "WP_DRLP (Programmieren in RUST Praktikum)",
-										"45969_1": "WP_DAP (Digitale Arithmetik Praktikum)"
-									}
-								},
-								"Wahlpflichtprojekt": {
+								"": {
 									"events": {
 										"36157_1": "EPS (Entwicklung einer Partysimulation)",
 										"36160_1": "RP (Raspberry Pi)",
@@ -243,23 +195,7 @@
 					"subDirectories": {
 						"4. Semester": {
 							"subDirectories": {
-								"Wahlpflichtmodule Gestaltung": {
-									"subDirectories": {
-										"M-WPG3610 Game Design": {
-											"events": {
-												"42447_1": "GD LV1 (Game Design 1)",
-												"42427_1": "GD LV2 (Game Design 2)"
-											}
-										},
-										"M-WPG3620 Interactive Storytelling": {
-											"events": {
-												"42441_1": "IAS LV1 (Interactive Storytelling 1)",
-												"42419_1": "IAS LV2 (Interactive Storytelling 2)"
-											}
-										}
-									}
-								},
-								"Wahlpflichtmodule Technik": {
+								"": {
 									"subDirectories": {
 										"M-WPT3530 Media Programming": {
 											"events": {
@@ -283,23 +219,7 @@
 						},
 						"5. Semester": {
 							"subDirectories": {
-								"Wahlpflichtmodule Gestaltung": {
-									"subDirectories": {
-										"M-WPG3610 Game Design": {
-											"events": {
-												"42447_1": "GD LV1 (Game Design 1)",
-												"42427_1": "GD LV2 (Game Design 2)"
-											}
-										},
-										"M-WPG3620 Interactive Storytelling": {
-											"events": {
-												"42441_1": "IAS LV1 (Interactive Storytelling 1)",
-												"42419_1": "IAS LV2 (Interactive Storytelling 2)"
-											}
-										}
-									}
-								},
-								"Wahlpflichtmodule Technik": {
+								"": {
 									"subDirectories": {
 										"M-WPT3530 Media Programming": {
 											"events": {
@@ -323,23 +243,7 @@
 						},
 						"6. Semester": {
 							"subDirectories": {
-								"Wahlpflichtmodule Gestaltung": {
-									"subDirectories": {
-										"M-WPG3610 Game Design": {
-											"events": {
-												"42447_1": "GD LV1 (Game Design 1)",
-												"42427_1": "GD LV2 (Game Design 2)"
-											}
-										},
-										"M-WPG3620 Interactive Storytelling": {
-											"events": {
-												"42441_1": "IAS LV1 (Interactive Storytelling 1)",
-												"42419_1": "IAS LV2 (Interactive Storytelling 2)"
-											}
-										}
-									}
-								},
-								"Wahlpflichtmodule Technik": {
+								"": {
 									"subDirectories": {
 										"M-WPT3530 Media Programming": {
 											"events": {
@@ -365,8 +269,36 @@
 				},
 				"Bachelor Elektrotechnik (Automatisierung) (PO WS 2021/22)": {},
 				"Master Automatisierung (PO WS 2019/20)": {},
-				"Master Mikroelektronische Systeme (PO WS 2019/20)": {},
-				"Master Informations- und Kommunikationstechnik (PO WS 2019/20)": {},
+				"Master Mikroelektronische Systeme (PO WS 2019/20)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"Embedded Signal Processing Laborpraktikum": {
+									"events": {
+										"43233_1": "ESPL/01 (Embedded Signal Processing Laborpraktikum)",
+										"43233_2": "ESPL/02 (Embedded Signal Processing Laborpraktikum)",
+										"43233_3": "ESPL/03 (Embedded Signal Processing Laborpraktikum)"
+									}
+								}
+							}
+						}
+					}
+				},
+				"Master Informations- und Kommunikationstechnik (PO WS 2019/20)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"Embedded Signal Processing Laborpraktikum": {
+									"events": {
+										"43233_1": "ESPL/01 (Embedded Signal Processing Laborpraktikum)",
+										"43233_2": "ESPL/02 (Embedded Signal Processing Laborpraktikum)",
+										"43233_3": "ESPL/03 (Embedded Signal Processing Laborpraktikum)"
+									}
+								}
+							}
+						}
+					}
+				},
 				"Master Zeitabhängige Medien / Sound Vision (PO SoSe 2025)": {}
 			}
 		},
@@ -614,70 +546,7 @@
 						},
 						"4.-5. Semester": {
 							"subDirectories": {
-								"Schwerpunktbereich - Ernährung und Gesundheit": {
-									"subDirectories": {
-										"M-23 Ernährungsverhalten": {
-											"events": {
-												"24479_1": "Ever (Ernährungsverhalten)",
-												"23893_1": "Ever (Ernährungsverhalten/Eating Behaviour)"
-											}
-										},
-										"M-27 Schwerpunktprojekt Ernährung und Gesundheit": {
-											"events": {
-												"35330_1": "Pro4 (HACCP-Teamleiter*in (in Kooperation mit der TÜV SÜD Akademie))",
-												"46327_1": "ELmP (Energie- und Lebensmittelproduktion mit PV-GreenHHouse)"
-											}
-										}
-									},
-									"events": {
-										"24613_1": "BGm (Betriebliches Gesundheitsmanagement)",
-										"24612_1": "Dia (Diätetik)",
-										"24518_1": "GGastro (Gemeinschaftsgastronomie)",
-										"24791_1": "MB (Methoden der Beratung)",
-										"24752_1": "PHN (Public Health Nutrition)"
-									}
-								},
-								"Schwerpunktbereich - Produkt und Vermarktung": {
-									"subDirectories": {
-										"Lebensmittelsensorik": {
-											"events": {
-												"24600_1": "LSen/01 (Lebensmittelsensorik)",
-												"24600_2": "LSen/02 (Lebensmittelsensorik)"
-											}
-										},
-										"M-34 Schwerpunktprojekt Produkt und Vermarktung": {
-											"events": {
-												"35330_1": "Pro4 (HACCP-Teamleiter*in (in Kooperation mit der TÜV SÜD Akademie))",
-												"46327_1": "ELmP (Energie- und Lebensmittelproduktion mit PV-GreenHHouse)"
-											}
-										}
-									},
-									"events": {
-										"24513_1": "KoV (Konsumentenverhalten)",
-										"24648_1": "LMM (Lebensmittelmarketing)",
-										"24741_1": "LTo (Lebensmitteltechnologie)",
-										"24670_1": "ProE (Produktentwicklung)",
-										"24661_1": "TPe (Technik in der Produktentwicklung)"
-									}
-								},
-								"Schwerpunktbereich - Lebensmittelsicherheit und Versorgung": {
-									"subDirectories": {
-										"M-40 Schwerpunktprojekt Lebensmittelsicherheit und Versorgung": {
-											"events": {
-												"35330_1": "Pro4 (HACCP-Teamleiter*in (in Kooperation mit der TÜV SÜD Akademie))",
-												"46327_1": "ELmP (Energie- und Lebensmittelproduktion mit PV-GreenHHouse)"
-											}
-										}
-									},
-									"events": {
-										"24518_1": "GGastro (Gemeinschaftsgastronomie)",
-										"24561_1": "GKR (Großküchen- und Reinigungstechnik)",
-										"24489_1": "LMR (Lebensmittelinformationsrecht)",
-										"24452_1": "RLÜ (Recht der Lebensmittelüberwachung)",
-										"24831_1": "VFMan (Versorgungs- und Facilitymanagement)"
-									}
-								},
-								"Wahlpflichtbereich": {
+								"": {
 									"subDirectories": {
 										"M-23 Ernährungsverhalten": {
 											"events": {
@@ -921,112 +790,7 @@
 						},
 						"4.-5. Semester": {
 							"subDirectories": {
-								"Nachhaltige Sporternährung und Verpflegung": {
-									"events": {
-										"24479_1": "Ever (Ernährungsverhalten)"
-									}
-								},
-								"Food Supply Chain / Nachhaltigkeit": {
-									"events": {
-										"24649_1": "Lmk/VerpT (Verpackung, Entsorgung, Recycling)"
-									}
-								},
-								"Prävention und Gesundheitsförderung": {
-									"events": {
-										"24752_1": "PHN (Public Health Nutrition)"
-									}
-								},
-								"Ernährungspolitik und -forschung": {
-									"events": {
-										"24752_1": "PHN (Public Health Nutrition)",
-										"24479_1": "Ever (Ernährungsverhalten)",
-										"39662_1": "FCS (Food Culture and Science)"
-									}
-								},
-								"Innovation und Gründung": {
-									"events": {
-										"24747_1": "PeMan (Personalmanagement)",
-										"39623_1": "GdM (Grundlagen und digitales Marketing)",
-										"24589_1": "Unt.gründ. (Unternehmensgründung/Businessplan)"
-									}
-								},
-								"Verpflegung und Versorgung": {
-									"events": {
-										"24831_1": "VFMan (Versorgungs- und Facilitymanagement)"
-									}
-								},
-								"Produktbewertung": {
-									"subDirectories": {
-										"M-33 Lebensmittelchemie (mit Laborpraktikum)": {
-											"subDirectories": {
-												"Laborpraktikum Lebensmittelchemie": {
-													"events": {
-														"39613_1": "LMCH/01 (Laborpraktikum Lebensmittelchemie)",
-														"39613_2": "LMCH/02 (Laborpraktikum Lebensmittelchemie)"
-													}
-												}
-											},
-											"events": {
-												"39698_1": "LPLMCh (Lebensmittelchemie)"
-											}
-										}
-									}
-								},
-								"Lebensmittelwissenschaft": {
-									"subDirectories": {
-										"M-33 Lebensmittelchemie (mit Laborpraktikum)": {
-											"subDirectories": {
-												"Laborpraktikum Lebensmittelchemie": {
-													"events": {
-														"39613_1": "LMCH/01 (Laborpraktikum Lebensmittelchemie)",
-														"39613_2": "LMCH/02 (Laborpraktikum Lebensmittelchemie)"
-													}
-												}
-											},
-											"events": {
-												"39698_1": "LPLMCh (Lebensmittelchemie)"
-											}
-										}
-									},
-									"events": {
-										"24661_1": "TPe (Technik in der Produktentwicklung)"
-									}
-								},
-								"Lebensmittelsicherheit und -qualität": {
-									"events": {
-										"24452_1": "RLÜ (Recht der Lebensmittelüberwachung)",
-										"24661_1": "TPe (Technik in der Produktentwicklung)"
-									}
-								},
-								"Sensorik und Produktinnovation": {
-									"events": {
-										"24648_1": "LMM (Lebensmittelmarketing)"
-									}
-								},
-								"Marketing für Lebensmittel": {
-									"events": {
-										"39623_1": "GdM (Grundlagen und digitales Marketing)",
-										"24513_1": "KoV (Konsumentenverhalten)",
-										"24648_1": "LMM (Lebensmittelmarketing)"
-									}
-								},
-								"Lebensmittelrecht und -hygiene": {
-									"events": {
-										"24489_1": "LMR (Lebensmittelinformationsrecht)",
-										"24452_1": "RLÜ (Recht der Lebensmittelüberwachung)"
-									}
-								},
-								"Produktentwicklung": {
-									"events": {
-										"24661_1": "TPe (Technik in der Produktentwicklung)"
-									}
-								},
-								"Ernährungsberatung": {
-									"events": {
-										"24791_1": "MB (Methoden der Beratung)"
-									}
-								},
-								"Konsumforschung": {
+								"": {
 									"events": {
 										"24513_1": "KoV (Konsumentenverhalten)"
 									}
@@ -1450,22 +1214,22 @@
 							"subDirectories": {
 								"Projekt": {
 									"events": {
-										"35135_1": "Agentic AI - Das Projekt",
+										"35135_5": "OSLab Betriebssystem",
 										"35135_2": "Data Science & Natural Language Processing",
 										"35135_3": "Full Stack Cloud Web Development",
 										"35135_4": "OnSpot Webanwendung",
-										"35135_5": "OSLab Betriebssystem",
-										"35135_6": "Simulation von MANV",
-										"35135_7": "Think Sense Drive"
+										"35135_1": "Agentic AI - Das Projekt",
+										"35135_7": "Think Sense Drive",
+										"35135_6": "Simulation von MANV"
 									}
 								},
 								"Seminar": {
 									"events": {
-										"35174_1": "CS4F: Algorithmen, Protokolle und KI",
-										"35174_2": "Industrial and Intelligent Agent Systems",
+										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)",
 										"35174_3": "Künstliche Intelligenz und Gesellschaft",
 										"35174_4": "Security und KI",
-										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)"
+										"35174_2": "Industrial and Intelligent Agent Systems",
+										"35174_1": "CS4F: Algorithmen, Protokolle und KI"
 									}
 								},
 								"M-23 Softwarearchitektur": {
@@ -1518,7 +1282,7 @@
 						},
 						"Gesellschaftswissenschaften": {
 							"subDirectories": {
-								"Gesellschaftswissenschaften": {
+								"": {
 									"subDirectories": {
 										"Ringvorlesung zur Klimakrise": {
 											"events": {
@@ -1542,7 +1306,7 @@
 						},
 						"Wahlpflichtbereich": {
 							"subDirectories": {
-								"Wahlpflichtmodule": {
+								"": {
 									"subDirectories": {
 										"M-WP_TWB Technik von Webbrowsern": {
 											"events": {
@@ -1871,22 +1635,22 @@
 							"subDirectories": {
 								"Projekt": {
 									"events": {
-										"35135_1": "Agentic AI - Das Projekt",
+										"35135_5": "OSLab Betriebssystem",
 										"35135_2": "Data Science & Natural Language Processing",
 										"35135_3": "Full Stack Cloud Web Development",
 										"35135_4": "OnSpot Webanwendung",
-										"35135_5": "OSLab Betriebssystem",
-										"35135_6": "Simulation von MANV",
-										"35135_7": "Think Sense Drive"
+										"35135_1": "Agentic AI - Das Projekt",
+										"35135_7": "Think Sense Drive",
+										"35135_6": "Simulation von MANV"
 									}
 								},
 								"Seminar": {
 									"events": {
-										"35174_1": "CS4F: Algorithmen, Protokolle und KI",
-										"35174_2": "Industrial and Intelligent Agent Systems",
+										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)",
 										"35174_3": "Künstliche Intelligenz und Gesellschaft",
 										"35174_4": "Security und KI",
-										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)"
+										"35174_2": "Industrial and Intelligent Agent Systems",
+										"35174_1": "CS4F: Algorithmen, Protokolle und KI"
 									}
 								},
 								"M-21 Verteilte Systeme": {
@@ -1938,7 +1702,7 @@
 						},
 						"Gesellschaftswissenschaften": {
 							"subDirectories": {
-								"Gesellschaftswissenschaften": {
+								"": {
 									"subDirectories": {
 										"Ringvorlesung zur Klimakrise": {
 											"events": {
@@ -1962,7 +1726,7 @@
 						},
 						"Wahlpflichtbereich": {
 							"subDirectories": {
-								"Wahlpflichtmodule": {
+								"": {
 									"subDirectories": {
 										"M-WP_TWB Technik von Webbrowsern": {
 											"events": {
@@ -2287,7 +2051,7 @@
 						},
 						"5. Semester": {
 							"subDirectories": {
-								"Vertiefungsmodul": {
+								"": {
 									"subDirectories": {
 										"M-VT02 Verteilte Systeme": {
 											"subDirectories": {
@@ -2335,29 +2099,29 @@
 								},
 								"Projekt": {
 									"events": {
-										"35135_1": "Agentic AI - Das Projekt",
+										"35135_5": "OSLab Betriebssystem",
 										"35135_2": "Data Science & Natural Language Processing",
 										"35135_3": "Full Stack Cloud Web Development",
 										"35135_4": "OnSpot Webanwendung",
-										"35135_5": "OSLab Betriebssystem",
-										"35135_6": "Simulation von MANV",
-										"35135_7": "Think Sense Drive"
+										"35135_1": "Agentic AI - Das Projekt",
+										"35135_7": "Think Sense Drive",
+										"35135_6": "Simulation von MANV"
 									}
 								},
 								"Seminar": {
 									"events": {
-										"35174_1": "CS4F: Algorithmen, Protokolle und KI",
-										"35174_2": "Industrial and Intelligent Agent Systems",
+										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)",
 										"35174_3": "Künstliche Intelligenz und Gesellschaft",
 										"35174_4": "Security und KI",
-										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)"
+										"35174_2": "Industrial and Intelligent Agent Systems",
+										"35174_1": "CS4F: Algorithmen, Protokolle und KI"
 									}
 								}
 							}
 						},
 						"Gesellschaftswissenschaften": {
 							"subDirectories": {
-								"Gesellschaftswissenschaften": {
+								"": {
 									"subDirectories": {
 										"Ringvorlesung zur Klimakrise": {
 											"events": {
@@ -2381,7 +2145,7 @@
 						},
 						"Wahlpflichtbereich": {
 							"subDirectories": {
-								"Wahlpflichtmodule": {
+								"": {
 									"subDirectories": {
 										"M-WP_TWB Technik von Webbrowsern": {
 											"events": {
@@ -2576,22 +2340,22 @@
 							"subDirectories": {
 								"Projekt": {
 									"events": {
-										"35135_1": "Agentic AI - Das Projekt",
+										"35135_5": "OSLab Betriebssystem",
 										"35135_2": "Data Science & Natural Language Processing",
 										"35135_3": "Full Stack Cloud Web Development",
 										"35135_4": "OnSpot Webanwendung",
-										"35135_5": "OSLab Betriebssystem",
-										"35135_6": "Simulation von MANV",
-										"35135_7": "Think Sense Drive"
+										"35135_1": "Agentic AI - Das Projekt",
+										"35135_7": "Think Sense Drive",
+										"35135_6": "Simulation von MANV"
 									}
 								},
 								"Seminar": {
 									"events": {
-										"35174_1": "CS4F: Algorithmen, Protokolle und KI",
-										"35174_2": "Industrial and Intelligent Agent Systems",
+										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)",
 										"35174_3": "Künstliche Intelligenz und Gesellschaft",
 										"35174_4": "Security und KI",
-										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)"
+										"35174_2": "Industrial and Intelligent Agent Systems",
+										"35174_1": "CS4F: Algorithmen, Protokolle und KI"
 									}
 								},
 								"M-23 Wirtschaftsinformatik III": {
@@ -2614,7 +2378,7 @@
 						},
 						"Gesellschaftswissenschaften": {
 							"subDirectories": {
-								"Gesellschaftswissenschaften": {
+								"": {
 									"subDirectories": {
 										"Ringvorlesung zur Klimakrise": {
 											"events": {
@@ -2638,7 +2402,7 @@
 						},
 						"Wahlpflichtbereich": {
 							"subDirectories": {
-								"Wahlpflicht": {
+								"": {
 									"subDirectories": {
 										"M-WP_TWB Technik von Webbrowsern": {
 											"events": {
@@ -2912,60 +2676,9 @@
 						},
 						"3. Semester": {
 							"subDirectories": {
-								"Wahlpflicht": {
+								"": {
 									"subDirectories": {
-										"Wahlpflichtmodule 1": {
-											"events": {
-												"42348_1": "MR LV (Medienrecht)",
-												"42411_1": "BWL LV (BWL)"
-											}
-										},
-										"Wahlpflichtmodule 2": {
-											"subDirectories": {
-												"M-WP203 Interactive Storytelling": {
-													"events": {
-														"42441_1": "IAS LV1 (Interactive Storytelling 1)",
-														"42419_1": "IAS LV2 (Interactive Storytelling 2)"
-													}
-												},
-												"M-WP204 Game Design": {
-													"events": {
-														"42447_1": "GD LV1 (Game Design 1)",
-														"42427_1": "GD LV2 (Game Design 2)"
-													}
-												},
-												"M-WP210 Netzwerke": {
-													"subDirectories": {
-														"Netzwerke Labor": {
-															"events": {
-																"42480_1": "N LV2/01 (Netzwerke Labor)",
-																"42480_2": "N LV2/02 (Netzwerke Labor)"
-															}
-														}
-													},
-													"events": {
-														"42439_1": "N LV1 (Netzwerke)"
-													}
-												},
-												"M-WP212 IT-Sicherheit": {
-													"events": {
-														"42449_1": "ITS LV1 (IT-Sicherheit)",
-														"42417_1": "ITS LV2 (IT-Sicherheit Labor)"
-													}
-												}
-											},
-											"events": {
-												"42350_1": "3DM LV (3D-Modellierung & Animation)",
-												"42345_1": "VS LV (Virtuelle Systeme)",
-												"42351_1": "TI LV (Theoretische Informatik)",
-												"42343_1": "CI LV (Computational Intelligence)",
-												"42483_1": "NLP LV (Natural Language Processing)",
-												"42401_1": "Sen LV (Smart Sensors)",
-												"42337_1": "DBS LV (Datenbanksysteme)",
-												"42341_1": "MMI LV (Mathematische Methoden der Informatik)"
-											}
-										},
-										"Integrationsprojekte": {
+										"": {
 											"subDirectories": {
 												"M-WP34 Integrationsprojekt: Smart Media": {
 													"subDirectories": {
@@ -4025,7 +3738,7 @@
 							"subDirectories": {
 								"M-22 Elektronik/Regelungstechnik": {
 									"subDirectories": {
-										"Elektronik": {
+										"": {
 											"subDirectories": {
 												"Elektronik 2": {
 													"events": {
@@ -4552,7 +4265,7 @@
 						},
 						"5. Semester": {
 							"subDirectories": {
-								"Wahlpflichtbereich": {
+								"": {
 									"events": {
 										"28379_1": "CPiIC (Civil Protection In International Context)",
 										"28829_1": "PMbE (Prävention und Management besonderer Einsatzlagen)",
@@ -4574,7 +4287,7 @@
 						},
 						"7. Semester": {
 							"subDirectories": {
-								"Wahlpflichtbereich": {
+								"": {
 									"events": {
 										"28379_1": "CPiIC (Civil Protection In International Context)",
 										"28829_1": "PMbE (Prävention und Management besonderer Einsatzlagen)",
@@ -4699,7 +4412,7 @@
 						},
 						"7. Semester": {
 							"subDirectories": {
-								"Wahlpflichtbereich": {
+								"": {
 									"events": {
 										"28379_1": "CPiIC (Civil Protection In International Context)",
 										"28829_1": "PMbE (Prävention und Management besonderer Einsatzlagen)",
@@ -5005,14 +4718,7 @@
 							"subDirectories": {
 								"Studienschwerpunkt Antrieb und Fahrwerk": {
 									"subDirectories": {
-										"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Antrieb und Fahrwerk mit der Vertiefungsrichtung Antrieb": {
-											"events": {
-												"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)",
-												"33653_1": "FEM KE (Finite Elemente Methode (KE))",
-												"33711_1": "VMK (Verbrennungsmotoren Konstruktion)"
-											}
-										},
-										"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Antrieb und Fahrwerk mit der Vertiefungsrichtung Fahrwerk": {
+										"": {
 											"events": {
 												"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)",
 												"33653_1": "FEM KE (Finite Elemente Methode (KE))",
@@ -5054,7 +4760,7 @@
 								},
 								"Studienschwerpunkt Karosserieentwicklung": {
 									"subDirectories": {
-										"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Karosserieentwicklung": {
+										"": {
 											"events": {
 												"33833_1": "QM (Qualitätsmanagement)",
 												"33790_1": "FZD (Fahrzeugdesign)"
@@ -5085,7 +4791,7 @@
 								},
 								"Studienschwerpunkt Nutz- und Sonderfahrzeuge": {
 									"subDirectories": {
-										"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Nutz- und Sonderfahrzeuge": {
+										"": {
 											"subDirectories": {
 												"Messtechnik": {
 													"events": {
@@ -5853,34 +5559,7 @@
 				},
 				"Master Fahrzeugbau (PO SoSe 2022)": {
 					"subDirectories": {
-						"Pflichtmodule": {
-							"subDirectories": {
-								"Systems-Engineering": {
-									"events": {
-										"29082_1": "SYE.LV/01 (Systems-Engineering)",
-										"29082_2": "SYE.LV/02 (Systems-Engineering)"
-									}
-								}
-							},
-							"events": {
-								"29054_1": "MIP.LV (Management in der Produktentwicklung)"
-							}
-						},
-						"Übergreifende Wahlpflichtmodule für den Studiengang Fahrzeugbau": {
-							"events": {
-								"29057_1": "AKU.LV (Akustik)",
-								"28989_1": "BFV.LV (Berechnung von Faserverbundwerkstoffen)",
-								"29069_1": "ZUF (Zufallsschwingungen in Theorie und Anwendung)",
-								"29061_1": "BFA.LV (Betriebsfestigkeit im Fahrzeugbau)"
-							}
-						},
-						"Wahlpflichtmodule für den Studiengang Fahrzeugbau, Studienschwerpunkt Karosserieentwicklung": {
-							"events": {
-								"29043_1": "PER.LV (Package und Ergonomie)",
-								"29072_1": "SIK.LV1 (Simulationsbasierte Karosserieentwicklung)"
-							}
-						},
-						"Wahlpflichtmodule für den Studiengang Fahrzeugbau, Studienschwerpunkt Antrieb und Fahrwerk": {
+						"": {
 							"events": {
 								"28998_1": "AAK.LV (Alternative Antriebe und Kraftstoffe)",
 								"29016_1": "SIF.LV1 (Simulation in der Fahrwerktechnik)",
@@ -5891,35 +5570,7 @@
 				},
 				"Master Flugzeugbau (PO SoSe 2022)": {
 					"subDirectories": {
-						"Pflichtmodule": {
-							"subDirectories": {
-								"Systems-Engineering": {
-									"events": {
-										"29082_1": "SYE.LV/01 (Systems-Engineering)",
-										"29082_2": "SYE.LV/02 (Systems-Engineering)"
-									}
-								}
-							},
-							"events": {
-								"29054_1": "MIP.LV (Management in der Produktentwicklung)"
-							}
-						},
-						"Übergreifende Wahlpflichtmodule für den Studiengang Flugzeugbau": {
-							"events": {
-								"29160_1": "HAD.LV (Hubschrauberaerodynamik)",
-								"29057_1": "AKU.LV (Akustik)",
-								"28989_1": "BFV.LV (Berechnung von Faserverbundwerkstoffen)",
-								"29069_1": "ZUF (Zufallsschwingungen in Theorie und Anwendung)"
-							}
-						},
-						"Wahlpflichtmodule für den Studiengang Flugzeugbau, Studienschwerpunkt Entwurf und Leichtbau": {
-							"events": {
-								"29191_1": "FM2.LV (Flugmechanik 2)",
-								"29156_1": "HFL.LV (Höhere Festigkeitslehre für den Leichtbau)",
-								"29165_1": "VFB.LV (Versuchstechniken im Flugzeugbau)"
-							}
-						},
-						"Wahlpflichtmodule für den Studiengang Flugzeugbau, Studienschwerpunkt Kabine- und Kabinensysteme": {
+						"": {
 							"events": {
 								"29137_1": "ESW.LV (Entwurf und Dimensionierung von Sandwichstrukturen)",
 								"29167_1": "VEK.LV (Vertiefung elektrische Kabinensysteme)"
@@ -6020,7 +5671,24 @@
 				"Master Internationale Logistik und Management (PO WS 2023/24)": {},
 				"Master Marketing und Innovationsmanagement (PO SoSe 2024)": {},
 				"Master Multichannel Trade Management in Textile Business (PO SoSe 2022)": {},
-				"Master Digitale Kommunikation (PO SoSe 2017)": {},
+				"Master Digitale Kommunikation (PO SoSe 2017)": {
+					"subDirectories": {
+						"2. Semester": {
+							"subDirectories": {
+								"Digital Newsroom: Vertiefung": {
+									"events": {
+										"21959_1": "DN2/01 (Digital Newsroom: Vertiefung)",
+										"21959_2": "DN2/02 (Digital Newsroom: Vertiefung)"
+									}
+								}
+							},
+							"events": {
+								"21976_1": "CS2 (Communication Skills: Vertiefung)",
+								"21975_1": "DS2 (Digital Strategy: Vertiefung)"
+							}
+						}
+					}
+				},
 				"Master Public Management (PO WS 2018/19)": {}
 			}
 		},
@@ -6507,110 +6175,9 @@
 							"subDirectories": {
 								"Studienrichtung Digital Engineering and Mobility": {
 									"subDirectories": {
-										"Wahlpflichtmodule Studienrichtung Digital Engineering and Mobility": {
+										"": {
 											"subDirectories": {
-												"Schwerpunkt Digitale Produktion": {
-													"subDirectories": {
-														"Wahlpflichtmodule aus Produktionstechnik und -management": {
-															"subDirectories": {
-																"M-20550 Additive Fertigung": {
-																	"subDirectories": {
-																		"Additive Fertigung Laborpraktikum": {
-																			"events": {
-																				"33172_1": "ADDFT L/01 (Additive Fertigung Laborpraktikum)",
-																				"33172_2": "ADDFT L/02 (Additive Fertigung Laborpraktikum)"
-																			}
-																		}
-																	},
-																	"events": {
-																		"33075_1": "ADDFT (Additive Fertigung)"
-																	}
-																},
-																"M-20500 Vernetzte Produktion und Produktionsautomatisierung": {
-																	"events": {
-																		"33013_1": "VPPA (Vernetzte Produktion und Produktionsautomatisierung)",
-																		"32994_1": "VPPA L (Vernetzte Produktion und Produktionsautomatisierung Laborpraktikum)"
-																	}
-																},
-																"M-20490 Managementmethoden in der digitalen Produktion": {
-																	"events": {
-																		"33250_1": "MGTDB L (Managementmethoden in der digitalen Produktion Laborpraktikum)",
-																		"33014_1": "MGTDB (Managementmethoden in der digitalen Produktion)"
-																	}
-																},
-																"M-20410 Fügetechnik": {
-																	"events": {
-																		"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
-																		"33053_1": "FügeT (Fügetechnik)"
-																	}
-																},
-																"M-21050 Projektmanagement": {
-																	"events": {
-																		"32856_1": "PJMGT L (Projektmanagement Laborpraktikum)",
-																		"32846_1": "PJMGT (Projektmanagement)"
-																	}
-																},
-																"M-21060 Unternehmensführung und Personalmanagement": {
-																	"events": {
-																		"33043_1": "UFPM (Unternehmensführung und Personalmanagement)",
-																		"33235_1": "UFPM L (Unternehmensführung und Personalmanagement Laborpraktikum)"
-																	}
-																},
-																"M-21070 Lasertechnik": {
-																	"events": {
-																		"33290_1": "LAT L (Lasertechnik Laborpraktikum)",
-																		"33149_1": "LAT (Lasertechnik)"
-																	}
-																},
-																"M-21170 Ergonomie und Zeitmanagement": {
-																	"events": {
-																		"32719_1": "ERGZM L (Ergonomie und Zeitmanagement Laborpraktikum)",
-																		"33120_1": "ERGZM (Ergonomie und Zeitmanagement)"
-																	}
-																},
-																"M-21180 Ausgewählte Themen in Produktionstechnik und -management": {
-																	"events": {
-																		"32848_1": "AT-PP (Ausgewählte Themen in Produktionstechnik und -management)",
-																		"32826_1": "AT-PP L (Ausgewählte Themen in Produktionstechnik und -management Laborpraktikum)"
-																	}
-																},
-																"M-20840 Technische Schwingungslehre": {
-																	"events": {
-																		"32881_1": "TSL (Technische Schwingungslehre)",
-																		"32744_1": "TSL L (Technische Schwingungslehre Laborpraktikum)"
-																	}
-																}
-															}
-														},
-														"M-21020 Produktionsmittel und -logistik": {
-															"subDirectories": {
-																"Produktionsmittel und -logistik Laborpraktikum": {
-																	"events": {
-																		"32918_1": "PML L/01 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)"
-																	}
-																}
-															},
-															"events": {
-																"33173_1": "PML (Produktionsmittel und -logistik)"
-															}
-														},
-														"M-21030 Produktionsplanung und -steuerung": {
-															"subDirectories": {
-																"Produktionsplanung und -steuerung Laborpraktikum": {
-																	"events": {
-																		"32933_1": "PPS L/01 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)"
-																	}
-																}
-															},
-															"events": {
-																"33291_1": "PPS (Produktionsplanung und -steuerung)"
-															}
-														}
-													}
-												},
-												"Austauschmodul": {
+												"": {
 													"subDirectories": {
 														"M-20610 Technische Thermodynamik 2": {
 															"subDirectories": {
@@ -6961,231 +6528,9 @@
 								},
 								"Studienrichtung Energietechnik": {
 									"subDirectories": {
-										"Wahlpflichtmodule Studienrichtung Energietechnik": {
+										"": {
 											"subDirectories": {
-												"Schwerpunkt Konstruktion energetischer Anlagen": {
-													"subDirectories": {
-														"Wahlpflichtmodule aus Entwicklung und Konstruktion": {
-															"subDirectories": {
-																"M-20320 Softwareanwendungen im Maschinenbau": {
-																	"events": {
-																		"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-																		"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
-																	}
-																},
-																"M-20550 Additive Fertigung": {
-																	"subDirectories": {
-																		"Additive Fertigung Laborpraktikum": {
-																			"events": {
-																				"33172_1": "ADDFT L/01 (Additive Fertigung Laborpraktikum)",
-																				"33172_2": "ADDFT L/02 (Additive Fertigung Laborpraktikum)"
-																			}
-																		}
-																	},
-																	"events": {
-																		"33075_1": "ADDFT (Additive Fertigung)"
-																	}
-																},
-																"M-20450 Robotertechnik": {
-																	"events": {
-																		"33041_1": "RTT L (Robotertechnik Laborpraktikum)",
-																		"33224_1": "RTT (Robotertechnik)"
-																	}
-																},
-																"M-20410 Fügetechnik": {
-																	"events": {
-																		"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
-																		"33053_1": "FügeT (Fügetechnik)"
-																	}
-																},
-																"M-20870 Strukturoptimierung": {
-																	"events": {
-																		"32312_1": "STROPT L (Strukturoptimierung Laborpraktikum oder Laborübung)",
-																		"32158_1": "STROPT (Strukturoptimierung)"
-																	}
-																},
-																"M-20880 Methodische Produktentwicklung 2": {
-																	"events": {
-																		"33270_1": "MPE-2 (Methodische Produktentwicklung 2)",
-																		"33206_1": "MPE-2 L (Methodische Produktentwicklung 2 Laborpraktikum)"
-																	}
-																},
-																"M-20900 Numerische Mathematik": {
-																	"events": {
-																		"32745_1": "NUMA L (Numerische Mathematik Laborpraktikum)",
-																		"33210_1": "NUMA (Numerische Mathematik)"
-																	}
-																},
-																"M-20910 Konstruktive Festigkeit": {
-																	"subDirectories": {
-																		"Konstruktive Festigkeit Laborpraktikum": {
-																			"events": {
-																				"32874_1": "KONFE L/01 (Konstruktive Festigkeit Laborpraktikum)",
-																				"32874_2": "KONFE L/02 (Konstruktive Festigkeit Laborpraktikum)"
-																			}
-																		}
-																	},
-																	"events": {
-																		"32703_1": "KONFE (Konstruktive Festigkeit)"
-																	}
-																},
-																"M-20940 Entwicklungs- und Konstruktionsmanagement": {
-																	"events": {
-																		"32797_1": "EKM L (Entwicklungs- und Konstruktionsmanagement Laborpraktikum)",
-																		"32809_1": "EKM (Entwicklungs- und Konstruktionsmanagement)"
-																	}
-																},
-																"M-20960 Konstruktionswerkstoffe": {
-																	"events": {
-																		"32071_1": "KWS L (Konstruktionswerkstoffe Laborpraktikum)",
-																		"32483_1": "KWS (Konstruktionswerkstoffe)"
-																	}
-																},
-																"M-20950 Kunststoffgerechte Konstruktion": {
-																	"events": {
-																		"33022_1": "KGK (Kunststoffgerechte Konstruktion)",
-																		"33215_1": "KGK L (Kunststoffgerechte Konstruktion Laborpraktikum)"
-																	}
-																},
-																"M-20980 Werkstoffprüfung": {
-																	"events": {
-																		"33252_1": "WSPR (Werkstoffprüfung)",
-																		"33042_1": "WSPR L (Werkstoffprüfung Laborpraktikum)"
-																	}
-																}
-															}
-														},
-														"M-20830 Finite-Elemente-Methode": {
-															"subDirectories": {
-																"Finite-Elemente-Methode Laborpraktikum": {
-																	"events": {
-																		"33272_1": "FEM L/01 (Finite-Elemente-Methode Laborpraktikum)",
-																		"33272_2": "FEM L/02 (Finite-Elemente-Methode Laborpraktikum)"
-																	}
-																}
-															},
-															"events": {
-																"32831_1": "FEM (Finite-Elemente-Methode)"
-															}
-														},
-														"M-20310 Methodische Produktentwicklung": {
-															"subDirectories": {
-																"Methodische Produktentwicklung Laborpraktikum": {
-																	"events": {
-																		"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
-																	}
-																}
-															},
-															"events": {
-																"33143_1": "MPE (Methodische Produktentwicklung)"
-															}
-														}
-													}
-												},
-												"Schwerpunkt Energieeffiziente Produktion": {
-													"subDirectories": {
-														"Wahlpflichtmodule aus Produktionstechnik und -management": {
-															"subDirectories": {
-																"M-20550 Additive Fertigung": {
-																	"subDirectories": {
-																		"Additive Fertigung Laborpraktikum": {
-																			"events": {
-																				"33172_1": "ADDFT L/01 (Additive Fertigung Laborpraktikum)",
-																				"33172_2": "ADDFT L/02 (Additive Fertigung Laborpraktikum)"
-																			}
-																		}
-																	},
-																	"events": {
-																		"33075_1": "ADDFT (Additive Fertigung)"
-																	}
-																},
-																"M-20500 Vernetzte Produktion und Produktionsautomatisierung": {
-																	"events": {
-																		"33013_1": "VPPA (Vernetzte Produktion und Produktionsautomatisierung)",
-																		"32994_1": "VPPA L (Vernetzte Produktion und Produktionsautomatisierung Laborpraktikum)"
-																	}
-																},
-																"M-20490 Managementmethoden in der digitalen Produktion": {
-																	"events": {
-																		"33250_1": "MGTDB L (Managementmethoden in der digitalen Produktion Laborpraktikum)",
-																		"33014_1": "MGTDB (Managementmethoden in der digitalen Produktion)"
-																	}
-																},
-																"M-20410 Fügetechnik": {
-																	"events": {
-																		"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
-																		"33053_1": "FügeT (Fügetechnik)"
-																	}
-																},
-																"M-21050 Projektmanagement": {
-																	"events": {
-																		"32856_1": "PJMGT L (Projektmanagement Laborpraktikum)",
-																		"32846_1": "PJMGT (Projektmanagement)"
-																	}
-																},
-																"M-21060 Unternehmensführung und Personalmanagement": {
-																	"events": {
-																		"33043_1": "UFPM (Unternehmensführung und Personalmanagement)",
-																		"33235_1": "UFPM L (Unternehmensführung und Personalmanagement Laborpraktikum)"
-																	}
-																},
-																"M-21070 Lasertechnik": {
-																	"events": {
-																		"33290_1": "LAT L (Lasertechnik Laborpraktikum)",
-																		"33149_1": "LAT (Lasertechnik)"
-																	}
-																},
-																"M-21170 Ergonomie und Zeitmanagement": {
-																	"events": {
-																		"32719_1": "ERGZM L (Ergonomie und Zeitmanagement Laborpraktikum)",
-																		"33120_1": "ERGZM (Ergonomie und Zeitmanagement)"
-																	}
-																},
-																"M-21180 Ausgewählte Themen in Produktionstechnik und -management": {
-																	"events": {
-																		"32848_1": "AT-PP (Ausgewählte Themen in Produktionstechnik und -management)",
-																		"32826_1": "AT-PP L (Ausgewählte Themen in Produktionstechnik und -management Laborpraktikum)"
-																	}
-																},
-																"M-20840 Technische Schwingungslehre": {
-																	"events": {
-																		"32881_1": "TSL (Technische Schwingungslehre)",
-																		"32744_1": "TSL L (Technische Schwingungslehre Laborpraktikum)"
-																	}
-																}
-															}
-														},
-														"M-21020 Produktionsmittel und -logistik": {
-															"subDirectories": {
-																"Produktionsmittel und -logistik Laborpraktikum": {
-																	"events": {
-																		"32918_1": "PML L/01 (Produktionsmittel und -logistik Laborpraktikum)",
-																		"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)"
-																	}
-																}
-															},
-															"events": {
-																"33173_1": "PML (Produktionsmittel und -logistik)"
-															}
-														},
-														"M-21030 Produktionsplanung und -steuerung": {
-															"subDirectories": {
-																"Produktionsplanung und -steuerung Laborpraktikum": {
-																	"events": {
-																		"32933_1": "PPS L/01 (Produktionsplanung und -steuerung Laborpraktikum)",
-																		"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)"
-																	}
-																}
-															},
-															"events": {
-																"33291_1": "PPS (Produktionsplanung und -steuerung)"
-															}
-														}
-													}
-												},
-												"Austauschmodul": {
+												"": {
 													"subDirectories": {
 														"M-20310 Methodische Produktentwicklung": {
 															"subDirectories": {
@@ -7516,9 +6861,9 @@
 								},
 								"Studienrichtung Entwicklung und Konstruktion": {
 									"subDirectories": {
-										"Wahlpflichtmodule Studienrichtung Entwicklung und Konstruktion": {
+										"": {
 											"subDirectories": {
-												"Austauschmodul": {
+												"": {
 													"subDirectories": {
 														"M-20330 Maschinelles Lernen und Datenanalyse": {
 															"events": {
@@ -7861,181 +7206,9 @@
 								},
 								"Studienrichtung Produktionstechnik und -management": {
 									"subDirectories": {
-										"Wahlpflichtmodule Studienrichtung Produktionstechnik und -management": {
+										"": {
 											"subDirectories": {
-												"Schwerpunkt Energieeffiziente Produktion": {
-													"subDirectories": {
-														"Wahlpflichtmodule aus Energietechnik": {
-															"subDirectories": {
-																"M-20410 Fügetechnik": {
-																	"events": {
-																		"32838_1": "FügeT L (Fügetechnik Laborpraktikum)",
-																		"33053_1": "FügeT (Fügetechnik)"
-																	}
-																},
-																"M-20380 Elektrische Energieanlagen": {
-																	"subDirectories": {
-																		"Elektrische Energieanlagen Laborpraktikum": {
-																			"events": {
-																				"33178_1": "ELEA L/01 (Elektrische Energieanlagen Laborpraktikum)",
-																				"33178_2": "ELEA L/02 (Elektrische Energieanlagen Laborpraktikum)"
-																			}
-																		}
-																	},
-																	"events": {
-																		"32786_1": "ELEA (Elektrische Energieanlagen)"
-																	}
-																},
-																"M-20370 Batterietechnik": {
-																	"events": {
-																		"32948_1": "BAT L (Batterietechnik Laborpraktikum)",
-																		"32867_1": "BAT (Batterietechnik)"
-																	}
-																},
-																"M-20690 Kolbenmaschinen": {
-																	"events": {
-																		"32700_1": "KMA (Kolbenmaschinen Laborpraktikum)",
-																		"33082_1": "KMA (Kolbenmaschinen)"
-																	}
-																},
-																"M-20770 Thermodynamik der Gemische": {
-																	"events": {
-																		"32801_1": "TDG (Thermodynamik der Gemische)",
-																		"33179_1": "TDG L (Thermodynamik der Gemische Laborpraktikum)"
-																	}
-																},
-																"M-20790 Ausgewählte Themen der Energietechnik": {
-																	"events": {
-																		"32863_1": "AT-EN (Ausgewählte Themen der Energietechnik)",
-																		"32723_1": "AT-EN L (Ausgewählte Themen der Energietechnik Laborpraktikum)"
-																	}
-																},
-																"M-20830 Finite-Elemente-Methode": {
-																	"subDirectories": {
-																		"Finite-Elemente-Methode Laborpraktikum": {
-																			"events": {
-																				"33272_1": "FEM L/01 (Finite-Elemente-Methode Laborpraktikum)",
-																				"33272_2": "FEM L/02 (Finite-Elemente-Methode Laborpraktikum)"
-																			}
-																		}
-																	},
-																	"events": {
-																		"32831_1": "FEM (Finite-Elemente-Methode)"
-																	}
-																},
-																"M-20760 Heizungs- und Klimatechnik": {
-																	"events": {
-																		"32787_1": "HKT L (Heizungs- und Klimatechnik Laborpraktikum)",
-																		"32695_1": "HKT (Heizungs- und Klimatechnik)"
-																	}
-																}
-															}
-														},
-														"M-20610 Technische Thermodynamik 2": {
-															"subDirectories": {
-																"Technische Thermodynamik 2 Laborpraktikum": {
-																	"events": {
-																		"33243_1": "TTD-2 L/01 (Technische Thermodynamik 2 Laborpraktikum)",
-																		"33243_2": "TTD-2 L/02 (Technische Thermodynamik 2 Laborpraktikum)"
-																	}
-																}
-															},
-															"events": {
-																"33065_1": "TTD-2 (Technische Thermodynamik 2)"
-															}
-														},
-														"M-20630 Wärme- und Stoffübertragung": {
-															"subDirectories": {
-																"Wärme- und Stoffübertragung Laborpraktikum": {
-																	"events": {
-																		"32720_1": "WSUE L/01 (Wärme- und Stoffübertragung Laborpraktikum)",
-																		"32720_2": "WSUE L/02 (Wärme- und Stoffübertragung Laborpraktikum)"
-																	}
-																}
-															},
-															"events": {
-																"33217_1": "WSUE (Wärme- und Stoffübertragung)"
-															}
-														}
-													}
-												},
-												"Schwerpunkt Digitale Produktion": {
-													"subDirectories": {
-														"Pflichtmodulen Digital Engineering and Mobility und Wahlpflichtmodule Robotik und Angewandte künstliche Intelligenz": {
-															"subDirectories": {
-																"M-20310 Methodische Produktentwicklung": {
-																	"subDirectories": {
-																		"Methodische Produktentwicklung Laborpraktikum": {
-																			"events": {
-																				"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-																				"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
-																				"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
-																			}
-																		}
-																	},
-																	"events": {
-																		"33143_1": "MPE (Methodische Produktentwicklung)"
-																	}
-																},
-																"M-20330 Maschinelles Lernen und Datenanalyse": {
-																	"events": {
-																		"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
-																		"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
-																	}
-																},
-																"M-20340 Autonome mobile Systeme": {
-																	"events": {
-																		"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
-																		"33195_1": "AMS (Autonome mobile Systeme)"
-																	}
-																},
-																"M-20450 Robotertechnik": {
-																	"events": {
-																		"33041_1": "RTT L (Robotertechnik Laborpraktikum)",
-																		"33224_1": "RTT (Robotertechnik)"
-																	}
-																},
-																"M-20460 Bildverarbeitung": {
-																	"events": {
-																		"33001_1": "BILDV L (Bildverarbeitung Laborpraktikum)",
-																		"33171_1": "BILDV (Bildverarbeitung)"
-																	}
-																},
-																"M-20430 Automatisierungstechnik": {
-																	"events": {
-																		"32984_1": "AMT L (Automatisierungstechnik Laborpraktikum)",
-																		"32845_1": "AMT (Automatisierungstechnik)"
-																	}
-																},
-																"M-20490 Managementmethoden in der digitalen Produktion": {
-																	"events": {
-																		"33250_1": "MGTDB L (Managementmethoden in der digitalen Produktion Laborpraktikum)",
-																		"33014_1": "MGTDB (Managementmethoden in der digitalen Produktion)"
-																	}
-																},
-																"M-20500 Vernetzte Produktion und Produktionsautomatisierung": {
-																	"events": {
-																		"33013_1": "VPPA (Vernetzte Produktion und Produktionsautomatisierung)",
-																		"32994_1": "VPPA L (Vernetzte Produktion und Produktionsautomatisierung Laborpraktikum)"
-																	}
-																}
-															}
-														},
-														"M-20350 Mechatronik": {
-															"events": {
-																"32888_1": "MTR (Mechatronik)",
-																"33029_1": "MTR L (Mechatronik Laborpraktikum)"
-															}
-														},
-														"M-20320 Softwareanwendungen im Maschinenbau": {
-															"events": {
-																"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-																"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
-															}
-														}
-													}
-												},
-												"Austauschmodul": {
+												"": {
 													"subDirectories": {
 														"M-20310 Methodische Produktentwicklung": {
 															"subDirectories": {
@@ -8447,7 +7620,7 @@
 						},
 						"4. Semester": {
 							"subDirectories": {
-								"Wahlpflicht Vertiefung": {
+								"": {
 									"subDirectories": {
 										"M-WP26 Finite-Elemente-Methode": {
 											"events": {
@@ -8528,7 +7701,7 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
-								"Allgemeiner Wahlpflichtbereich": {
+								"": {
 									"subDirectories": {
 										"M-AW5895 Ausgewählte Themen der Energietechnik": {
 											"events": {
@@ -8696,30 +7869,7 @@
 						},
 						"6. Semester": {
 							"subDirectories": {
-								"Studienschwerpunkt Lebensmitteltechnik": {
-									"subDirectories": {
-										"M-27e Lebensmittelchemie": {
-											"subDirectories": {
-												"Lebensmittelchemie Praktikum": {
-													"events": {
-														"27291_1": "LC P/01 (Lebensmittelchemie Praktikum)",
-														"27291_2": "LC P/02 (Lebensmittelchemie Praktikum)"
-													}
-												}
-											},
-											"events": {
-												"27188_1": "LC (Lebensmittelchemie)"
-											}
-										},
-										"Qualitäts- und Risikomanagement": {
-											"events": {
-												"27181_1": "QRM/01 (Qualitäts- und Risikomanagement)",
-												"27181_2": "QRM/02 (Qualitäts- und Risikomanagement)"
-											}
-										}
-									}
-								},
-								"Studienschwerpunkt verfahrenstechnischer Anlagenbau": {
+								"": {
 									"events": {
 										"27243_1": "PVTA (Projektierung verfahrenstechnischer Anlagen)"
 									}
@@ -8734,56 +7884,7 @@
 				"Bachelor Maschinenbau (Fertigungstechnik) (PO WS 2021/22)": {},
 				"Master Process Engineering (PO SoSe 2020)": {
 					"subDirectories": {
-						"Pflichtmodule": {
-							"subDirectories": {
-								"M-01 Mathematics": {
-									"events": {
-										"25287_1": "nMat (Numerical Mathematics)",
-										"25266_1": "nMat-V2 (Numerical Mathematics Practical Work)"
-									}
-								},
-								"M-04 Optimization": {
-									"events": {
-										"25313_1": "Opt Lab (Process Optimization and Simulation)",
-										"25284_1": "M4 Opt-V1 (Optimization)"
-									}
-								},
-								"M-05 Business Skills": {
-									"events": {
-										"25321_1": "Proj Man (Project Management)",
-										"25272_1": "Proj Fi (Project Finance)"
-									}
-								}
-							}
-						},
-						"Wahlpflichtmodule": {
-							"subDirectories": {
-								"Wahlpflicht Modulgruppe 1": {
-									"subDirectories": {
-										"M-WP1 Advanced Thermodynamics and Separation Processes": {
-											"events": {
-												"25259_1": "ATSP (Thermal Separation Process)",
-												"25274_1": "M6 ATSP-V1 (Advanced Thermodynamics)"
-											}
-										}
-									}
-								},
-								"Wahlpflicht Modulgruppe 2": {
-									"subDirectories": {
-										"M-WP3 Engineering": {
-											"events": {
-												"25310_1": "PE (Plant Engineering)",
-												"25292_1": "PPS (Process and Plant Safety)"
-											}
-										}
-									},
-									"events": {
-										"25330_1": "MPhyS (Multiphysics Simulation)"
-									}
-								}
-							}
-						},
-						"Wahlmodule": {
+						"": {
 							"subDirectories": {
 								"M-WP1 Advanced Thermodynamics and Separation Processes": {
 									"events": {
@@ -8808,118 +7909,9 @@
 				},
 				"Master Produktionstechnik und -management (PO SoSe 2020)": {
 					"subDirectories": {
-						"Studiengangsübergreifendes Wahlpflichtangebot": {
+						"": {
 							"subDirectories": {
-								"Austauschmodul für ein Wahlpflichtmodul": {
-									"subDirectories": {
-										"M-3031-NE Umweltmanagement, -wirtschaft und virtuelle Kraftwerke": {
-											"events": {
-												"31823_1": "UMWVK (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke)",
-												"31593_1": "UMWVK P (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke Praktikum)"
-											}
-										},
-										"M-3032-NE Entwicklung effizienter elektrischer Antriebssysteme": {
-											"events": {
-												"31601_1": "EA (Entwicklung effizienter elektrischer Antriebssysteme)",
-												"31658_1": "EEA P (Entwicklung effizienter elektrischer Antriebssysteme Praktikum)"
-											}
-										},
-										"M-3033-NE Energieeffiziente Gebäude": {
-											"events": {
-												"31554_1": "EEG (Energieeffiziente Gebäude)",
-												"31624_1": "EEG P (Energieeffiziente Gebäude Praktikum)"
-											}
-										},
-										"M-3037-NE Konzeption und Betrieb von Windenergieanlagen": {
-											"events": {
-												"31773_1": "WEA (Konzeption und Betrieb von Windenergieanlagen)",
-												"31673_1": "WEA P (Konzeption und Betrieb von Windenergieanlagen Praktikum)"
-											}
-										},
-										"M-3039-NE Energieeffiziente Anlagensysteme": {
-											"events": {
-												"31703_1": "EEANL (Energieeffiziente Anlagensysteme)",
-												"31533_1": "EEANL P (Energieeffiziente Anlagensysteme Praktikum)"
-											}
-										},
-										"M-3041-NE Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
-											"events": {
-												"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
-												"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
-											}
-										},
-										"M-3042-NE Energieeffiziente Verbrennungsmotoren": {
-											"events": {
-												"31557_1": "EEV (Energieeffiziente Verbrennungsmotoren)",
-												"31514_1": "EEV P (Energieeffiziente Verbrennungsmotoren Praktikum)"
-											}
-										},
-										"M-3043-NE Umgebungsbedingungen von Wind- und Meeresenergieanlagen": {
-											"events": {
-												"31548_1": "UWM (Umgebungsbedingungen von Wind- und Meeresenergieanlagen)",
-												"31810_1": "UWM P (Umgebungsbedingungen von Wind- und Meeresenergieanlagen Praktikum)"
-											}
-										},
-										"M-3052-BS Computational Fluid Dynamics (CFD)": {
-											"events": {
-												"31757_1": "CFD (Computational Fluid Dynamics)",
-												"31619_1": "CFD P (Computational Fluid Dynamics Praktikum)"
-											}
-										},
-										"M-3056-BS Modellierung mit FEM": {
-											"events": {
-												"31714_1": "MODFEM (Modellierung mit FEM)",
-												"31801_1": "MODFEM P (Modellierung mit FEM Praktikum)"
-											}
-										},
-										"M-3059-BS Stabilität und Kontakt": {
-											"events": {
-												"31814_1": "STAKO (Stabilität und Kontakt)",
-												"31643_1": "STAKO P (Stabilität und Kontakt Praktikum)"
-											}
-										},
-										"M-3063-BS Berechnung von Faserverbundwerkstoffen": {
-											"events": {
-												"31864_1": "BFVK (Berechnung von Faserverbundwerkstoffen)",
-												"31862_1": "BFVK P (Berechnung von Faserverbundwerkstoffen Praktikum)"
-											}
-										},
-										"M-3064-BS Machine Learning Methods (engl.)": {
-											"events": {
-												"31829_1": "MLM (Machine Learning Methods (engl.))",
-												"31684_1": "MLM P (Machine Learning Methods Praktikum)"
-											}
-										},
-										"M-3084-KP Konstruktion hybrider Bauteile": {
-											"events": {
-												"31569_1": "KHB (Konstruktion hybrider Bauteile)",
-												"31744_1": "KHB P (Konstruktion hybrider Bauteile Praktikum)"
-											}
-										},
-										"M-3087-KP Entwicklung mechatronischer Systeme": {
-											"events": {
-												"31553_1": "EMS (Entwicklung mechatronischer Systeme)",
-												"31598_1": "EMS P (Entwicklung mechatronischer Systeme Praktikum)"
-											}
-										}
-									}
-								}
-							},
-							"events": {
-								"31780_1": "SYSD (Systemdynamik und Simulation)",
-								"31701_1": "MATT (Materialtechnologie)",
-								"31760_1": "QZV (Qualität und Zuverlässigkeit)",
-								"31731_1": "PLM (Product Lifecycle Management (engl.))"
-							}
-						},
-						"Pflichtmodul Mathematische Verfahren": {
-							"events": {
-								"31530_1": "MAME (Mathematische Methoden)"
-							}
-						},
-						"Vertiefungsstudium": {
-							"subDirectories": {
-								"Austauschmodul für ein Wahlpflichtmodul": {
+								"": {
 									"subDirectories": {
 										"M-3031-NE Umweltmanagement, -wirtschaft und virtuelle Kraftwerke": {
 											"events": {
@@ -9075,464 +8067,7 @@
 				},
 				"Master Konstruktionstechnik und Produktentwicklung im Maschinenbau (PO SoSe 2020)": {
 					"subDirectories": {
-						"Studiengangsübergreifendes Wahlpflichtangebot": {
-							"subDirectories": {
-								"Austauschmodul für ein Wahlpflichtmodul": {
-									"subDirectories": {
-										"M-3002-PM Innovationsmanagement": {
-											"subDirectories": {
-												"Innovationsmanagement Praktikum": {
-													"events": {
-														"31590_1": "IMGT P/01 (Innovationsmanagement Praktikum)",
-														"31590_2": "IMGT P/02 (Innovationsmanagement Praktikum)",
-														"31590_3": "IMGT P/03 (Innovationsmanagement Praktikum)"
-													}
-												}
-											},
-											"events": {
-												"31699_1": "IMGT (Innovationsmanagement)"
-											}
-										},
-										"M-3003-PM Operationsmanagement": {
-											"events": {
-												"31618_1": "OPM (Operationsmanagement)",
-												"31561_1": "OPM P (Operationsmanagement Praktikum)"
-											}
-										},
-										"M-3005-PM International Supply Chain Management (engl.)": {
-											"events": {
-												"31821_1": "ISCM (International Supply Chain Management (engl.))",
-												"31523_1": "ISCM P (International Supply Chain Management Praktikum)"
-											}
-										},
-										"M-3007-PM Messtechnik in der Produktion": {
-											"events": {
-												"31653_1": "MTP (Messtechnik in der Produktion)",
-												"31710_1": "MTP P (Messtechnik in der Produktion Praktikum)"
-											}
-										},
-										"M-3009-PM Kunststoffverarbeitende Verfahren": {
-											"events": {
-												"31776_1": "KSVV (Kunststoffverarbeitende Verfahren)",
-												"31778_1": "KSVV P (Kunststoffverarbeitende Verfahren Praktikum)"
-											}
-										},
-										"M-3010-PM Umformtechnische Fertigungsprozesse": {
-											"events": {
-												"31788_1": "UTF (Umformtechnische Fertigungsprozesse)",
-												"31568_1": "UTF P (Umformtechnische Fertigungsprozesse Praktikum)"
-											}
-										},
-										"M-3015-PM Additive Manufacturing": {
-											"events": {
-												"31560_1": "ADDMF (Additive Manufacturing)",
-												"31636_1": "ADDMF P (Additive Manufacturing Praktikum)"
-											}
-										},
-										"M-3031-NE Umweltmanagement, -wirtschaft und virtuelle Kraftwerke": {
-											"events": {
-												"31823_1": "UMWVK (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke)",
-												"31593_1": "UMWVK P (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke Praktikum)"
-											}
-										},
-										"M-3032-NE Entwicklung effizienter elektrischer Antriebssysteme": {
-											"events": {
-												"31601_1": "EA (Entwicklung effizienter elektrischer Antriebssysteme)",
-												"31658_1": "EEA P (Entwicklung effizienter elektrischer Antriebssysteme Praktikum)"
-											}
-										},
-										"M-3033-NE Energieeffiziente Gebäude": {
-											"events": {
-												"31554_1": "EEG (Energieeffiziente Gebäude)",
-												"31624_1": "EEG P (Energieeffiziente Gebäude Praktikum)"
-											}
-										},
-										"M-3037-NE Konzeption und Betrieb von Windenergieanlagen": {
-											"events": {
-												"31773_1": "WEA (Konzeption und Betrieb von Windenergieanlagen)",
-												"31673_1": "WEA P (Konzeption und Betrieb von Windenergieanlagen Praktikum)"
-											}
-										},
-										"M-3039-NE Energieeffiziente Anlagensysteme": {
-											"events": {
-												"31703_1": "EEANL (Energieeffiziente Anlagensysteme)",
-												"31533_1": "EEANL P (Energieeffiziente Anlagensysteme Praktikum)"
-											}
-										},
-										"M-3041-NE Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
-											"events": {
-												"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
-												"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
-											}
-										},
-										"M-3042-NE Energieeffiziente Verbrennungsmotoren": {
-											"events": {
-												"31557_1": "EEV (Energieeffiziente Verbrennungsmotoren)",
-												"31514_1": "EEV P (Energieeffiziente Verbrennungsmotoren Praktikum)"
-											}
-										},
-										"M-3043-NE Umgebungsbedingungen von Wind- und Meeresenergieanlagen": {
-											"events": {
-												"31548_1": "UWM (Umgebungsbedingungen von Wind- und Meeresenergieanlagen)",
-												"31810_1": "UWM P (Umgebungsbedingungen von Wind- und Meeresenergieanlagen Praktikum)"
-											}
-										},
-										"M-3052-BS Computational Fluid Dynamics (CFD)": {
-											"events": {
-												"31757_1": "CFD (Computational Fluid Dynamics)",
-												"31619_1": "CFD P (Computational Fluid Dynamics Praktikum)"
-											}
-										},
-										"M-3056-BS Modellierung mit FEM": {
-											"events": {
-												"31714_1": "MODFEM (Modellierung mit FEM)",
-												"31801_1": "MODFEM P (Modellierung mit FEM Praktikum)"
-											}
-										},
-										"M-3059-BS Stabilität und Kontakt": {
-											"events": {
-												"31814_1": "STAKO (Stabilität und Kontakt)",
-												"31643_1": "STAKO P (Stabilität und Kontakt Praktikum)"
-											}
-										},
-										"M-3063-BS Berechnung von Faserverbundwerkstoffen": {
-											"events": {
-												"31864_1": "BFVK (Berechnung von Faserverbundwerkstoffen)",
-												"31862_1": "BFVK P (Berechnung von Faserverbundwerkstoffen Praktikum)"
-											}
-										},
-										"M-3064-BS Machine Learning Methods (engl.)": {
-											"events": {
-												"31829_1": "MLM (Machine Learning Methods (engl.))",
-												"31684_1": "MLM P (Machine Learning Methods Praktikum)"
-											}
-										}
-									}
-								}
-							},
-							"events": {
-								"31780_1": "SYSD (Systemdynamik und Simulation)",
-								"31701_1": "MATT (Materialtechnologie)",
-								"31760_1": "QZV (Qualität und Zuverlässigkeit)",
-								"31731_1": "PLM (Product Lifecycle Management (engl.))"
-							}
-						},
-						"Pflichtmodul Mathematische Verfahren": {
-							"events": {
-								"31873_1": "MANU (Mathematik und Numerik)"
-							}
-						},
-						"Wahlmodul aus dem Masterangebot": {
-							"subDirectories": {
-								"M-3084-KP Konstruktion hybrider Bauteile": {
-									"events": {
-										"31569_1": "KHB (Konstruktion hybrider Bauteile)",
-										"31744_1": "KHB P (Konstruktion hybrider Bauteile Praktikum)"
-									}
-								},
-								"M-3087-KP Entwicklung mechatronischer Systeme": {
-									"events": {
-										"31553_1": "EMS (Entwicklung mechatronischer Systeme)",
-										"31598_1": "EMS P (Entwicklung mechatronischer Systeme Praktikum)"
-									}
-								},
-								"M-3090-KP Tribologie / Tribodesign": {
-									"events": {
-										"31842_1": "TRIBO (Tribologie / Tribodesign)",
-										"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
-									}
-								},
-								"M-3002-PM Innovationsmanagement": {
-									"subDirectories": {
-										"Innovationsmanagement Praktikum": {
-											"events": {
-												"31590_1": "IMGT P/01 (Innovationsmanagement Praktikum)",
-												"31590_2": "IMGT P/02 (Innovationsmanagement Praktikum)",
-												"31590_3": "IMGT P/03 (Innovationsmanagement Praktikum)"
-											}
-										}
-									},
-									"events": {
-										"31699_1": "IMGT (Innovationsmanagement)"
-									}
-								},
-								"M-3003-PM Operationsmanagement": {
-									"events": {
-										"31618_1": "OPM (Operationsmanagement)",
-										"31561_1": "OPM P (Operationsmanagement Praktikum)"
-									}
-								},
-								"M-3005-PM International Supply Chain Management (engl.)": {
-									"events": {
-										"31821_1": "ISCM (International Supply Chain Management (engl.))",
-										"31523_1": "ISCM P (International Supply Chain Management Praktikum)"
-									}
-								},
-								"M-3007-PM Messtechnik in der Produktion": {
-									"events": {
-										"31653_1": "MTP (Messtechnik in der Produktion)",
-										"31710_1": "MTP P (Messtechnik in der Produktion Praktikum)"
-									}
-								},
-								"M-3009-PM Kunststoffverarbeitende Verfahren": {
-									"events": {
-										"31776_1": "KSVV (Kunststoffverarbeitende Verfahren)",
-										"31778_1": "KSVV P (Kunststoffverarbeitende Verfahren Praktikum)"
-									}
-								},
-								"M-3010-PM Umformtechnische Fertigungsprozesse": {
-									"events": {
-										"31788_1": "UTF (Umformtechnische Fertigungsprozesse)",
-										"31568_1": "UTF P (Umformtechnische Fertigungsprozesse Praktikum)"
-									}
-								},
-								"M-3015-PM Additive Manufacturing": {
-									"events": {
-										"31560_1": "ADDMF (Additive Manufacturing)",
-										"31636_1": "ADDMF P (Additive Manufacturing Praktikum)"
-									}
-								},
-								"M-3031-NE Umweltmanagement, -wirtschaft und virtuelle Kraftwerke": {
-									"events": {
-										"31823_1": "UMWVK (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke)",
-										"31593_1": "UMWVK P (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke Praktikum)"
-									}
-								},
-								"M-3032-NE Entwicklung effizienter elektrischer Antriebssysteme": {
-									"events": {
-										"31601_1": "EA (Entwicklung effizienter elektrischer Antriebssysteme)",
-										"31658_1": "EEA P (Entwicklung effizienter elektrischer Antriebssysteme Praktikum)"
-									}
-								},
-								"M-3033-NE Energieeffiziente Gebäude": {
-									"events": {
-										"31554_1": "EEG (Energieeffiziente Gebäude)",
-										"31624_1": "EEG P (Energieeffiziente Gebäude Praktikum)"
-									}
-								},
-								"M-3037-NE Konzeption und Betrieb von Windenergieanlagen": {
-									"events": {
-										"31773_1": "WEA (Konzeption und Betrieb von Windenergieanlagen)",
-										"31673_1": "WEA P (Konzeption und Betrieb von Windenergieanlagen Praktikum)"
-									}
-								},
-								"M-3039-NE Energieeffiziente Anlagensysteme": {
-									"events": {
-										"31703_1": "EEANL (Energieeffiziente Anlagensysteme)",
-										"31533_1": "EEANL P (Energieeffiziente Anlagensysteme Praktikum)"
-									}
-								},
-								"M-3041-NE Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
-									"events": {
-										"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
-										"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
-									}
-								},
-								"M-3042-NE Energieeffiziente Verbrennungsmotoren": {
-									"events": {
-										"31557_1": "EEV (Energieeffiziente Verbrennungsmotoren)",
-										"31514_1": "EEV P (Energieeffiziente Verbrennungsmotoren Praktikum)"
-									}
-								},
-								"M-3043-NE Umgebungsbedingungen von Wind- und Meeresenergieanlagen": {
-									"events": {
-										"31548_1": "UWM (Umgebungsbedingungen von Wind- und Meeresenergieanlagen)",
-										"31810_1": "UWM P (Umgebungsbedingungen von Wind- und Meeresenergieanlagen Praktikum)"
-									}
-								},
-								"M-3052-BS Computational Fluid Dynamics (CFD)": {
-									"events": {
-										"31757_1": "CFD (Computational Fluid Dynamics)",
-										"31619_1": "CFD P (Computational Fluid Dynamics Praktikum)"
-									}
-								},
-								"M-3056-BS Modellierung mit FEM": {
-									"events": {
-										"31714_1": "MODFEM (Modellierung mit FEM)",
-										"31801_1": "MODFEM P (Modellierung mit FEM Praktikum)"
-									}
-								},
-								"M-3059-BS Stabilität und Kontakt": {
-									"events": {
-										"31814_1": "STAKO (Stabilität und Kontakt)",
-										"31643_1": "STAKO P (Stabilität und Kontakt Praktikum)"
-									}
-								},
-								"M-3063-BS Berechnung von Faserverbundwerkstoffen": {
-									"events": {
-										"31864_1": "BFVK (Berechnung von Faserverbundwerkstoffen)",
-										"31862_1": "BFVK P (Berechnung von Faserverbundwerkstoffen Praktikum)"
-									}
-								},
-								"M-3064-BS Machine Learning Methods (engl.)": {
-									"events": {
-										"31829_1": "MLM (Machine Learning Methods (engl.))",
-										"31684_1": "MLM P (Machine Learning Methods Praktikum)"
-									}
-								}
-							},
-							"events": {
-								"31780_1": "SYSD (Systemdynamik und Simulation)",
-								"31701_1": "MATT (Materialtechnologie)",
-								"31760_1": "QZV (Qualität und Zuverlässigkeit)",
-								"31731_1": "PLM (Product Lifecycle Management (engl.))"
-							}
-						},
-						"Wahlpflichtmodule im Vertiefungsstudium": {
-							"subDirectories": {
-								"Austauschmodul für ein Wahlpflichtmodul": {
-									"subDirectories": {
-										"M-3002-PM Innovationsmanagement": {
-											"subDirectories": {
-												"Innovationsmanagement Praktikum": {
-													"events": {
-														"31590_1": "IMGT P/01 (Innovationsmanagement Praktikum)",
-														"31590_2": "IMGT P/02 (Innovationsmanagement Praktikum)",
-														"31590_3": "IMGT P/03 (Innovationsmanagement Praktikum)"
-													}
-												}
-											},
-											"events": {
-												"31699_1": "IMGT (Innovationsmanagement)"
-											}
-										},
-										"M-3003-PM Operationsmanagement": {
-											"events": {
-												"31618_1": "OPM (Operationsmanagement)",
-												"31561_1": "OPM P (Operationsmanagement Praktikum)"
-											}
-										},
-										"M-3005-PM International Supply Chain Management (engl.)": {
-											"events": {
-												"31821_1": "ISCM (International Supply Chain Management (engl.))",
-												"31523_1": "ISCM P (International Supply Chain Management Praktikum)"
-											}
-										},
-										"M-3007-PM Messtechnik in der Produktion": {
-											"events": {
-												"31653_1": "MTP (Messtechnik in der Produktion)",
-												"31710_1": "MTP P (Messtechnik in der Produktion Praktikum)"
-											}
-										},
-										"M-3009-PM Kunststoffverarbeitende Verfahren": {
-											"events": {
-												"31776_1": "KSVV (Kunststoffverarbeitende Verfahren)",
-												"31778_1": "KSVV P (Kunststoffverarbeitende Verfahren Praktikum)"
-											}
-										},
-										"M-3010-PM Umformtechnische Fertigungsprozesse": {
-											"events": {
-												"31788_1": "UTF (Umformtechnische Fertigungsprozesse)",
-												"31568_1": "UTF P (Umformtechnische Fertigungsprozesse Praktikum)"
-											}
-										},
-										"M-3015-PM Additive Manufacturing": {
-											"events": {
-												"31560_1": "ADDMF (Additive Manufacturing)",
-												"31636_1": "ADDMF P (Additive Manufacturing Praktikum)"
-											}
-										},
-										"M-3031-NE Umweltmanagement, -wirtschaft und virtuelle Kraftwerke": {
-											"events": {
-												"31823_1": "UMWVK (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke)",
-												"31593_1": "UMWVK P (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke Praktikum)"
-											}
-										},
-										"M-3032-NE Entwicklung effizienter elektrischer Antriebssysteme": {
-											"events": {
-												"31601_1": "EA (Entwicklung effizienter elektrischer Antriebssysteme)",
-												"31658_1": "EEA P (Entwicklung effizienter elektrischer Antriebssysteme Praktikum)"
-											}
-										},
-										"M-3033-NE Energieeffiziente Gebäude": {
-											"events": {
-												"31554_1": "EEG (Energieeffiziente Gebäude)",
-												"31624_1": "EEG P (Energieeffiziente Gebäude Praktikum)"
-											}
-										},
-										"M-3037-NE Konzeption und Betrieb von Windenergieanlagen": {
-											"events": {
-												"31773_1": "WEA (Konzeption und Betrieb von Windenergieanlagen)",
-												"31673_1": "WEA P (Konzeption und Betrieb von Windenergieanlagen Praktikum)"
-											}
-										},
-										"M-3039-NE Energieeffiziente Anlagensysteme": {
-											"events": {
-												"31703_1": "EEANL (Energieeffiziente Anlagensysteme)",
-												"31533_1": "EEANL P (Energieeffiziente Anlagensysteme Praktikum)"
-											}
-										},
-										"M-3041-NE Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
-											"events": {
-												"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
-												"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
-											}
-										},
-										"M-3042-NE Energieeffiziente Verbrennungsmotoren": {
-											"events": {
-												"31557_1": "EEV (Energieeffiziente Verbrennungsmotoren)",
-												"31514_1": "EEV P (Energieeffiziente Verbrennungsmotoren Praktikum)"
-											}
-										},
-										"M-3043-NE Umgebungsbedingungen von Wind- und Meeresenergieanlagen": {
-											"events": {
-												"31548_1": "UWM (Umgebungsbedingungen von Wind- und Meeresenergieanlagen)",
-												"31810_1": "UWM P (Umgebungsbedingungen von Wind- und Meeresenergieanlagen Praktikum)"
-											}
-										},
-										"M-3052-BS Computational Fluid Dynamics (CFD)": {
-											"events": {
-												"31757_1": "CFD (Computational Fluid Dynamics)",
-												"31619_1": "CFD P (Computational Fluid Dynamics Praktikum)"
-											}
-										},
-										"M-3056-BS Modellierung mit FEM": {
-											"events": {
-												"31714_1": "MODFEM (Modellierung mit FEM)",
-												"31801_1": "MODFEM P (Modellierung mit FEM Praktikum)"
-											}
-										},
-										"M-3059-BS Stabilität und Kontakt": {
-											"events": {
-												"31814_1": "STAKO (Stabilität und Kontakt)",
-												"31643_1": "STAKO P (Stabilität und Kontakt Praktikum)"
-											}
-										},
-										"M-3063-BS Berechnung von Faserverbundwerkstoffen": {
-											"events": {
-												"31864_1": "BFVK (Berechnung von Faserverbundwerkstoffen)",
-												"31862_1": "BFVK P (Berechnung von Faserverbundwerkstoffen Praktikum)"
-											}
-										},
-										"M-3064-BS Machine Learning Methods (engl.)": {
-											"events": {
-												"31829_1": "MLM (Machine Learning Methods (engl.))",
-												"31684_1": "MLM P (Machine Learning Methods Praktikum)"
-											}
-										}
-									}
-								},
-								"M-3084-KP Konstruktion hybrider Bauteile": {
-									"events": {
-										"31569_1": "KHB (Konstruktion hybrider Bauteile)",
-										"31744_1": "KHB P (Konstruktion hybrider Bauteile Praktikum)"
-									}
-								},
-								"M-3087-KP Entwicklung mechatronischer Systeme": {
-									"events": {
-										"31553_1": "EMS (Entwicklung mechatronischer Systeme)",
-										"31598_1": "EMS P (Entwicklung mechatronischer Systeme Praktikum)"
-									}
-								},
-								"M-3090-KP Tribologie / Tribodesign": {
-									"events": {
-										"31842_1": "TRIBO (Tribologie / Tribodesign)",
-										"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
-									}
-								}
-							}
-						},
-						"Masterarbeit und Masterprojekt": {
+						"": {
 							"events": {
 								"31871_1": "EPRJ1 (Entwicklungsprojekt I)",
 								"31875_1": "EPRJ2 (Entwicklungsprojekt II)"
@@ -9542,289 +8077,9 @@
 				},
 				"Master Nachhaltige Energiesysteme im Maschinenbau (PO SoSe 2020)": {
 					"subDirectories": {
-						"Studiengangsübergreifendes Wahlpflichtangebot": {
+						"": {
 							"subDirectories": {
-								"Austauschmodul für ein Wahlpflichtmodul": {
-									"subDirectories": {
-										"M-3002-PM Innovationsmanagement": {
-											"subDirectories": {
-												"Innovationsmanagement Praktikum": {
-													"events": {
-														"31590_1": "IMGT P/01 (Innovationsmanagement Praktikum)",
-														"31590_2": "IMGT P/02 (Innovationsmanagement Praktikum)",
-														"31590_3": "IMGT P/03 (Innovationsmanagement Praktikum)"
-													}
-												}
-											},
-											"events": {
-												"31699_1": "IMGT (Innovationsmanagement)"
-											}
-										},
-										"M-3003-PM Operationsmanagement": {
-											"events": {
-												"31618_1": "OPM (Operationsmanagement)",
-												"31561_1": "OPM P (Operationsmanagement Praktikum)"
-											}
-										},
-										"M-3005-PM International Supply Chain Management (engl.)": {
-											"events": {
-												"31821_1": "ISCM (International Supply Chain Management (engl.))",
-												"31523_1": "ISCM P (International Supply Chain Management Praktikum)"
-											}
-										},
-										"M-3007-PM Messtechnik in der Produktion": {
-											"events": {
-												"31653_1": "MTP (Messtechnik in der Produktion)",
-												"31710_1": "MTP P (Messtechnik in der Produktion Praktikum)"
-											}
-										},
-										"M-3009-PM Kunststoffverarbeitende Verfahren": {
-											"events": {
-												"31776_1": "KSVV (Kunststoffverarbeitende Verfahren)",
-												"31778_1": "KSVV P (Kunststoffverarbeitende Verfahren Praktikum)"
-											}
-										},
-										"M-3010-PM Umformtechnische Fertigungsprozesse": {
-											"events": {
-												"31788_1": "UTF (Umformtechnische Fertigungsprozesse)",
-												"31568_1": "UTF P (Umformtechnische Fertigungsprozesse Praktikum)"
-											}
-										},
-										"M-3012-PM Tribologie / Tribodesign": {
-											"events": {
-												"31842_1": "TRIBO (Tribologie / Tribodesign)",
-												"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
-											}
-										},
-										"M-3015-PM Additive Manufacturing": {
-											"events": {
-												"31560_1": "ADDMF (Additive Manufacturing)",
-												"31636_1": "ADDMF P (Additive Manufacturing Praktikum)"
-											}
-										},
-										"M-3052-BS Computational Fluid Dynamics (CFD)": {
-											"events": {
-												"31757_1": "CFD (Computational Fluid Dynamics)",
-												"31619_1": "CFD P (Computational Fluid Dynamics Praktikum)"
-											}
-										},
-										"M-3056-BS Modellierung mit FEM": {
-											"events": {
-												"31714_1": "MODFEM (Modellierung mit FEM)",
-												"31801_1": "MODFEM P (Modellierung mit FEM Praktikum)"
-											}
-										},
-										"M-3059-BS Stabilität und Kontakt": {
-											"events": {
-												"31814_1": "STAKO (Stabilität und Kontakt)",
-												"31643_1": "STAKO P (Stabilität und Kontakt Praktikum)"
-											}
-										},
-										"M-3063-BS Berechnung von Faserverbundwerkstoffen": {
-											"events": {
-												"31864_1": "BFVK (Berechnung von Faserverbundwerkstoffen)",
-												"31862_1": "BFVK P (Berechnung von Faserverbundwerkstoffen Praktikum)"
-											}
-										},
-										"M-3064-BS Machine Learning Methods (engl.)": {
-											"events": {
-												"31829_1": "MLM (Machine Learning Methods (engl.))",
-												"31684_1": "MLM P (Machine Learning Methods Praktikum)"
-											}
-										},
-										"M-3084-KP Konstruktion hybrider Bauteile": {
-											"events": {
-												"31569_1": "KHB (Konstruktion hybrider Bauteile)",
-												"31744_1": "KHB P (Konstruktion hybrider Bauteile Praktikum)"
-											}
-										},
-										"M-3087-KP Entwicklung mechatronischer Systeme": {
-											"events": {
-												"31553_1": "EMS (Entwicklung mechatronischer Systeme)",
-												"31598_1": "EMS P (Entwicklung mechatronischer Systeme Praktikum)"
-											}
-										},
-										"M-3090-KP Tribologie / Tribodesign": {
-											"events": {
-												"31842_1": "TRIBO (Tribologie / Tribodesign)",
-												"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
-											}
-										}
-									}
-								}
-							},
-							"events": {
-								"31780_1": "SYSD (Systemdynamik und Simulation)",
-								"31701_1": "MATT (Materialtechnologie)",
-								"31760_1": "QZV (Qualität und Zuverlässigkeit)",
-								"31731_1": "PLM (Product Lifecycle Management (engl.))"
-							}
-						},
-						"Wahlmodul aus dem Masterangebot": {
-							"subDirectories": {
-								"M-3031-NE Umweltmanagement, -wirtschaft und virtuelle Kraftwerke": {
-									"events": {
-										"31823_1": "UMWVK (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke)",
-										"31593_1": "UMWVK P (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke Praktikum)"
-									}
-								},
-								"M-3032-NE Entwicklung effizienter elektrischer Antriebssysteme": {
-									"events": {
-										"31601_1": "EA (Entwicklung effizienter elektrischer Antriebssysteme)",
-										"31658_1": "EEA P (Entwicklung effizienter elektrischer Antriebssysteme Praktikum)"
-									}
-								},
-								"M-3033-NE Energieeffiziente Gebäude": {
-									"events": {
-										"31554_1": "EEG (Energieeffiziente Gebäude)",
-										"31624_1": "EEG P (Energieeffiziente Gebäude Praktikum)"
-									}
-								},
-								"M-3037-NE Konzeption und Betrieb von Windenergieanlagen": {
-									"events": {
-										"31773_1": "WEA (Konzeption und Betrieb von Windenergieanlagen)",
-										"31673_1": "WEA P (Konzeption und Betrieb von Windenergieanlagen Praktikum)"
-									}
-								},
-								"M-3039-NE Energieeffiziente Anlagensysteme": {
-									"events": {
-										"31703_1": "EEANL (Energieeffiziente Anlagensysteme)",
-										"31533_1": "EEANL P (Energieeffiziente Anlagensysteme Praktikum)"
-									}
-								},
-								"M-3041-NE Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
-									"events": {
-										"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
-										"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
-									}
-								},
-								"M-3042-NE Energieeffiziente Verbrennungsmotoren": {
-									"events": {
-										"31557_1": "EEV (Energieeffiziente Verbrennungsmotoren)",
-										"31514_1": "EEV P (Energieeffiziente Verbrennungsmotoren Praktikum)"
-									}
-								},
-								"M-3043-NE Umgebungsbedingungen von Wind- und Meeresenergieanlagen": {
-									"events": {
-										"31548_1": "UWM (Umgebungsbedingungen von Wind- und Meeresenergieanlagen)",
-										"31810_1": "UWM P (Umgebungsbedingungen von Wind- und Meeresenergieanlagen Praktikum)"
-									}
-								},
-								"M-3002-PM Innovationsmanagement": {
-									"subDirectories": {
-										"Innovationsmanagement Praktikum": {
-											"events": {
-												"31590_1": "IMGT P/01 (Innovationsmanagement Praktikum)",
-												"31590_2": "IMGT P/02 (Innovationsmanagement Praktikum)",
-												"31590_3": "IMGT P/03 (Innovationsmanagement Praktikum)"
-											}
-										}
-									},
-									"events": {
-										"31699_1": "IMGT (Innovationsmanagement)"
-									}
-								},
-								"M-3003-PM Operationsmanagement": {
-									"events": {
-										"31618_1": "OPM (Operationsmanagement)",
-										"31561_1": "OPM P (Operationsmanagement Praktikum)"
-									}
-								},
-								"M-3005-PM International Supply Chain Management (engl.)": {
-									"events": {
-										"31821_1": "ISCM (International Supply Chain Management (engl.))",
-										"31523_1": "ISCM P (International Supply Chain Management Praktikum)"
-									}
-								},
-								"M-3007-PM Messtechnik in der Produktion": {
-									"events": {
-										"31653_1": "MTP (Messtechnik in der Produktion)",
-										"31710_1": "MTP P (Messtechnik in der Produktion Praktikum)"
-									}
-								},
-								"M-3009-PM Kunststoffverarbeitende Verfahren": {
-									"events": {
-										"31776_1": "KSVV (Kunststoffverarbeitende Verfahren)",
-										"31778_1": "KSVV P (Kunststoffverarbeitende Verfahren Praktikum)"
-									}
-								},
-								"M-3010-PM Umformtechnische Fertigungsprozesse": {
-									"events": {
-										"31788_1": "UTF (Umformtechnische Fertigungsprozesse)",
-										"31568_1": "UTF P (Umformtechnische Fertigungsprozesse Praktikum)"
-									}
-								},
-								"M-3012-PM Tribologie / Tribodesign": {
-									"events": {
-										"31842_1": "TRIBO (Tribologie / Tribodesign)",
-										"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
-									}
-								},
-								"M-3015-PM Additive Manufacturing": {
-									"events": {
-										"31560_1": "ADDMF (Additive Manufacturing)",
-										"31636_1": "ADDMF P (Additive Manufacturing Praktikum)"
-									}
-								},
-								"M-3052-BS Computational Fluid Dynamics (CFD)": {
-									"events": {
-										"31757_1": "CFD (Computational Fluid Dynamics)",
-										"31619_1": "CFD P (Computational Fluid Dynamics Praktikum)"
-									}
-								},
-								"M-3056-BS Modellierung mit FEM": {
-									"events": {
-										"31714_1": "MODFEM (Modellierung mit FEM)",
-										"31801_1": "MODFEM P (Modellierung mit FEM Praktikum)"
-									}
-								},
-								"M-3059-BS Stabilität und Kontakt": {
-									"events": {
-										"31814_1": "STAKO (Stabilität und Kontakt)",
-										"31643_1": "STAKO P (Stabilität und Kontakt Praktikum)"
-									}
-								},
-								"M-3063-BS Berechnung von Faserverbundwerkstoffen": {
-									"events": {
-										"31864_1": "BFVK (Berechnung von Faserverbundwerkstoffen)",
-										"31862_1": "BFVK P (Berechnung von Faserverbundwerkstoffen Praktikum)"
-									}
-								},
-								"M-3064-BS Machine Learning Methods (engl.)": {
-									"events": {
-										"31829_1": "MLM (Machine Learning Methods (engl.))",
-										"31684_1": "MLM P (Machine Learning Methods Praktikum)"
-									}
-								},
-								"M-3084-KP Konstruktion hybrider Bauteile": {
-									"events": {
-										"31569_1": "KHB (Konstruktion hybrider Bauteile)",
-										"31744_1": "KHB P (Konstruktion hybrider Bauteile Praktikum)"
-									}
-								},
-								"M-3087-KP Entwicklung mechatronischer Systeme": {
-									"events": {
-										"31553_1": "EMS (Entwicklung mechatronischer Systeme)",
-										"31598_1": "EMS P (Entwicklung mechatronischer Systeme Praktikum)"
-									}
-								},
-								"M-3090-KP Tribologie / Tribodesign": {
-									"events": {
-										"31842_1": "TRIBO (Tribologie / Tribodesign)",
-										"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
-									}
-								}
-							},
-							"events": {
-								"31780_1": "SYSD (Systemdynamik und Simulation)",
-								"31701_1": "MATT (Materialtechnologie)",
-								"31760_1": "QZV (Qualität und Zuverlässigkeit)",
-								"31731_1": "PLM (Product Lifecycle Management (engl.))"
-							}
-						},
-						"Wahlpflichtmodule im Vertiefungsstudium": {
-							"subDirectories": {
-								"Austauschmodul für ein Wahlpflichtmodul": {
+								"": {
 									"subDirectories": {
 										"M-3002-PM Innovationsmanagement": {
 											"subDirectories": {
@@ -9986,318 +8241,9 @@
 				},
 				"Master Berechnung und Simulation im Maschinenbau (PO SoSe 2020)": {
 					"subDirectories": {
-						"Studiengangsübergreifendes Wahlpflichtangebot": {
+						"": {
 							"subDirectories": {
-								"Austauschmodul für ein Wahlpflichtmodul": {
-									"subDirectories": {
-										"M-3002-PM Innovationsmanagement": {
-											"subDirectories": {
-												"Innovationsmanagement Praktikum": {
-													"events": {
-														"31590_1": "IMGT P/01 (Innovationsmanagement Praktikum)",
-														"31590_2": "IMGT P/02 (Innovationsmanagement Praktikum)",
-														"31590_3": "IMGT P/03 (Innovationsmanagement Praktikum)"
-													}
-												}
-											},
-											"events": {
-												"31699_1": "IMGT (Innovationsmanagement)"
-											}
-										},
-										"M-3003-PM Operationsmanagement": {
-											"events": {
-												"31618_1": "OPM (Operationsmanagement)",
-												"31561_1": "OPM P (Operationsmanagement Praktikum)"
-											}
-										},
-										"M-3005-PM International Supply Chain Management (engl.)": {
-											"events": {
-												"31821_1": "ISCM (International Supply Chain Management (engl.))",
-												"31523_1": "ISCM P (International Supply Chain Management Praktikum)"
-											}
-										},
-										"M-3007-PM Messtechnik in der Produktion": {
-											"events": {
-												"31653_1": "MTP (Messtechnik in der Produktion)",
-												"31710_1": "MTP P (Messtechnik in der Produktion Praktikum)"
-											}
-										},
-										"M-3009-PM Kunststoffverarbeitende Verfahren": {
-											"events": {
-												"31776_1": "KSVV (Kunststoffverarbeitende Verfahren)",
-												"31778_1": "KSVV P (Kunststoffverarbeitende Verfahren Praktikum)"
-											}
-										},
-										"M-3010-PM Umformtechnische Fertigungsprozesse": {
-											"events": {
-												"31788_1": "UTF (Umformtechnische Fertigungsprozesse)",
-												"31568_1": "UTF P (Umformtechnische Fertigungsprozesse Praktikum)"
-											}
-										},
-										"M-3012-PM Tribologie / Tribodesign": {
-											"events": {
-												"31842_1": "TRIBO (Tribologie / Tribodesign)",
-												"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
-											}
-										},
-										"M-3015-PM Additive Manufacturing": {
-											"events": {
-												"31560_1": "ADDMF (Additive Manufacturing)",
-												"31636_1": "ADDMF P (Additive Manufacturing Praktikum)"
-											}
-										},
-										"M-3031-NE Umweltmanagement, -wirtschaft und virtuelle Kraftwerke": {
-											"events": {
-												"31823_1": "UMWVK (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke)",
-												"31593_1": "UMWVK P (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke Praktikum)"
-											}
-										},
-										"M-3032-NE Entwicklung effizienter elektrischer Antriebssysteme": {
-											"events": {
-												"31601_1": "EA (Entwicklung effizienter elektrischer Antriebssysteme)",
-												"31658_1": "EEA P (Entwicklung effizienter elektrischer Antriebssysteme Praktikum)"
-											}
-										},
-										"M-3033-NE Energieeffiziente Gebäude": {
-											"events": {
-												"31554_1": "EEG (Energieeffiziente Gebäude)",
-												"31624_1": "EEG P (Energieeffiziente Gebäude Praktikum)"
-											}
-										},
-										"M-3037-NE Konzeption und Betrieb von Windenergieanlagen": {
-											"events": {
-												"31773_1": "WEA (Konzeption und Betrieb von Windenergieanlagen)",
-												"31673_1": "WEA P (Konzeption und Betrieb von Windenergieanlagen Praktikum)"
-											}
-										},
-										"M-3039-NE Energieeffiziente Anlagensysteme": {
-											"events": {
-												"31703_1": "EEANL (Energieeffiziente Anlagensysteme)",
-												"31533_1": "EEANL P (Energieeffiziente Anlagensysteme Praktikum)"
-											}
-										},
-										"M-3041-NE Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
-											"events": {
-												"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
-												"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
-											}
-										},
-										"M-3042-NE Energieeffiziente Verbrennungsmotoren": {
-											"events": {
-												"31557_1": "EEV (Energieeffiziente Verbrennungsmotoren)",
-												"31514_1": "EEV P (Energieeffiziente Verbrennungsmotoren Praktikum)"
-											}
-										},
-										"M-3043-NE Umgebungsbedingungen von Wind- und Meeresenergieanlagen": {
-											"events": {
-												"31548_1": "UWM (Umgebungsbedingungen von Wind- und Meeresenergieanlagen)",
-												"31810_1": "UWM P (Umgebungsbedingungen von Wind- und Meeresenergieanlagen Praktikum)"
-											}
-										},
-										"M-3064-BS Machine Learning Methods (engl.)": {
-											"events": {
-												"31829_1": "MLM (Machine Learning Methods (engl.))",
-												"31684_1": "MLM P (Machine Learning Methods Praktikum)"
-											}
-										},
-										"M-3084-KP Konstruktion hybrider Bauteile": {
-											"events": {
-												"31569_1": "KHB (Konstruktion hybrider Bauteile)",
-												"31744_1": "KHB P (Konstruktion hybrider Bauteile Praktikum)"
-											}
-										},
-										"M-3087-KP Entwicklung mechatronischer Systeme": {
-											"events": {
-												"31553_1": "EMS (Entwicklung mechatronischer Systeme)",
-												"31598_1": "EMS P (Entwicklung mechatronischer Systeme Praktikum)"
-											}
-										},
-										"M-3090-KP Tribologie / Tribodesign": {
-											"events": {
-												"31842_1": "TRIBO (Tribologie / Tribodesign)",
-												"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
-											}
-										}
-									}
-								}
-							},
-							"events": {
-								"31780_1": "SYSD (Systemdynamik und Simulation)",
-								"31701_1": "MATT (Materialtechnologie)",
-								"31760_1": "QZV (Qualität und Zuverlässigkeit)",
-								"31731_1": "PLM (Product Lifecycle Management (engl.))"
-							}
-						},
-						"Pflichtmodul Mathematische Verfahren": {
-							"events": {
-								"31873_1": "MANU (Mathematik und Numerik)"
-							}
-						},
-						"Wahlmodul aus dem Masterangebot": {
-							"subDirectories": {
-								"M-3052-BS Computational Fluid Dynamics (CFD)": {
-									"events": {
-										"31757_1": "CFD (Computational Fluid Dynamics)",
-										"31619_1": "CFD P (Computational Fluid Dynamics Praktikum)"
-									}
-								},
-								"M-3056-BS Modellierung mit FEM": {
-									"events": {
-										"31714_1": "MODFEM (Modellierung mit FEM)",
-										"31801_1": "MODFEM P (Modellierung mit FEM Praktikum)"
-									}
-								},
-								"M-3059-BS Stabilität und Kontakt": {
-									"events": {
-										"31814_1": "STAKO (Stabilität und Kontakt)",
-										"31643_1": "STAKO P (Stabilität und Kontakt Praktikum)"
-									}
-								},
-								"M-3063-BS Berechnung von Faserverbundwerkstoffen": {
-									"events": {
-										"31864_1": "BFVK (Berechnung von Faserverbundwerkstoffen)",
-										"31862_1": "BFVK P (Berechnung von Faserverbundwerkstoffen Praktikum)"
-									}
-								},
-								"M-3064-BS Machine Learning Methods (engl.)": {
-									"events": {
-										"31829_1": "MLM (Machine Learning Methods (engl.))",
-										"31684_1": "MLM P (Machine Learning Methods Praktikum)"
-									}
-								},
-								"M-3002-PM Innovationsmanagement": {
-									"subDirectories": {
-										"Innovationsmanagement Praktikum": {
-											"events": {
-												"31590_1": "IMGT P/01 (Innovationsmanagement Praktikum)",
-												"31590_2": "IMGT P/02 (Innovationsmanagement Praktikum)",
-												"31590_3": "IMGT P/03 (Innovationsmanagement Praktikum)"
-											}
-										}
-									},
-									"events": {
-										"31699_1": "IMGT (Innovationsmanagement)"
-									}
-								},
-								"M-3003-PM Operationsmanagement": {
-									"events": {
-										"31618_1": "OPM (Operationsmanagement)",
-										"31561_1": "OPM P (Operationsmanagement Praktikum)"
-									}
-								},
-								"M-3005-PM International Supply Chain Management (engl.)": {
-									"events": {
-										"31821_1": "ISCM (International Supply Chain Management (engl.))",
-										"31523_1": "ISCM P (International Supply Chain Management Praktikum)"
-									}
-								},
-								"M-3007-PM Messtechnik in der Produktion": {
-									"events": {
-										"31653_1": "MTP (Messtechnik in der Produktion)",
-										"31710_1": "MTP P (Messtechnik in der Produktion Praktikum)"
-									}
-								},
-								"M-3009-PM Kunststoffverarbeitende Verfahren": {
-									"events": {
-										"31776_1": "KSVV (Kunststoffverarbeitende Verfahren)",
-										"31778_1": "KSVV P (Kunststoffverarbeitende Verfahren Praktikum)"
-									}
-								},
-								"M-3010-PM Umformtechnische Fertigungsprozesse": {
-									"events": {
-										"31788_1": "UTF (Umformtechnische Fertigungsprozesse)",
-										"31568_1": "UTF P (Umformtechnische Fertigungsprozesse Praktikum)"
-									}
-								},
-								"M-3012-PM Tribologie / Tribodesign": {
-									"events": {
-										"31842_1": "TRIBO (Tribologie / Tribodesign)",
-										"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
-									}
-								},
-								"M-3015-PM Additive Manufacturing": {
-									"events": {
-										"31560_1": "ADDMF (Additive Manufacturing)",
-										"31636_1": "ADDMF P (Additive Manufacturing Praktikum)"
-									}
-								},
-								"M-3031-NE Umweltmanagement, -wirtschaft und virtuelle Kraftwerke": {
-									"events": {
-										"31823_1": "UMWVK (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke)",
-										"31593_1": "UMWVK P (Umweltmanagement, -wirtschaft und virtuelle Kraftwerke Praktikum)"
-									}
-								},
-								"M-3032-NE Entwicklung effizienter elektrischer Antriebssysteme": {
-									"events": {
-										"31601_1": "EA (Entwicklung effizienter elektrischer Antriebssysteme)",
-										"31658_1": "EEA P (Entwicklung effizienter elektrischer Antriebssysteme Praktikum)"
-									}
-								},
-								"M-3033-NE Energieeffiziente Gebäude": {
-									"events": {
-										"31554_1": "EEG (Energieeffiziente Gebäude)",
-										"31624_1": "EEG P (Energieeffiziente Gebäude Praktikum)"
-									}
-								},
-								"M-3037-NE Konzeption und Betrieb von Windenergieanlagen": {
-									"events": {
-										"31773_1": "WEA (Konzeption und Betrieb von Windenergieanlagen)",
-										"31673_1": "WEA P (Konzeption und Betrieb von Windenergieanlagen Praktikum)"
-									}
-								},
-								"M-3039-NE Energieeffiziente Anlagensysteme": {
-									"events": {
-										"31703_1": "EEANL (Energieeffiziente Anlagensysteme)",
-										"31533_1": "EEANL P (Energieeffiziente Anlagensysteme Praktikum)"
-									}
-								},
-								"M-3041-NE Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung": {
-									"events": {
-										"31721_1": "AT-NE (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung)",
-										"31556_1": "AT-NE P (Ausgewählte Themen der nachhaltigen Energiebereitstellung und Nutzung Praktikum)"
-									}
-								},
-								"M-3042-NE Energieeffiziente Verbrennungsmotoren": {
-									"events": {
-										"31557_1": "EEV (Energieeffiziente Verbrennungsmotoren)",
-										"31514_1": "EEV P (Energieeffiziente Verbrennungsmotoren Praktikum)"
-									}
-								},
-								"M-3043-NE Umgebungsbedingungen von Wind- und Meeresenergieanlagen": {
-									"events": {
-										"31548_1": "UWM (Umgebungsbedingungen von Wind- und Meeresenergieanlagen)",
-										"31810_1": "UWM P (Umgebungsbedingungen von Wind- und Meeresenergieanlagen Praktikum)"
-									}
-								},
-								"M-3084-KP Konstruktion hybrider Bauteile": {
-									"events": {
-										"31569_1": "KHB (Konstruktion hybrider Bauteile)",
-										"31744_1": "KHB P (Konstruktion hybrider Bauteile Praktikum)"
-									}
-								},
-								"M-3087-KP Entwicklung mechatronischer Systeme": {
-									"events": {
-										"31553_1": "EMS (Entwicklung mechatronischer Systeme)",
-										"31598_1": "EMS P (Entwicklung mechatronischer Systeme Praktikum)"
-									}
-								},
-								"M-3090-KP Tribologie / Tribodesign": {
-									"events": {
-										"31842_1": "TRIBO (Tribologie / Tribodesign)",
-										"31642_1": "TRIBO P (Tribologie / Tribodesign Praktikum)"
-									}
-								}
-							},
-							"events": {
-								"31780_1": "SYSD (Systemdynamik und Simulation)",
-								"31701_1": "MATT (Materialtechnologie)",
-								"31760_1": "QZV (Qualität und Zuverlässigkeit)",
-								"31731_1": "PLM (Product Lifecycle Management (engl.))"
-							}
-						},
-						"Wahlpflichtmodule im Vertiefungsstudium": {
-							"subDirectories": {
-								"Austauschmodul für ein Wahlpflichtmodul": {
+								"": {
 									"subDirectories": {
 										"M-3002-PM Innovationsmanagement": {
 											"subDirectories": {
@@ -10532,7 +8478,7 @@
 												"26098_2": "RSozA/02 (Einführung in die Rechtsordnung)"
 											}
 										},
-										"Wahl Rechtsseminare": {
+										"": {
 											"subDirectories": {
 												"Sozialrecht, Arbeitslosen- und Existenzsicherungsrecht": {
 													"events": {
@@ -10848,7 +8794,7 @@
 												"26098_2": "RSozA/02 (Einführung in die Rechtsordnung)"
 											}
 										},
-										"Wahl Rechtsseminare": {
+										"": {
 											"subDirectories": {
 												"Sozialrecht, Arbeitslosen- und Existenzsicherungsrecht": {
 													"events": {
