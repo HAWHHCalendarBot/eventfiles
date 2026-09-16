@@ -5364,6 +5364,118 @@
 						}
 					}
 				},
+				"Bachelor Fahrzeugtechnik (PO WS 2026/27)": {
+					"subDirectories": {
+						"Pflichtmodule im 1. Semester": {
+							"subDirectories": {
+								"Analysis 1": {
+									"events": {
+										"45337_1": "ANA1/01 (Analysis 1)",
+										"45337_2": "ANA1/02 (Analysis 1)",
+										"45337_3": "ANA1/03 (Analysis 1)",
+										"45337_4": "ANA1/04 (Analysis 1)"
+									}
+								},
+								"Lineare Algebra": {
+									"events": {
+										"45339_1": "LINA/01 (Lineare Algebra)",
+										"45339_2": "LINA/02 (Lineare Algebra)",
+										"45339_3": "LINA/03 (Lineare Algebra)",
+										"45339_4": "LINA/04 (Lineare Algebra)"
+									}
+								},
+								"Statik": {
+									"events": {
+										"45361_1": "TM1/01 (Statik)",
+										"45361_2": "TM1/02 (Statik)",
+										"45361_3": "TM1/03 (Statik)",
+										"45361_4": "TM1/04 (Statik)"
+									}
+								},
+								"Fertigungstechnik": {
+									"events": {
+										"45774_1": "FT/01 (Fertigungstechnik)",
+										"45774_2": "FT/02 (Fertigungstechnik)",
+										"45774_3": "FT/03 (Fertigungstechnik)",
+										"45774_4": "FT/04 (Fertigungstechnik)"
+									}
+								},
+								"Werkstoffkunde": {
+									"events": {
+										"45778_1": "WK/01 (Werkstoffkunde)",
+										"45778_2": "WK/02 (Werkstoffkunde)",
+										"45778_3": "WK/03 (Werkstoffkunde)",
+										"45778_4": "WK/04 (Werkstoffkunde)"
+									}
+								},
+								"Darstellende Geometrie": {
+									"events": {
+										"45782_1": "DG/01 (Darstellende Geometrie)",
+										"45782_2": "DG/02 (Darstellende Geometrie)",
+										"45782_3": "DG/03 (Darstellende Geometrie)",
+										"45782_4": "DG/04 (Darstellende Geometrie)"
+									}
+								}
+							}
+						}
+					}
+				},
+				"Bachelor Flugzeugtechnik (PO WS 2026/27)": {
+					"subDirectories": {
+						"Pflichtmodule im 1. Semester": {
+							"subDirectories": {
+								"Analysis 1": {
+									"events": {
+										"45337_1": "ANA1/01 (Analysis 1)",
+										"45337_2": "ANA1/02 (Analysis 1)",
+										"45337_3": "ANA1/03 (Analysis 1)",
+										"45337_4": "ANA1/04 (Analysis 1)"
+									}
+								},
+								"Lineare Algebra": {
+									"events": {
+										"45339_1": "LINA/01 (Lineare Algebra)",
+										"45339_2": "LINA/02 (Lineare Algebra)",
+										"45339_3": "LINA/03 (Lineare Algebra)",
+										"45339_4": "LINA/04 (Lineare Algebra)"
+									}
+								},
+								"Statik": {
+									"events": {
+										"45361_1": "TM1/01 (Statik)",
+										"45361_2": "TM1/02 (Statik)",
+										"45361_3": "TM1/03 (Statik)",
+										"45361_4": "TM1/04 (Statik)"
+									}
+								},
+								"Fertigungstechnik": {
+									"events": {
+										"45774_1": "FT/01 (Fertigungstechnik)",
+										"45774_2": "FT/02 (Fertigungstechnik)",
+										"45774_3": "FT/03 (Fertigungstechnik)",
+										"45774_4": "FT/04 (Fertigungstechnik)"
+									}
+								},
+								"Werkstoffkunde": {
+									"events": {
+										"45778_1": "WK/01 (Werkstoffkunde)",
+										"45778_2": "WK/02 (Werkstoffkunde)",
+										"45778_3": "WK/03 (Werkstoffkunde)",
+										"45778_4": "WK/04 (Werkstoffkunde)"
+									}
+								},
+								"Darstellende Geometrie": {
+									"events": {
+										"45782_1": "DG/01 (Darstellende Geometrie)",
+										"45782_2": "DG/02 (Darstellende Geometrie)",
+										"45782_3": "DG/03 (Darstellende Geometrie)",
+										"45782_4": "DG/04 (Darstellende Geometrie)"
+									}
+								}
+							}
+						}
+					}
+				},
 				"Bachelor Mechatronik (PO WS 2019/20)": {
 					"subDirectories": {
 						"3. Semester": {
@@ -5557,6 +5669,62 @@
 						}
 					}
 				},
+				"Bachelor Mechatronik (PO WS 2026/27)": {
+					"subDirectories": {
+						"Pflichtmodule im 1. Semester": {
+							"subDirectories": {
+								"Analysis 1": {
+									"events": {
+										"45337_1": "ANA1/01 (Analysis 1)",
+										"45337_2": "ANA1/02 (Analysis 1)",
+										"45337_3": "ANA1/03 (Analysis 1)",
+										"45337_4": "ANA1/04 (Analysis 1)"
+									}
+								},
+								"Lineare Algebra": {
+									"events": {
+										"45339_1": "LINA/01 (Lineare Algebra)",
+										"45339_2": "LINA/02 (Lineare Algebra)",
+										"45339_3": "LINA/03 (Lineare Algebra)",
+										"45339_4": "LINA/04 (Lineare Algebra)"
+									}
+								},
+								"Statik": {
+									"events": {
+										"45361_1": "TM1/01 (Statik)",
+										"45361_2": "TM1/02 (Statik)",
+										"45361_3": "TM1/03 (Statik)",
+										"45361_4": "TM1/04 (Statik)"
+									}
+								},
+								"Fertigungstechnik": {
+									"events": {
+										"45774_1": "FT/01 (Fertigungstechnik)",
+										"45774_2": "FT/02 (Fertigungstechnik)",
+										"45774_3": "FT/03 (Fertigungstechnik)",
+										"45774_4": "FT/04 (Fertigungstechnik)"
+									}
+								},
+								"Werkstoffkunde": {
+									"events": {
+										"45778_1": "WK/01 (Werkstoffkunde)",
+										"45778_2": "WK/02 (Werkstoffkunde)",
+										"45778_3": "WK/03 (Werkstoffkunde)",
+										"45778_4": "WK/04 (Werkstoffkunde)"
+									}
+								},
+								"Darstellende Geometrie": {
+									"events": {
+										"45782_1": "DG/01 (Darstellende Geometrie)",
+										"45782_2": "DG/02 (Darstellende Geometrie)",
+										"45782_3": "DG/03 (Darstellende Geometrie)",
+										"45782_4": "DG/04 (Darstellende Geometrie)"
+									}
+								}
+							}
+						}
+					}
+				},
 				"Master Fahrzeugbau (PO SoSe 2022)": {
 					"subDirectories": {
 						"": {
@@ -5665,7 +5833,23 @@
 					}
 				},
 				"Bachelor Internationale Wirtschaft und Außenhandel (PO WS 2013/14)": {},
-				"Bachelor Public Management (PO WS 2022/23)": {},
+				"Bachelor Public Management (PO WS 2022/23)": {
+					"subDirectories": {
+						"3. Semester": {
+							"subDirectories": {
+								"Studienprojekt": {
+									"events": {
+										"18059_1": "PM11/01 (Studienprojekt)",
+										"18059_2": "PM11/02 (Studienprojekt)",
+										"18059_3": "PM11/03 (Studienprojekt)",
+										"18059_4": "PM11/04 (Studienprojekt)",
+										"18059_5": "PM11/05 (Studienprojekt)"
+									}
+								}
+							}
+						}
+					}
+				},
 				"Master Internationales Management / International Business (PO WS 2014/15)": {},
 				"Master International Business (PO WS 2023/24)": {},
 				"Master Internationale Logistik und Management (PO WS 2023/24)": {},
@@ -5996,42 +6180,21 @@
 											}
 										},
 										"M-20620 Strömungslehre 2 und CFD": {
-											"subDirectories": {
-												"Strömungslehre 2 und CFD Laborpraktikum": {
-													"events": {
-														"33073_1": "STL2CFD L/01 (Strömungslehre 2 und CFD Laborpraktikum)",
-														"33073_2": "STL2CFD L/02 (Strömungslehre 2 und CFD Laborpraktikum)"
-													}
-												}
-											},
 											"events": {
-												"32862_1": "STL2CFD (Strömungslehre 2 und CFD)"
+												"32862_1": "STL2CFD (Strömungslehre 2 und CFD)",
+												"33073_1": "STL2CFD L (Strömungslehre 2 und CFD Laborpraktikum)"
 											}
 										},
 										"M-20630 Wärme- und Stoffübertragung": {
-											"subDirectories": {
-												"Wärme- und Stoffübertragung Laborpraktikum": {
-													"events": {
-														"32720_1": "WSUE L/01 (Wärme- und Stoffübertragung Laborpraktikum)",
-														"32720_2": "WSUE L/02 (Wärme- und Stoffübertragung Laborpraktikum)"
-													}
-												}
-											},
 											"events": {
-												"33217_1": "WSUE (Wärme- und Stoffübertragung)"
+												"33217_1": "WSUE (Wärme- und Stoffübertragung)",
+												"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
 											}
 										},
 										"M-20640 Thermische Systemmodellierung": {
-											"subDirectories": {
-												"Thermische Systemmodellierung Laborpraktikum": {
-													"events": {
-														"32871_1": "THSM L/01 (Thermische Systemmodellierung Laborpraktikum)",
-														"32871_2": "THSM L/02 (Thermische Systemmodellierung Laborpraktikum)"
-													}
-												}
-											},
 											"events": {
-												"32875_1": "THSM (Thermische Systemmodellierung)"
+												"32875_1": "THSM (Thermische Systemmodellierung)",
+												"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
 											}
 										}
 									}
@@ -6194,29 +6357,15 @@
 															}
 														},
 														"M-20620 Strömungslehre 2 und CFD": {
-															"subDirectories": {
-																"Strömungslehre 2 und CFD Laborpraktikum": {
-																	"events": {
-																		"33073_1": "STL2CFD L/01 (Strömungslehre 2 und CFD Laborpraktikum)",
-																		"33073_2": "STL2CFD L/02 (Strömungslehre 2 und CFD Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
-																"32862_1": "STL2CFD (Strömungslehre 2 und CFD)"
+																"32862_1": "STL2CFD (Strömungslehre 2 und CFD)",
+																"33073_1": "STL2CFD L (Strömungslehre 2 und CFD Laborpraktikum)"
 															}
 														},
 														"M-20640 Thermische Systemmodellierung": {
-															"subDirectories": {
-																"Thermische Systemmodellierung Laborpraktikum": {
-																	"events": {
-																		"32871_1": "THSM L/01 (Thermische Systemmodellierung Laborpraktikum)",
-																		"32871_2": "THSM L/02 (Thermische Systemmodellierung Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
-																"32875_1": "THSM (Thermische Systemmodellierung)"
+																"32875_1": "THSM (Thermische Systemmodellierung)",
+																"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
 															}
 														},
 														"M-20690 Kolbenmaschinen": {
@@ -6499,16 +6648,9 @@
 													}
 												},
 												"M-20630 Wärme- und Stoffübertragung": {
-													"subDirectories": {
-														"Wärme- und Stoffübertragung Laborpraktikum": {
-															"events": {
-																"32720_1": "WSUE L/01 (Wärme- und Stoffübertragung Laborpraktikum)",
-																"32720_2": "WSUE L/02 (Wärme- und Stoffübertragung Laborpraktikum)"
-															}
-														}
-													},
 													"events": {
-														"33217_1": "WSUE (Wärme- und Stoffübertragung)"
+														"33217_1": "WSUE (Wärme- und Stoffübertragung)",
+														"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
 													}
 												},
 												"M-20840 Technische Schwingungslehre": {
@@ -6947,42 +7089,21 @@
 															}
 														},
 														"M-20620 Strömungslehre 2 und CFD": {
-															"subDirectories": {
-																"Strömungslehre 2 und CFD Laborpraktikum": {
-																	"events": {
-																		"33073_1": "STL2CFD L/01 (Strömungslehre 2 und CFD Laborpraktikum)",
-																		"33073_2": "STL2CFD L/02 (Strömungslehre 2 und CFD Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
-																"32862_1": "STL2CFD (Strömungslehre 2 und CFD)"
+																"32862_1": "STL2CFD (Strömungslehre 2 und CFD)",
+																"33073_1": "STL2CFD L (Strömungslehre 2 und CFD Laborpraktikum)"
 															}
 														},
 														"M-20630 Wärme- und Stoffübertragung": {
-															"subDirectories": {
-																"Wärme- und Stoffübertragung Laborpraktikum": {
-																	"events": {
-																		"32720_1": "WSUE L/01 (Wärme- und Stoffübertragung Laborpraktikum)",
-																		"32720_2": "WSUE L/02 (Wärme- und Stoffübertragung Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
-																"33217_1": "WSUE (Wärme- und Stoffübertragung)"
+																"33217_1": "WSUE (Wärme- und Stoffübertragung)",
+																"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
 															}
 														},
 														"M-20640 Thermische Systemmodellierung": {
-															"subDirectories": {
-																"Thermische Systemmodellierung Laborpraktikum": {
-																	"events": {
-																		"32871_1": "THSM L/01 (Thermische Systemmodellierung Laborpraktikum)",
-																		"32871_2": "THSM L/02 (Thermische Systemmodellierung Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
-																"32875_1": "THSM (Thermische Systemmodellierung)"
+																"32875_1": "THSM (Thermische Systemmodellierung)",
+																"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
 															}
 														},
 														"M-20690 Kolbenmaschinen": {
@@ -7306,42 +7427,21 @@
 															}
 														},
 														"M-20620 Strömungslehre 2 und CFD": {
-															"subDirectories": {
-																"Strömungslehre 2 und CFD Laborpraktikum": {
-																	"events": {
-																		"33073_1": "STL2CFD L/01 (Strömungslehre 2 und CFD Laborpraktikum)",
-																		"33073_2": "STL2CFD L/02 (Strömungslehre 2 und CFD Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
-																"32862_1": "STL2CFD (Strömungslehre 2 und CFD)"
+																"32862_1": "STL2CFD (Strömungslehre 2 und CFD)",
+																"33073_1": "STL2CFD L (Strömungslehre 2 und CFD Laborpraktikum)"
 															}
 														},
 														"M-20630 Wärme- und Stoffübertragung": {
-															"subDirectories": {
-																"Wärme- und Stoffübertragung Laborpraktikum": {
-																	"events": {
-																		"32720_1": "WSUE L/01 (Wärme- und Stoffübertragung Laborpraktikum)",
-																		"32720_2": "WSUE L/02 (Wärme- und Stoffübertragung Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
-																"33217_1": "WSUE (Wärme- und Stoffübertragung)"
+																"33217_1": "WSUE (Wärme- und Stoffübertragung)",
+																"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
 															}
 														},
 														"M-20640 Thermische Systemmodellierung": {
-															"subDirectories": {
-																"Thermische Systemmodellierung Laborpraktikum": {
-																	"events": {
-																		"32871_1": "THSM L/01 (Thermische Systemmodellierung Laborpraktikum)",
-																		"32871_2": "THSM L/02 (Thermische Systemmodellierung Laborpraktikum)"
-																	}
-																}
-															},
 															"events": {
-																"32875_1": "THSM (Thermische Systemmodellierung)"
+																"32875_1": "THSM (Thermische Systemmodellierung)",
+																"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
 															}
 														},
 														"M-20690 Kolbenmaschinen": {
@@ -7571,7 +7671,8 @@
 								"Experimentalphysik Labor": {
 									"events": {
 										"41939_1": "EPH-E/01 (Experimentalphysik Labor)",
-										"41939_2": "EPH-E/02 (Experimentalphysik Labor)"
+										"41939_2": "EPH-E/02 (Experimentalphysik Labor)",
+										"41939_3": "EPH-E/03 (Experimentalphysik Labor)"
 									}
 								},
 								"M-12 Werkstoffkunde": {
@@ -8609,7 +8710,6 @@
 										"25723_1": "WP (2 SWS) (Alternative Bildungskonzepte in der Praxis – ein Beitrag zur Projektwoche)",
 										"36531_1": "WP (4 SWS) (Junge Menschen mit komplexem Hilfebedarf)",
 										"25935_1": "WP (2 SWS) (Suizidalen Krisen begegnen)",
-										"37229_1": "WP (4 SWS) (Sport in der Kinder- und Jugendarbeit und Jugendsozialarbeit)",
 										"37232_1": "WP (4 SWS) (Journalismus und Soziale Arbeit)",
 										"37236_1": "WP (2 SWS) (Selbstfürsorge in sozialen Berufen – Grundlagen und Praxis)",
 										"41332_1": "WP (2 SWS) (Diskurse zu Migration und Flucht)",
@@ -8700,7 +8800,6 @@
 										"25935_1": "WP (2 SWS) (Suizidalen Krisen begegnen)",
 										"25723_1": "WP (2 SWS) (Alternative Bildungskonzepte in der Praxis – ein Beitrag zur Projektwoche)",
 										"36531_1": "WP (4 SWS) (Junge Menschen mit komplexem Hilfebedarf)",
-										"37229_1": "WP (4 SWS) (Sport in der Kinder- und Jugendarbeit und Jugendsozialarbeit)",
 										"37232_1": "WP (4 SWS) (Journalismus und Soziale Arbeit)",
 										"37236_1": "WP (2 SWS) (Selbstfürsorge in sozialen Berufen – Grundlagen und Praxis)",
 										"41332_1": "WP (2 SWS) (Diskurse zu Migration und Flucht)",
