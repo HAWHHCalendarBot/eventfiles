@@ -7680,7 +7680,8 @@
 										"Werkstoffkunde Labor": {
 											"events": {
 												"41946_1": "WSK-E/01 (Werkstoffkunde Labor)",
-												"41946_2": "WSK-E/02 (Werkstoffkunde Labor)"
+												"41946_2": "WSK-E/02 (Werkstoffkunde Labor)",
+												"41946_3": "WSK-E/03 (Werkstoffkunde Labor)"
 											}
 										}
 									},
@@ -7706,7 +7707,8 @@
 										"Konstruktion A Konstruktionsarbeit": {
 											"events": {
 												"41945_1": "KONA-E/01 (Konstruktion A Konstruktionsarbeit)",
-												"41945_2": "KONA-E/02 (Konstruktion A Konstruktionsarbeit)"
+												"41945_2": "KONA-E/02 (Konstruktion A Konstruktionsarbeit)",
+												"41945_3": "KONA-E/03 (Konstruktion A Konstruktionsarbeit)"
 											}
 										}
 									},
@@ -9207,7 +9209,8 @@
 										"25435_1": "M 6.1.1 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)",
 										"25435_2": "M 6.1.2 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)",
 										"25435_3": "M 6.1.3 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)",
-										"25435_4": "M 6.1.4 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)"
+										"25435_4": "M 6.1.4 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)",
+										"25435_5": "M 6.1.5 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)"
 									}
 								}
 							}
@@ -9415,7 +9418,8 @@
 										"25435_1": "M 6.1.1 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)",
 										"25435_2": "M 6.1.2 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)",
 										"25435_3": "M 6.1.3 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)",
-										"25435_4": "M 6.1.4 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)"
+										"25435_4": "M 6.1.4 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)",
+										"25435_5": "M 6.1.5 ((Koh A&B) Professionelles Handeln: Selbstkompetenz I)"
 									}
 								}
 							}

@@ -1,6 +1,13 @@
 [
 	{
 		"name": "EAT L/03 (Elektrische Antriebstechnik Laborpraktikum)",
+		"location": "110, Berliner Tor 21",
+		"description": "Dozenten: Prof. Dr. Tankred Müller, Vanessa Claus\nParallelgruppe: 3\nTeilnehmer/-innen: ? / 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: Elektrische Antriebstechnik Laborpraktikum^ 4EK A (3. Parallelgruppe)",
+		"startTime": "2026-10-05T12:15:00",
+		"endTime": "2026-10-05T15:30:00"
+	},
+	{
+		"name": "EAT L/03 (Elektrische Antriebstechnik Laborpraktikum)",
 		"location": "416, Berliner Tor 21",
 		"description": "Dozenten: Prof. Dr. Tankred Müller, Vanessa Claus\nParallelgruppe: 3\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Elektrische Antriebstechnik Laborpraktikum^ 4EK A (3. Parallelgruppe)",
 		"startTime": "2026-10-14T12:15:00",
