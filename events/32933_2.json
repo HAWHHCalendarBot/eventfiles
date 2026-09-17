@@ -1,6 +1,13 @@
 [
 	{
 		"name": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)",
+		"location": "228, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr. Markus Stallkamp\nParallelgruppe: 2\nTeilnehmer/-innen: ? / 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: Produktionsplanung und -steuerung Laborpraktikum^ 4P B (2. Parallelgruppe)",
+		"startTime": "2026-10-05T08:15:00",
+		"endTime": "2026-10-05T11:30:00"
+	},
+	{
+		"name": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)",
 		"location": "206, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr. Markus Stallkamp\nParallelgruppe: 2\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Produktionsplanung und -steuerung Laborpraktikum^ 4P B (2. Parallelgruppe)",
 		"startTime": "2026-10-12T08:15:00",

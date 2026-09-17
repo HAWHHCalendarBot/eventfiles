@@ -815,7 +815,7 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
-								"M-01 Concepts and Dimensions of Health Sciences and Public Health and Basic Statistics and Basic Epidemiology /": {
+								"M-01 Concepts and Dimensions of Health Sciences and Public Health and Basic Statistics and Basic Epidemiology / Gesundheitwissenschaften: Konzepte und Dimensionen mit Grundlagen in Statistik und Epidemiologie /": {
 									"events": {
 										"24398_1": "M1-V1 (Concepts and Dimensions of Health Sciences and Public Health)",
 										"24285_1": "M1-V2 (Basic Statistics and Basic Epidemiology)"
@@ -827,25 +827,25 @@
 										"24292_1": "M2-V2 (Advanced Quantitative Research Methods)"
 									}
 								},
-								"M-03 Ethics and Epistemology /": {
+								"M-03 Ethik und Epistemologie /": {
 									"events": {
 										"24287_1": "M3-V2 (Epistemology)",
 										"24289_1": "M3-V1 (Ethics)"
 									}
 								},
-								"M-04 Digitalization and Communication in Health Sciences /": {
+								"M-04 Digitalisierung und Kommunikation in den Gesundheitswissenschaften /": {
 									"events": {
 										"24319_1": "M4-V1 (Digitalization in Health Sciences)",
 										"24365_1": "M4-V2 (Communication in Health Sciences)"
 									}
 								},
-								"WPM-02 Non Communicable Disease Epidemiology and Research Interests /": {
+								"WPM-02 Non-Communicable Disease Epidemiology and Research Interests / Epidemiologie der nicht übertragbaren Erkrankungen und Forschungsinteressen /": {
 									"events": {
 										"24358_1": "WP11-V1 (Non Communicable Disease Epidemiology)",
 										"24348_1": "WP11-V2 (Research Interests)"
 									}
 								},
-								"WPM-01 Diversity in Health and Family and Community Health Research /": {
+								"WPM-01 Diversität und Gesundheit sowie Gesundheit von Familien -und Gemeindebezogene Gesundheitsforschung /": {
 									"events": {
 										"24318_1": "WP01 (Diversity in Health)",
 										"24317_1": "WP01 (Family and Community Health Research)"
@@ -5961,7 +5961,6 @@
 										"Werkstoffkunde Laborpraktikum": {
 											"events": {
 												"33079_1": "WSK L/01 (Werkstoffkunde Laborpraktikum)",
-												"33079_2": "WSK L/02 (Werkstoffkunde Laborpraktikum)",
 												"33079_3": "WSK L/03 (Werkstoffkunde Laborpraktikum)"
 											}
 										}
@@ -6064,6 +6063,7 @@
 											"events": {
 												"32734_1": "KONB KNPA/01 (Konstruktion B Konstruktionsarbeit)",
 												"32734_2": "KONB KNPA/02 (Konstruktion B Konstruktionsarbeit)",
+												"32734_3": "KONB KNPA/03 (Konstruktion B Konstruktionsarbeit)",
 												"32734_5": "KONB KNPA/05 (Konstruktion B Konstruktionsarbeit)",
 												"32734_6": "KONB KNPA/06 (Konstruktion B Konstruktionsarbeit)",
 												"32734_9": "KONB KNPA/09 (Konstruktion B Konstruktionsarbeit)",
@@ -6078,7 +6078,6 @@
 											"events": {
 												"32873_1": "AINF L/01 (Angewandte Informatik Laborpraktikum)",
 												"32873_2": "AINF L/02 (Angewandte Informatik Laborpraktikum)",
-												"32873_3": "AINF L/03 (Angewandte Informatik Laborpraktikum)",
 												"32873_5": "AINF L/05 (Angewandte Informatik Laborpraktikum)",
 												"32873_6": "AINF L/06 (Angewandte Informatik Laborpraktikum)",
 												"32873_9": "AINF L/09 (Angewandte Informatik Laborpraktikum)",
@@ -6318,6 +6317,7 @@
 										"Elektrische Antriebstechnik Laborpraktikum": {
 											"events": {
 												"33093_1": "EAT L/01 (Elektrische Antriebstechnik Laborpraktikum)",
+												"33093_2": "EAT L/02 (Elektrische Antriebstechnik Laborpraktikum)",
 												"33093_3": "EAT L/03 (Elektrische Antriebstechnik Laborpraktikum)",
 												"33093_4": "EAT L/04 (Elektrische Antriebstechnik Laborpraktikum)",
 												"33093_5": "EAT L/05 (Elektrische Antriebstechnik Laborpraktikum)"
@@ -7653,7 +7653,8 @@
 												"33067_1": "MSR L/01 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
 												"33067_3": "MSR L/03 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
 												"33067_4": "MSR L/04 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
-												"33067_6": "MSR L/06 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)"
+												"33067_6": "MSR L/06 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
+												"33067_7": "MSR L/07 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)"
 											}
 										}
 									}
@@ -9129,6 +9130,23 @@
 										"25926_6": "InFA/06 (Interdisziplinäre Fallarbeit: Multiperspektivische Fallbearbeitung)"
 									}
 								},
+								"M-25 Vertiefungs- und Wahlpflichtbereich II / Bitte belegen Sie in diesem Modul Veranstaltungen mit einem Umfang von insgesamt 6 SWS.": {
+									"events": {
+										"25723_1": "WP (2 SWS) (Alternative Bildungskonzepte in der Praxis – ein Beitrag zur Projektwoche)",
+										"36531_1": "WP (4 SWS) (Junge Menschen mit komplexem Hilfebedarf)",
+										"25935_1": "WP (2 SWS) (Suizidalen Krisen begegnen)",
+										"37232_1": "WP (4 SWS) (Journalismus und Soziale Arbeit)",
+										"37236_1": "WP (2 SWS) (Selbstfürsorge in sozialen Berufen – Grundlagen und Praxis)",
+										"41332_1": "WP (2 SWS) (Diskurse zu Migration und Flucht)",
+										"44895_1": "WP (4 SWS) (Kritische Soziale Arbeit)",
+										"44897_1": "WP (2 SWS) (Trialog)",
+										"46078_1": "WP (2 SWS) (Geschlechtsspezifische Gewalt und institutionelle Diskriminierung von Frauen* in Deutschland aus intersektionaler Perspektive)",
+										"46079_1": "WP (2 SWS) (Übergriffe auf die demokratische Zivilgesellschaft – Wie handlungsfähig werden in Zeiten rechter Einflussnahmen?)",
+										"46080_1": "WP (2 SWS) (Ethikberatung in der sozialberuflichen Praxis)",
+										"46081_1": "WP (2 SWS) (Ausgewählte Forschungsergebnisse zu Themen der Kinder- und Jugendhilfe)",
+										"46300_1": "WP (2 SWS) (Inklusive Diagnostik und Beratung mit jungen Menschen mit Behinderung und ihren Familien)"
+									}
+								},
 								"Bachelorwerkstatt II": {
 									"events": {
 										"25817_1": "BA-W/01 (Bachelorwerkstatt II)",
@@ -9145,8 +9163,7 @@
 								}
 							},
 							"events": {
-								"37262_1": "WP (4 SWS) (Bürgerliches Recht in der Sozialen Arbeit)",
-								"46300_1": "WP (2 SWS) (Inklusive Diagnostik und Beratung mit jungen Menschen mit Behinderung und ihren Familien)"
+								"37262_1": "WP (4 SWS) (Bürgerliches Recht in der Sozialen Arbeit)"
 							}
 						}
 					}
