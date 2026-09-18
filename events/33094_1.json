@@ -1,6 +1,13 @@
 [
 	{
 		"name": "KONC L/01 (Konstruktion C Laborpraktikum)",
+		"location": "425, Berliner Tor 21",
+		"description": "Dozent: Thomas Rieling\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: Konstruktion C Laborpraktikum^ 4EK A (1. Parallelgruppe)",
+		"startTime": "2026-10-08T08:15:00",
+		"endTime": "2026-10-08T11:30:00"
+	},
+	{
+		"name": "KONC L/01 (Konstruktion C Laborpraktikum)",
 		"location": "122, Berliner Tor 21",
 		"description": "Dozent: Thomas Rieling\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Konstruktion C Laborpraktikum^ 4EK A (1. Parallelgruppe)",
 		"startTime": "2026-10-21T08:15:00",

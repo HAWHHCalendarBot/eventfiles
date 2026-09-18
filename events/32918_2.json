@@ -115,6 +115,13 @@
 		"name": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
 		"location": "015, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr.-Ing. Alexander Koch\nParallelgruppe: 2\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Produktionsmittel und -logistik Laborpraktikum^ 4P B (2. Parallelgruppe)",
+		"startTime": "2026-10-28T12:15:00",
+		"endTime": "2026-10-28T15:30:00"
+	},
+	{
+		"name": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
+		"location": "015, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr.-Ing. Alexander Koch\nParallelgruppe: 2\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Produktionsmittel und -logistik Laborpraktikum^ 4P B (2. Parallelgruppe)",
 		"startTime": "2026-11-11T12:15:00",
 		"endTime": "2026-11-11T15:30:00"
 	},
@@ -122,7 +129,21 @@
 		"name": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
 		"location": "015, Berliner Tor 21",
 		"description": "Dozent: Prof. Dr.-Ing. Alexander Koch\nParallelgruppe: 2\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Produktionsmittel und -logistik Laborpraktikum^ 4P B (2. Parallelgruppe)",
+		"startTime": "2026-11-25T12:15:00",
+		"endTime": "2026-11-25T15:30:00"
+	},
+	{
+		"name": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
+		"location": "015, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr.-Ing. Alexander Koch\nParallelgruppe: 2\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Produktionsmittel und -logistik Laborpraktikum^ 4P B (2. Parallelgruppe)",
 		"startTime": "2026-12-09T12:15:00",
 		"endTime": "2026-12-09T15:30:00"
+	},
+	{
+		"name": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
+		"location": "015, Berliner Tor 21",
+		"description": "Dozent: Prof. Dr.-Ing. Alexander Koch\nParallelgruppe: 2\nTeilnehmer/-innen: ? / 15\nRhythmus: wöchentlich\n\nOriginaler Titel: Produktionsmittel und -logistik Laborpraktikum^ 4P B (2. Parallelgruppe)",
+		"startTime": "2027-01-13T12:15:00",
+		"endTime": "2027-01-13T15:30:00"
 	}
 ]
