@@ -9,11 +9,13 @@
 							"subDirectories": {
 								"M-24-KoDeB Theorie /": {
 									"events": {
+										"46913_1": "Theorie D (Defilee 2 – Modeschöpfer*innen der 1940er-1970er Jahre)",
 										"46914_1": "Theorie D (Bilderbuchanalyse: Von der Buchmalerei zur zeitgenössischen Illustration)",
 										"46916_1": "Theorie D (Der Körper als Skulptur)",
 										"46917_1": "Theorie D (Schwarz)",
 										"46918_1": "Theorie D (Tiere (in Theorie, Künsten und Gestaltung))",
 										"46919_1": "Theorie D (Elementare Dramaturgien: Erde)",
+										"46921_1": "Theorie D (Die Macht der Dinge und ihr Design)",
 										"46924_1": "Theorie D (Künstlerische Gattungen im Fokus – Bildhauer*innen in Hamburg)",
 										"42487_1": "Theorie G (Textwerkstatt: Der Riss zwischen Worten & Bildern. Creative Writing und Textredaktion)",
 										"42502_1": "Theorie G (Einführung in die Kulturphilosophie I)"
@@ -21,11 +23,13 @@
 								},
 								"M-25-KoDeB Theorie /": {
 									"events": {
+										"46913_1": "Theorie D (Defilee 2 – Modeschöpfer*innen der 1940er-1970er Jahre)",
 										"46914_1": "Theorie D (Bilderbuchanalyse: Von der Buchmalerei zur zeitgenössischen Illustration)",
 										"46916_1": "Theorie D (Der Körper als Skulptur)",
 										"46917_1": "Theorie D (Schwarz)",
 										"46918_1": "Theorie D (Tiere (in Theorie, Künsten und Gestaltung))",
 										"46919_1": "Theorie D (Elementare Dramaturgien: Erde)",
+										"46921_1": "Theorie D (Die Macht der Dinge und ihr Design)",
 										"46924_1": "Theorie D (Künstlerische Gattungen im Fokus – Bildhauer*innen in Hamburg)",
 										"42487_1": "Theorie G (Textwerkstatt: Der Riss zwischen Worten & Bildern. Creative Writing und Textredaktion)",
 										"42502_1": "Theorie G (Einführung in die Kulturphilosophie I)"
@@ -6028,7 +6032,8 @@
 												"32791_5": "FTT L/05 (Fertigungstechnik Laborpraktikum)",
 												"32791_6": "FTT L/06 (Fertigungstechnik Laborpraktikum)",
 												"32791_9": "FTT L/09 (Fertigungstechnik Laborpraktikum)",
-												"32791_10": "FTT L/10 (Fertigungstechnik Laborpraktikum)"
+												"32791_10": "FTT L/10 (Fertigungstechnik Laborpraktikum)",
+												"32791_11": "FTT L/11 (Fertigungstechnik Laborpraktikum)"
 											}
 										}
 									},
@@ -6081,7 +6086,8 @@
 												"32873_5": "AINF L/05 (Angewandte Informatik Laborpraktikum)",
 												"32873_6": "AINF L/06 (Angewandte Informatik Laborpraktikum)",
 												"32873_9": "AINF L/09 (Angewandte Informatik Laborpraktikum)",
-												"32873_10": "AINF L/10 (Angewandte Informatik Laborpraktikum)"
+												"32873_10": "AINF L/10 (Angewandte Informatik Laborpraktikum)",
+												"32873_11": "AINF L/11 (Angewandte Informatik Laborpraktikum)"
 											}
 										},
 										"Angewandte Informatik": {
@@ -9215,10 +9221,11 @@
 											"events": {
 												"25471_1": "M 5.1.1 ((Koh A) TPS: Erkundung des Arbeitsfeldes)",
 												"25471_2": "M 5.1.2 ((Koh A) TPS: Erkundung des Arbeitsfeldes)",
-												"25471_3": "M 5.1.3 ((Koh B) TPS: Erkundung des Arbeitsfeldes)",
+												"25471_3": "M 5.1.3 ((Koh A + B) TPS: Erkundung des Arbeitsfeldes)",
 												"25471_4": "M 5.1.4 ((Koh B) TPS: Erkundung des Arbeitsfeldes)",
 												"25471_5": "M 5.1.5 ((Koh A) TPS: Erkundung des Arbeitsfeldes)",
-												"25471_6": "M 5.1.6 ((Koh B) TPS: Erkundung des Arbeitsfeldes)"
+												"25471_6": "M 5.1.6 ((Koh B) TPS: Erkundung des Arbeitsfeldes)",
+												"25471_7": "M 5.1.7 ((Koh B) TPS: Erkundung des Arbeitsfeldes)"
 											}
 										},
 										"Praktikum": {
@@ -9250,8 +9257,8 @@
 								},
 								"Bildungs- und Sozialpolitik: Vertiefung": {
 									"events": {
-										"25571_1": "M 8.2.1 ((Koh A) Bildungs- und Sozialpolitik: Vertiefung)",
-										"25571_2": "M 8.2.2 ((Koh B) Bildungs- und Sozialpolitik: Vertiefung)"
+										"25571_1": "M 8.2.1 ((Koh A+B) Bildungs- und Sozialpolitik: Vertiefung)",
+										"25571_2": "M 8.2.2 ((Koh A+B) Bildungs- und Sozialpolitik: Vertiefung)"
 									}
 								},
 								"Pädagogische Diagnostik": {
@@ -9424,10 +9431,11 @@
 											"events": {
 												"25471_1": "M 5.1.1 ((Koh A) TPS: Erkundung des Arbeitsfeldes)",
 												"25471_2": "M 5.1.2 ((Koh A) TPS: Erkundung des Arbeitsfeldes)",
-												"25471_3": "M 5.1.3 ((Koh B) TPS: Erkundung des Arbeitsfeldes)",
+												"25471_3": "M 5.1.3 ((Koh A + B) TPS: Erkundung des Arbeitsfeldes)",
 												"25471_4": "M 5.1.4 ((Koh B) TPS: Erkundung des Arbeitsfeldes)",
 												"25471_5": "M 5.1.5 ((Koh A) TPS: Erkundung des Arbeitsfeldes)",
-												"25471_6": "M 5.1.6 ((Koh B) TPS: Erkundung des Arbeitsfeldes)"
+												"25471_6": "M 5.1.6 ((Koh B) TPS: Erkundung des Arbeitsfeldes)",
+												"25471_7": "M 5.1.7 ((Koh B) TPS: Erkundung des Arbeitsfeldes)"
 											}
 										},
 										"Praktikum": {
@@ -9459,8 +9467,8 @@
 								},
 								"Bildungs- und Sozialpolitik: Vertiefung": {
 									"events": {
-										"25571_1": "M 8.2.1 ((Koh A) Bildungs- und Sozialpolitik: Vertiefung)",
-										"25571_2": "M 8.2.2 ((Koh B) Bildungs- und Sozialpolitik: Vertiefung)"
+										"25571_1": "M 8.2.1 ((Koh A+B) Bildungs- und Sozialpolitik: Vertiefung)",
+										"25571_2": "M 8.2.2 ((Koh A+B) Bildungs- und Sozialpolitik: Vertiefung)"
 									}
 								},
 								"Pädagogische Diagnostik": {

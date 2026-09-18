@@ -1,44 +1,58 @@
 [
 	{
 		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-		"location": "304, Berliner Tor 21",
-		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
-		"startTime": "2026-10-16T12:15:00",
-		"endTime": "2026-10-16T15:30:00"
-	},
-	{
-		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-		"location": "304, Berliner Tor 21",
-		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
-		"startTime": "2026-10-30T12:15:00",
-		"endTime": "2026-10-30T15:30:00"
-	},
-	{
-		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-		"location": "304, Berliner Tor 21",
-		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
-		"startTime": "2026-11-13T12:15:00",
-		"endTime": "2026-11-13T15:30:00"
-	},
-	{
-		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-		"location": "304, Berliner Tor 21",
-		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
-		"startTime": "2026-11-27T12:15:00",
-		"endTime": "2026-11-27T15:30:00"
-	},
-	{
-		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-		"location": "304, Berliner Tor 21",
-		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
-		"startTime": "2026-12-11T12:15:00",
-		"endTime": "2026-12-11T15:30:00"
-	},
-	{
-		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-		"location": "304, Berliner Tor 21",
+		"location": "402, Berliner Tor 21",
 		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
-		"startTime": "2027-01-15T12:15:00",
-		"endTime": "2027-01-15T15:30:00"
+		"startTime": "2026-10-08T08:15:00",
+		"endTime": "2026-10-08T11:30:00"
+	},
+	{
+		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+		"location": "402, Berliner Tor 21",
+		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
+		"startTime": "2026-10-15T08:15:00",
+		"endTime": "2026-10-15T11:30:00"
+	},
+	{
+		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+		"location": "402, Berliner Tor 21",
+		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
+		"startTime": "2026-10-29T08:15:00",
+		"endTime": "2026-10-29T11:30:00"
+	},
+	{
+		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+		"location": "402, Berliner Tor 21",
+		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
+		"startTime": "2026-11-12T08:15:00",
+		"endTime": "2026-11-12T11:30:00"
+	},
+	{
+		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+		"location": "402, Berliner Tor 21",
+		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
+		"startTime": "2026-11-26T08:15:00",
+		"endTime": "2026-11-26T11:30:00"
+	},
+	{
+		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+		"location": "402, Berliner Tor 21",
+		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
+		"startTime": "2026-12-10T08:15:00",
+		"endTime": "2026-12-10T11:30:00"
+	},
+	{
+		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+		"location": "402, Berliner Tor 21",
+		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
+		"startTime": "2027-01-07T08:15:00",
+		"endTime": "2027-01-07T11:30:00"
+	},
+	{
+		"name": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+		"location": "402, Berliner Tor 21",
+		"description": "Dozenten: Jan Strothmann, Prof. Dr. Ivo Nowak\nTeilnehmer/-innen: ? / 15\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Softwareanwendungen im Maschinenbau Laborpraktikum^ 4DM A",
+		"startTime": "2027-01-21T08:15:00",
+		"endTime": "2027-01-21T11:30:00"
 	}
 ]
