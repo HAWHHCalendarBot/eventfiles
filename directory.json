@@ -6086,6 +6086,7 @@
 												"32873_2": "AINF L/02 (Angewandte Informatik Laborpraktikum)",
 												"32873_5": "AINF L/05 (Angewandte Informatik Laborpraktikum)",
 												"32873_6": "AINF L/06 (Angewandte Informatik Laborpraktikum)",
+												"32873_7": "AINF L/07 (Angewandte Informatik Laborpraktikum)",
 												"32873_9": "AINF L/09 (Angewandte Informatik Laborpraktikum)",
 												"32873_10": "AINF L/10 (Angewandte Informatik Laborpraktikum)",
 												"32873_11": "AINF L/11 (Angewandte Informatik Laborpraktikum)"
@@ -6116,6 +6117,7 @@
 												"32768_3": "STL-1 L/03 (Strömungslehre 1 Laborpraktikum)",
 												"32768_5": "STL-1 L/05 (Strömungslehre 1 Laborpraktikum)",
 												"32768_6": "STL-1 L/06 (Strömungslehre 1 Laborpraktikum)",
+												"32768_7": "STL-1 L/07 (Strömungslehre 1 Laborpraktikum)",
 												"32768_9": "STL-1 L/09 (Strömungslehre 1 Laborpraktikum)",
 												"32768_10": "STL-1 L/10 (Strömungslehre 1 Laborpraktikum)",
 												"32768_11": "STL-1 L/11 (Strömungslehre 1 Laborpraktikum)"
@@ -9340,6 +9342,7 @@
 										}
 									},
 									"events": {
+										"25498_1": "M22.3 TG (TPS Praxisbegleitung)",
 										"37334_1": "M5 LV (Praktikum)"
 									}
 								},
@@ -9550,6 +9553,7 @@
 										}
 									},
 									"events": {
+										"25498_1": "M22.3 TG (TPS Praxisbegleitung)",
 										"37334_1": "M5 LV (Praktikum)"
 									}
 								},
