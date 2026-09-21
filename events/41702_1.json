@@ -110,5 +110,26 @@
 		"description": "Dozenten: Prof. Dr.-Ing. Jörn Einfeldt, Prof. Dr. Hans Schäfers, Prof. Dr. Marion Siegers, Prof. Dr. Carolin Floeter, Prof. Dr.-Ing. Sebastian Timmerberg, Prof. Dr. Carsten Frank, Prof. Dr. Timon Kampschulte\nTeilnehmer/-innen: ? / 45\nRhythmus: wöchentlich\n\nOriginaler Titel: Umwelt, Klima, Energie",
 		"startTime": "2027-01-20T10:15:00",
 		"endTime": "2027-01-20T14:00:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Prof. Dr.-Ing. Jörn Einfeldt, Prof. Dr. Hans Schäfers, Prof. Dr. Marion Siegers, Prof. Dr. Carolin Floeter, Prof. Dr.-Ing. Sebastian Timmerberg, Prof. Dr. Carsten Frank, Prof. Dr. Timon Kampschulte\nTeilnehmer/-innen: ? / 45\nRhythmus: Einzeltermin\n\nOriginaler Titel: Umwelt, Klima, Energie",
+		"startTime": "2026-10-28T14:30:00",
+		"endTime": "2026-10-28T17:45:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "S3.02, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Prof. Dr.-Ing. Jörn Einfeldt, Prof. Dr. Hans Schäfers, Prof. Dr. Marion Siegers, Prof. Dr. Carolin Floeter, Prof. Dr.-Ing. Sebastian Timmerberg, Prof. Dr. Carsten Frank, Prof. Dr. Timon Kampschulte\nTeilnehmer/-innen: ? / 45\nRhythmus: Einzeltermin\n\nOriginaler Titel: Umwelt, Klima, Energie",
+		"startTime": "2026-11-04T14:30:00",
+		"endTime": "2026-11-04T17:45:00"
+	},
+	{
+		"name": "UKE (Umwelt, Klima, Energie)",
+		"location": "Co.03 Container, Ulmenliet 20, Container",
+		"description": "Dozenten: Prof. Dr.-Ing. Jörn Einfeldt, Prof. Dr. Hans Schäfers, Prof. Dr. Marion Siegers, Prof. Dr. Carolin Floeter, Prof. Dr.-Ing. Sebastian Timmerberg, Prof. Dr. Carsten Frank, Prof. Dr. Timon Kampschulte\nTeilnehmer/-innen: ? / 45\nRhythmus: Einzeltermin\n\nOriginaler Titel: Umwelt, Klima, Energie",
+		"startTime": "2026-12-09T04:30:00",
+		"endTime": "2026-12-09T17:45:00"
 	}
 ]
