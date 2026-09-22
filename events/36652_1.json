@@ -96,5 +96,33 @@
 		"description": "Dozent: Prof. Dr. Julien Béthune\nTeilnehmer/-innen: ? / 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Frontiers in Cell and Molecular Applications",
 		"startTime": "2027-01-20T08:30:00",
 		"endTime": "2027-01-20T10:00:00"
+	},
+	{
+		"name": "FCMA (Frontiers in Cell and Molecular Applications)",
+		"location": "N4.06, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Julien Béthune\nTeilnehmer/-innen: ? / 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Frontiers in Cell and Molecular Applications",
+		"startTime": "2026-10-21T12:30:00",
+		"endTime": "2026-10-21T16:00:00"
+	},
+	{
+		"name": "FCMA (Frontiers in Cell and Molecular Applications)",
+		"location": "N2.24, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Julien Béthune\nTeilnehmer/-innen: ? / 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Frontiers in Cell and Molecular Applications",
+		"startTime": "2026-11-04T12:30:00",
+		"endTime": "2026-11-04T16:00:00"
+	},
+	{
+		"name": "FCMA (Frontiers in Cell and Molecular Applications)",
+		"location": "N2.24, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Julien Béthune\nTeilnehmer/-innen: ? / 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Frontiers in Cell and Molecular Applications",
+		"startTime": "2026-11-11T12:30:00",
+		"endTime": "2026-11-11T16:00:00"
+	},
+	{
+		"name": "FCMA (Frontiers in Cell and Molecular Applications)",
+		"location": "N2.24, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Julien Béthune\nTeilnehmer/-innen: ? / 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Frontiers in Cell and Molecular Applications",
+		"startTime": "2026-11-18T12:30:00",
+		"endTime": "2026-11-18T16:00:00"
 	}
 ]

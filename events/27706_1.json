@@ -1,6 +1,20 @@
 [
 	{
 		"name": "Bio P (Biologie Praktikum)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozenten: Prof. Dr. Carolin Floeter, Stefan Schmücker\nTeilnehmer/-innen: ? / 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Biologie Praktikum",
+		"startTime": "2026-10-06T08:30:00",
+		"endTime": "2026-10-06T11:45:00"
+	},
+	{
+		"name": "Bio P (Biologie Praktikum)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozenten: Prof. Dr. Carolin Floeter, Stefan Schmücker\nTeilnehmer/-innen: ? / 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Biologie Praktikum",
+		"startTime": "2026-10-13T08:30:00",
+		"endTime": "2026-10-13T11:45:00"
+	},
+	{
+		"name": "Bio P (Biologie Praktikum)",
 		"location": "N 4.01 Labor für Biologie, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozenten: Prof. Dr. Carolin Floeter, Stefan Schmücker\nTeilnehmer/-innen: ? / 25\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Biologie Praktikum",
 		"startTime": "2026-10-06T08:30:00",
@@ -54,54 +68,5 @@
 		"description": "Dozenten: Prof. Dr. Carolin Floeter, Stefan Schmücker\nTeilnehmer/-innen: ? / 25\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Biologie Praktikum",
 		"startTime": "2027-01-26T08:30:00",
 		"endTime": "2027-01-26T11:45:00"
-	},
-	{
-		"name": "Bio P (Biologie Praktikum)",
-		"location": "N 4.01 Labor für Biologie, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozenten: Prof. Dr. Carolin Floeter, Stefan Schmücker\nTeilnehmer/-innen: ? / 25\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Biologie Praktikum",
-		"startTime": "2026-10-13T08:30:00",
-		"endTime": "2026-10-13T11:45:00"
-	},
-	{
-		"name": "Bio P (Biologie Praktikum)",
-		"location": "N 4.01 Labor für Biologie, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozenten: Prof. Dr. Carolin Floeter, Stefan Schmücker\nTeilnehmer/-innen: ? / 25\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Biologie Praktikum",
-		"startTime": "2026-10-27T08:30:00",
-		"endTime": "2026-10-27T11:45:00"
-	},
-	{
-		"name": "Bio P (Biologie Praktikum)",
-		"location": "N 4.01 Labor für Biologie, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozenten: Prof. Dr. Carolin Floeter, Stefan Schmücker\nTeilnehmer/-innen: ? / 25\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Biologie Praktikum",
-		"startTime": "2026-11-10T08:30:00",
-		"endTime": "2026-11-10T11:45:00"
-	},
-	{
-		"name": "Bio P (Biologie Praktikum)",
-		"location": "N 4.01 Labor für Biologie, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozenten: Prof. Dr. Carolin Floeter, Stefan Schmücker\nTeilnehmer/-innen: ? / 25\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Biologie Praktikum",
-		"startTime": "2026-11-24T08:30:00",
-		"endTime": "2026-11-24T11:45:00"
-	},
-	{
-		"name": "Bio P (Biologie Praktikum)",
-		"location": "N 4.01 Labor für Biologie, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozenten: Prof. Dr. Carolin Floeter, Stefan Schmücker\nTeilnehmer/-innen: ? / 25\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Biologie Praktikum",
-		"startTime": "2026-12-08T08:30:00",
-		"endTime": "2026-12-08T11:45:00"
-	},
-	{
-		"name": "Bio P (Biologie Praktikum)",
-		"location": "N 4.01 Labor für Biologie, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozenten: Prof. Dr. Carolin Floeter, Stefan Schmücker\nTeilnehmer/-innen: ? / 25\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Biologie Praktikum",
-		"startTime": "2027-01-05T08:30:00",
-		"endTime": "2027-01-05T11:45:00"
-	},
-	{
-		"name": "Bio P (Biologie Praktikum)",
-		"location": "N 4.01 Labor für Biologie, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozenten: Prof. Dr. Carolin Floeter, Stefan Schmücker\nTeilnehmer/-innen: ? / 25\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Biologie Praktikum",
-		"startTime": "2027-01-19T08:30:00",
-		"endTime": "2027-01-19T11:45:00"
 	}
 ]
