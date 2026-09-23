@@ -72,6 +72,20 @@
 									"events": {
 										"30154_1": "AN2 (Analysis 2)"
 									}
+								},
+								"M-10 Programmieren 2": {
+									"subDirectories": {
+										"Programmieren 2 Praktikum": {
+											"events": {
+												"30034_1": "PRP2/01 (Programmieren 2 Praktikum)",
+												"30034_2": "PRP2/02 (Programmieren 2 Praktikum)",
+												"30034_3": "PRP2/03 (Programmieren 2 Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"29926_1": "PR2 (Programmieren 2)"
+									}
 								}
 							}
 						},
@@ -154,6 +168,12 @@
 										"45971_1": "SustEng (Sustainability Engineering)"
 									}
 								},
+								"M-23-P Bussysteme und Sensorik": {
+									"events": {
+										"35791_1": "BU (Bussysteme und Sensorik)",
+										"35715_1": "BUL (Bussysteme und Sensorik)"
+									}
+								},
 								"Digitale Signalverarbeitung": {
 									"events": {
 										"35764_1": "DPL/01 (Digitale Signalverarbeitung)",
@@ -186,6 +206,11 @@
 				},
 				"Bachelor Regenerative Energiesysteme und Energiemanagement - Elektro- und Informationstechnik (PO WS 2019/20)": {
 					"subDirectories": {
+						"1. Semester": {
+							"events": {
+								"30527_1": "EE (Einführung in die regenerativen Energien)"
+							}
+						},
 						"7. Semester": {
 							"subDirectories": {
 								"": {
@@ -275,7 +300,15 @@
 						}
 					}
 				},
-				"Bachelor Elektrotechnik (Automatisierung) (PO WS 2021/22)": {},
+				"Bachelor Elektrotechnik (Automatisierung) (PO WS 2021/22)": {
+					"subDirectories": {
+						"5. Semester": {
+							"events": {
+								"44221_1": "PR3 (Objektorientierte Programmierung in der Automatisierungstechnik)"
+							}
+						}
+					}
+				},
 				"Master Automatisierung (PO WS 2019/20)": {},
 				"Master Mikroelektronische Systeme (PO WS 2019/20)": {
 					"subDirectories": {
@@ -5633,16 +5666,9 @@
 											}
 										},
 										"M-SWP15-P Sensorik": {
-											"subDirectories": {
-												"Sensorik Laborpraktikum": {
-													"events": {
-														"29374_1": "SNP/01 (Sensorik Laborpraktikum)",
-														"29374_2": "SNP/02 (Sensorik Laborpraktikum)"
-													}
-												}
-											},
 											"events": {
-												"29487_1": "SN (Sensorik)"
+												"29487_1": "SN (Sensorik)",
+												"29374_1": "SNP (Sensorik Laborpraktikum)"
 											}
 										}
 									}
