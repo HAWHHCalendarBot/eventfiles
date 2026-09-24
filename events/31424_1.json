@@ -47,5 +47,12 @@
 		"description": "Dozent: Prof. Dr. Peer Stelldinger\nTeilnehmer/-innen: ? / 25\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Machine Learning ^ TurnG SP_1/3",
 		"startTime": "2027-01-18T08:15:00",
 		"endTime": "2027-01-18T11:45:00"
+	},
+	{
+		"name": "ML (Machine Learning)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Prof. Dr. Peer Stelldinger\nTeilnehmer/-innen: ? / 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Machine Learning ^ TurnG SP_1/3",
+		"startTime": "2026-10-19T08:15:00",
+		"endTime": "2026-10-19T11:45:00"
 	}
 ]
