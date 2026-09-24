@@ -382,9 +382,18 @@
 												"42407_1": "P2 LV/01 (Programming Basics 2)",
 												"42407_2": "P2 LV/02 (Programming Basics 2)"
 											}
+										},
+										"M-WPT3534 Kryptografie": {
+											"events": {
+												"22523_1": "KRY (Kryptografie)",
+												"22605_1": "KRY Lab (Kryptografie Laborpraktikum)"
+											}
 										}
 									},
 									"events": {
+										"22452_1": "RDB (Relationale Datenbanken)",
+										"22414_1": "ASaAI (Adaptive Systems and Artificial Intelligence)",
+										"22292_1": "MixR (Mixed Reality)",
 										"42375_1": "WP LV (Web Programming)",
 										"42343_1": "CI LV (Computational Intelligence)"
 									}
@@ -406,9 +415,18 @@
 												"42407_1": "P2 LV/01 (Programming Basics 2)",
 												"42407_2": "P2 LV/02 (Programming Basics 2)"
 											}
+										},
+										"M-WPT3534 Kryptografie": {
+											"events": {
+												"22523_1": "KRY (Kryptografie)",
+												"22605_1": "KRY Lab (Kryptografie Laborpraktikum)"
+											}
 										}
 									},
 									"events": {
+										"22452_1": "RDB (Relationale Datenbanken)",
+										"22414_1": "ASaAI (Adaptive Systems and Artificial Intelligence)",
+										"22292_1": "MixR (Mixed Reality)",
 										"42375_1": "WP LV (Web Programming)",
 										"42343_1": "CI LV (Computational Intelligence)"
 									}
@@ -430,9 +448,18 @@
 												"42407_1": "P2 LV/01 (Programming Basics 2)",
 												"42407_2": "P2 LV/02 (Programming Basics 2)"
 											}
+										},
+										"M-WPT3534 Kryptografie": {
+											"events": {
+												"22523_1": "KRY (Kryptografie)",
+												"22605_1": "KRY Lab (Kryptografie Laborpraktikum)"
+											}
 										}
 									},
 									"events": {
+										"22452_1": "RDB (Relationale Datenbanken)",
+										"22414_1": "ASaAI (Adaptive Systems and Artificial Intelligence)",
+										"22292_1": "MixR (Mixed Reality)",
 										"42375_1": "WP LV (Web Programming)",
 										"42343_1": "CI LV (Computational Intelligence)"
 									}
@@ -2718,18 +2745,6 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
-								"Metadatenmanagement und Wissensrepräsentation 1": {
-									"events": {
-										"19984_1": "B1.LV1/01 (Metadatenmanagement und Wissensrepräsentation 1)",
-										"19984_2": "B1.LV1/02 (Metadatenmanagement und Wissensrepräsentation 1)"
-									}
-								},
-								"IT-Technisches Verständnis": {
-									"events": {
-										"20000_1": "B2.LV1/01 (IT-Technisches Verständnis)",
-										"20000_2": "B2.LV1/02 (IT-Technisches Verständnis)"
-									}
-								},
 								"M-04 Recherche und wissenschaftliches Arbeiten": {
 									"subDirectories": {
 										"Grundlagen wissenschaftlichen Arbeitens / Selbstmanagement": {
