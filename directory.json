@@ -104,6 +104,9 @@
 										"29926_1": "PR2 (Programmieren 2)"
 									}
 								}
+							},
+							"events": {
+								"30003_1": "LP (Lernprojekt)"
 							}
 						},
 						"3. Semester": {
@@ -241,6 +244,9 @@
 										"35724_1": "SO1 (Programmieren 1)"
 									}
 								}
+							},
+							"events": {
+								"30003_1": "LP (Lernprojekt)"
 							}
 						},
 						"4. Semester": {
