@@ -1,6 +1,13 @@
 [
 	{
 		"name": "ESEP/03 (Embedded System Engineering Praktikum)",
+		"location": "7.61, Berliner Tor 7",
+		"description": "Dozenten: Enrico Christophers, Prof. Dr. Thomas Lehmann\nParallelgruppe: 3\nTeilnehmer/-innen: ? / 16\nRhythmus: Einzeltermin\n\nOriginaler Titel: Embedded System Engineering Praktikum ^ Gruppe 3 (2U,4.FS) (3. Parallelgruppe)",
+		"startTime": "2026-10-14T13:45:00",
+		"endTime": "2026-10-14T17:00:00"
+	},
+	{
+		"name": "ESEP/03 (Embedded System Engineering Praktikum)",
 		"location": "7.01, Berliner Tor 7",
 		"description": "Dozenten: Enrico Christophers, Prof. Dr. Thomas Lehmann\nParallelgruppe: 3\nTeilnehmer/-innen: ? / 16\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Embedded System Engineering Praktikum ^ Gruppe 3 (2U,4.FS) (3. Parallelgruppe)",
 		"startTime": "2026-10-21T13:45:00",

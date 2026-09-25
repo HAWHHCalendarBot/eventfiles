@@ -60,6 +60,20 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
+								"M-03 Lineare Algebra": {
+									"subDirectories": {
+										"Lineare Algebra Übung": {
+											"events": {
+												"29983_1": "LAÜ/01 (Lineare Algebra Übung)",
+												"29983_2": "LAÜ/02 (Lineare Algebra Übung)",
+												"29983_3": "LAÜ/03 (Lineare Algebra Übung)"
+											}
+										}
+									},
+									"events": {
+										"29975_1": "LA (Lineare Algebra)"
+									}
+								},
 								"Grundlagen der Elektrotechnik 1": {
 									"events": {
 										"29933_1": "ET1/01 (Grundlagen der Elektrotechnik 1)",
@@ -73,6 +87,9 @@
 										"29974_3": "PRP1/03 (Programmieren 1 Praktikum)"
 									}
 								}
+							},
+							"events": {
+								"30065_1": "PH1 (Physik 1)"
 							}
 						},
 						"2. Semester": {
@@ -249,6 +266,17 @@
 								"30003_1": "LP (Lernprojekt)"
 							}
 						},
+						"2. Semester": {
+							"events": {
+								"35765_1": "EEL2 (Grundlagen der Elektrotechnik 2)",
+								"35708_1": "ELL1 (Elektronik 1)"
+							}
+						},
+						"3. Semester": {
+							"events": {
+								"35750_1": "SSL1 (Signale und Systeme 1)"
+							}
+						},
 						"4. Semester": {
 							"subDirectories": {
 								"M-12-P Signale und Systeme 2": {
@@ -338,6 +366,19 @@
 									"events": {
 										"30527_1": "EE (Einführung in die regenerativen Energien)"
 									}
+								},
+								"M-09-P Programmieren 1": {
+									"subDirectories": {
+										"Programmieren 1 Praktikum": {
+											"events": {
+												"30453_1": "PRP1/01 (Programmieren 1 Praktikum)",
+												"30453_2": "PRP1/02 (Programmieren 1 Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30485_1": "PR1 (Programmieren 1)"
+									}
 								}
 							}
 						},
@@ -356,6 +397,9 @@
 										"30520_1": "ER2 (Elektrische und regenerative Energietechnik 2)"
 									}
 								}
+							},
+							"events": {
+								"30481_1": "IPJ1 (Integrationsprojekt 1 Systemtechnik)"
 							}
 						},
 						"7. Semester": {
@@ -6007,7 +6051,76 @@
 		},
 		"Fakultät Management, Governance und Medien": {
 			"subDirectories": {
-				"Bachelor E-Government (PO WS 2023/24)": {},
+				"Bachelor E-Government (PO WS 2023/24)": {
+					"subDirectories": {
+						"3. Semester": {
+							"subDirectories": {
+								"M-09 Programmierung 2": {
+									"subDirectories": {
+										"Unit 2: Programmierprojekt": {
+											"events": {
+												"25102_1": "PM9 U2/01 (Unit 2: Programmierprojekt)",
+												"25102_2": "PM9 U2/02 (Unit 2: Programmierprojekt)",
+												"25102_3": "PM9 U2/03 (Unit 2: Programmierprojekt)"
+											}
+										}
+									},
+									"events": {
+										"25126_1": "PM9 U1 (Unit 1: Programmierung 2 (im Block))"
+									}
+								}
+							}
+						},
+						"4. Semester": {
+							"subDirectories": {
+								"Unit 2: Seminar 2": {
+									"events": {
+										"25081_1": "PM15 U2/01 (Unit 2: Seminar 2)",
+										"25081_2": "PM15 U2/02 (Unit 2: Seminar 2)"
+									}
+								},
+								"M-16 Haushalt und Steuerung": {
+									"events": {
+										"25055_1": "PM16 U2 (Unit 2: Kosten- und Leistungsrechnung mit SAP)",
+										"25134_1": "PM16 U3 (Unit 3: Controlling und Risikomanagement)"
+									}
+								}
+							}
+						},
+						"5. Semester": {
+							"subDirectories": {
+								"M-17 Software Engineering 2": {
+									"subDirectories": {
+										"Unit 2: Software Engineering 2": {
+											"events": {
+												"25108_1": "PM17 U2/01 (Unit 2: Software Engineering 2)",
+												"25108_2": "PM17 U2/02 (Unit 2: Software Engineering 2)"
+											}
+										}
+									},
+									"events": {
+										"25086_1": "PM17 U1 (Unit 1: Software Engineering 2)"
+									}
+								},
+								"M-18 Interdisziplinarität in der Digitalisierung": {
+									"events": {
+										"25051_1": "PM18 U1 (Unit 1: Datenbanken 2)",
+										"25105_1": "PM18 U2 (Unit 2: Planung und Entscheidung und deren Unterstützung durch IT-Systeme)",
+										"25151_1": "PM18 U3 (Unit 3: Legal Tech)",
+										"25064_1": "PM18 U4 (Unit 4: Potenziale und Risiken von Digitalisierung)"
+									}
+								},
+								"M-19 Organisation zwischen Stabilität und Veränderung": {
+									"events": {
+										"25113_1": "PM19 U1 (Unit 1: Innovation in und Veränderung von sozialen Systemen)",
+										"25092_1": "PM19 U2 (Unit 2: Change Management und Innovationsmanagement im Kontext von Digitalisierung)",
+										"25125_1": "PM19 U3 (Unit 3: Organisatorische Gestaltung im Kontext von Digitalisierung)"
+									}
+								}
+							}
+						}
+					}
+				},
 				"Bachelor Marketing / Technische Betriebswirtschaftslehre (PO WS 2023/24)": {},
 				"Bachelor Logistik / Technische Betriebswirtschaftslehre (PO WS 2023/24)": {},
 				"Bachelor International Business (PO WS 2023/24)": {},
@@ -6094,6 +6207,18 @@
 					"subDirectories": {
 						"3. Semester": {
 							"subDirectories": {
+								"Unit 2: Theorie-Praxis-Reflexion": {
+									"events": {
+										"18161_1": "PM10 U2/01 (Unit 2: Theorie-Praxis-Reflexion)",
+										"18161_2": "PM10 U2/02 (Unit 2: Theorie-Praxis-Reflexion)",
+										"18161_3": "PM10 U2/03 (Unit 2: Theorie-Praxis-Reflexion)",
+										"18161_4": "PM10 U2/04 (Unit 2: Theorie-Praxis-Reflexion)",
+										"18161_5": "PM10 U2/05 (Unit 2: Theorie-Praxis-Reflexion)",
+										"18161_6": "PM10 U2/06 (Unit 2: Theorie-Praxis-Reflexion)",
+										"18161_7": "PM10 U2/07 (Unit 2: Theorie-Praxis-Reflexion)",
+										"18161_8": "PM10 U2/08 (Unit 2: Theorie-Praxis-Reflexion)"
+									}
+								},
 								"Studienprojekt": {
 									"events": {
 										"18059_1": "PM11/01 (Studienprojekt)",

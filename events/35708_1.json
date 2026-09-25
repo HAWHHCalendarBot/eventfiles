@@ -1,0 +1,30 @@
+[
+	{
+		"name": "ELL1 (Elektronik 1)",
+		"location": "5.05, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Stefan Lehmann, Wesam Al Hajsaeed\nTeilnehmer/-innen: ? / 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: Elektronik 1 - Praktikum ^ ELL1/01",
+		"startTime": "2026-10-27T12:10:00",
+		"endTime": "2026-10-27T13:40:00"
+	},
+	{
+		"name": "ELL1 (Elektronik 1)",
+		"location": "5.05, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Stefan Lehmann, Wesam Al Hajsaeed\nTeilnehmer/-innen: ? / 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Elektronik 1 - Praktikum ^ ELL1/01",
+		"startTime": "2026-11-18T08:10:00",
+		"endTime": "2026-11-18T11:25:00"
+	},
+	{
+		"name": "ELL1 (Elektronik 1)",
+		"location": "5.05, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Stefan Lehmann, Wesam Al Hajsaeed\nTeilnehmer/-innen: ? / 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Elektronik 1 - Praktikum ^ ELL1/01",
+		"startTime": "2026-12-09T08:10:00",
+		"endTime": "2026-12-09T11:25:00"
+	},
+	{
+		"name": "ELL1 (Elektronik 1)",
+		"location": "5.05, Berliner Tor 7",
+		"description": "Dozenten: Prof. Dr. Stefan Lehmann, Wesam Al Hajsaeed\nTeilnehmer/-innen: ? / 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: Elektronik 1 - Praktikum ^ ELL1/01",
+		"startTime": "2027-01-13T08:10:00",
+		"endTime": "2027-01-13T11:25:00"
+	}
+]
