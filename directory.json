@@ -267,6 +267,15 @@
 							}
 						},
 						"2. Semester": {
+							"subDirectories": {
+								"Programmieren 2": {
+									"events": {
+										"35730_1": "SOL2/01 (Programmieren 2)",
+										"35730_2": "SOL2/02 (Programmieren 2)",
+										"35730_3": "SOL2/03 (Programmieren 2)"
+									}
+								}
+							},
 							"events": {
 								"35765_1": "EEL2 (Grundlagen der Elektrotechnik 2)",
 								"35708_1": "ELL1 (Elektronik 1)"
@@ -290,6 +299,20 @@
 									},
 									"events": {
 										"35779_1": "SS2 (Signale und Systeme 2)"
+									}
+								},
+								"M-19-P Datenbanken": {
+									"subDirectories": {
+										"Datenbanken": {
+											"events": {
+												"35674_1": "DBL/01 (Datenbanken)",
+												"35674_2": "DBL/02 (Datenbanken)",
+												"35674_3": "DBL/03 (Datenbanken)"
+											}
+										}
+									},
+									"events": {
+										"35777_1": "DB (Datenbanken)"
 									}
 								}
 							},
