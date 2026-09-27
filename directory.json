@@ -6557,8 +6557,15 @@
 											}
 										},
 										"M-20320 Softwareanwendungen im Maschinenbau": {
+											"subDirectories": {
+												"Softwareanwendungen im Maschinenbau Laborpraktikum": {
+													"events": {
+														"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+														"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
+													}
+												}
+											},
 											"events": {
-												"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
 												"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
 											}
 										},
@@ -6604,9 +6611,16 @@
 											}
 										},
 										"M-20640 Thermische Systemmodellierung": {
+											"subDirectories": {
+												"Thermische Systemmodellierung Laborpraktikum": {
+													"events": {
+														"32871_1": "THSM L/01 (Thermische Systemmodellierung Laborpraktikum)",
+														"32871_2": "THSM L/02 (Thermische Systemmodellierung Laborpraktikum)"
+													}
+												}
+											},
 											"events": {
-												"32875_1": "THSM (Thermische Systemmodellierung)",
-												"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
+												"32875_1": "THSM (Thermische Systemmodellierung)"
 											}
 										}
 									}
@@ -6963,9 +6977,16 @@
 													}
 												},
 												"M-20640 Thermische Systemmodellierung": {
+													"subDirectories": {
+														"Thermische Systemmodellierung Laborpraktikum": {
+															"events": {
+																"32871_1": "THSM L/01 (Thermische Systemmodellierung Laborpraktikum)",
+																"32871_2": "THSM L/02 (Thermische Systemmodellierung Laborpraktikum)"
+															}
+														}
+													},
 													"events": {
-														"32875_1": "THSM (Thermische Systemmodellierung)",
-														"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
+														"32875_1": "THSM (Thermische Systemmodellierung)"
 													}
 												},
 												"M-20690 Kolbenmaschinen": {
@@ -7337,8 +7358,15 @@
 													}
 												},
 												"M-20320 Softwareanwendungen im Maschinenbau": {
+													"subDirectories": {
+														"Softwareanwendungen im Maschinenbau Laborpraktikum": {
+															"events": {
+																"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+																"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
+															}
+														}
+													},
 													"events": {
-														"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
 														"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
 													}
 												},
@@ -7566,8 +7594,15 @@
 										"": {
 											"subDirectories": {
 												"M-20320 Softwareanwendungen im Maschinenbau": {
+													"subDirectories": {
+														"Softwareanwendungen im Maschinenbau Laborpraktikum": {
+															"events": {
+																"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+																"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
+															}
+														}
+													},
 													"events": {
-														"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
 														"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
 													}
 												},
@@ -7744,9 +7779,16 @@
 													}
 												},
 												"M-20640 Thermische Systemmodellierung": {
+													"subDirectories": {
+														"Thermische Systemmodellierung Laborpraktikum": {
+															"events": {
+																"32871_1": "THSM L/01 (Thermische Systemmodellierung Laborpraktikum)",
+																"32871_2": "THSM L/02 (Thermische Systemmodellierung Laborpraktikum)"
+															}
+														}
+													},
 													"events": {
-														"32875_1": "THSM (Thermische Systemmodellierung)",
-														"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
+														"32875_1": "THSM (Thermische Systemmodellierung)"
 													}
 												},
 												"M-20690 Kolbenmaschinen": {
@@ -8041,8 +8083,15 @@
 													}
 												},
 												"M-20320 Softwareanwendungen im Maschinenbau": {
+													"subDirectories": {
+														"Softwareanwendungen im Maschinenbau Laborpraktikum": {
+															"events": {
+																"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+																"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
+															}
+														}
+													},
 													"events": {
-														"33214_1": "SOM L (Softwareanwendungen im Maschinenbau Laborpraktikum)",
 														"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
 													}
 												},
@@ -8122,9 +8171,16 @@
 													}
 												},
 												"M-20640 Thermische Systemmodellierung": {
+													"subDirectories": {
+														"Thermische Systemmodellierung Laborpraktikum": {
+															"events": {
+																"32871_1": "THSM L/01 (Thermische Systemmodellierung Laborpraktikum)",
+																"32871_2": "THSM L/02 (Thermische Systemmodellierung Laborpraktikum)"
+															}
+														}
+													},
 													"events": {
-														"32875_1": "THSM (Thermische Systemmodellierung)",
-														"32871_1": "THSM L (Thermische Systemmodellierung Laborpraktikum)"
+														"32875_1": "THSM (Thermische Systemmodellierung)"
 													}
 												},
 												"M-20690 Kolbenmaschinen": {
