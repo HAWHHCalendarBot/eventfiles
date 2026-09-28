@@ -60,6 +60,12 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
+								"M-01-P Analysis 1": {
+									"events": {
+										"29985_1": "AN1 (Analysis 1)",
+										"30135_1": "ANÜ1 (Analysis 1 Übung)"
+									}
+								},
 								"M-03 Lineare Algebra": {
 									"subDirectories": {
 										"Lineare Algebra Übung": {
@@ -74,10 +80,22 @@
 										"29975_1": "LA (Lineare Algebra)"
 									}
 								},
-								"Grundlagen der Elektrotechnik 1": {
-									"events": {
-										"29933_1": "ET1/01 (Grundlagen der Elektrotechnik 1)",
-										"29933_2": "ET1/02 (Grundlagen der Elektrotechnik 1)"
+								"M-06-P Grundlagen der Elektrotechnik 1": {
+									"subDirectories": {
+										"Grundlagen der Elektrotechnik 1": {
+											"events": {
+												"29933_1": "ET1/01 (Grundlagen der Elektrotechnik 1)",
+												"29933_2": "ET1/02 (Grundlagen der Elektrotechnik 1)"
+											}
+										},
+										"Grundlagen der Elektrotechnik Praktikum": {
+											"events": {
+												"29941_1": "ETP1/01 (Grundlagen der Elektrotechnik Praktikum)",
+												"29941_2": "ETP1/02 (Grundlagen der Elektrotechnik Praktikum)",
+												"29941_3": "ETP1/03 (Grundlagen der Elektrotechnik Praktikum)",
+												"29941_4": "ETP1/04 (Grundlagen der Elektrotechnik Praktikum)"
+											}
+										}
 									}
 								},
 								"Programmieren 1 Praktikum": {
@@ -107,6 +125,29 @@
 										"30154_1": "AN2 (Analysis 2)"
 									}
 								},
+								"Grundlagen der Elektrotechnik Praktikum": {
+									"events": {
+										"30129_1": "ETP2/01 (Grundlagen der Elektrotechnik Praktikum)",
+										"30129_2": "ETP2/02 (Grundlagen der Elektrotechnik Praktikum)",
+										"30129_3": "ETP2/03 (Grundlagen der Elektrotechnik Praktikum)",
+										"30129_4": "ETP2/04 (Grundlagen der Elektrotechnik Praktikum)"
+									}
+								},
+								"M-08-P Elektronik 1": {
+									"subDirectories": {
+										"Elektronik 1 Praktikum": {
+											"events": {
+												"30045_1": "ELP/01 (Elektronik 1 Praktikum)",
+												"30045_2": "ELP/02 (Elektronik 1 Praktikum)",
+												"30045_3": "ELP/03 (Elektronik 1 Praktikum)",
+												"30045_4": "ELP/04 (Elektronik 1 Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"29971_1": "EL (Elektronik 1)"
+									}
+								},
 								"M-10 Programmieren 2": {
 									"subDirectories": {
 										"Programmieren 2 Praktikum": {
@@ -128,6 +169,35 @@
 						},
 						"3. Semester": {
 							"subDirectories": {
+								"M-16-P Elektronik 2": {
+									"subDirectories": {
+										"Elektronik 2 Praktikum": {
+											"events": {
+												"30051_1": "ELP2/01 (Elektronik 2 Praktikum)",
+												"30051_2": "ELP2/02 (Elektronik 2 Praktikum)",
+												"30051_3": "ELP2/03 (Elektronik 2 Praktikum)",
+												"30051_4": "ELP2/04 (Elektronik 2 Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30101_1": "EL2 (Elektronik 2)"
+									}
+								},
+								"M-17-P Digitaltechnik": {
+									"subDirectories": {
+										"Digitaltechnik Praktikum": {
+											"events": {
+												"30001_1": "DIP/01 (Digitaltechnik Praktikum)",
+												"30001_2": "DIP/02 (Digitaltechnik Praktikum)",
+												"30001_3": "DIP/03 (Digitaltechnik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"29934_1": "DI (Digitaltechnik)"
+									}
+								},
 								"M-20 Objektorientierte Programmierung": {
 									"subDirectories": {
 										"Objektorientierte Programmierung Praktikum": {
@@ -156,6 +226,16 @@
 						},
 						"4. Semester": {
 							"subDirectories": {
+								"Vertiefungsrichtung Digitale Informationstechnik und Kommunikationstechnik": {
+									"subDirectories": {
+										"M-26-P Elektronik 3": {
+											"events": {
+												"29972_1": "EL3 (Elektronik 3)",
+												"30105_1": "ELP3 (Elektronik 3 Praktikum)"
+											}
+										}
+									}
+								},
 								"Vertiefungsrichtung Automatisierung und Energietechnik": {
 									"subDirectories": {
 										"M-24-P Steuerungstechnik": {
@@ -173,6 +253,13 @@
 											}
 										}
 									}
+								},
+								"Mikroprozessortechnik Praktikum": {
+									"events": {
+										"30103_1": "MPP/01 (Mikroprozessortechnik Praktikum)",
+										"30103_2": "MPP/02 (Mikroprozessortechnik Praktikum)",
+										"30103_3": "MPP/03 (Mikroprozessortechnik Praktikum)"
+									}
 								}
 							}
 						},
@@ -180,10 +267,23 @@
 							"subDirectories": {
 								"Vertiefungsrichtung Automatisierung und Energietechnik": {
 									"subDirectories": {
-										"Energietechnik Praktikum": {
+										"M-29-P Antriebe und Leistungselektronik": {
 											"events": {
-												"30024_1": "ENP/01 (Energietechnik Praktikum)",
-												"30024_2": "ENP/02 (Energietechnik Praktikum)"
+												"29987_1": "LE (Antriebe und Leistungselektronik)",
+												"30035_1": "LEP (Antriebe und Leistungselektronik Praktikum)"
+											}
+										},
+										"M-31-P Energietechnik": {
+											"subDirectories": {
+												"Energietechnik Praktikum": {
+													"events": {
+														"30024_1": "ENP/01 (Energietechnik Praktikum)",
+														"30024_2": "ENP/02 (Energietechnik Praktikum)"
+													}
+												}
+											},
+											"events": {
+												"30047_1": "EN (Energietechnik)"
 											}
 										},
 										"M-34-P Regenerative Energien": {
@@ -199,24 +299,91 @@
 												"29997_1": "RE (Regenerative Energien)"
 											}
 										}
+									},
+									"events": {
+										"30109_1": "PB (Prozessleittechnik und Bussysteme)"
 									}
 								},
 								"Vertiefungsrichtung Digitale Informationstechnik": {
 									"subDirectories": {
-										"Digitale Signalverarbeitung Praktikum": {
+										"M-35-P Digitale Systeme": {
+											"subDirectories": {
+												"Digitale Systeme Praktikum": {
+													"events": {
+														"30095_1": "DYP/01 (Digitale Systeme Praktikum)",
+														"30095_2": "DYP/02 (Digitale Systeme Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30143_1": "DVP/01 (Digitale Signalverarbeitung Praktikum)",
-												"30143_2": "DVP/02 (Digitale Signalverarbeitung Praktikum)"
+												"30134_1": "DY (Digitale Systeme)"
+											}
+										},
+										"M-37-P Digitale Signalverarbeitung": {
+											"subDirectories": {
+												"Digitale Signalverarbeitung Praktikum": {
+													"events": {
+														"30143_1": "DVP/01 (Digitale Signalverarbeitung Praktikum)",
+														"30143_2": "DVP/02 (Digitale Signalverarbeitung Praktikum)"
+													}
+												}
+											},
+											"events": {
+												"30022_1": "DV (Digitale Signalverarbeitung)"
+											}
+										},
+										"M-38-P Digitale Übertragungstechnik": {
+											"events": {
+												"29919_1": "DÜ (Digitale Übertragungstechnik)",
+												"29930_1": "DÜP (Digitale Übertragungstechnik Praktikum)"
+											}
+										},
+										"M-39-P Bussysteme und Sensorik": {
+											"events": {
+												"30044_1": "BU (Bussysteme und Sensorik)",
+												"30007_1": "BUP (Bussysteme und Sensorik Praktikum)"
 											}
 										}
 									}
 								},
 								"Vertiefungsrichtung Kommunikationstechnik": {
 									"subDirectories": {
-										"Digitale Signalverarbeitung Praktikum": {
+										"M-35-P Digitale Systeme": {
+											"subDirectories": {
+												"Digitale Systeme Praktikum": {
+													"events": {
+														"30095_1": "DYP/01 (Digitale Systeme Praktikum)",
+														"30095_2": "DYP/02 (Digitale Systeme Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30143_1": "DVP/01 (Digitale Signalverarbeitung Praktikum)",
-												"30143_2": "DVP/02 (Digitale Signalverarbeitung Praktikum)"
+												"30134_1": "DY (Digitale Systeme)"
+											}
+										},
+										"M-41-P Computernetze": {
+											"events": {
+												"30061_1": "CN (Computernetze)",
+												"30030_1": "CNP (Computernetze Praktikum)"
+											}
+										},
+										"M-37-P Digitale Signalverarbeitung": {
+											"subDirectories": {
+												"Digitale Signalverarbeitung Praktikum": {
+													"events": {
+														"30143_1": "DVP/01 (Digitale Signalverarbeitung Praktikum)",
+														"30143_2": "DVP/02 (Digitale Signalverarbeitung Praktikum)"
+													}
+												}
+											},
+											"events": {
+												"30022_1": "DV (Digitale Signalverarbeitung)"
+											}
+										},
+										"M-38-P Digitale Übertragungstechnik": {
+											"events": {
+												"29919_1": "DÜ (Digitale Übertragungstechnik)",
+												"29930_1": "DÜP (Digitale Übertragungstechnik Praktikum)"
 											}
 										}
 									}
@@ -247,6 +414,13 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
+								"Grundlagen der Elektrotechnik 1": {
+									"events": {
+										"35744_1": "EEL1/01 (Grundlagen der Elektrotechnik 1)",
+										"35744_2": "EEL1/02 (Grundlagen der Elektrotechnik 1)",
+										"35744_3": "EEL1/03 (Grundlagen der Elektrotechnik 1)"
+									}
+								},
 								"M-06 Programmieren 1": {
 									"subDirectories": {
 										"Programmieren 1": {
@@ -260,14 +434,48 @@
 									"events": {
 										"35724_1": "SO1 (Programmieren 1)"
 									}
+								},
+								"M-10-P Lernen und Studiermethodik": {
+									"subDirectories": {
+										"Lernen und Studiermethodik": {
+											"events": {
+												"35761_1": "LSE1/01 (Lernen und Studiermethodik)",
+												"35761_2": "LSE1/02 (Lernen und Studiermethodik)"
+											}
+										}
+									},
+									"events": {
+										"30003_1": "LP (Lernprojekt)"
+									}
 								}
 							},
 							"events": {
-								"30003_1": "LP (Lernprojekt)"
+								"35742_1": "GE (Deutsch)"
 							}
 						},
 						"2. Semester": {
 							"subDirectories": {
+								"Grundlagen der Elektrotechnik 2": {
+									"events": {
+										"35765_1": "EEL2/01 (Grundlagen der Elektrotechnik 2)",
+										"35765_2": "EEL2/02 (Grundlagen der Elektrotechnik 2)",
+										"35765_3": "EEL2/03 (Grundlagen der Elektrotechnik 2)"
+									}
+								},
+								"M-05-P Elektronik 1": {
+									"subDirectories": {
+										"Elektronik 1": {
+											"events": {
+												"35708_1": "ELL1/01 (Elektronik 1)",
+												"35708_2": "ELL1/02 (Elektronik 1)",
+												"35708_3": "ELL1/03 (Elektronik 1)"
+											}
+										}
+									},
+									"events": {
+										"35760_1": "EL1 (Elektronik 1)"
+									}
+								},
 								"Programmieren 2": {
 									"events": {
 										"35730_1": "SOL2/01 (Programmieren 2)",
@@ -275,13 +483,43 @@
 										"35730_3": "SOL2/03 (Programmieren 2)"
 									}
 								}
-							},
-							"events": {
-								"35765_1": "EEL2 (Grundlagen der Elektrotechnik 2)",
-								"35708_1": "ELL1 (Elektronik 1)"
 							}
 						},
 						"3. Semester": {
+							"subDirectories": {
+								"M-13-P Elektronik 2": {
+									"subDirectories": {
+										"Elektronik 2": {
+											"events": {
+												"35673_1": "ELL2/01 (Elektronik 2)",
+												"35673_2": "ELL2/02 (Elektronik 2)",
+												"35673_3": "ELL2/03 (Elektronik 2)"
+											}
+										}
+									},
+									"events": {
+										"35786_1": "EL2 (Elektronik 2)"
+									}
+								},
+								"M-14-P Digitaltechnik": {
+									"events": {
+										"35768_1": "DI (Digitaltechnik)",
+										"35647_1": "DIL (Digitaltechnik)"
+									}
+								},
+								"M-17-P Algorithmen und Datenstrukturen": {
+									"events": {
+										"35705_1": "AD (Algorithmen und Datenstrukturen)",
+										"35669_1": "ADL (Algorithmen und Datenstrukturen)"
+									}
+								},
+								"M-20-P Betriebswirtschaft und Ökonomie": {
+									"events": {
+										"35771_1": "EM (Betriebswirtschaft und Ökonomie)",
+										"35748_1": "EME (Betriebswirtschaft und Ökonomie)"
+									}
+								}
+							},
 							"events": {
 								"35750_1": "SSL1 (Signale und Systeme 1)"
 							}
@@ -299,6 +537,12 @@
 									},
 									"events": {
 										"35779_1": "SS2 (Signale und Systeme 2)"
+									}
+								},
+								"M-15-P Digitale Systeme": {
+									"events": {
+										"35659_1": "DS (Digitale Systeme)",
+										"35645_1": "DSL (Digitale Systeme)"
 									}
 								},
 								"M-19-P Datenbanken": {
@@ -343,12 +587,31 @@
 										"35715_1": "BUL (Bussysteme und Sensorik)"
 									}
 								},
-								"Digitale Signalverarbeitung": {
+								"M-24-P Betriebssysteme": {
 									"events": {
-										"35764_1": "DPL/01 (Digitale Signalverarbeitung)",
-										"35764_2": "DPL/02 (Digitale Signalverarbeitung)",
-										"35764_3": "DPL/03 (Digitale Signalverarbeitung)",
-										"35764_4": "DPL/04 (Digitale Signalverarbeitung)"
+										"35721_1": "OS (Betriebssysteme)",
+										"35678_1": "OSL (Betriebssysteme)"
+									}
+								},
+								"M-25-P Digitale Signalverarbeitung": {
+									"subDirectories": {
+										"Digitale Signalverarbeitung": {
+											"events": {
+												"35764_1": "DPL/01 (Digitale Signalverarbeitung)",
+												"35764_2": "DPL/02 (Digitale Signalverarbeitung)",
+												"35764_3": "DPL/03 (Digitale Signalverarbeitung)",
+												"35764_4": "DPL/04 (Digitale Signalverarbeitung)"
+											}
+										}
+									},
+									"events": {
+										"35691_1": "DP (Digitale Signalverarbeitung)"
+									}
+								},
+								"M-26-P Digitale Übertragungstechnik": {
+									"events": {
+										"35769_1": "DC (Digitale Übertragungstechnik)",
+										"35720_1": "DCL (Digitale Übertragungstechnik)"
 									}
 								}
 							}
@@ -377,6 +640,20 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
+								"M-05-P Elektrotechnik 1": {
+									"subDirectories": {
+										"Elektrotechnik 1 Praktikum": {
+											"events": {
+												"30559_1": "ETP1/01 (Elektrotechnik 1 Praktikum)",
+												"30559_2": "ETP1/02 (Elektrotechnik 1 Praktikum)",
+												"30559_3": "ETP1/03 (Elektrotechnik 1 Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30508_1": "ET1 (Elektrotechnik 1)"
+									}
+								},
 								"M-07-P Einführung in die regenerativen Energien": {
 									"subDirectories": {
 										"Einführung in die regenerativen Energien Praktikum": {
@@ -418,6 +695,31 @@
 									},
 									"events": {
 										"30520_1": "ER2 (Elektrische und regenerative Energietechnik 2)"
+									}
+								},
+								"M-14-P Datenstrukturen und verteilte Systeme": {
+									"events": {
+										"30544_1": "VS (Datenstrukturen und verteilte Systeme)",
+										"30480_1": "VSP (Datenstrukturen und verteilte Systeme Praktikum)"
+									}
+								},
+								"M-15-P Elektronik 2": {
+									"subDirectories": {
+										"Elektronik 2 Praktikum": {
+											"events": {
+												"30494_1": "ELP2/01 (Elektronik 2 Praktikum)",
+												"30494_2": "ELP2/02 (Elektronik 2 Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30476_1": "EL2 (Elektronik 2)"
+									}
+								},
+								"M-21-P Betriebswirtschaftslehre für Ingenieure": {
+									"events": {
+										"30417_1": "BW (Betriebswirtschaftslehre für Ingenieure)",
+										"30463_1": "BWÜ (Betriebswirtschaftslehre für Ingenieure Übung)"
 									}
 								}
 							},
@@ -572,6 +874,14 @@
 						"2. Semester": {
 							"subDirectories": {
 								"": {
+									"subDirectories": {
+										"M-WP-EDS-P Ereignisdiskrete Systeme": {
+											"events": {
+												"36328_1": "WPM_EDS (Ereignisdiskrete Systeme)",
+												"36330_1": "WPM_EDSP (Ereignisdiskrete Systeme Praktikum)"
+											}
+										}
+									},
 									"events": {
 										"36323_1": "IP (Image Processing)"
 									}
@@ -585,15 +895,30 @@
 						"1. Semester": {
 							"subDirectories": {
 								"": {
+									"subDirectories": {
+										"M-WP-EDS-P Ereignisdiskrete Systeme": {
+											"events": {
+												"36328_1": "WPM_EDS (Ereignisdiskrete Systeme)",
+												"36330_1": "WPM_EDSP (Ereignisdiskrete Systeme Praktikum)"
+											}
+										}
+									},
 									"events": {
 										"36323_1": "IP (Image Processing)"
 									}
 								},
-								"Embedded Signal Processing Laborpraktikum": {
+								"M-03-P Digitale Signalverarbeitung auf Signalprozessoren": {
+									"subDirectories": {
+										"Embedded Signal Processing Laborpraktikum": {
+											"events": {
+												"43233_1": "ESPL/01 (Embedded Signal Processing Laborpraktikum)",
+												"43233_2": "ESPL/02 (Embedded Signal Processing Laborpraktikum)",
+												"43233_3": "ESPL/03 (Embedded Signal Processing Laborpraktikum)"
+											}
+										}
+									},
 									"events": {
-										"43233_1": "ESPL/01 (Embedded Signal Processing Laborpraktikum)",
-										"43233_2": "ESPL/02 (Embedded Signal Processing Laborpraktikum)",
-										"43233_3": "ESPL/03 (Embedded Signal Processing Laborpraktikum)"
+										"43213_1": "ESP (Embedded Signal Processing)"
 									}
 								}
 							}
@@ -601,6 +926,14 @@
 						"2. Semester": {
 							"subDirectories": {
 								"": {
+									"subDirectories": {
+										"M-WP-EDS-P Ereignisdiskrete Systeme": {
+											"events": {
+												"36328_1": "WPM_EDS (Ereignisdiskrete Systeme)",
+												"36330_1": "WPM_EDSP (Ereignisdiskrete Systeme Praktikum)"
+											}
+										}
+									},
 									"events": {
 										"36323_1": "IP (Image Processing)"
 									}
@@ -614,15 +947,30 @@
 						"1. Semester": {
 							"subDirectories": {
 								"": {
+									"subDirectories": {
+										"M-WP-EDS-P Ereignisdiskrete Systeme": {
+											"events": {
+												"36328_1": "WPM_EDS (Ereignisdiskrete Systeme)",
+												"36330_1": "WPM_EDSP (Ereignisdiskrete Systeme Praktikum)"
+											}
+										}
+									},
 									"events": {
 										"36323_1": "IP (Image Processing)"
 									}
 								},
-								"Embedded Signal Processing Laborpraktikum": {
+								"M-03-P Digitale Signalverarbeitung auf Signalprozessoren": {
+									"subDirectories": {
+										"Embedded Signal Processing Laborpraktikum": {
+											"events": {
+												"43233_1": "ESPL/01 (Embedded Signal Processing Laborpraktikum)",
+												"43233_2": "ESPL/02 (Embedded Signal Processing Laborpraktikum)",
+												"43233_3": "ESPL/03 (Embedded Signal Processing Laborpraktikum)"
+											}
+										}
+									},
 									"events": {
-										"43233_1": "ESPL/01 (Embedded Signal Processing Laborpraktikum)",
-										"43233_2": "ESPL/02 (Embedded Signal Processing Laborpraktikum)",
-										"43233_3": "ESPL/03 (Embedded Signal Processing Laborpraktikum)"
+										"43213_1": "ESP (Embedded Signal Processing)"
 									}
 								}
 							}
@@ -630,8 +978,22 @@
 						"2. Semester": {
 							"subDirectories": {
 								"": {
+									"subDirectories": {
+										"M-WP-EDS-P Ereignisdiskrete Systeme": {
+											"events": {
+												"36328_1": "WPM_EDS (Ereignisdiskrete Systeme)",
+												"36330_1": "WPM_EDSP (Ereignisdiskrete Systeme Praktikum)"
+											}
+										}
+									},
 									"events": {
 										"36323_1": "IP (Image Processing)"
+									}
+								},
+								"M-05 Verteilte Anwendungen": {
+									"events": {
+										"44447_1": "DSA (Distributed Systems and Applications)",
+										"44462_1": "DSAL (Distributed Systems and Applications Laboratory)"
 									}
 								}
 							}
@@ -5879,16 +6241,9 @@
 									}
 								},
 								"M-25-P Bussysteme": {
-									"subDirectories": {
-										"Bussysteme Laborpraktikum": {
-											"events": {
-												"29343_1": "BUP/01 (Bussysteme Laborpraktikum)",
-												"29343_2": "BUP/02 (Bussysteme Laborpraktikum)"
-											}
-										}
-									},
 									"events": {
-										"29432_1": "BU (Bussysteme)"
+										"29432_1": "BU (Bussysteme)",
+										"29343_1": "BUP (Bussysteme Laborpraktikum)"
 									}
 								},
 								"M-27 Bachelorprojekt": {
@@ -6470,6 +6825,7 @@
 												"32734_4": "KONB KNPA/04 (Konstruktion B Konstruktionsarbeit)",
 												"32734_5": "KONB KNPA/05 (Konstruktion B Konstruktionsarbeit)",
 												"32734_6": "KONB KNPA/06 (Konstruktion B Konstruktionsarbeit)",
+												"32734_7": "KONB KNPA/07 (Konstruktion B Konstruktionsarbeit)",
 												"32734_9": "KONB KNPA/09 (Konstruktion B Konstruktionsarbeit)",
 												"32734_10": "KONB KNPA/10 (Konstruktion B Konstruktionsarbeit)"
 											}
@@ -6547,6 +6903,7 @@
 												"Methodische Produktentwicklung Laborpraktikum": {
 													"events": {
 														"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+														"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 														"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
 														"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 													}
@@ -6660,6 +7017,7 @@
 												"Methodische Produktentwicklung Laborpraktikum": {
 													"events": {
 														"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+														"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 														"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
 														"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 													}
@@ -6749,7 +7107,8 @@
 												"33093_2": "EAT L/02 (Elektrische Antriebstechnik Laborpraktikum)",
 												"33093_3": "EAT L/03 (Elektrische Antriebstechnik Laborpraktikum)",
 												"33093_4": "EAT L/04 (Elektrische Antriebstechnik Laborpraktikum)",
-												"33093_5": "EAT L/05 (Elektrische Antriebstechnik Laborpraktikum)"
+												"33093_5": "EAT L/05 (Elektrische Antriebstechnik Laborpraktikum)",
+												"33093_6": "EAT L/06 (Elektrische Antriebstechnik Laborpraktikum)"
 											}
 										}
 									},
@@ -7325,6 +7684,7 @@
 														"Methodische Produktentwicklung Laborpraktikum": {
 															"events": {
 																"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+																"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 																"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
 																"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 															}
@@ -7945,6 +8305,7 @@
 																"Methodische Produktentwicklung Laborpraktikum": {
 																	"events": {
 																		"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+																		"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 																		"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
 																		"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 																	}
@@ -8108,6 +8469,7 @@
 														"Methodische Produktentwicklung Laborpraktikum": {
 															"events": {
 																"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+																"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 																"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
 																"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 															}
