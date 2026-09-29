@@ -215,9 +215,7 @@
 										"Elektronik 2 Praktikum": {
 											"events": {
 												"30051_1": "ELP2/01 (Elektronik 2 Praktikum)",
-												"30051_2": "ELP2/02 (Elektronik 2 Praktikum)",
-												"30051_3": "ELP2/03 (Elektronik 2 Praktikum)",
-												"30051_4": "ELP2/04 (Elektronik 2 Praktikum)"
+												"30051_2": "ELP2/02 (Elektronik 2 Praktikum)"
 											}
 										}
 									},
@@ -603,9 +601,16 @@
 						"2. Semester": {
 							"subDirectories": {
 								"M-02-P Mathematik 2": {
+									"subDirectories": {
+										"Mathematik 2": {
+											"events": {
+												"35763_1": "MAE2/01 (Mathematik 2)",
+												"35763_2": "MAE2/02 (Mathematik 2)"
+											}
+										}
+									},
 									"events": {
-										"35781_1": "MA2 (Mathematik 2)",
-										"35763_1": "MAE2 (Mathematik 2)"
+										"35781_1": "MA2 (Mathematik 2)"
 									}
 								},
 								"M-04-P Grundlagen der Elektrotechnik 2": {
@@ -1079,6 +1084,7 @@
 								}
 							},
 							"events": {
+								"44219_1": "PR2 (Fortgeschrittene Programmierung in C)",
 								"44221_1": "PR3 (Objektorientierte Programmierung in der Automatisierungstechnik)"
 							}
 						}
@@ -1089,9 +1095,16 @@
 						"1. Semester": {
 							"subDirectories": {
 								"M-01 Nichtlineare Regelung": {
+									"subDirectories": {
+										"Nichtlineare Regelung Praktikum": {
+											"events": {
+												"29864_1": "NRP/01 (Nichtlineare Regelung Praktikum)",
+												"29864_2": "NRP/02 (Nichtlineare Regelung Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"29898_1": "NR (Nichtlineare Regelung)",
-										"29864_1": "NRP (Nichtlineare Regelung Praktikum)"
+										"29898_1": "NR (Nichtlineare Regelung)"
 									}
 								},
 								"M-03 Embedded Control": {
