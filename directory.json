@@ -297,9 +297,16 @@
 											}
 										},
 										"M-25-P Grundlagen der Energietechnik": {
+											"subDirectories": {
+												"Grundlagen der Energietechnik Praktikum": {
+													"events": {
+														"30031_1": "GEP/01 (Grundlagen der Energietechnik Praktikum)",
+														"30031_2": "GEP/02 (Grundlagen der Energietechnik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30145_1": "GE (Grundlagen der Energietechnik)",
-												"30031_1": "GEP (Grundlagen der Energietechnik Praktikum)"
+												"30145_1": "GE (Grundlagen der Energietechnik)"
 											}
 										}
 									}
@@ -365,9 +372,16 @@
 											}
 										},
 										"M-29-P Antriebe und Leistungselektronik": {
+											"subDirectories": {
+												"Antriebe und Leistungselektronik Praktikum": {
+													"events": {
+														"30035_1": "LEP/01 (Antriebe und Leistungselektronik Praktikum)",
+														"30035_2": "LEP/02 (Antriebe und Leistungselektronik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"29987_1": "LE (Antriebe und Leistungselektronik)",
-												"30035_1": "LEP (Antriebe und Leistungselektronik Praktikum)"
+												"29987_1": "LE (Antriebe und Leistungselektronik)"
 											}
 										},
 										"M-30-P Reglersynthese": {
@@ -789,9 +803,16 @@
 									}
 								},
 								"M-26-P Digitale Übertragungstechnik": {
+									"subDirectories": {
+										"Digitale Übertragungstechnik": {
+											"events": {
+												"35720_1": "DCL/01 (Digitale Übertragungstechnik)",
+												"35720_2": "DCL/02 (Digitale Übertragungstechnik)"
+											}
+										}
+									},
 									"events": {
-										"35769_1": "DC (Digitale Übertragungstechnik)",
-										"35720_1": "DCL (Digitale Übertragungstechnik)"
+										"35769_1": "DC (Digitale Übertragungstechnik)"
 									}
 								}
 							}
@@ -1041,6 +1062,22 @@
 				"Bachelor Elektrotechnik (Automatisierung) (PO WS 2021/22)": {
 					"subDirectories": {
 						"5. Semester": {
+							"subDirectories": {
+								"Leistungselektronik": {
+									"events": {
+										"44214_1": "LEP/01 (Leistungselektronik)",
+										"44214_2": "LEP/02 (Leistungselektronik)",
+										"44214_3": "LEP/03 (Leistungselektronik)"
+									}
+								},
+								"Einführung in die Regelungstechnik": {
+									"events": {
+										"44218_1": "GRP/01 (Einführung in die Regelungstechnik)",
+										"44218_2": "GRP/02 (Einführung in die Regelungstechnik)",
+										"44218_3": "GRP/03 (Einführung in die Regelungstechnik)"
+									}
+								}
+							},
 							"events": {
 								"44221_1": "PR3 (Objektorientierte Programmierung in der Automatisierungstechnik)"
 							}
@@ -4066,6 +4103,7 @@
 										"28112_1": "HBio1 (Humanbiologie 1)",
 										"26906_1": "Biot.FP (Biotechnologisches Fachprojekt an der Fakultät)",
 										"27254_1": "Vpac (Verpackungstechnik)",
+										"27944_1": "TZ (CAD / Technisches Zeichnen)",
 										"27188_1": "LC (Lebensmittelchemie)",
 										"37242_1": "HoH (CCGinteraktiv: House of Health)",
 										"37245_1": "NI (Nachhaltigkeit interdisziplinär)",
@@ -4541,6 +4579,7 @@
 									"events": {
 										"28112_1": "HBio1 (Humanbiologie 1)",
 										"26906_1": "Biot.FP (Biotechnologisches Fachprojekt an der Fakultät)",
+										"27944_1": "TZ (CAD / Technisches Zeichnen)",
 										"27254_1": "Vpac (Verpackungstechnik)",
 										"27188_1": "LC (Lebensmittelchemie)",
 										"37242_1": "HoH (CCGinteraktiv: House of Health)",
@@ -4786,6 +4825,7 @@
 										"27979_1": "DMV (Data Modelling and Visualization)",
 										"35998_1": "CA (Clinical Affairs)",
 										"36000_1": "RGeWe (Recht im Gesundheitswesen)",
+										"27944_1": "TZ (CAD / Technisches Zeichnen)",
 										"37245_1": "NI (Nachhaltigkeit interdisziplinär)",
 										"28402_1": "PersF (Personalführung)",
 										"43138_1": "ESI (Early-Stage Innovation & AI in Life Sciences)",
@@ -4838,6 +4878,7 @@
 										"35998_1": "CA (Clinical Affairs)",
 										"36000_1": "RGeWe (Recht im Gesundheitswesen)",
 										"27221_1": "KCAD P (CAD Praktikum)",
+										"27944_1": "TZ (CAD / Technisches Zeichnen)",
 										"37245_1": "NI (Nachhaltigkeit interdisziplinär)",
 										"28402_1": "PersF (Personalführung)",
 										"43138_1": "ESI (Early-Stage Innovation & AI in Life Sciences)",
@@ -5025,7 +5066,8 @@
 									"events": {
 										"27556_1": "SrE (Systemintegration regenerativer Energien)",
 										"28347_1": "WStoT (Werkstofftechnik)",
-										"27721_1": "FC SL (Fuel Cell Systems and their Applications)"
+										"27721_1": "FC SL (Fuel Cell Systems and their Applications)",
+										"27944_1": "TZ (CAD / Technisches Zeichnen)"
 									}
 								},
 								"M-20 Messtechnik": {
@@ -6530,16 +6572,9 @@
 									}
 								},
 								"M-24-P Automatisierungstechnik 2": {
-									"subDirectories": {
-										"Automatisierungstechnik 2 Laborpraktikum": {
-											"events": {
-												"29428_1": "ATP2/01 (Automatisierungstechnik 2 Laborpraktikum)",
-												"29428_2": "ATP2/02 (Automatisierungstechnik 2 Laborpraktikum)"
-											}
-										}
-									},
 									"events": {
-										"29485_1": "AT2 (Automatisierungstechnik 2)"
+										"29485_1": "AT2 (Automatisierungstechnik 2)",
+										"29428_1": "ATP2 (Automatisierungstechnik 2 Laborpraktikum)"
 									}
 								},
 								"M-25-P Bussysteme": {
@@ -6625,16 +6660,9 @@
 											}
 										},
 										"M-SWP23 Leistungselektronik": {
-											"subDirectories": {
-												"Leistungselektronik Laborpraktikum": {
-													"events": {
-														"29351_1": "LEP/01 (Leistungselektronik Laborpraktikum)",
-														"29351_2": "LEP/02 (Leistungselektronik Laborpraktikum)"
-													}
-												}
-											},
 											"events": {
-												"29412_1": "LE (Leistungselektronik)"
+												"29412_1": "LE (Leistungselektronik)",
+												"29351_1": "LEP (Leistungselektronik Laborpraktikum)"
 											}
 										}
 									}
@@ -7084,10 +7112,8 @@
 												"32791_1": "FTT L/01 (Fertigungstechnik Laborpraktikum)",
 												"32791_2": "FTT L/02 (Fertigungstechnik Laborpraktikum)",
 												"32791_3": "FTT L/03 (Fertigungstechnik Laborpraktikum)",
-												"32791_4": "FTT L/04 (Fertigungstechnik Laborpraktikum)",
 												"32791_5": "FTT L/05 (Fertigungstechnik Laborpraktikum)",
 												"32791_6": "FTT L/06 (Fertigungstechnik Laborpraktikum)",
-												"32791_7": "FTT L/07 (Fertigungstechnik Laborpraktikum)",
 												"32791_9": "FTT L/09 (Fertigungstechnik Laborpraktikum)",
 												"32791_10": "FTT L/10 (Fertigungstechnik Laborpraktikum)",
 												"32791_11": "FTT L/11 (Fertigungstechnik Laborpraktikum)"
@@ -7173,7 +7199,6 @@
 												"32768_1": "STL-1 L/01 (Strömungslehre 1 Laborpraktikum)",
 												"32768_2": "STL-1 L/02 (Strömungslehre 1 Laborpraktikum)",
 												"32768_3": "STL-1 L/03 (Strömungslehre 1 Laborpraktikum)",
-												"32768_4": "STL-1 L/04 (Strömungslehre 1 Laborpraktikum)",
 												"32768_5": "STL-1 L/05 (Strömungslehre 1 Laborpraktikum)",
 												"32768_6": "STL-1 L/06 (Strömungslehre 1 Laborpraktikum)",
 												"32768_7": "STL-1 L/07 (Strömungslehre 1 Laborpraktikum)",
@@ -7208,7 +7233,6 @@
 												"Methodische Produktentwicklung Laborpraktikum": {
 													"events": {
 														"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 														"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
 														"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 													}
@@ -7322,7 +7346,6 @@
 												"Methodische Produktentwicklung Laborpraktikum": {
 													"events": {
 														"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 														"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
 														"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 													}
@@ -7989,7 +8012,6 @@
 														"Methodische Produktentwicklung Laborpraktikum": {
 															"events": {
 																"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-																"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 																"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
 																"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 															}
@@ -8610,7 +8632,6 @@
 																"Methodische Produktentwicklung Laborpraktikum": {
 																	"events": {
 																		"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-																		"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 																		"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
 																		"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 																	}
@@ -8774,7 +8795,6 @@
 														"Methodische Produktentwicklung Laborpraktikum": {
 															"events": {
 																"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-																"33112_2": "MPE L/02 (Methodische Produktentwicklung Laborpraktikum)",
 																"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
 																"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
 															}

@@ -2,9 +2,16 @@
 	{
 		"name": "MP (Mikroprozessortechnik)",
 		"location": "12.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Karl-Ragmar Riemschneider\nTeilnehmer/-innen: ? / 60\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mikroprozessortechnik ^ MP",
+		"description": "Dozent: Prof. Dr.-Ing. Karl-Ragmar Riemschneider\nTeilnehmer/-innen: ? / 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Mikroprozessortechnik ^ MP",
 		"startTime": "2026-10-12T12:10:00",
 		"endTime": "2026-10-12T15:40:00"
+	},
+	{
+		"name": "MP (Mikroprozessortechnik)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Karl-Ragmar Riemschneider\nTeilnehmer/-innen: ? / 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Mikroprozessortechnik ^ MP",
+		"startTime": "2026-10-19T12:10:00",
+		"endTime": "2026-10-19T15:40:00"
 	},
 	{
 		"name": "MP (Mikroprozessortechnik)",
@@ -65,15 +72,8 @@
 	{
 		"name": "MP (Mikroprozessortechnik)",
 		"location": "6.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Karl-Ragmar Riemschneider\nTeilnehmer/-innen: ? / 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Mikroprozessortechnik ^ MP",
+		"description": "Dozent: Prof. Dr.-Ing. Karl-Ragmar Riemschneider\nTeilnehmer/-innen: ? / 60\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mikroprozessortechnik ^ MP",
 		"startTime": "2027-01-14T08:10:00",
 		"endTime": "2027-01-14T11:25:00"
-	},
-	{
-		"name": "MP (Mikroprozessortechnik)",
-		"location": "6.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Karl-Ragmar Riemschneider\nTeilnehmer/-innen: ? / 60\nRhythmus: wöchentlich\n\nOriginaler Titel: Mikroprozessortechnik ^ MP",
-		"startTime": "2027-01-21T08:10:00",
-		"endTime": "2027-01-21T11:25:00"
 	}
 ]
