@@ -967,6 +967,95 @@
 				},
 				"Bachelor Medientechnik (PO WS 2016/17)": {
 					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"M-01 Mathematik 1": {
+									"events": {
+										"22367_1": "MATH1 (Mathematik 1)",
+										"22467_1": "MATH1 Üb (Mathematik 1 Übung)"
+									}
+								},
+								"M-04 Elektrotechnik": {
+									"events": {
+										"22317_1": "ET1 Vor (Elektrotechnik 1)",
+										"22344_1": "ET2 (Elektrotechnik 2)",
+										"22404_1": "ET2 Lab (Elektrotechnik 2 Laborpraktikum)"
+									}
+								}
+							},
+							"events": {
+								"22498_1": "TI Lab (Technische Informatik Laborpraktikum)"
+							}
+						},
+						"2. Semester": {
+							"subDirectories": {
+								"M-06 Mathematik 2": {
+									"events": {
+										"22329_1": "MATH2 (Mathematik 2)",
+										"22489_1": "MATH2 Üb (Mathematik 2 Übung)"
+									}
+								}
+							},
+							"events": {
+								"22408_1": "VID1 (Videotechnik 1)"
+							}
+						},
+						"3. Semester": {
+							"subDirectories": {
+								"M-11 Nachrichtentechnik 1": {
+									"subDirectories": {
+										"Nachrichtentechnik 1": {
+											"events": {
+												"22313_1": "Nat1/01 (Nachrichtentechnik 1)",
+												"22313_2": "Nat1/02 (Nachrichtentechnik 1)"
+											}
+										},
+										"Nachrichtentechnik 1 Praktikum": {
+											"events": {
+												"22503_1": "Nat1-P/01 (Nachrichtentechnik 1 Praktikum)",
+												"22503_2": "Nat1-P/02 (Nachrichtentechnik 1 Praktikum)"
+											}
+										}
+									}
+								},
+								"M-13 Tontechnik 1": {
+									"events": {
+										"22388_1": "TON1 (Tontechnik 1)",
+										"22286_1": "TON1 Lab (Tontechnik 1 Laborpraktikum)"
+									}
+								},
+								"M-14 Videotechnik 2": {
+									"subDirectories": {
+										"Videotechnik 2 Laborpraktikum": {
+											"events": {
+												"22363_1": "VID2 Lab/01 (Videotechnik 2 Laborpraktikum)",
+												"22363_2": "VID2 Lab/02 (Videotechnik 2 Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"22295_1": "VID2 (Videotechnik 2)"
+									}
+								},
+								"M-15 Elektronik": {
+									"subDirectories": {
+										"Elektronik Laborpraktikum": {
+											"events": {
+												"22357_1": "EL Lab/01 (Elektronik Laborpraktikum)",
+												"22357_2": "EL Lab/02 (Elektronik Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"22491_1": "EL (Elektronik)"
+									}
+								}
+							},
+							"events": {
+								"22332_1": "P1 (Programmieren 1)",
+								"22324_1": "SCUT (ShortCut)"
+							}
+						},
 						"4. Semester": {
 							"subDirectories": {
 								"": {
@@ -991,13 +1080,38 @@
 										}
 									},
 									"events": {
+										"22312_1": "VTP (Videotechnik und -produktion)",
+										"22405_1": "FMET (Farbmetrik)",
+										"22382_1": "MOSY (Mobile Systeme)",
+										"22472_1": "STOR (Storage Management)",
 										"22452_1": "RDB (Relationale Datenbanken)",
+										"22327_1": "ATT (Aktuelle Trends und Technologien)",
 										"22414_1": "ASaAI (Adaptive Systems and Artificial Intelligence)",
+										"22482_1": "BST (Beschallungstechnik)",
+										"22364_1": "SMT (Smart Media Technology)",
+										"27862_1": "MINF (Ausgewählte Themen der Medieninformatik)",
 										"22292_1": "MixR (Mixed Reality)",
+										"22289_1": "IaSys (Interaktive Systeme)",
 										"42375_1": "WP LV (Web Programming)",
 										"42343_1": "CI LV (Computational Intelligence)"
 									}
+								},
+								"M-17 Digitale Signalverarbeitung": {
+									"events": {
+										"22506_1": "DSIG (Digitale Signalverarbeitung)",
+										"22355_1": "DSIG Lab (Digitale Signalverarbeitung Laborpraktikum)"
+									}
+								},
+								"M-19 Tontechnik 2": {
+									"events": {
+										"22288_1": "TON2 (Tontechnik 2)",
+										"22485_1": "TON2 Lab (Tontechnik 2 Laborpraktikum)"
+									}
 								}
+							},
+							"events": {
+								"22517_1": "NW (Netzwerke)",
+								"22475_1": "PA (Projekt A)"
 							}
 						},
 						"5. Semester": {
@@ -1024,13 +1138,27 @@
 										}
 									},
 									"events": {
+										"22312_1": "VTP (Videotechnik und -produktion)",
+										"22405_1": "FMET (Farbmetrik)",
+										"22382_1": "MOSY (Mobile Systeme)",
+										"22472_1": "STOR (Storage Management)",
 										"22452_1": "RDB (Relationale Datenbanken)",
+										"22327_1": "ATT (Aktuelle Trends und Technologien)",
 										"22414_1": "ASaAI (Adaptive Systems and Artificial Intelligence)",
+										"22482_1": "BST (Beschallungstechnik)",
+										"22364_1": "SMT (Smart Media Technology)",
+										"27862_1": "MINF (Ausgewählte Themen der Medieninformatik)",
 										"22292_1": "MixR (Mixed Reality)",
+										"22289_1": "IaSys (Interaktive Systeme)",
 										"42375_1": "WP LV (Web Programming)",
 										"42343_1": "CI LV (Computational Intelligence)"
 									}
 								}
+							},
+							"events": {
+								"22402_1": "ITS (IT-Systeme)",
+								"22353_1": "NT2 (Nachrichtentechnik/Telekommunikation)",
+								"22345_1": "MR (Medienrecht)"
 							}
 						},
 						"6. Semester": {
@@ -1057,13 +1185,25 @@
 										}
 									},
 									"events": {
+										"22312_1": "VTP (Videotechnik und -produktion)",
+										"22405_1": "FMET (Farbmetrik)",
+										"22382_1": "MOSY (Mobile Systeme)",
+										"22472_1": "STOR (Storage Management)",
 										"22452_1": "RDB (Relationale Datenbanken)",
+										"22327_1": "ATT (Aktuelle Trends und Technologien)",
 										"22414_1": "ASaAI (Adaptive Systems and Artificial Intelligence)",
+										"22482_1": "BST (Beschallungstechnik)",
+										"22364_1": "SMT (Smart Media Technology)",
+										"27862_1": "MINF (Ausgewählte Themen der Medieninformatik)",
 										"22292_1": "MixR (Mixed Reality)",
+										"22289_1": "IaSys (Interaktive Systeme)",
 										"42375_1": "WP LV (Web Programming)",
 										"42343_1": "CI LV (Computational Intelligence)"
 									}
 								}
+							},
+							"events": {
+								"22379_1": "BWL (Betriebswirtschaftslehre)"
 							}
 						}
 					}
@@ -1356,7 +1496,21 @@
 						}
 					}
 				},
-				"Master Zeitabhängige Medien / Sound Vision (PO SoSe 2025)": {}
+				"Master Zeitabhängige Medien / Sound Vision (PO SoSe 2025)": {
+					"subDirectories": {
+						"1. Semester": {
+							"events": {
+								"24971_1": "KWA (Künstlerisches / Wissenschaftliches Arbeiten)",
+								"24938_1": "AK Akustik (Ausgewählte Kapitel Akustik)"
+							}
+						},
+						"3. Semester": {
+							"events": {
+								"24955_1": "Fo Sem (Forschungsseminar)"
+							}
+						}
+					}
+				}
 			}
 		},
 		"Fakultät Gesundheit": {
@@ -6778,6 +6932,44 @@
 			"subDirectories": {
 				"Bachelor E-Government (PO WS 2023/24)": {
 					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"M-01 Grundlagen des E-Governments und der Informatik": {
+									"events": {
+										"25047_1": "PM1 U1 (Unit 1: Einführung E-Government und strategisches Management)",
+										"25116_1": "PM1 U2 (Unit 2: Grundlagen der Informatik)"
+									}
+								},
+								"M-02 Mathematik und Programmierung 1": {
+									"events": {
+										"25069_1": "PM2 U1 (Unit 1: Mathematische Grundlagen)",
+										"25140_1": "PM2 U2 (Unit 2: Statistik und Wahrscheinlichkeitsrechnung)"
+									}
+								},
+								"M-03 Sozialwissenschaftliche Schlüsselkompetenzen, Dienstleistungs- und Projektmanagement": {
+									"events": {
+										"25048_1": "PM3 U1 (Unit 1: Sozialwissenschaftliche Schlüsselkompetenzen)",
+										"25024_1": "PM3 U2 (Unit 2: Projektmanagement)",
+										"25137_1": "PM3 U3 (Unit 3: Service Management und agile Methoden)"
+									}
+								},
+								"M-04 Rechtliche Grundlagen": {
+									"events": {
+										"25135_1": "PM4 U1 (Unit 1: Rechtsmethodik)",
+										"25106_1": "PM4 U2 (Unit 2: Verfassungs- und europarechtliche Grundlagen des Verwaltungshandelns)"
+									}
+								},
+								"M-05 Grundlagen staatlichen Entscheidens und Handelns": {
+									"events": {
+										"25076_1": "PM5 U1 (Unit 1: Grundlagen der Volkswirtschaftslehre und Digitalwirtschaft I)",
+										"25144_1": "PM5 U2 (Unit 2: Verwaltungsverfahren und Verwaltungshandeln I)"
+									}
+								}
+							},
+							"events": {
+								"25073_1": "PM6 U1 (Unit 1: Grundlagen der Kommunikationspsychologie)"
+							}
+						},
 						"3. Semester": {
 							"subDirectories": {
 								"M-09 Programmierung 2": {
@@ -6930,6 +7122,25 @@
 				"Bachelor Internationale Wirtschaft und Außenhandel (PO WS 2013/14)": {},
 				"Bachelor Public Management (PO WS 2022/23)": {
 					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"M-09 Wahlpflichtmodul I": {
+									"events": {
+										"18614_1": "WM9 R (Einführung in das Datenschutzrecht)",
+										"18621_1": "WM9 Allg (Rassismus)",
+										"18637_1": "WM9 R (Jugenddelinquenz und Verwaltung)",
+										"24920_1": "WM9 R (Einführung in das Völkerrecht)",
+										"37264_1": "WM9 Allg (Verhaltensökonomie)",
+										"43631_1": "WM9 R (Einführung in das Bildungsrecht)",
+										"43632_1": "WM9 R (Einführung in das SGB II (Bürgergeld))",
+										"46758_1": "WM9 Allg (Sicherer und privatsphäreschonender Umgang mit Daten in der digitalen Verwaltung)",
+										"46759_1": "WM9 Allg (Gesundheitspolitik)",
+										"46760_1": "WM9 Allg (Grundlagen des Diversity Management)",
+										"46761_1": "WM9 Allg (Methoden der Verwaltungsdigitalisierung)"
+									}
+								}
+							}
+						},
 						"3. Semester": {
 							"subDirectories": {
 								"Unit 2: Theorie-Praxis-Reflexion": {
