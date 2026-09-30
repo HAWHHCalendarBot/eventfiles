@@ -742,9 +742,16 @@
 									}
 								},
 								"M-18-P Software Engineering": {
+									"subDirectories": {
+										"Software Engineering": {
+											"events": {
+												"35783_1": "SEL/01 (Software Engineering)",
+												"35783_2": "SEL/02 (Software Engineering)"
+											}
+										}
+									},
 									"events": {
-										"35652_1": "SE (Software Engineering)",
-										"35783_1": "SEL (Software Engineering)"
+										"35652_1": "SE (Software Engineering)"
 									}
 								},
 								"M-19-P Datenbanken": {
