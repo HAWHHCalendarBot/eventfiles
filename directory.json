@@ -557,11 +557,15 @@
 										"35676_1": "MAE1 (Mathematik 1)"
 									}
 								},
-								"Grundlagen der Elektrotechnik 1": {
-									"events": {
-										"35744_1": "EEL1/01 (Grundlagen der Elektrotechnik 1)",
-										"35744_2": "EEL1/02 (Grundlagen der Elektrotechnik 1)",
-										"35744_3": "EEL1/03 (Grundlagen der Elektrotechnik 1)"
+								"M-03-P Grundlagen der Elektrotechnik 1": {
+									"subDirectories": {
+										"Grundlagen der Elektrotechnik 1": {
+											"events": {
+												"35744_1": "EEL1/01 (Grundlagen der Elektrotechnik 1)",
+												"35744_2": "EEL1/02 (Grundlagen der Elektrotechnik 1)",
+												"35744_3": "EEL1/03 (Grundlagen der Elektrotechnik 1)"
+											}
+										}
 									}
 								},
 								"M-06 Programmieren 1": {
