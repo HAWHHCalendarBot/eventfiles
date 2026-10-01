@@ -2665,7 +2665,6 @@
 										"Programmiermethodik II Praktikum": {
 											"events": {
 												"31024_1": "PMP2/01 (Programmiermethodik II Praktikum)",
-												"31024_2": "PMP2/02 (Programmiermethodik II Praktikum)",
 												"31024_3": "PMP2/03 (Programmiermethodik II Praktikum)",
 												"31024_4": "PMP2/04 (Programmiermethodik II Praktikum)"
 											}
@@ -3070,7 +3069,6 @@
 										"Programmiermethodik II Praktikum": {
 											"events": {
 												"31024_1": "PMP2/01 (Programmiermethodik II Praktikum)",
-												"31024_2": "PMP2/02 (Programmiermethodik II Praktikum)",
 												"31024_3": "PMP2/03 (Programmiermethodik II Praktikum)",
 												"31024_4": "PMP2/04 (Programmiermethodik II Praktikum)"
 											}
@@ -7153,6 +7151,105 @@
 										"18059_3": "PM11/03 (Studienprojekt)",
 										"18059_4": "PM11/04 (Studienprojekt)",
 										"18059_5": "PM11/05 (Studienprojekt)"
+									}
+								}
+							}
+						},
+						"4. Semester": {
+							"subDirectories": {
+								"M-15 Informations- und Prozessmanagement": {
+									"subDirectories": {
+										"Unit 2: IT-Aspekte der Digitalisierung I": {
+											"events": {
+												"18013_1": "PM15 U2/01 (Unit 2: IT-Aspekte der Digitalisierung I)",
+												"18013_2": "PM15 U2/02 (Unit 2: IT-Aspekte der Digitalisierung I)",
+												"18013_3": "PM15 U2/03 (Unit 2: IT-Aspekte der Digitalisierung I)",
+												"18013_4": "PM15 U2/04 (Unit 2: IT-Aspekte der Digitalisierung I)",
+												"18013_5": "PM15 U2/05 (Unit 2: IT-Aspekte der Digitalisierung I)"
+											}
+										},
+										"Unit 3: Prozessmanagement": {
+											"events": {
+												"18150_1": "PM15 U3/01 (Unit 3: Prozessmanagement)",
+												"18150_2": "PM15 U3/02 (Unit 3: Prozessmanagement)",
+												"18150_3": "PM15 U3/03 (Unit 3: Prozessmanagement)",
+												"18150_4": "PM15 U3/04 (Unit 3: Prozessmanagement)",
+												"18150_5": "PM15 U3/05 (Unit 3: Prozessmanagement)"
+											}
+										}
+									}
+								},
+								"M-16 Vertiefung im Verwaltungsrecht": {
+									"subDirectories": {
+										"Unit 3: Allgemeines Verwaltungsrecht IV": {
+											"events": {
+												"18168_1": "PM16 U3/01 (Unit 3: Allgemeines Verwaltungsrecht IV)",
+												"18168_2": "PM16 U3/02 (Unit 3: Allgemeines Verwaltungsrecht IV)",
+												"18168_3": "PM16 U3/03 (Unit 3: Allgemeines Verwaltungsrecht IV)",
+												"18168_4": "PM16 U3/04 (Unit 3: Allgemeines Verwaltungsrecht IV)",
+												"18168_5": "PM16 U3/05 (Unit 3: Allgemeines Verwaltungsrecht IV)"
+											}
+										},
+										"Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht": {
+											"events": {
+												"18110_1": "PM16 U4/01 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
+												"18110_2": "PM16 U4/02 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
+												"18110_3": "PM16 U4/03 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
+												"18110_4": "PM16 U4/04 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)",
+												"18110_5": "PM16 U4/05 (Unit 4: Besonderes Verwaltungsrecht II/Wirtschaftsverwaltungsrecht)"
+											}
+										}
+									}
+								}
+							}
+						},
+						"5. Semester": {
+							"subDirectories": {
+								"": {
+									"subDirectories": {
+										"M-19S Beraten, Unterstützen, Fördern und Fordern": {
+											"events": {
+												"18048_1": "PM 19 U1 S (Unit 1: Sozialrecht)",
+												"18039_1": "PM 19 U2 S (Unit 2: Menschen in schwierigen Lebenssituationen)"
+											}
+										},
+										"M-20S Sozialökonomische Verteilung und Informationelle Teilhabe": {
+											"events": {
+												"18034_1": "PM20 U2 S (Unit 2: Soziale Ungleichheit und Stadtstruktur)",
+												"18022_1": "PM20 U3 S (Unit 3: Diversität im Netz)"
+											}
+										}
+									}
+								},
+								"M-17 Organisation und Innovation": {
+									"subDirectories": {
+										"Unit 1: Gestaltung organisatorischer Strukturen": {
+											"events": {
+												"18151_1": "PM17 U1/01 (Unit 1: Gestaltung organisatorischer Strukturen)",
+												"18151_2": "PM17 U1/02 (Unit 1: Gestaltung organisatorischer Strukturen)",
+												"18151_3": "PM17 U1/03 (Unit 1: Gestaltung organisatorischer Strukturen)",
+												"18151_4": "PM17 U1/04 (Unit 1: Gestaltung organisatorischer Strukturen)",
+												"18151_5": "PM17 U1/05 (Unit 1: Gestaltung organisatorischer Strukturen)"
+											}
+										},
+										"Unit 2: Veränderungs- und Innovationsmanagement": {
+											"events": {
+												"18098_1": "PM17 U2/01 (Unit 2: Veränderungs- und Innovationsmanagement)",
+												"18098_2": "PM17 U2/02 (Unit 2: Veränderungs- und Innovationsmanagement)",
+												"18098_3": "PM17 U2/03 (Unit 2: Veränderungs- und Innovationsmanagement)",
+												"18098_4": "PM17 U2/04 (Unit 2: Veränderungs- und Innovationsmanagement)",
+												"18098_5": "PM17 U2/05 (Unit 2: Veränderungs- und Innovationsmanagement)"
+											}
+										},
+										"Unit 3: Organisationstheorien und Innovation sozialer Systeme": {
+											"events": {
+												"18008_1": "PM17 U3/01 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
+												"18008_2": "PM17 U3/02 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
+												"18008_3": "PM17 U3/03 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
+												"18008_4": "PM17 U3/04 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)",
+												"18008_5": "PM17 U3/05 (Unit 3: Organisationstheorien und Innovation sozialer Systeme)"
+											}
+										}
 									}
 								}
 							}
