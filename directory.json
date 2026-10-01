@@ -1218,22 +1218,6 @@
 				"Bachelor Elektrotechnik (Automatisierung) (PO WS 2021/22)": {
 					"subDirectories": {
 						"5. Semester": {
-							"subDirectories": {
-								"Leistungselektronik": {
-									"events": {
-										"44214_1": "LEP/01 (Leistungselektronik)",
-										"44214_2": "LEP/02 (Leistungselektronik)",
-										"44214_3": "LEP/03 (Leistungselektronik)"
-									}
-								},
-								"Einführung in die Regelungstechnik": {
-									"events": {
-										"44218_1": "GRP/01 (Einführung in die Regelungstechnik)",
-										"44218_2": "GRP/02 (Einführung in die Regelungstechnik)",
-										"44218_3": "GRP/03 (Einführung in die Regelungstechnik)"
-									}
-								}
-							},
 							"events": {
 								"44219_1": "PR2 (Fortgeschrittene Programmierung in C)",
 								"44221_1": "PR3 (Objektorientierte Programmierung in der Automatisierungstechnik)"
