@@ -2010,9 +2010,251 @@
 						}
 					}
 				},
-				"Bachelor Hebammenwissenschaft (PO WS 2022/23)": {},
-				"Bachelor Interdisziplinäre Gesundheitsversorgung und Management (PO WS 2015/16)": {},
-				"Bachelor Pflege (PO WS 2020/21)": {},
+				"Bachelor Hebammenwissenschaft (PO WS 2022/23)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"M-02 Hebammenhandeln entlang des Betreuungsbogens": {
+									"subDirectories": {
+										"Hebammenhandeln entlang des Betreuungsbogens": {
+											"events": {
+												"20063_1": "M2.2 LV/01 (Hebammenhandeln entlang des Betreuungsbogens)",
+												"20063_2": "M2.2 LV/02 (Hebammenhandeln entlang des Betreuungsbogens)",
+												"20063_3": "M2.2 LV/03 (Hebammenhandeln entlang des Betreuungsbogens)",
+												"20063_4": "M2.2 LV/04 (Hebammenhandeln entlang des Betreuungsbogens)",
+												"20063_5": "M2.2 LV/05 (Hebammenhandeln entlang des Betreuungsbogens)",
+												"20063_6": "M2.2 LV/06 (Hebammenhandeln entlang des Betreuungsbogens)"
+											}
+										}
+									}
+								},
+								"M-03 Einführung in das wissenschaftliche Arbeiten und E-Portfolioarbeit": {
+									"subDirectories": {
+										"Einführung in das wissenschaftliche Arbeiten": {
+											"events": {
+												"20131_1": "M3.1 LV/01 (Einführung in das wissenschaftliche Arbeiten)",
+												"20131_2": "M3.1 LV/02 (Einführung in das wissenschaftliche Arbeiten)",
+												"20131_3": "M3.1 LV/03 (Einführung in das wissenschaftliche Arbeiten)"
+											}
+										},
+										"Einführung in das wissenschaftliche Arbeiten und E-Portfolioarbeit": {
+											"events": {
+												"20133_1": "M3.2 LV/01 (Einführung in das wissenschaftliche Arbeiten und E-Portfolioarbeit)",
+												"20133_2": "M3.2 LV/02 (Einführung in das wissenschaftliche Arbeiten und E-Portfolioarbeit)",
+												"20133_3": "M3.2 LV/03 (Einführung in das wissenschaftliche Arbeiten und E-Portfolioarbeit)",
+												"20133_4": "M3.2 LV/04 (Einführung in das wissenschaftliche Arbeiten und E-Portfolioarbeit)",
+												"20133_5": "M3.2 LV/05 (Einführung in das wissenschaftliche Arbeiten und E-Portfolioarbeit)",
+												"20133_6": "M3.2 LV/06 (Einführung in das wissenschaftliche Arbeiten und E-Portfolioarbeit)",
+												"20133_7": "M3.2 LV/07 (Einführung in das wissenschaftliche Arbeiten und E-Portfolioarbeit)",
+												"20133_8": "M3.2 LV/08 (Einführung in das wissenschaftliche Arbeiten und E-Portfolioarbeit)"
+											}
+										}
+									}
+								}
+							}
+						},
+						"3. Semester": {
+							"subDirectories": {
+								"M-10 Evidenzbasiertes Hebammenhandeln und fallbezogene Praxisreflexion": {
+									"subDirectories": {
+										"Evidenzbasiertes Hebammenhandeln und fallbezogene Praxisreflexion": {
+											"events": {
+												"20113_1": "M10.2 LV/01 (Evidenzbasiertes Hebammenhandeln und fallbezogene Praxisreflexion)",
+												"20113_2": "M10.2 LV/02 (Evidenzbasiertes Hebammenhandeln und fallbezogene Praxisreflexion)",
+												"20113_3": "M10.2 LV/03 (Evidenzbasiertes Hebammenhandeln und fallbezogene Praxisreflexion)",
+												"20113_4": "M10.2 LV/04 (Evidenzbasiertes Hebammenhandeln und fallbezogene Praxisreflexion)",
+												"20113_5": "M10.2 LV/05 (Evidenzbasiertes Hebammenhandeln und fallbezogene Praxisreflexion)",
+												"20113_6": "M10.2 LV/06 (Evidenzbasiertes Hebammenhandeln und fallbezogene Praxisreflexion)",
+												"20113_7": "M10.2 LV/07 (Evidenzbasiertes Hebammenhandeln und fallbezogene Praxisreflexion)",
+												"20113_8": "M10.2 LV/08 (Evidenzbasiertes Hebammenhandeln und fallbezogene Praxisreflexion)"
+											}
+										}
+									}
+								}
+							}
+						},
+						"5. Semester": {
+							"subDirectories": {
+								"M-15 Wahlpflicht": {
+									"subDirectories": {
+										"Entwicklungspsychologie im ersten Lebensjahr": {
+											"events": {
+												"34121_1": "M15 LV/01 (Entwicklungspsychologie im ersten Lebensjahr)",
+												"34121_2": "M15 LV/02 (Entwicklungspsychologie im ersten Lebensjahr)"
+											}
+										},
+										"Das Spürwissen der Hebamme: Leibliches Erleben von Schwangerschaft, Geburt und Wochenbett": {
+											"events": {
+												"47116_1": "M15 LV/01 (Das Spürwissen der Hebamme: Leibliches Erleben von Schwangerschaft, Geburt und Wochenbett)",
+												"47116_2": "M15 LV/02 (Das Spürwissen der Hebamme: Leibliches Erleben von Schwangerschaft, Geburt und Wochenbett)"
+											}
+										}
+									},
+									"events": {
+										"20068_1": "M15 LV (Kreatives Schreiben als Geburtsvorbereitung)",
+										"47115_1": "M15 LV (Hebammen an Schulen)"
+									}
+								}
+							},
+							"events": {
+								"20076_1": "M16 LV (Gesundheitssystem und -politik)"
+							}
+						}
+					}
+				},
+				"Bachelor Interdisziplinäre Gesundheitsversorgung und Management (PO WS 2015/16)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"M-01 Gesundheitsberufe als Wissenschaftsdisziplin": {
+									"events": {
+										"20477_1": "M1 LV1 (Gesundheitsberufe als Wissenschaftsdisziplin)",
+										"20524_1": "M1 LV2 (Gesundheitsberufe als Wissenschaftsdisziplin)"
+									}
+								}
+							},
+							"events": {
+								"20613_1": "M2 LV (Public Health)",
+								"20491_1": "M3 LV1 (Interdisziplinäre Kommunikation und Teamorientierung)",
+								"20509_1": "M5 LV (Einführung in die BWL)"
+							}
+						},
+						"2. Semester": {
+							"events": {
+								"20489_1": "M8 LV1 (Reflexion und Fallverstehen)",
+								"20567_1": "M9 LV1 (Beratung, Kommunikation und Entscheidungsfindung)"
+							}
+						},
+						"3. Semester": {
+							"events": {
+								"20494_1": "M12 LV (Personalmanagement)",
+								"20475_1": "M13 LV (Forschungsmethoden)",
+								"20536_1": "M15 LV (Gesundheitspolitik und -systeme)",
+								"20601_1": "M14 LV (Chronische Erkrankung und Multimorbidität)"
+							}
+						},
+						"5. Semester": {
+							"subDirectories": {
+								"Fachprojekt": {
+									"events": {
+										"20483_1": "M21 LV/01 (Fachprojekt)",
+										"20483_2": "M21 LV/02 (Fachprojekt)",
+										"20483_3": "M21 LV/03 (Fachprojekt)",
+										"20483_4": "M21 LV/04 (Fachprojekt)",
+										"20483_5": "M21 LV/05 (Fachprojekt)"
+									}
+								}
+							},
+							"events": {
+								"20530_1": "M17 LV (Evidenzbasierung und Risikokommunikation)",
+								"20484_1": "M18 LV (Assessment, Intervention und Evaluation)",
+								"20508_1": "M19 LV (Gesundheitsförderung und Prävention)",
+								"20519_1": "M20 LV (Interdisziplinäre Versorgungskonzepte)"
+							}
+						}
+					}
+				},
+				"Bachelor Pflege (PO WS 2020/21)": {
+					"subDirectories": {
+						"3. Semester": {
+							"subDirectories": {
+								"Gesundheitsförderung und Prävention": {
+									"events": {
+										"20426_1": "M3.1 LV/01 (Gesundheitsförderung und Prävention)",
+										"20426_2": "M3.1 LV/02 (Gesundheitsförderung und Prävention)"
+									}
+								},
+								"M-3.2 In spezifischen Pflegesituationen mit Menschen in Beziehung treten und kommunizieren": {
+									"subDirectories": {
+										"In spezifischen Pflegesituationen mit Menschen in Beziehung treten und kommunizieren": {
+											"events": {
+												"20381_1": "M3.2 LV2/01 (In spezifischen Pflegesituationen mit Menschen in Beziehung treten und kommunizieren)",
+												"20381_2": "M3.2 LV2/02 (In spezifischen Pflegesituationen mit Menschen in Beziehung treten und kommunizieren)",
+												"20381_3": "M3.2 LV2/03 (In spezifischen Pflegesituationen mit Menschen in Beziehung treten und kommunizieren)",
+												"20381_4": "M3.2 LV2/04 (In spezifischen Pflegesituationen mit Menschen in Beziehung treten und kommunizieren)",
+												"20381_5": "M3.2 LV2/05 (In spezifischen Pflegesituationen mit Menschen in Beziehung treten und kommunizieren)",
+												"20381_6": "M3.2 LV2/06 (In spezifischen Pflegesituationen mit Menschen in Beziehung treten und kommunizieren)"
+											}
+										}
+									}
+								},
+								"M-3.3 Pflegerische Diagnostik": {
+									"subDirectories": {
+										"Pflegerische Diagnostik": {
+											"events": {
+												"20415_1": "M3.3 LV2/01 (Pflegerische Diagnostik)",
+												"20415_2": "M3.3 LV2/02 (Pflegerische Diagnostik)",
+												"20415_3": "M3.3 LV2/03 (Pflegerische Diagnostik)",
+												"20415_4": "M3.3 LV2/04 (Pflegerische Diagnostik)"
+											}
+										}
+									}
+								},
+								"M-3.4 Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über Lebensphasen pflegen": {
+									"subDirectories": {
+										"Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen": {
+											"events": {
+												"20376_1": "M3.4 LV3/01 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)",
+												"20376_2": "M3.4 LV3/02 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)",
+												"20376_3": "M3.4 LV3/03 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)",
+												"20376_4": "M3.4 LV3/04 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)",
+												"20376_5": "M3.4 LV3/05 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)",
+												"20376_6": "M3.4 LV3/06 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)",
+												"20376_7": "M3.4 LV3/07 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)",
+												"20376_8": "M3.4 LV3/08 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)",
+												"20376_9": "M3.4 LV3/09 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)",
+												"20376_10": "M3.4 LV3/10 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)",
+												"20376_11": "M3.4 LV3/11 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)",
+												"20376_12": "M3.4 LV3/12 (Schwangere, Wöchnerinnen, Kinder und Jugendliche in ihrer Entwicklung unterstützen und über die Lebensphasen pflegen)"
+											}
+										}
+									}
+								},
+								"Reflexion und Fallverstehen": {
+									"events": {
+										"20337_1": "M3.5 LV1/01 (Reflexion und Fallverstehen)",
+										"20337_2": "M3.5 LV1/02 (Reflexion und Fallverstehen)",
+										"20337_3": "M3.5 LV1/03 (Reflexion und Fallverstehen)",
+										"20337_4": "M3.5 LV1/04 (Reflexion und Fallverstehen)"
+									}
+								},
+								"M-3.6 Pflegerisches Handeln in komplexen Pflegesituationen": {
+									"subDirectories": {
+										"Pflegerisches Handeln in komplexen Pflegesituationen": {
+											"events": {
+												"20433_1": "M3.6 LV2a/01 (Pflegerisches Handeln in komplexen Pflegesituationen)",
+												"20433_2": "M3.6 LV2a/02 (Pflegerisches Handeln in komplexen Pflegesituationen)",
+												"20433_3": "M3.6 LV2a/03 (Pflegerisches Handeln in komplexen Pflegesituationen)",
+												"20433_4": "M3.6 LV2a/04 (Pflegerisches Handeln in komplexen Pflegesituationen)",
+												"20433_5": "M3.6 LV2a/05 (Pflegerisches Handeln in komplexen Pflegesituationen)",
+												"20433_6": "M3.6 LV2a/06 (Pflegerisches Handeln in komplexen Pflegesituationen)"
+											}
+										}
+									}
+								}
+							}
+						},
+						"5. Semester": {
+							"subDirectories": {
+								"M-5.1 Praktikum IV - Lebenswelt älterer und lebenslimitiert erkrankter Menschen": {
+									"events": {
+										"20440_1": "M5.1 LV1 (Palliativseminar)",
+										"20388_1": "M5.1 LV2 (Lernbegleitung in der Lebenswelt ältere und lebenslimitiert erkrankter Menschen)"
+									}
+								},
+								"Anwendung pflegerischer Maßnahmen für das gesunde wie auch kranke Kind unter Einbezug deren Bezugspersonen (OSCE)": {
+									"events": {
+										"20358_1": "M5.2 LV1/01 (Anwendung pflegerischer Maßnahmen für das gesunde wie auch kranke Kind unter Einbezug deren Bezugspersonen (OSCE))",
+										"20358_2": "M5.2 LV1/02 (Anwendung pflegerischer Maßnahmen für das gesunde wie auch kranke Kind unter Einbezug deren Bezugspersonen (OSCE))"
+									}
+								}
+							},
+							"events": {
+								"20454_1": "M5.3 LV1 (Berlinexkursion)"
+							}
+						}
+					}
+				},
 				"Master Health Sciences (PO WS 2023/24)": {
 					"subDirectories": {
 						"1. Semester": {
@@ -2062,8 +2304,55 @@
 						}
 					}
 				},
-				"Master Pflege (PO WS 2020/21)": {},
-				"Master Sozial- und Gesundheitsmanagement (PO WS 2020/21)": {},
+				"Master Pflege (PO WS 2020/21)": {
+					"subDirectories": {
+						"1. Semester": {
+							"subDirectories": {
+								"Pflegerischer Versorgungsprozess mit Assessment, Intervention und Evaluation": {
+									"events": {
+										"20302_1": "KlEf/01 (Pflegerischer Versorgungsprozess mit Assessment, Intervention und Evaluation)",
+										"20302_2": "KlEf/02 (Pflegerischer Versorgungsprozess mit Assessment, Intervention und Evaluation)",
+										"20302_3": "KlEf/03 (Pflegerischer Versorgungsprozess mit Assessment, Intervention und Evaluation)"
+									}
+								}
+							},
+							"events": {
+								"20297_1": "DisKoll (Reflexion wissenschaftlicher Lernmethoden)",
+								"20298_1": "Pfwissfo (Erkenntnistheorien in der Pflege Methodologie)",
+								"20317_1": "GesSysPol (Versorgungs- und Finanzierungssysteme im Vergleich)"
+							}
+						}
+					}
+				},
+				"Master Sozial- und Gesundheitsmanagement (PO WS 2020/21)": {
+					"subDirectories": {
+						"1. Semester": {
+							"events": {
+								"45659_1": "WuI (Wissenschaft und Innovation)"
+							}
+						},
+						"3. Semester": {
+							"subDirectories": {
+								"M-06 Change Management": {
+									"events": {
+										"20172_1": "ChMan (Change Management)",
+										"37283_1": "PrMan (Change und Projektmanagement)"
+									}
+								}
+							},
+							"events": {
+								"20157_1": "GSÖP (Gesundheits-/Sozialökonomie und -politik)",
+								"20225_1": "StrA (Strategische Ausrichtung)",
+								"20168_1": "FoWe (Forschungswerkstatt)"
+							}
+						},
+						"4. Semester": {
+							"events": {
+								"20188_1": "MA We (Master-Werkstatt)"
+							}
+						}
+					}
+				},
 				"Master Public Health (PO SoSe 2021)": {
 					"subDirectories": {
 						"1. Semester": {
