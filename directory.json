@@ -10765,6 +10765,15 @@
 										"25926_6": "InFA/06 (Interdisziplinäre Fallarbeit: Multiperspektivische Fallbearbeitung)"
 									}
 								},
+								"M-24 Wahlpflichtbereich Recht": {
+									"events": {
+										"25973_1": "WP (2 SWS) (Menschenrechte und Soziale Arbeit)",
+										"25918_1": "WP (2 SWS) (Einführung ins (humanitäre) Migrationsrecht)",
+										"36691_1": "WP (2 SWS) (Datenschutz und Schweigepflicht im Hilfesystem)",
+										"37262_1": "WP (4 SWS) (Bürgerliches Recht in der Sozialen Arbeit)",
+										"43122_1": "WP (2 SWS) (Antidiskriminierungsrecht)"
+									}
+								},
 								"M-25 Vertiefungs- und Wahlpflichtbereich II": {
 									"events": {
 										"25723_1": "WP (2 SWS) (Alternative Bildungskonzepte in der Praxis – ein Beitrag zur Projektwoche)",
@@ -10796,9 +10805,6 @@
 										"25817_10": "BA-W/10 (Bachelorwerkstatt II)"
 									}
 								}
-							},
-							"events": {
-								"37262_1": "WP (4 SWS) (Bürgerliches Recht in der Sozialen Arbeit)"
 							}
 						}
 					}
