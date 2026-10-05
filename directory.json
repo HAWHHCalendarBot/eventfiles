@@ -124,7 +124,8 @@
 										"Analysis 2 Übung": {
 											"events": {
 												"30093_1": "ANÜ2/01 (Analysis 2 Übung)",
-												"30093_2": "ANÜ2/02 (Analysis 2 Übung)"
+												"30093_2": "ANÜ2/02 (Analysis 2 Übung)",
+												"30093_3": "ANÜ2/03 (Analysis 2 Übung)"
 											}
 										}
 									},
@@ -168,7 +169,8 @@
 											"events": {
 												"30034_1": "PRP2/01 (Programmieren 2 Praktikum)",
 												"30034_2": "PRP2/02 (Programmieren 2 Praktikum)",
-												"30034_3": "PRP2/03 (Programmieren 2 Praktikum)"
+												"30034_3": "PRP2/03 (Programmieren 2 Praktikum)",
+												"30034_4": "PRP2/04 (Programmieren 2 Praktikum)"
 											}
 										}
 									},
@@ -215,7 +217,8 @@
 										"Elektronik 2 Praktikum": {
 											"events": {
 												"30051_1": "ELP2/01 (Elektronik 2 Praktikum)",
-												"30051_2": "ELP2/02 (Elektronik 2 Praktikum)"
+												"30051_2": "ELP2/02 (Elektronik 2 Praktikum)",
+												"30051_4": "ELP2/04 (Elektronik 2 Praktikum)"
 											}
 										}
 									},
@@ -271,9 +274,16 @@
 											}
 										},
 										"M-26-P Elektronik 3": {
+											"subDirectories": {
+												"Elektronik 3 Praktikum": {
+													"events": {
+														"30105_1": "ELP3/01 (Elektronik 3 Praktikum)",
+														"30105_2": "ELP3/02 (Elektronik 3 Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"29972_1": "EL3 (Elektronik 3)",
-												"30105_1": "ELP3 (Elektronik 3 Praktikum)"
+												"29972_1": "EL3 (Elektronik 3)"
 											}
 										}
 									}
@@ -299,7 +309,8 @@
 												"Grundlagen der Energietechnik Praktikum": {
 													"events": {
 														"30031_1": "GEP/01 (Grundlagen der Energietechnik Praktikum)",
-														"30031_2": "GEP/02 (Grundlagen der Energietechnik Praktikum)"
+														"30031_2": "GEP/02 (Grundlagen der Energietechnik Praktikum)",
+														"30031_3": "GEP/03 (Grundlagen der Energietechnik Praktikum)"
 													}
 												}
 											},
@@ -328,7 +339,8 @@
 											"events": {
 												"30103_1": "MPP/01 (Mikroprozessortechnik Praktikum)",
 												"30103_2": "MPP/02 (Mikroprozessortechnik Praktikum)",
-												"30103_3": "MPP/03 (Mikroprozessortechnik Praktikum)"
+												"30103_3": "MPP/03 (Mikroprozessortechnik Praktikum)",
+												"30103_4": "MPP/04 (Mikroprozessortechnik Praktikum)"
 											}
 										}
 									},
@@ -667,9 +679,16 @@
 						"3. Semester": {
 							"subDirectories": {
 								"M-11-P Signale und Systeme 1": {
+									"subDirectories": {
+										"Signale und Systeme 1": {
+											"events": {
+												"35750_1": "SSL1/01 (Signale und Systeme 1)",
+												"35750_2": "SSL1/02 (Signale und Systeme 1)"
+											}
+										}
+									},
 									"events": {
-										"35719_1": "SS1 (Signale und Systeme 1)",
-										"35750_1": "SSL1 (Signale und Systeme 1)"
+										"35719_1": "SS1 (Signale und Systeme 1)"
 									}
 								},
 								"M-13-P Elektronik 2": {
@@ -687,9 +706,16 @@
 									}
 								},
 								"M-14-P Digitaltechnik": {
+									"subDirectories": {
+										"Digitaltechnik": {
+											"events": {
+												"35647_1": "DIL/01 (Digitaltechnik)",
+												"35647_2": "DIL/02 (Digitaltechnik)"
+											}
+										}
+									},
 									"events": {
-										"35768_1": "DI (Digitaltechnik)",
-										"35647_1": "DIL (Digitaltechnik)"
+										"35768_1": "DI (Digitaltechnik)"
 									}
 								},
 								"M-17-P Algorithmen und Datenstrukturen": {
@@ -736,9 +762,16 @@
 									}
 								},
 								"M-16-P Mikrocontroller": {
+									"subDirectories": {
+										"Mikrocontroller": {
+											"events": {
+												"35696_1": "MCL/01 (Mikrocontroller)",
+												"35696_2": "MCL/02 (Mikrocontroller)"
+											}
+										}
+									},
 									"events": {
-										"35714_1": "MC (Mikrocontroller)",
-										"35696_1": "MCL (Mikrocontroller)"
+										"35714_1": "MC (Mikrocontroller)"
 									}
 								},
 								"M-18-P Software Engineering": {
@@ -792,15 +825,29 @@
 									}
 								},
 								"M-23-P Bussysteme und Sensorik": {
+									"subDirectories": {
+										"Bussysteme und Sensorik": {
+											"events": {
+												"35715_1": "BUL/01 (Bussysteme und Sensorik)",
+												"35715_2": "BUL/02 (Bussysteme und Sensorik)"
+											}
+										}
+									},
 									"events": {
-										"35791_1": "BU (Bussysteme und Sensorik)",
-										"35715_1": "BUL (Bussysteme und Sensorik)"
+										"35791_1": "BU (Bussysteme und Sensorik)"
 									}
 								},
 								"M-24-P Betriebssysteme": {
+									"subDirectories": {
+										"Betriebssysteme": {
+											"events": {
+												"35678_1": "OSL/01 (Betriebssysteme)",
+												"35678_2": "OSL/02 (Betriebssysteme)"
+											}
+										}
+									},
 									"events": {
-										"35721_1": "OS (Betriebssysteme)",
-										"35678_1": "OSL (Betriebssysteme)"
+										"35721_1": "OS (Betriebssysteme)"
 									}
 								},
 								"M-25-P Digitale Signalverarbeitung": {
@@ -1218,9 +1265,24 @@
 				"Bachelor Elektrotechnik (Automatisierung) (PO WS 2021/22)": {
 					"subDirectories": {
 						"5. Semester": {
+							"subDirectories": {
+								"M-34d Objektorientierte Programmierung in der Automatisierungstechnik": {
+									"subDirectories": {
+										"Objektorientierte Programmierung in der Automatisierungstechnik": {
+											"events": {
+												"44222_1": "PRP3/01 (Objektorientierte Programmierung in der Automatisierungstechnik)",
+												"44222_2": "PRP3/02 (Objektorientierte Programmierung in der Automatisierungstechnik)",
+												"44222_3": "PRP3/03 (Objektorientierte Programmierung in der Automatisierungstechnik)"
+											}
+										}
+									},
+									"events": {
+										"44221_1": "PR3 (Objektorientierte Programmierung in der Automatisierungstechnik)"
+									}
+								}
+							},
 							"events": {
-								"44219_1": "PR2 (Fortgeschrittene Programmierung in C)",
-								"44221_1": "PR3 (Objektorientierte Programmierung in der Automatisierungstechnik)"
+								"44219_1": "PR2 (Fortgeschrittene Programmierung in C)"
 							}
 						}
 					}
@@ -1355,8 +1417,16 @@
 									}
 								},
 								"M-04-P Sensortechnik": {
+									"subDirectories": {
+										"Smart Sensor Systems Laborpraktikum": {
+											"events": {
+												"43241_1": "SMSL/01 (Smart Sensor Systems Laborpraktikum)",
+												"43241_2": "SMSL/02 (Smart Sensor Systems Laborpraktikum)",
+												"43241_3": "SMSL/03 (Smart Sensor Systems Laborpraktikum)"
+											}
+										}
+									},
 									"events": {
-										"43241_1": "SMSL (Smart Sensor Systems Laborpraktikum)",
 										"43243_1": "SMS (Smart Sensor Systems)"
 									}
 								}
@@ -1440,8 +1510,16 @@
 									}
 								},
 								"M-04-P Sensortechnik": {
+									"subDirectories": {
+										"Smart Sensor Systems Laborpraktikum": {
+											"events": {
+												"43241_1": "SMSL/01 (Smart Sensor Systems Laborpraktikum)",
+												"43241_2": "SMSL/02 (Smart Sensor Systems Laborpraktikum)",
+												"43241_3": "SMSL/03 (Smart Sensor Systems Laborpraktikum)"
+											}
+										}
+									},
 									"events": {
-										"43241_1": "SMSL (Smart Sensor Systems Laborpraktikum)",
 										"43243_1": "SMS (Smart Sensor Systems)"
 									}
 								}
