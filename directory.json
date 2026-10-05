@@ -484,9 +484,16 @@
 											}
 										},
 										"M-39-P Bussysteme und Sensorik": {
+											"subDirectories": {
+												"Bussysteme und Sensorik Praktikum": {
+													"events": {
+														"30007_1": "BUP/01 (Bussysteme und Sensorik Praktikum)",
+														"30007_2": "BUP/02 (Bussysteme und Sensorik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30044_1": "BU (Bussysteme und Sensorik)",
-												"30007_1": "BUP (Bussysteme und Sensorik Praktikum)"
+												"30044_1": "BU (Bussysteme und Sensorik)"
 											}
 										},
 										"M-40-P Mikrocontrollersysteme": {
