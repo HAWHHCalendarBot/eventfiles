@@ -1,8 +1,8 @@
 [
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
-		"location": "12.83, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Philipp Jenke\nTeilnehmer/-innen: ? / 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ Freitag 2G",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Prof. Dr. Philipp Jenke\nTeilnehmer/-innen: ? / 30\nRhythmus: Einzeltermin\n\nOriginaler Titel: Einführung in die Computergrafik ^ Freitag 2G",
 		"startTime": "2026-10-16T08:15:00",
 		"endTime": "2026-10-16T11:45:00"
 	},
@@ -10,35 +10,35 @@
 		"name": "WP_ECG (Einführung in die Computergrafik)",
 		"location": "12.83, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Philipp Jenke\nTeilnehmer/-innen: ? / 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ Freitag 2G",
-		"startTime": "2026-11-13T08:15:00",
-		"endTime": "2026-11-13T11:45:00"
+		"startTime": "2026-11-06T08:15:00",
+		"endTime": "2026-11-06T11:45:00"
 	},
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
 		"location": "12.83, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Philipp Jenke\nTeilnehmer/-innen: ? / 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ Freitag 2G",
-		"startTime": "2026-11-27T08:15:00",
-		"endTime": "2026-11-27T11:45:00"
+		"startTime": "2026-11-20T08:15:00",
+		"endTime": "2026-11-20T11:45:00"
 	},
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
 		"location": "12.83, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Philipp Jenke\nTeilnehmer/-innen: ? / 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ Freitag 2G",
-		"startTime": "2026-12-11T08:15:00",
-		"endTime": "2026-12-11T11:45:00"
+		"startTime": "2026-12-04T08:15:00",
+		"endTime": "2026-12-04T11:45:00"
 	},
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
 		"location": "12.83, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Philipp Jenke\nTeilnehmer/-innen: ? / 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ Freitag 2G",
-		"startTime": "2027-01-08T08:15:00",
-		"endTime": "2027-01-08T11:45:00"
+		"startTime": "2026-12-18T08:15:00",
+		"endTime": "2026-12-18T11:45:00"
 	},
 	{
 		"name": "WP_ECG (Einführung in die Computergrafik)",
 		"location": "12.83, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Philipp Jenke\nTeilnehmer/-innen: ? / 30\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Computergrafik ^ Freitag 2G",
-		"startTime": "2027-01-22T08:15:00",
-		"endTime": "2027-01-22T11:45:00"
+		"startTime": "2027-01-15T08:15:00",
+		"endTime": "2027-01-15T11:45:00"
 	}
 ]
