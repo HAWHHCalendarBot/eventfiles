@@ -191,6 +191,7 @@
 										"Numerik und Stochastik Praktikum": {
 											"events": {
 												"30104_1": "NSP/01 (Numerik und Stochastik Praktikum)",
+												"30104_2": "NSP/02 (Numerik und Stochastik Praktikum)",
 												"30104_3": "NSP/03 (Numerik und Stochastik Praktikum)"
 											}
 										}
@@ -204,7 +205,8 @@
 										"Signale und Systeme 1 Praktikum": {
 											"events": {
 												"30144_1": "SSP1/01 (Signale und Systeme 1 Praktikum)",
-												"30144_2": "SSP1/02 (Signale und Systeme 1 Praktikum)"
+												"30144_2": "SSP1/02 (Signale und Systeme 1 Praktikum)",
+												"30144_3": "SSP1/03 (Signale und Systeme 1 Praktikum)"
 											}
 										}
 									},
@@ -245,7 +247,8 @@
 										"Objektorientierte Programmierung Praktikum": {
 											"events": {
 												"30172_1": "OPP/01 (Objektorientierte Programmierung Praktikum)",
-												"30172_2": "OPP/02 (Objektorientierte Programmierung Praktikum)"
+												"30172_2": "OPP/02 (Objektorientierte Programmierung Praktikum)",
+												"30172_3": "OPP/03 (Objektorientierte Programmierung Praktikum)"
 											}
 										}
 									},
@@ -268,9 +271,16 @@
 								"Vertiefungsrichtung Digitale Informationstechnik und Kommunikationstechnik": {
 									"subDirectories": {
 										"M-27-P Grundlagen der Nachrichtentechnik": {
+											"subDirectories": {
+												"Grundlagen der Nachrichtentechnik Praktikum": {
+													"events": {
+														"30122_1": "GNP/01 (Grundlagen der Nachrichtentechnik Praktikum)",
+														"30122_2": "GNP/02 (Grundlagen der Nachrichtentechnik Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30152_1": "GN (Grundlagen der Nachrichtentechnik)",
-												"30122_1": "GNP (Grundlagen der Nachrichtentechnik Praktikum)"
+												"30152_1": "GN (Grundlagen der Nachrichtentechnik)"
 											}
 										},
 										"M-26-P Elektronik 3": {
@@ -325,7 +335,8 @@
 										"Signale und Systeme 2 Praktikum": {
 											"events": {
 												"29915_1": "SSP2/01 (Signale und Systeme 2 Praktikum)",
-												"29915_2": "SSP2/02 (Signale und Systeme 2 Praktikum)"
+												"29915_2": "SSP2/02 (Signale und Systeme 2 Praktikum)",
+												"29915_3": "SSP2/03 (Signale und Systeme 2 Praktikum)"
 											}
 										}
 									},
@@ -616,10 +627,16 @@
 												"35761_1": "LSE1/01 (Lernen und Studiermethodik)",
 												"35761_2": "LSE1/02 (Lernen und Studiermethodik)"
 											}
+										},
+										"Lernen und Studiermethodik 1": {
+											"events": {
+												"35737_2": "LSL1/02 (Lernen und Studiermethodik 1)",
+												"35737_3": "LSL1/03 (Lernen und Studiermethodik 1)",
+												"35737_4": "LSL1/04 (Lernen und Studiermethodik 1)"
+											}
 										}
 									},
 									"events": {
-										"35737_1": "LSL1 (Lernen und Studiermethodik 1)",
 										"35716_1": "LSL2 (Lernen und Studiermethodik 2)",
 										"30003_1": "LP (Lernprojekt)"
 									}
@@ -802,7 +819,8 @@
 										"Software Engineering": {
 											"events": {
 												"35783_1": "SEL/01 (Software Engineering)",
-												"35783_2": "SEL/02 (Software Engineering)"
+												"35783_2": "SEL/02 (Software Engineering)",
+												"35783_3": "SEL/03 (Software Engineering)"
 											}
 										}
 									},
@@ -1421,8 +1439,15 @@
 									}
 								},
 								"M-02 System on Chip": {
+									"subDirectories": {
+										"System on Chip Laborpraktikum": {
+											"events": {
+												"43217_1": "SOCL/01 (System on Chip Laborpraktikum)",
+												"43217_2": "SOCL/02 (System on Chip Laborpraktikum)"
+											}
+										}
+									},
 									"events": {
-										"43217_1": "SOCL (System on Chip Laborpraktikum)",
 										"43227_1": "SOC (System on Chip)"
 									}
 								},
@@ -1762,7 +1787,8 @@
 												"24815_3": "Chm P/03 (Grundlagen der Chemie Laborpraktikum)",
 												"24815_4": "Chm P/04 (Grundlagen der Chemie Laborpraktikum)",
 												"24815_5": "Chm P/05 (Grundlagen der Chemie Laborpraktikum)",
-												"24815_6": "Chm P/06 (Grundlagen der Chemie Laborpraktikum)"
+												"24815_6": "Chm P/06 (Grundlagen der Chemie Laborpraktikum)",
+												"24815_7": "Chm P/07 (Grundlagen der Chemie Laborpraktikum)"
 											}
 										}
 									},
@@ -1937,7 +1963,8 @@
 												"24815_3": "Chm P/03 (Grundlagen der Chemie Laborpraktikum)",
 												"24815_4": "Chm P/04 (Grundlagen der Chemie Laborpraktikum)",
 												"24815_5": "Chm P/05 (Grundlagen der Chemie Laborpraktikum)",
-												"24815_6": "Chm P/06 (Grundlagen der Chemie Laborpraktikum)"
+												"24815_6": "Chm P/06 (Grundlagen der Chemie Laborpraktikum)",
+												"24815_7": "Chm P/07 (Grundlagen der Chemie Laborpraktikum)"
 											}
 										}
 									},
@@ -1970,7 +1997,8 @@
 												"39636_3": "LP EinfHEV/03 (Laborprakikum Einführung in Humanernährung und Verpflegung)",
 												"39636_4": "LP EinfHEV/04 (Laborprakikum Einführung in Humanernährung und Verpflegung)",
 												"39636_5": "LP EinfHEV/05 (Laborprakikum Einführung in Humanernährung und Verpflegung)",
-												"39636_6": "LP EinfHEV/06 (Laborprakikum Einführung in Humanernährung und Verpflegung)"
+												"39636_6": "LP EinfHEV/06 (Laborprakikum Einführung in Humanernährung und Verpflegung)",
+												"39636_7": "LP EinfHEV/07 (Laborprakikum Einführung in Humanernährung und Verpflegung)"
 											}
 										}
 									},
@@ -7729,6 +7757,7 @@
 												"32780_5": "MZCAD L/05 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_6": "MZCAD L/06 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_7": "MZCAD L/07 (Maschinenzeichnen und CAD Laborpraktikum)",
+												"32780_8": "MZCAD L/08 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_9": "MZCAD L/09 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_10": "MZCAD L/10 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_11": "MZCAD L/11 (Maschinenzeichnen und CAD Laborpraktikum)"
@@ -7773,6 +7802,7 @@
 												"32694_5": "ELPJ EL/05 (Praxisprojekt)",
 												"32694_6": "ELPJ EL/06 (Praxisprojekt)",
 												"32694_7": "ELPJ EL/07 (Praxisprojekt)",
+												"32694_8": "ELPJ EL/08 (Praxisprojekt)",
 												"32694_9": "ELPJ EL/09 (Praxisprojekt)",
 												"32694_10": "ELPJ EL/10 (Praxisprojekt)",
 												"32694_11": "ELPJ EL/11 (Praxisprojekt)"
