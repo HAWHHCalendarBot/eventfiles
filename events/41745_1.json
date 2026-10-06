@@ -2,6 +2,13 @@
 	{
 		"name": "GGAB (Grundlagen Gewässerschutz- und Abfallbeauftragte* r)",
 		"location": "1.07b, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Carolin Floeter\nRhythmus: Einzeltermin\n\nOriginaler Titel: Grundlagen umwelttechnische Beauftragte und Berater*innen",
+		"startTime": "2026-10-07T11:00:00",
+		"endTime": "2026-10-07T12:30:00"
+	},
+	{
+		"name": "GGAB (Grundlagen Gewässerschutz- und Abfallbeauftragte* r)",
+		"location": "1.07b, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Carolin Floeter\nRhythmus: wöchentlich\n\nOriginaler Titel: Grundlagen umwelttechnische Beauftragte und Berater*innen",
 		"startTime": "2026-10-09T08:30:00",
 		"endTime": "2026-10-09T11:45:00"
@@ -96,5 +103,26 @@
 		"description": "Dozent: Prof. Dr. Carolin Floeter\nRhythmus: wöchentlich\n\nOriginaler Titel: Grundlagen umwelttechnische Beauftragte und Berater*innen",
 		"startTime": "2027-01-22T08:30:00",
 		"endTime": "2027-01-22T11:45:00"
+	},
+	{
+		"name": "GGAB (Grundlagen Gewässerschutz- und Abfallbeauftragte* r)",
+		"location": "1.07b, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Carolin Floeter\nRhythmus: wöchentlich\n\nOriginaler Titel: Grundlagen umwelttechnische Beauftragte und Berater*innen",
+		"startTime": "2027-01-29T08:30:00",
+		"endTime": "2027-01-29T11:45:00"
+	},
+	{
+		"name": "GGAB (Grundlagen Gewässerschutz- und Abfallbeauftragte* r)",
+		"location": "1.07b, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Carolin Floeter\nRhythmus: wöchentlich\n\nOriginaler Titel: Grundlagen umwelttechnische Beauftragte und Berater*innen",
+		"startTime": "2027-02-05T08:30:00",
+		"endTime": "2027-02-05T11:45:00"
+	},
+	{
+		"name": "GGAB (Grundlagen Gewässerschutz- und Abfallbeauftragte* r)",
+		"location": "1.07b, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Carolin Floeter\nRhythmus: wöchentlich\n\nOriginaler Titel: Grundlagen umwelttechnische Beauftragte und Berater*innen",
+		"startTime": "2027-02-12T08:30:00",
+		"endTime": "2027-02-12T11:45:00"
 	}
 ]
