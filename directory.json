@@ -61,9 +61,18 @@
 						"1. Semester": {
 							"subDirectories": {
 								"M-01-P Analysis 1": {
+									"subDirectories": {
+										"Analysis 1 Übung": {
+											"events": {
+												"30135_1": "ANÜ1/01 (Analysis 1 Übung)",
+												"30135_2": "ANÜ1/02 (Analysis 1 Übung)",
+												"30135_3": "ANÜ1/03 (Analysis 1 Übung)",
+												"30135_4": "ANÜ1/04 (Analysis 1 Übung)"
+											}
+										}
+									},
 									"events": {
-										"29985_1": "AN1 (Analysis 1)",
-										"30135_1": "ANÜ1 (Analysis 1 Übung)"
+										"29985_1": "AN1 (Analysis 1)"
 									}
 								},
 								"M-03 Lineare Algebra": {
@@ -451,7 +460,8 @@
 												"Regenerative Energien Praktikum": {
 													"events": {
 														"30073_1": "REP/01 (Regenerative Energien Praktikum)",
-														"30073_2": "REP/02 (Regenerative Energien Praktikum)"
+														"30073_2": "REP/02 (Regenerative Energien Praktikum)",
+														"30073_3": "REP/03 (Regenerative Energien Praktikum)"
 													}
 												}
 											},
@@ -753,9 +763,16 @@
 									}
 								},
 								"M-17-P Algorithmen und Datenstrukturen": {
+									"subDirectories": {
+										"Algorithmen und Datenstrukturen": {
+											"events": {
+												"35669_1": "ADL/01 (Algorithmen und Datenstrukturen)",
+												"35669_2": "ADL/02 (Algorithmen und Datenstrukturen)"
+											}
+										}
+									},
 									"events": {
-										"35705_1": "AD (Algorithmen und Datenstrukturen)",
-										"35669_1": "ADL (Algorithmen und Datenstrukturen)"
+										"35705_1": "AD (Algorithmen und Datenstrukturen)"
 									}
 								},
 								"M-20-P Betriebswirtschaft und Ökonomie": {
@@ -781,7 +798,8 @@
 										"Signale und Systeme 2": {
 											"events": {
 												"35741_1": "SSL2/01 (Signale und Systeme 2)",
-												"35741_2": "SSL2/02 (Signale und Systeme 2)"
+												"35741_2": "SSL2/02 (Signale und Systeme 2)",
+												"35741_3": "SSL2/03 (Signale und Systeme 2)"
 											}
 										}
 									},
@@ -794,7 +812,8 @@
 										"Digitale Systeme": {
 											"events": {
 												"35645_1": "DSL/01 (Digitale Systeme)",
-												"35645_2": "DSL/02 (Digitale Systeme)"
+												"35645_2": "DSL/02 (Digitale Systeme)",
+												"35645_3": "DSL/03 (Digitale Systeme)"
 											}
 										}
 									},
@@ -949,9 +968,16 @@
 						"1. Semester": {
 							"subDirectories": {
 								"M-01 Mathematik 1": {
+									"subDirectories": {
+										"Mathematik 1 Übung": {
+											"events": {
+												"30432_1": "MAÜ1/01 (Mathematik 1 Übung)",
+												"30432_2": "MAÜ1/02 (Mathematik 1 Übung)"
+											}
+										}
+									},
 									"events": {
-										"30512_1": "MA1 (Mathematik 1)",
-										"30432_1": "MAÜ1 (Mathematik 1 Übung)"
+										"30512_1": "MA1 (Mathematik 1)"
 									}
 								},
 								"M-05-P Elektrotechnik 1": {
@@ -973,7 +999,8 @@
 										"Einführung in die regenerativen Energien Praktikum": {
 											"events": {
 												"30530_1": "EEP/01 (Einführung in die regenerativen Energien Praktikum)",
-												"30530_2": "EEP/02 (Einführung in die regenerativen Energien Praktikum)"
+												"30530_2": "EEP/02 (Einführung in die regenerativen Energien Praktikum)",
+												"30530_3": "EEP/03 (Einführung in die regenerativen Energien Praktikum)"
 											}
 										}
 									},
@@ -1015,15 +1042,29 @@
 									}
 								},
 								"M-12 Signale und Systeme": {
+									"subDirectories": {
+										"Signale und Systeme Praktikum": {
+											"events": {
+												"30418_1": "SSP/01 (Signale und Systeme Praktikum)",
+												"30418_2": "SSP/02 (Signale und Systeme Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30405_1": "SS (Signale und Systeme)",
-										"30418_1": "SSP (Signale und Systeme Praktikum)"
+										"30405_1": "SS (Signale und Systeme)"
 									}
 								},
 								"M-14-P Datenstrukturen und verteilte Systeme": {
+									"subDirectories": {
+										"Datenstrukturen und verteilte Systeme Praktikum": {
+											"events": {
+												"30480_1": "VSP/01 (Datenstrukturen und verteilte Systeme Praktikum)",
+												"30480_2": "VSP/02 (Datenstrukturen und verteilte Systeme Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"30544_1": "VS (Datenstrukturen und verteilte Systeme)",
-										"30480_1": "VSP (Datenstrukturen und verteilte Systeme Praktikum)"
+										"30544_1": "VS (Datenstrukturen und verteilte Systeme)"
 									}
 								},
 								"M-15-P Elektronik 2": {
@@ -2583,12 +2624,61 @@
 				"Bachelor Angewandte Informatik (PO SoSe 2022)": {
 					"subDirectories": {
 						"1. Semester": {
+							"subDirectories": {
+								"M-01 Diskrete Mathematik": {
+									"events": {
+										"30811_1": "DM (Diskrete Mathematik)",
+										"30821_1": "DMÜ (Diskrete Mathematik Übungen)"
+									}
+								},
+								"M-02 Grundlagen der Informatik": {
+									"subDirectories": {
+										"Grundlagen der Informatik Übungen": {
+											"events": {
+												"34114_1": "GIÜ/01 (Grundlagen der Informatik Übungen)",
+												"34114_2": "GIÜ/02 (Grundlagen der Informatik Übungen)",
+												"34114_3": "GIÜ/03 (Grundlagen der Informatik Übungen)",
+												"34114_4": "GIÜ/04 (Grundlagen der Informatik Übungen)"
+											}
+										}
+									},
+									"events": {
+										"34119_1": "GI (Grundlagen der Informatik)"
+									}
+								},
+								"M-04 Programmiertechnik": {
+									"subDirectories": {
+										"Programmiertechnik Praktikum": {
+											"events": {
+												"35142_1": "PTP/01 (Programmiertechnik Praktikum)",
+												"35142_2": "PTP/02 (Programmiertechnik Praktikum)",
+												"35142_3": "PTP/03 (Programmiertechnik Praktikum)",
+												"35142_4": "PTP/04 (Programmiertechnik Praktikum)",
+												"35142_5": "PTP/05 (Programmiertechnik Praktikum)",
+												"35142_6": "PTP/06 (Programmiertechnik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"35277_1": "PT (Programmiertechnik)"
+									}
+								},
+								"M-05 Betriebswirtschaftslehre": {
+									"subDirectories": {
+										"Betriebswirtschaftslehre Übungen": {
+											"events": {
+												"30818_1": "BWLÜ/01 (Betriebswirtschaftslehre Übungen)",
+												"30818_2": "BWLÜ/02 (Betriebswirtschaftslehre Übungen)"
+											}
+										}
+									},
+									"events": {
+										"30810_1": "BWL (Betriebswirtschaftslehre)"
+									}
+								}
+							},
 							"events": {
-								"30811_1": "DM (Diskrete Mathematik)",
-								"34119_1": "GI (Grundlagen der Informatik)",
-								"35266_1": "PM1 (Programmiermethodik I)",
-								"35277_1": "PT (Programmiertechnik)",
-								"30810_1": "BWL (Betriebswirtschaftslehre)"
+								"35266_1": "PM1 (Programmiermethodik I)"
 							}
 						},
 						"2. Semester": {
@@ -2957,12 +3047,62 @@
 				"Bachelor Informatik Technischer Systeme (PO WS 2018/19)": {
 					"subDirectories": {
 						"1. Semester": {
+							"subDirectories": {
+								"M-01 Diskrete Mathematik": {
+									"events": {
+										"31026_1": "DM (Diskrete Mathematik)",
+										"30971_1": "DMÜ (Diskrete Mathematik Übungen)"
+									}
+								},
+								"M-02-P Grundlagen der Technischen Informatik": {
+									"subDirectories": {
+										"Grundlagen der Informatik Praktikum": {
+											"events": {
+												"30944_1": "GTP/01 (Grundlagen der Informatik Praktikum)",
+												"30944_2": "GTP/02 (Grundlagen der Informatik Praktikum)",
+												"30944_3": "GTP/03 (Grundlagen der Informatik Praktikum)",
+												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30976_1": "GT (Grundlagen der Informatik)"
+									}
+								},
+								"M-04-P Programmiertechnik": {
+									"subDirectories": {
+										"Programmiertechnik Praktikum": {
+											"events": {
+												"31012_1": "PTP/01 (Programmiertechnik Praktikum)",
+												"31012_2": "PTP/02 (Programmiertechnik Praktikum)",
+												"31012_3": "PTP/03 (Programmiertechnik Praktikum)",
+												"31012_4": "PTP/04 (Programmiertechnik Praktikum)",
+												"31012_5": "PTP/05 (Programmiertechnik Praktikum)",
+												"31012_6": "PTP/06 (Programmiertechnik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30997_1": "PT (Programmiertechnik)"
+									}
+								},
+								"M-05 Mess- und Sensortechnik": {
+									"subDirectories": {
+										"Mess- und Sensortechnik Praktikum": {
+											"events": {
+												"31079_1": "MSP/01 (Mess- und Sensortechnik Praktikum)",
+												"31079_2": "MSP/02 (Mess- und Sensortechnik Praktikum)",
+												"31079_3": "MSP/03 (Mess- und Sensortechnik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"31136_1": "MS (Mess- und Sensortechnik)"
+									}
+								}
+							},
 							"events": {
-								"31026_1": "DM (Diskrete Mathematik)",
-								"30976_1": "GT (Grundlagen der Informatik)",
-								"30985_1": "PM1 (Programmiermethodik I)",
-								"30997_1": "PT (Programmiertechnik)",
-								"31136_1": "MS (Mess- und Sensortechnik)"
+								"30985_1": "PM1 (Programmiermethodik I)"
 							}
 						},
 						"2. Semester": {
@@ -3325,6 +3465,44 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
+								"M-01 Grundlagen der Mathematik": {
+									"events": {
+										"31026_1": "DM (Diskrete Mathematik)",
+										"30971_1": "DMÜ (Diskrete Mathematik Übungen)"
+									}
+								},
+								"M-02-P Grundlagen der Technischen Informatik": {
+									"subDirectories": {
+										"Grundlagen der Informatik Praktikum": {
+											"events": {
+												"30944_1": "GTP/01 (Grundlagen der Informatik Praktikum)",
+												"30944_2": "GTP/02 (Grundlagen der Informatik Praktikum)",
+												"30944_3": "GTP/03 (Grundlagen der Informatik Praktikum)",
+												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30976_1": "GT (Grundlagen der Informatik)"
+									}
+								},
+								"M-04-P Programmiertechnik": {
+									"subDirectories": {
+										"Programmiertechnik Praktikum": {
+											"events": {
+												"31012_1": "PTP/01 (Programmiertechnik Praktikum)",
+												"31012_2": "PTP/02 (Programmiertechnik Praktikum)",
+												"31012_3": "PTP/03 (Programmiertechnik Praktikum)",
+												"31012_4": "PTP/04 (Programmiertechnik Praktikum)",
+												"31012_5": "PTP/05 (Programmiertechnik Praktikum)",
+												"31012_6": "PTP/06 (Programmiertechnik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"30997_1": "PT (Programmiertechnik)"
+									}
+								},
 								"M-11 Betriebswirtschaft": {
 									"subDirectories": {
 										"Betriebswirtschaft Übungen": {
@@ -3340,10 +3518,7 @@
 								}
 							},
 							"events": {
-								"31026_1": "DM (Diskrete Mathematik)",
-								"30976_1": "GT (Grundlagen der Informatik)",
-								"30985_1": "PM1 (Programmiermethodik I)",
-								"30997_1": "PT (Programmiertechnik)"
+								"30985_1": "PM1 (Programmiermethodik I)"
 							}
 						},
 						"2. Semester": {
@@ -3705,12 +3880,52 @@
 				"Bachelor Wirtschaftsinformatik (PO SoSe 2022)": {
 					"subDirectories": {
 						"1. Semester": {
+							"subDirectories": {
+								"M-01 Grundlagen der Mathematik": {
+									"events": {
+										"31254_1": "GM (Grundlagen der Mathematik)",
+										"31199_1": "GMP (Grundlagen der Mathematik Praktikum)"
+									}
+								},
+								"M-02 Grundlagen der Wirtschaftsinformatik": {
+									"subDirectories": {
+										"Grundlagen der Wirtschaftsinformatik Praktikum": {
+											"events": {
+												"31279_1": "GWIP/01 (Grundlagen der Wirtschaftsinformatik Praktikum)",
+												"31279_2": "GWIP/02 (Grundlagen der Wirtschaftsinformatik Praktikum)"
+											}
+										}
+									},
+									"events": {
+										"31177_1": "GWI (Grundlagen der Wirtschaftsinformatik)"
+									}
+								},
+								"M-04 Programmiertechnik": {
+									"subDirectories": {
+										"Praktikum Programmiertechnik": {
+											"events": {
+												"31164_1": "PTP/01 (Praktikum Programmiertechnik)",
+												"31164_2": "PTP/02 (Praktikum Programmiertechnik)",
+												"31164_3": "PTP/03 (Praktikum Programmiertechnik)",
+												"31164_4": "PTP/04 (Praktikum Programmiertechnik)",
+												"31164_5": "PTP/05 (Praktikum Programmiertechnik)",
+												"31164_6": "PTP/06 (Praktikum Programmiertechnik)"
+											}
+										}
+									},
+									"events": {
+										"31219_1": "PT (Programmiertechnik)"
+									}
+								},
+								"M-05 Betriebswirtschaft I": {
+									"events": {
+										"31236_1": "BWL1 (Betriebswirtschaft I)",
+										"31196_1": "BWLP1 (Praktikum Betriebswirtschaft I)"
+									}
+								}
+							},
 							"events": {
-								"31254_1": "GM (Grundlagen der Mathematik)",
-								"31177_1": "GWI (Grundlagen der Wirtschaftsinformatik)",
-								"31194_1": "PM1 (Programmiermethodik I)",
-								"31219_1": "PT (Programmiertechnik)",
-								"31236_1": "BWL1 (Betriebswirtschaft I)"
+								"31194_1": "PM1 (Programmiermethodik I)"
 							}
 						},
 						"3. Semester": {
@@ -7217,6 +7432,12 @@
 									},
 									"events": {
 										"25126_1": "PM9 U1 (Unit 1: Programmierung 2 (im Block))"
+									}
+								},
+								"Unit 2: Forschungsmethoden I und Theorie-Praxis- Reflexion": {
+									"events": {
+										"25046_1": "PM10 U2/01 (Unit 2: Forschungsmethoden I und Theorie-Praxis- Reflexion)",
+										"25046_2": "PM10 U2/02 (Unit 2: Forschungsmethoden I und Theorie-Praxis- Reflexion)"
 									}
 								}
 							}

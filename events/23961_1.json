@@ -89,5 +89,12 @@
 		"description": "Dozent: Prof. Dr. Sonia Lippke\nTeilnehmer/-innen: ? / 20\nRhythmus: wöchentlich\n\nOriginaler Titel: Mental Public Health",
 		"startTime": "2027-01-18T10:15:00",
 		"endTime": "2027-01-18T14:00:00"
+	},
+	{
+		"name": "MPH (Mental Public Health)",
+		"location": "1.07a, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Sonia Lippke\nTeilnehmer/-innen: ? / 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mental Public Health",
+		"startTime": "2026-10-19T09:00:00",
+		"endTime": "2026-10-19T10:00:00"
 	}
 ]
