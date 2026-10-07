@@ -81,7 +81,8 @@
 											"events": {
 												"29983_1": "LAÜ/01 (Lineare Algebra Übung)",
 												"29983_2": "LAÜ/02 (Lineare Algebra Übung)",
-												"29983_3": "LAÜ/03 (Lineare Algebra Übung)"
+												"29983_3": "LAÜ/03 (Lineare Algebra Übung)",
+												"29983_4": "LAÜ/04 (Lineare Algebra Übung)"
 											}
 										}
 									},
@@ -113,7 +114,8 @@
 											"events": {
 												"29974_1": "PRP1/01 (Programmieren 1 Praktikum)",
 												"29974_2": "PRP1/02 (Programmieren 1 Praktikum)",
-												"29974_3": "PRP1/03 (Programmieren 1 Praktikum)"
+												"29974_3": "PRP1/03 (Programmieren 1 Praktikum)",
+												"29974_4": "PRP1/04 (Programmieren 1 Praktikum)"
 											}
 										}
 									},
@@ -1081,9 +1083,16 @@
 									}
 								},
 								"M-21-P Betriebswirtschaftslehre für Ingenieure": {
+									"subDirectories": {
+										"Betriebswirtschaftslehre für Ingenieure Übung": {
+											"events": {
+												"30463_1": "BWÜ/01 (Betriebswirtschaftslehre für Ingenieure Übung)",
+												"30463_2": "BWÜ/02 (Betriebswirtschaftslehre für Ingenieure Übung)"
+											}
+										}
+									},
 									"events": {
-										"30417_1": "BW (Betriebswirtschaftslehre für Ingenieure)",
-										"30463_1": "BWÜ (Betriebswirtschaftslehre für Ingenieure Übung)"
+										"30417_1": "BW (Betriebswirtschaftslehre für Ingenieure)"
 									}
 								}
 							},
@@ -3061,7 +3070,8 @@
 												"30944_1": "GTP/01 (Grundlagen der Informatik Praktikum)",
 												"30944_2": "GTP/02 (Grundlagen der Informatik Praktikum)",
 												"30944_3": "GTP/03 (Grundlagen der Informatik Praktikum)",
-												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)"
+												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)",
+												"30944_5": "GTP/05 (Grundlagen der Informatik Praktikum)"
 											}
 										}
 									},
@@ -3478,7 +3488,8 @@
 												"30944_1": "GTP/01 (Grundlagen der Informatik Praktikum)",
 												"30944_2": "GTP/02 (Grundlagen der Informatik Praktikum)",
 												"30944_3": "GTP/03 (Grundlagen der Informatik Praktikum)",
-												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)"
+												"30944_4": "GTP/04 (Grundlagen der Informatik Praktikum)",
+												"30944_5": "GTP/05 (Grundlagen der Informatik Praktikum)"
 											}
 										}
 									},
@@ -7799,6 +7810,7 @@
 												"32780_1": "MZCAD L/01 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_2": "MZCAD L/02 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_3": "MZCAD L/03 (Maschinenzeichnen und CAD Laborpraktikum)",
+												"32780_4": "MZCAD L/04 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_5": "MZCAD L/05 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_6": "MZCAD L/06 (Maschinenzeichnen und CAD Laborpraktikum)",
 												"32780_7": "MZCAD L/07 (Maschinenzeichnen und CAD Laborpraktikum)",
