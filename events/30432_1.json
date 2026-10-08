@@ -2,6 +2,13 @@
 	{
 		"name": "MAÜ1/01 (Mathematik 1 Übung)",
 		"location": "13.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mathematik 1 Übung ^ MAÜ1/01 (1. Parallelgruppe)",
+		"startTime": "2026-10-13T12:10:00",
+		"endTime": "2026-10-13T13:40:00"
+	},
+	{
+		"name": "MAÜ1/01 (Mathematik 1 Übung)",
+		"location": "13.65, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 20\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Mathematik 1 Übung ^ MAÜ1/01 (1. Parallelgruppe)",
 		"startTime": "2026-10-20T12:10:00",
 		"endTime": "2026-10-20T13:40:00"

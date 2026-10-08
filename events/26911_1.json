@@ -64,13 +64,6 @@
 	},
 	{
 		"name": "PPC (Protein Purification / Preparative Chromatography)",
-		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Serhat Sezai Cicek\nTeilnehmer/-innen: 40 / 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Protein Purification / Preparative Chromatography",
-		"startTime": "2027-01-15T08:30:00",
-		"endTime": "2027-01-15T10:00:00"
-	},
-	{
-		"name": "PPC (Protein Purification / Preparative Chromatography)",
 		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Serhat Sezai Cicek\nTeilnehmer/-innen: 40 / 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Protein Purification / Preparative Chromatography",
 		"startTime": "2027-01-22T12:30:00",

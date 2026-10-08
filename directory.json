@@ -410,7 +410,8 @@
 												"Antriebe und Leistungselektronik Praktikum": {
 													"events": {
 														"30035_1": "LEP/01 (Antriebe und Leistungselektronik Praktikum)",
-														"30035_2": "LEP/02 (Antriebe und Leistungselektronik Praktikum)"
+														"30035_2": "LEP/02 (Antriebe und Leistungselektronik Praktikum)",
+														"30035_3": "LEP/03 (Antriebe und Leistungselektronik Praktikum)"
 													}
 												}
 											},
@@ -3766,7 +3767,9 @@
 												}
 											},
 											"events": {
-												"35021_1": "ITS (IT-Sicherheit)"
+												"35021_1": "ITS (IT-Sicherheit)",
+												"42449_1": "ITS LV1 (IT-Sicherheit)",
+												"42417_1": "ITS LV2 (IT-Sicherheit Labor)"
 											}
 										}
 									}

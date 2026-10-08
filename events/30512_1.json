@@ -1,17 +1,17 @@
 [
 	{
 		"name": "MA1 (Mathematik 1)",
-		"location": "10.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nTeilnehmer/-innen: ? / 45\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^ MA1",
-		"startTime": "2026-10-12T12:10:00",
-		"endTime": "2026-10-12T15:40:00"
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nTeilnehmer/-innen: ? / 45\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mathematik 1 ^ MA1",
+		"startTime": "2026-10-12T09:55:00",
+		"endTime": "2026-10-12T11:25:00"
 	},
 	{
 		"name": "MA1 (Mathematik 1)",
 		"location": "10.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nTeilnehmer/-innen: ? / 45\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^ MA1",
-		"startTime": "2026-10-19T12:10:00",
-		"endTime": "2026-10-19T15:40:00"
+		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nTeilnehmer/-innen: ? / 45\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mathematik 1 ^ MA1",
+		"startTime": "2026-10-12T12:10:00",
+		"endTime": "2026-10-12T13:40:00"
 	},
 	{
 		"name": "MA1 (Mathematik 1)",
@@ -187,5 +187,12 @@
 		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nTeilnehmer/-innen: ? / 45\nRhythmus: wöchentlich\n\nOriginaler Titel: Mathematik 1 ^ MA1",
 		"startTime": "2027-01-13T08:10:00",
 		"endTime": "2027-01-13T11:25:00"
+	},
+	{
+		"name": "MA1 (Mathematik 1)",
+		"location": "0.02, Steindamm 94",
+		"description": "Dozent: Prof. Dr.-Ing. Karin Landenfeld\nTeilnehmer/-innen: ? / 45\nRhythmus: Einzeltermin\n\nOriginaler Titel: Mathematik 1 ^ MA1",
+		"startTime": "2026-10-19T08:10:00",
+		"endTime": "2026-10-19T11:25:00"
 	}
 ]
