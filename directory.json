@@ -522,9 +522,16 @@
 											}
 										},
 										"M-40-P Mikrocontrollersysteme": {
+											"subDirectories": {
+												"Mikrocontrollersysteme Praktikum": {
+													"events": {
+														"29942_1": "MCP/01 (Mikrocontrollersysteme Praktikum)",
+														"29942_2": "MCP/02 (Mikrocontrollersysteme Praktikum)"
+													}
+												}
+											},
 											"events": {
-												"30094_1": "MC (Mikrocontrollersysteme)",
-												"29942_1": "MCP (Mikrocontrollersysteme Praktikum)"
+												"30094_1": "MC (Mikrocontrollersysteme)"
 											}
 										}
 									}
@@ -634,6 +641,12 @@
 										"35724_1": "SO1 (Programmieren 1)"
 									}
 								},
+								"Deutsch": {
+									"events": {
+										"35742_1": "GE/01 (Deutsch)",
+										"35742_2": "GE/02 (Deutsch)"
+									}
+								},
 								"M-10-P Lernen und Studiermethodik": {
 									"subDirectories": {
 										"Lernen und Studiermethodik": {
@@ -655,9 +668,6 @@
 										"30003_1": "LP (Lernprojekt)"
 									}
 								}
-							},
-							"events": {
-								"35742_1": "GE (Deutsch)"
 							}
 						},
 						"2. Semester": {
@@ -7871,7 +7881,8 @@
 												"32694_8": "ELPJ EL/08 (Praxisprojekt)",
 												"32694_9": "ELPJ EL/09 (Praxisprojekt)",
 												"32694_10": "ELPJ EL/10 (Praxisprojekt)",
-												"32694_11": "ELPJ EL/11 (Praxisprojekt)"
+												"32694_11": "ELPJ EL/11 (Praxisprojekt)",
+												"32694_12": "ELPJ EL/12 (Praxisprojekt)"
 											}
 										}
 									},
