@@ -61,33 +61,5 @@
 		"description": "Dozent: Prof. Dr. Stefan Lunkenbein\nRhythmus: wöchentlich\n\nOriginaler Titel: Lebensmittelchemie",
 		"startTime": "2027-01-14T12:30:00",
 		"endTime": "2027-01-14T16:00:00"
-	},
-	{
-		"name": "LPLMCh (Lebensmittelchemie)",
-		"location": "S 2.09 Chemie Hörsaal, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Stefan Lunkenbein\nRhythmus: wöchentlich\n\nOriginaler Titel: Lebensmittelchemie",
-		"startTime": "2026-11-12T16:15:00",
-		"endTime": "2026-11-12T17:45:00"
-	},
-	{
-		"name": "LPLMCh (Lebensmittelchemie)",
-		"location": "S 2.09 Chemie Hörsaal, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Stefan Lunkenbein\nRhythmus: wöchentlich\n\nOriginaler Titel: Lebensmittelchemie",
-		"startTime": "2026-11-19T16:15:00",
-		"endTime": "2026-11-19T17:45:00"
-	},
-	{
-		"name": "LPLMCh (Lebensmittelchemie)",
-		"location": "S 2.09 Chemie Hörsaal, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Stefan Lunkenbein\nRhythmus: wöchentlich\n\nOriginaler Titel: Lebensmittelchemie",
-		"startTime": "2026-11-26T16:15:00",
-		"endTime": "2026-11-26T17:45:00"
-	},
-	{
-		"name": "LPLMCh (Lebensmittelchemie)",
-		"location": "S 2.09 Chemie Hörsaal, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Stefan Lunkenbein\nRhythmus: wöchentlich\n\nOriginaler Titel: Lebensmittelchemie",
-		"startTime": "2026-12-03T16:15:00",
-		"endTime": "2026-12-03T17:45:00"
 	}
 ]
