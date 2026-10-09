@@ -10,13 +10,6 @@
 		"name": "VS (Verteilte Systeme)",
 		"location": "4.60, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Wolfgang Renz\nTeilnehmer/-innen: ? / 65\nRhythmus: wöchentlich\n\nOriginaler Titel: Verteilte Systeme ^ FS5",
-		"startTime": "2026-11-03T16:15:00",
-		"endTime": "2026-11-03T19:30:00"
-	},
-	{
-		"name": "VS (Verteilte Systeme)",
-		"location": "4.60, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Wolfgang Renz\nTeilnehmer/-innen: ? / 65\nRhythmus: wöchentlich\n\nOriginaler Titel: Verteilte Systeme ^ FS5",
 		"startTime": "2026-11-10T16:15:00",
 		"endTime": "2026-11-10T19:30:00"
 	},
@@ -85,7 +78,7 @@
 	},
 	{
 		"name": "VS (Verteilte Systeme)",
-		"location": "7.65, Berliner Tor 7",
+		"location": "10.01, Berliner Tor 7",
 		"description": "Dozent: Prof. Dr. Wolfgang Renz\nTeilnehmer/-innen: ? / 65\nRhythmus: wöchentlich\n\nOriginaler Titel: Verteilte Systeme ^ FS5",
 		"startTime": "2026-10-14T13:45:00",
 		"endTime": "2026-10-14T17:00:00"
