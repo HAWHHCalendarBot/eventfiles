@@ -6614,7 +6614,8 @@
 														"33742_1": "SEM/01 (Seminar)",
 														"33742_2": "SEM/02 (Seminar)",
 														"33742_3": "SEM/03 (Seminar)",
-														"33742_4": "SEM/04 (Seminar)"
+														"33742_4": "SEM/04 (Seminar)",
+														"33742_5": "SEM/05 (Seminar)"
 													}
 												},
 												"Planen und Präsentieren von Arbeiten": {
@@ -6651,7 +6652,8 @@
 														"33742_1": "SEM/01 (Seminar)",
 														"33742_2": "SEM/02 (Seminar)",
 														"33742_3": "SEM/03 (Seminar)",
-														"33742_4": "SEM/04 (Seminar)"
+														"33742_4": "SEM/04 (Seminar)",
+														"33742_5": "SEM/05 (Seminar)"
 													}
 												},
 												"Planen und Präsentieren von Arbeiten": {
@@ -6679,7 +6681,8 @@
 														"33742_1": "SEM/01 (Seminar)",
 														"33742_2": "SEM/02 (Seminar)",
 														"33742_3": "SEM/03 (Seminar)",
-														"33742_4": "SEM/04 (Seminar)"
+														"33742_4": "SEM/04 (Seminar)",
+														"33742_5": "SEM/05 (Seminar)"
 													}
 												},
 												"Planen und Präsentieren von Arbeiten": {
@@ -6951,7 +6954,8 @@
 														"33742_1": "SEM/01 (Seminar)",
 														"33742_2": "SEM/02 (Seminar)",
 														"33742_3": "SEM/03 (Seminar)",
-														"33742_4": "SEM/04 (Seminar)"
+														"33742_4": "SEM/04 (Seminar)",
+														"33742_5": "SEM/05 (Seminar)"
 													}
 												},
 												"Planen und Präsentieren von Arbeiten": {
@@ -6989,7 +6993,8 @@
 														"33742_1": "SEM/01 (Seminar)",
 														"33742_2": "SEM/02 (Seminar)",
 														"33742_3": "SEM/03 (Seminar)",
-														"33742_4": "SEM/04 (Seminar)"
+														"33742_4": "SEM/04 (Seminar)",
+														"33742_5": "SEM/05 (Seminar)"
 													}
 												},
 												"Planen und Präsentieren von Arbeiten": {
@@ -7226,9 +7231,16 @@
 									}
 								},
 								"M-25-P Bussysteme": {
+									"subDirectories": {
+										"Bussysteme Laborpraktikum": {
+											"events": {
+												"29343_1": "BUP/01 (Bussysteme Laborpraktikum)",
+												"29343_2": "BUP/02 (Bussysteme Laborpraktikum)"
+											}
+										}
+									},
 									"events": {
-										"29432_1": "BU (Bussysteme)",
-										"29343_1": "BUP (Bussysteme Laborpraktikum)"
+										"29432_1": "BU (Bussysteme)"
 									}
 								},
 								"M-27 Bachelorprojekt": {
@@ -7258,7 +7270,8 @@
 												"33742_1": "SEM/01 (Seminar)",
 												"33742_2": "SEM/02 (Seminar)",
 												"33742_3": "SEM/03 (Seminar)",
-												"33742_4": "SEM/04 (Seminar)"
+												"33742_4": "SEM/04 (Seminar)",
+												"33742_5": "SEM/05 (Seminar)"
 											}
 										}
 									},
