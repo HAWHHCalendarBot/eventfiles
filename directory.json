@@ -2913,9 +2913,9 @@
 								},
 								"Seminar": {
 									"events": {
+										"35174_4": "Security und KI",
 										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)",
 										"35174_3": "Künstliche Intelligenz und Gesellschaft",
-										"35174_4": "Security und KI",
 										"35174_2": "Industrial and Intelligent Agent Systems",
 										"35174_1": "CS4F: Algorithmen, Protokolle und KI"
 									}
@@ -3010,16 +3010,9 @@
 											}
 										},
 										"M-WP_AIE AI Engineering": {
-											"subDirectories": {
-												"AI Engineering Praktikum": {
-													"events": {
-														"42998_1": "WP_AIEP/01 (AI Engineering Praktikum)",
-														"42998_2": "WP_AIEP/02 (AI Engineering Praktikum)"
-													}
-												}
-											},
 											"events": {
-												"42995_1": "WP_AIE (AI Engineering)"
+												"42995_1": "WP_AIE (AI Engineering)",
+												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
 											}
 										},
 										"M-WP_MWE Moderne Webentwicklung mit KI": {
@@ -3333,9 +3326,9 @@
 								},
 								"Seminar": {
 									"events": {
+										"35174_4": "Security und KI",
 										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)",
 										"35174_3": "Künstliche Intelligenz und Gesellschaft",
-										"35174_4": "Security und KI",
 										"35174_2": "Industrial and Intelligent Agent Systems",
 										"35174_1": "CS4F: Algorithmen, Protokolle und KI"
 									}
@@ -3428,16 +3421,9 @@
 											}
 										},
 										"M-WP_AIE AI Engineering": {
-											"subDirectories": {
-												"AI Engineering Praktikum": {
-													"events": {
-														"42998_1": "WP_AIEP/01 (AI Engineering Praktikum)",
-														"42998_2": "WP_AIEP/02 (AI Engineering Praktikum)"
-													}
-												}
-											},
 											"events": {
-												"42995_1": "WP_AIE (AI Engineering)"
+												"42995_1": "WP_AIE (AI Engineering)",
+												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
 											}
 										},
 										"M-WP_MWE Moderne Webentwicklung mit KI": {
@@ -3797,9 +3783,9 @@
 								},
 								"Seminar": {
 									"events": {
+										"35174_4": "Security und KI",
 										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)",
 										"35174_3": "Künstliche Intelligenz und Gesellschaft",
-										"35174_4": "Security und KI",
 										"35174_2": "Industrial and Intelligent Agent Systems",
 										"35174_1": "CS4F: Algorithmen, Protokolle und KI"
 									}
@@ -3847,16 +3833,9 @@
 											}
 										},
 										"M-WP_AIE AI Engineering": {
-											"subDirectories": {
-												"AI Engineering Praktikum": {
-													"events": {
-														"42998_1": "WP_AIEP/01 (AI Engineering Praktikum)",
-														"42998_2": "WP_AIEP/02 (AI Engineering Praktikum)"
-													}
-												}
-											},
 											"events": {
-												"42995_1": "WP_AIE (AI Engineering)"
+												"42995_1": "WP_AIE (AI Engineering)",
+												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
 											}
 										},
 										"M-WP_MWE Moderne Webentwicklung mit KI": {
@@ -4038,9 +4017,9 @@
 								},
 								"Seminar": {
 									"events": {
+										"35174_4": "Security und KI",
 										"35174_5": "Was ist Human-Centered Artificial Intelligence (HCAI)",
 										"35174_3": "Künstliche Intelligenz und Gesellschaft",
-										"35174_4": "Security und KI",
 										"35174_2": "Industrial and Intelligent Agent Systems",
 										"35174_1": "CS4F: Algorithmen, Protokolle und KI"
 									}
@@ -4104,16 +4083,9 @@
 											}
 										},
 										"M-WP_AIE AI Engineering": {
-											"subDirectories": {
-												"AI Engineering Praktikum": {
-													"events": {
-														"42998_1": "WP_AIEP/01 (AI Engineering Praktikum)",
-														"42998_2": "WP_AIEP/02 (AI Engineering Praktikum)"
-													}
-												}
-											},
 											"events": {
-												"42995_1": "WP_AIE (AI Engineering)"
+												"42995_1": "WP_AIE (AI Engineering)",
+												"42998_1": "WP_AIEP (AI Engineering Praktikum)"
 											}
 										},
 										"M-WP_GAI GenAI: Bildgenerierung mit Diffusionsmodellen": {
