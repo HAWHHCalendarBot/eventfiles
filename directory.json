@@ -611,9 +611,16 @@
 						"1. Semester": {
 							"subDirectories": {
 								"M-01-P Mathematik 1": {
+									"subDirectories": {
+										"Mathematik 1": {
+											"events": {
+												"35676_1": "MAE1/01 (Mathematik 1)",
+												"35676_2": "MAE1/02 (Mathematik 1)"
+											}
+										}
+									},
 									"events": {
-										"35707_1": "MA1 (Mathematik 1)",
-										"35676_1": "MAE1 (Mathematik 1)"
+										"35707_1": "MA1 (Mathematik 1)"
 									}
 								},
 								"M-03-P Grundlagen der Elektrotechnik 1": {
