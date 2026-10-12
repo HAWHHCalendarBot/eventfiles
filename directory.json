@@ -1921,16 +1921,9 @@
 									}
 								},
 								"M-15 Lebensmittelchemie (mit Laborpraktikum)": {
-									"subDirectories": {
-										"Lebensmittelchemie Praktikum": {
-											"events": {
-												"27291_1": "LC P/01 (Lebensmittelchemie Praktikum)",
-												"27291_2": "LC P/02 (Lebensmittelchemie Praktikum)"
-											}
-										}
-									},
 									"events": {
-										"27188_1": "LC (Lebensmittelchemie)"
+										"27188_1": "LC (Lebensmittelchemie)",
+										"27291_1": "LC P (Lebensmittelchemie Praktikum)"
 									}
 								},
 								"Projektmanagement": {

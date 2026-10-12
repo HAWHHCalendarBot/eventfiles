@@ -47,5 +47,12 @@
 		"description": "Dozent: Prof. Dr. Tim Tiedemann\nTeilnehmer/-innen: ? / 25\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: Einführung in die Robotik ^ Kurs A 2G",
 		"startTime": "2027-01-19T08:15:00",
 		"endTime": "2027-01-19T11:45:00"
+	},
+	{
+		"name": "WP_ERA (Einführung in die Robotik Kurs A)",
+		"location": "12.65, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr. Tim Tiedemann\nTeilnehmer/-innen: ? / 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Einführung in die Robotik ^ Kurs A 2G",
+		"startTime": "2026-10-20T08:15:00",
+		"endTime": "2026-10-20T11:45:00"
 	}
 ]

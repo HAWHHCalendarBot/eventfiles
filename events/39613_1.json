@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "LMCH (Laborpraktikum Lebensmittelchemie)",
+		"location": "S 2.12 Labor/Lebensmittelchemie, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Stefan Lunkenbein\nRhythmus: Einzeltermin\n\nOriginaler Titel: Laborpraktikum Lebensmittelchemie ^ Gruppe A",
+		"startTime": "2026-11-12T12:30:00",
+		"endTime": "2026-11-12T16:00:00"
+	},
+	{
+		"name": "LMCH (Laborpraktikum Lebensmittelchemie)",
+		"location": "S 2.12 Labor/Lebensmittelchemie, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Stefan Lunkenbein\nRhythmus: Einzeltermin\n\nOriginaler Titel: Laborpraktikum Lebensmittelchemie ^ Gruppe A",
+		"startTime": "2026-11-13T08:30:00",
+		"endTime": "2026-11-13T11:45:00"
+	},
+	{
+		"name": "LMCH (Laborpraktikum Lebensmittelchemie)",
+		"location": "S 2.12 Labor/Lebensmittelchemie, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Stefan Lunkenbein\nRhythmus: Einzeltermin\n\nOriginaler Titel: Laborpraktikum Lebensmittelchemie ^ Gruppe A",
+		"startTime": "2026-11-19T12:30:00",
+		"endTime": "2026-11-19T16:00:00"
+	},
+	{
+		"name": "LMCH (Laborpraktikum Lebensmittelchemie)",
+		"location": "S 2.12 Labor/Lebensmittelchemie, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Stefan Lunkenbein\nRhythmus: Einzeltermin\n\nOriginaler Titel: Laborpraktikum Lebensmittelchemie ^ Gruppe A",
+		"startTime": "2026-11-20T08:30:00",
+		"endTime": "2026-11-20T11:45:00"
+	}
+]
