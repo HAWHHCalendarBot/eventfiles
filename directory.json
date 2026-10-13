@@ -2941,7 +2941,8 @@
 												"35285_1": "VSP/01 (Verteilte Systeme Praktikum)",
 												"35285_2": "VSP/02 (Verteilte Systeme Praktikum)",
 												"35285_3": "VSP/03 (Verteilte Systeme Praktikum)",
-												"35285_4": "VSP/04 (Verteilte Systeme Praktikum)"
+												"35285_4": "VSP/04 (Verteilte Systeme Praktikum)",
+												"35285_5": "VSP/05 (Verteilte Systeme Praktikum)"
 											}
 										}
 									},
@@ -7766,7 +7767,7 @@
 			"subDirectories": {
 				"Bachelor Maschinenbau und Produktion (PO SoSe 2020)": {
 					"subDirectories": {
-						"1. Semester": {
+						"Kernstudium": {
 							"subDirectories": {
 								"Mathematik 1": {
 									"events": {
@@ -7775,11 +7776,30 @@
 										"32990_3": "MAT-1/03 (Mathematik 1)"
 									}
 								},
+								"M-20020 Mathematik 2": {
+									"events": {
+										"33125_1": "MAT-2.1 (Mathematik 2)",
+										"33249_1": "MAT-2.2 (Mathematik 2)"
+									}
+								},
 								"Technische Mechanik 1": {
 									"events": {
 										"32884_1": "TM-1/01 (Technische Mechanik 1)",
 										"32884_2": "TM-1/02 (Technische Mechanik 1)",
 										"32884_3": "TM-1/03 (Technische Mechanik 1)"
+									}
+								},
+								"M-20040 Technische Mechanik 2": {
+									"events": {
+										"32746_1": "TM-2.1 LV (Technische Mechanik 2)",
+										"33280_1": "TM-2.2 LV (Technische Mechanik 2)"
+									}
+								},
+								"Technische Mechanik 3": {
+									"events": {
+										"32789_1": "TM-3/01 (Technische Mechanik 3)",
+										"32789_2": "TM-3/02 (Technische Mechanik 3)",
+										"32789_3": "TM-3/03 (Technische Mechanik 3)"
 									}
 								},
 								"Industriebetriebslehre": {
@@ -7833,6 +7853,44 @@
 										}
 									}
 								},
+								"M-20100 Konstruktion A": {
+									"subDirectories": {
+										"Konstruktion A Konstruktionsarbeit": {
+											"events": {
+												"33103_1": "KONA KNPA/01 (Konstruktion A Konstruktionsarbeit)",
+												"33103_2": "KONA KNPA/02 (Konstruktion A Konstruktionsarbeit)",
+												"33103_3": "KONA KNPA/03 (Konstruktion A Konstruktionsarbeit)"
+											}
+										}
+									},
+									"events": {
+										"32883_1": "KONA (Konstruktion A)"
+									}
+								},
+								"M-20110 Konstruktion B": {
+									"subDirectories": {
+										"Konstruktion B": {
+											"events": {
+												"33109_1": "KONB/01 (Konstruktion B)",
+												"33109_2": "KONB/02 (Konstruktion B)",
+												"33109_3": "KONB/03 (Konstruktion B)"
+											}
+										},
+										"Konstruktion B Konstruktionsarbeit": {
+											"events": {
+												"32734_1": "KONB KNPA/01 (Konstruktion B Konstruktionsarbeit)",
+												"32734_2": "KONB KNPA/02 (Konstruktion B Konstruktionsarbeit)",
+												"32734_3": "KONB KNPA/03 (Konstruktion B Konstruktionsarbeit)",
+												"32734_4": "KONB KNPA/04 (Konstruktion B Konstruktionsarbeit)",
+												"32734_5": "KONB KNPA/05 (Konstruktion B Konstruktionsarbeit)",
+												"32734_6": "KONB KNPA/06 (Konstruktion B Konstruktionsarbeit)",
+												"32734_7": "KONB KNPA/07 (Konstruktion B Konstruktionsarbeit)",
+												"32734_9": "KONB KNPA/09 (Konstruktion B Konstruktionsarbeit)",
+												"32734_10": "KONB KNPA/10 (Konstruktion B Konstruktionsarbeit)"
+											}
+										}
+									}
+								},
 								"M-20120 Werkstoffkunde": {
 									"subDirectories": {
 										"Werkstoffkunde": {
@@ -7874,36 +7932,6 @@
 									"events": {
 										"32954_1": "ELPJ_L (Praxisprojekt)"
 									}
-								}
-							}
-						},
-						"2. Semester": {
-							"subDirectories": {
-								"M-20020 Mathematik 2": {
-									"events": {
-										"33125_1": "MAT-2.1 (Mathematik 2)",
-										"33249_1": "MAT-2.2 (Mathematik 2)"
-									}
-								},
-								"M-20040 Technische Mechanik 2": {
-									"events": {
-										"32746_1": "TM-2.1 LV (Technische Mechanik 2)",
-										"33280_1": "TM-2.2 LV (Technische Mechanik 2)"
-									}
-								},
-								"M-20100 Konstruktion A": {
-									"subDirectories": {
-										"Konstruktion A Konstruktionsarbeit": {
-											"events": {
-												"33103_1": "KONA KNPA/01 (Konstruktion A Konstruktionsarbeit)",
-												"33103_2": "KONA KNPA/02 (Konstruktion A Konstruktionsarbeit)",
-												"33103_3": "KONA KNPA/03 (Konstruktion A Konstruktionsarbeit)"
-											}
-										}
-									},
-									"events": {
-										"32883_1": "KONA (Konstruktion A)"
-									}
 								},
 								"M-20140 Fertigungstechnik": {
 									"subDirectories": {
@@ -7922,44 +7950,6 @@
 									},
 									"events": {
 										"32832_1": "FTT (Fertigungstechnik)"
-									}
-								}
-							},
-							"events": {
-								"32823_1": "KOR (Kostenrechnung)"
-							}
-						},
-						"3. Semester": {
-							"subDirectories": {
-								"Technische Mechanik 3": {
-									"events": {
-										"32789_1": "TM-3/01 (Technische Mechanik 3)",
-										"32789_2": "TM-3/02 (Technische Mechanik 3)",
-										"32789_3": "TM-3/03 (Technische Mechanik 3)"
-									}
-								},
-								"M-20110 Konstruktion B": {
-									"subDirectories": {
-										"Konstruktion B": {
-											"events": {
-												"33109_1": "KONB/01 (Konstruktion B)",
-												"33109_2": "KONB/02 (Konstruktion B)",
-												"33109_3": "KONB/03 (Konstruktion B)"
-											}
-										},
-										"Konstruktion B Konstruktionsarbeit": {
-											"events": {
-												"32734_1": "KONB KNPA/01 (Konstruktion B Konstruktionsarbeit)",
-												"32734_2": "KONB KNPA/02 (Konstruktion B Konstruktionsarbeit)",
-												"32734_3": "KONB KNPA/03 (Konstruktion B Konstruktionsarbeit)",
-												"32734_4": "KONB KNPA/04 (Konstruktion B Konstruktionsarbeit)",
-												"32734_5": "KONB KNPA/05 (Konstruktion B Konstruktionsarbeit)",
-												"32734_6": "KONB KNPA/06 (Konstruktion B Konstruktionsarbeit)",
-												"32734_7": "KONB KNPA/07 (Konstruktion B Konstruktionsarbeit)",
-												"32734_9": "KONB KNPA/09 (Konstruktion B Konstruktionsarbeit)",
-												"32734_10": "KONB KNPA/10 (Konstruktion B Konstruktionsarbeit)"
-											}
-										}
 									}
 								},
 								"M-20150 Angewandte Informatik": {
@@ -8021,211 +8011,6 @@
 										"32706_1": "GET/01 (Grundlagen Elektrotechnik)",
 										"32706_2": "GET/02 (Grundlagen Elektrotechnik)"
 									}
-								}
-							}
-						},
-						"4. Semester": {
-							"subDirectories": {
-								"Studienrichtung Digital Engineering and Mobility": {
-									"subDirectories": {
-										"M-20310 Methodische Produktentwicklung": {
-											"subDirectories": {
-												"Methodische Produktentwicklung Laborpraktikum": {
-													"events": {
-														"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
-													}
-												}
-											},
-											"events": {
-												"33143_1": "MPE (Methodische Produktentwicklung)"
-											}
-										},
-										"M-20320 Softwareanwendungen im Maschinenbau": {
-											"subDirectories": {
-												"Softwareanwendungen im Maschinenbau Laborpraktikum": {
-													"events": {
-														"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
-														"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
-													}
-												}
-											},
-											"events": {
-												"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
-											}
-										},
-										"M-20330 Maschinelles Lernen und Datenanalyse": {
-											"events": {
-												"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
-												"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
-											}
-										},
-										"M-20340 Autonome mobile Systeme": {
-											"events": {
-												"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
-												"33195_1": "AMS (Autonome mobile Systeme)"
-											}
-										}
-									}
-								},
-								"Studienrichtung Energietechnik": {
-									"subDirectories": {
-										"M-20610 Technische Thermodynamik 2": {
-											"subDirectories": {
-												"Technische Thermodynamik 2 Laborpraktikum": {
-													"events": {
-														"33243_1": "TTD-2 L/01 (Technische Thermodynamik 2 Laborpraktikum)",
-														"33243_2": "TTD-2 L/02 (Technische Thermodynamik 2 Laborpraktikum)"
-													}
-												}
-											},
-											"events": {
-												"33065_1": "TTD-2 (Technische Thermodynamik 2)"
-											}
-										},
-										"M-20620 Strömungslehre 2 und CFD": {
-											"events": {
-												"32862_1": "STL2CFD (Strömungslehre 2 und CFD)",
-												"33073_1": "STL2CFD L (Strömungslehre 2 und CFD Laborpraktikum)"
-											}
-										},
-										"M-20630 Wärme- und Stoffübertragung": {
-											"events": {
-												"33217_1": "WSUE (Wärme- und Stoffübertragung)",
-												"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
-											}
-										},
-										"M-20640 Thermische Systemmodellierung": {
-											"subDirectories": {
-												"Thermische Systemmodellierung Laborpraktikum": {
-													"events": {
-														"32871_1": "THSM L/01 (Thermische Systemmodellierung Laborpraktikum)",
-														"32871_2": "THSM L/02 (Thermische Systemmodellierung Laborpraktikum)"
-													}
-												}
-											},
-											"events": {
-												"32875_1": "THSM (Thermische Systemmodellierung)"
-											}
-										}
-									}
-								},
-								"Studienrichtung Entwicklung und Konstruktion": {
-									"subDirectories": {
-										"M-20810 Konstruktion C": {
-											"subDirectories": {
-												"Konstruktion C Laborpraktikum": {
-													"events": {
-														"33094_1": "KONC L/01 (Konstruktion C Laborpraktikum)",
-														"33094_2": "KONC L/02 (Konstruktion C Laborpraktikum)",
-														"33094_3": "KONC L/03 (Konstruktion C Laborpraktikum)"
-													}
-												}
-											},
-											"events": {
-												"33035_1": "KONC (Konstruktion C)"
-											}
-										},
-										"M-20820 Numerische Methoden der Mechanik": {
-											"subDirectories": {
-												"Numerische Methoden der Mechanik Laborpraktikum": {
-													"events": {
-														"32970_1": "NMM L/01 (Numerische Methoden der Mechanik Laborpraktikum)",
-														"32970_2": "NMM L/02 (Numerische Methoden der Mechanik Laborpraktikum)",
-														"32970_3": "NMM L/03 (Numerische Methoden der Mechanik Laborpraktikum)"
-													}
-												}
-											},
-											"events": {
-												"33151_1": "NMM (Numerische Methoden der Mechanik)"
-											}
-										},
-										"M-20310 Methodische Produktentwicklung": {
-											"subDirectories": {
-												"Methodische Produktentwicklung Laborpraktikum": {
-													"events": {
-														"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
-														"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
-													}
-												}
-											},
-											"events": {
-												"33143_1": "MPE (Methodische Produktentwicklung)"
-											}
-										},
-										"Konstruktion C (konstruktive Arbeit)": {
-											"events": {
-												"32796_1": "KONCH/01 (Konstruktion C (konstruktive Arbeit))",
-												"32796_2": "KONCH/02 (Konstruktion C (konstruktive Arbeit))",
-												"32796_3": "KONCH/03 (Konstruktion C (konstruktive Arbeit))"
-											}
-										}
-									}
-								},
-								"Studienrichtung Produktionstechnik und -management": {
-									"subDirectories": {
-										"M-21010 Unternehmensplanspiel und Investitionsrechnung": {
-											"subDirectories": {
-												"Unternehmensplanspiel und Investitionsrechnung": {
-													"events": {
-														"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
-														"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
-													}
-												},
-												"Unternehmensplanspiel und Investitionsrechnung Laborpraktikum": {
-													"events": {
-														"32726_1": "UPSIR L/01 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-														"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
-														"32726_3": "UPSIR L/03 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
-													}
-												}
-											}
-										},
-										"M-21020 Produktionsmittel und -logistik": {
-											"subDirectories": {
-												"Produktionsmittel und -logistik Laborpraktikum": {
-													"events": {
-														"32918_1": "PML L/01 (Produktionsmittel und -logistik Laborpraktikum)",
-														"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
-														"32918_3": "PML L/03 (Produktionsmittel und -logistik Laborpraktikum)"
-													}
-												}
-											},
-											"events": {
-												"33173_1": "PML (Produktionsmittel und -logistik)"
-											}
-										},
-										"M-21030 Produktionsplanung und -steuerung": {
-											"subDirectories": {
-												"Produktionsplanung und -steuerung Laborpraktikum": {
-													"events": {
-														"32933_1": "PPS L/01 (Produktionsplanung und -steuerung Laborpraktikum)",
-														"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)",
-														"32933_3": "PPS L/03 (Produktionsplanung und -steuerung Laborpraktikum)"
-													}
-												}
-											},
-											"events": {
-												"33291_1": "PPS (Produktionsplanung und -steuerung)"
-											}
-										},
-										"M-21040 Werkzeugmaschinen": {
-											"subDirectories": {
-												"Werkzeugmaschinen Laborpraktikum": {
-													"events": {
-														"33037_1": "WZM L/01 (Werkzeugmaschinen Laborpraktikum)",
-														"33037_2": "WZM L/02 (Werkzeugmaschinen Laborpraktikum)",
-														"33037_3": "WZM L/03 (Werkzeugmaschinen Laborpraktikum)"
-													}
-												}
-											},
-											"events": {
-												"32901_1": "WZM (Werkzeugmaschinen)"
-											}
-										}
-									}
 								},
 								"M-20190 Elektrische Antriebstechnik": {
 									"subDirectories": {
@@ -8253,7 +8038,36 @@
 										"32341_1": "IF-ZSM (IF Zeit- und Selbstmanagement)",
 										"32211_1": "IF-GP (IF Grafisches Programmieren)"
 									}
+								},
+								"M-20210 Mess-, Steuer- und Regelungstechnik": {
+									"subDirectories": {
+										"Mess-, Steuer- und Regelungstechnik": {
+											"events": {
+												"33015_1": "MSR/01 (Mess-, Steuer- und Regelungstechnik)",
+												"33015_2": "MSR/02 (Mess-, Steuer- und Regelungstechnik)"
+											}
+										},
+										"Mess-, Steuer- und Regelungstechnik Laborpraktikum": {
+											"events": {
+												"33067_1": "MSR L/01 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
+												"33067_3": "MSR L/03 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
+												"33067_4": "MSR L/04 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
+												"33067_6": "MSR L/06 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
+												"33067_7": "MSR L/07 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)"
+											}
+										}
+									}
+								},
+								"Grundlagen Projektmanagement": {
+									"events": {
+										"32344_1": "BP_PM_PF/01 (Grundlagen Projektmanagement)",
+										"32344_2": "BP_PM_PF/02 (Grundlagen Projektmanagement)",
+										"32344_3": "BP_PM_PF/03 (Grundlagen Projektmanagement)"
+									}
 								}
+							},
+							"events": {
+								"32823_1": "KOR (Kostenrechnung)"
 							}
 						},
 						"5.-6. Semester": {
@@ -8409,8 +8223,8 @@
 												},
 												"M-20630 Wärme- und Stoffübertragung": {
 													"events": {
-														"33217_1": "WSUE (Wärme- und Stoffübertragung)",
-														"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
+														"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)",
+														"33217_1": "WSUE (Wärme- und Stoffübertragung)"
 													}
 												},
 												"M-20840 Technische Schwingungslehre": {
@@ -8601,17 +8415,17 @@
 												},
 												"M-21010 Unternehmensplanspiel und Investitionsrechnung": {
 													"subDirectories": {
-														"Unternehmensplanspiel und Investitionsrechnung": {
-															"events": {
-																"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
-																"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
-															}
-														},
 														"Unternehmensplanspiel und Investitionsrechnung Laborpraktikum": {
 															"events": {
 																"32726_1": "UPSIR L/01 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
 																"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
 																"32726_3": "UPSIR L/03 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
+															}
+														},
+														"Unternehmensplanspiel und Investitionsrechnung": {
+															"events": {
+																"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
+																"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
 															}
 														}
 													}
@@ -9020,17 +8834,17 @@
 												},
 												"M-21010 Unternehmensplanspiel und Investitionsrechnung": {
 													"subDirectories": {
-														"Unternehmensplanspiel und Investitionsrechnung": {
-															"events": {
-																"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
-																"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
-															}
-														},
 														"Unternehmensplanspiel und Investitionsrechnung Laborpraktikum": {
 															"events": {
 																"32726_1": "UPSIR L/01 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
 																"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
 																"32726_3": "UPSIR L/03 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
+															}
+														},
+														"Unternehmensplanspiel und Investitionsrechnung": {
+															"events": {
+																"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
+																"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
 															}
 														}
 													}
@@ -9268,8 +9082,8 @@
 												},
 												"M-20630 Wärme- und Stoffübertragung": {
 													"events": {
-														"33217_1": "WSUE (Wärme- und Stoffübertragung)",
-														"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
+														"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)",
+														"33217_1": "WSUE (Wärme- und Stoffübertragung)"
 													}
 												},
 												"M-20640 Thermische Systemmodellierung": {
@@ -9311,17 +9125,17 @@
 												},
 												"M-21010 Unternehmensplanspiel und Investitionsrechnung": {
 													"subDirectories": {
-														"Unternehmensplanspiel und Investitionsrechnung": {
-															"events": {
-																"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
-																"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
-															}
-														},
 														"Unternehmensplanspiel und Investitionsrechnung Laborpraktikum": {
 															"events": {
 																"32726_1": "UPSIR L/01 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
 																"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
 																"32726_3": "UPSIR L/03 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
+															}
+														},
+														"Unternehmensplanspiel und Investitionsrechnung": {
+															"events": {
+																"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
+																"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
 															}
 														}
 													}
@@ -9567,8 +9381,8 @@
 												},
 												"M-20630 Wärme- und Stoffübertragung": {
 													"events": {
-														"33217_1": "WSUE (Wärme- und Stoffübertragung)",
-														"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)"
+														"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)",
+														"33217_1": "WSUE (Wärme- und Stoffübertragung)"
 													}
 												},
 												"M-20350 Mechatronik": {
@@ -9801,31 +9615,206 @@
 											}
 										}
 									}
-								},
-								"M-20210 Mess-, Steuer- und Regelungstechnik": {
+								}
+							}
+						},
+						"Studienrichtung Digital Engineering and Mobility": {
+							"subDirectories": {
+								"M-20310 Methodische Produktentwicklung": {
 									"subDirectories": {
-										"Mess-, Steuer- und Regelungstechnik": {
+										"Methodische Produktentwicklung Laborpraktikum": {
 											"events": {
-												"33015_1": "MSR/01 (Mess-, Steuer- und Regelungstechnik)",
-												"33015_2": "MSR/02 (Mess-, Steuer- und Regelungstechnik)"
+												"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+												"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
+												"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"33143_1": "MPE (Methodische Produktentwicklung)"
+									}
+								},
+								"M-20320 Softwareanwendungen im Maschinenbau": {
+									"subDirectories": {
+										"Softwareanwendungen im Maschinenbau Laborpraktikum": {
+											"events": {
+												"33214_1": "SOM L/01 (Softwareanwendungen im Maschinenbau Laborpraktikum)",
+												"33214_2": "SOM L/02 (Softwareanwendungen im Maschinenbau Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"32774_1": "SOM (Softwareanwendungen im Maschinenbau)"
+									}
+								},
+								"M-20330 Maschinelles Lernen und Datenanalyse": {
+									"events": {
+										"32971_1": "MLDA (Maschinelles Lernen und Datenanalyse)",
+										"33212_1": "MLDA L (Maschinelles Lernen und Datenanalyse Laborpraktikum)"
+									}
+								},
+								"M-20340 Autonome mobile Systeme": {
+									"events": {
+										"32810_1": "AMS L (Autonome mobile Systeme Laborpraktikum)",
+										"33195_1": "AMS (Autonome mobile Systeme)"
+									}
+								}
+							}
+						},
+						"Studienrichtung Energietechnik": {
+							"subDirectories": {
+								"M-20610 Technische Thermodynamik 2": {
+									"subDirectories": {
+										"Technische Thermodynamik 2 Laborpraktikum": {
+											"events": {
+												"33243_1": "TTD-2 L/01 (Technische Thermodynamik 2 Laborpraktikum)",
+												"33243_2": "TTD-2 L/02 (Technische Thermodynamik 2 Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"33065_1": "TTD-2 (Technische Thermodynamik 2)"
+									}
+								},
+								"M-20620 Strömungslehre 2 und CFD": {
+									"events": {
+										"32862_1": "STL2CFD (Strömungslehre 2 und CFD)",
+										"33073_1": "STL2CFD L (Strömungslehre 2 und CFD Laborpraktikum)"
+									}
+								},
+								"M-20630 Wärme- und Stoffübertragung": {
+									"events": {
+										"32720_1": "WSUE L (Wärme- und Stoffübertragung Laborpraktikum)",
+										"33217_1": "WSUE (Wärme- und Stoffübertragung)"
+									}
+								},
+								"M-20640 Thermische Systemmodellierung": {
+									"subDirectories": {
+										"Thermische Systemmodellierung Laborpraktikum": {
+											"events": {
+												"32871_1": "THSM L/01 (Thermische Systemmodellierung Laborpraktikum)",
+												"32871_2": "THSM L/02 (Thermische Systemmodellierung Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"32875_1": "THSM (Thermische Systemmodellierung)"
+									}
+								}
+							}
+						},
+						"Studienrichtung Entwicklung und Konstruktion": {
+							"subDirectories": {
+								"M-20810 Konstruktion C": {
+									"subDirectories": {
+										"Konstruktion C Laborpraktikum": {
+											"events": {
+												"33094_1": "KONC L/01 (Konstruktion C Laborpraktikum)",
+												"33094_2": "KONC L/02 (Konstruktion C Laborpraktikum)",
+												"33094_3": "KONC L/03 (Konstruktion C Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"33035_1": "KONC (Konstruktion C)"
+									}
+								},
+								"M-20820 Numerische Methoden der Mechanik": {
+									"subDirectories": {
+										"Numerische Methoden der Mechanik Laborpraktikum": {
+											"events": {
+												"32970_1": "NMM L/01 (Numerische Methoden der Mechanik Laborpraktikum)",
+												"32970_2": "NMM L/02 (Numerische Methoden der Mechanik Laborpraktikum)",
+												"32970_3": "NMM L/03 (Numerische Methoden der Mechanik Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"33151_1": "NMM (Numerische Methoden der Mechanik)"
+									}
+								},
+								"M-20310 Methodische Produktentwicklung": {
+									"subDirectories": {
+										"Methodische Produktentwicklung Laborpraktikum": {
+											"events": {
+												"33112_1": "MPE L/01 (Methodische Produktentwicklung Laborpraktikum)",
+												"33112_3": "MPE L/03 (Methodische Produktentwicklung Laborpraktikum)",
+												"33112_4": "MPE L/04 (Methodische Produktentwicklung Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"33143_1": "MPE (Methodische Produktentwicklung)"
+									}
+								},
+								"Konstruktion C (konstruktive Arbeit)": {
+									"events": {
+										"32796_1": "KONCH/01 (Konstruktion C (konstruktive Arbeit))",
+										"32796_2": "KONCH/02 (Konstruktion C (konstruktive Arbeit))",
+										"32796_3": "KONCH/03 (Konstruktion C (konstruktive Arbeit))"
+									}
+								}
+							}
+						},
+						"Studienrichtung Produktionstechnik und -management": {
+							"subDirectories": {
+								"M-21010 Unternehmensplanspiel und Investitionsrechnung": {
+									"subDirectories": {
+										"Unternehmensplanspiel und Investitionsrechnung Laborpraktikum": {
+											"events": {
+												"32726_1": "UPSIR L/01 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
+												"32726_2": "UPSIR L/02 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)",
+												"32726_3": "UPSIR L/03 (Unternehmensplanspiel und Investitionsrechnung Laborpraktikum)"
 											}
 										},
-										"Mess-, Steuer- und Regelungstechnik Laborpraktikum": {
+										"Unternehmensplanspiel und Investitionsrechnung": {
 											"events": {
-												"33067_1": "MSR L/01 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
-												"33067_3": "MSR L/03 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
-												"33067_4": "MSR L/04 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
-												"33067_6": "MSR L/06 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)",
-												"33067_7": "MSR L/07 (Mess-, Steuer- und Regelungstechnik Laborpraktikum)"
+												"33181_1": "UPSIR/01 (Unternehmensplanspiel und Investitionsrechnung)",
+												"33181_2": "UPSIR/02 (Unternehmensplanspiel und Investitionsrechnung)"
 											}
 										}
 									}
 								},
-								"Grundlagen Projektmanagement": {
+								"M-21020 Produktionsmittel und -logistik": {
+									"subDirectories": {
+										"Produktionsmittel und -logistik Laborpraktikum": {
+											"events": {
+												"32918_1": "PML L/01 (Produktionsmittel und -logistik Laborpraktikum)",
+												"32918_2": "PML L/02 (Produktionsmittel und -logistik Laborpraktikum)",
+												"32918_3": "PML L/03 (Produktionsmittel und -logistik Laborpraktikum)"
+											}
+										}
+									},
 									"events": {
-										"32344_1": "BP_PM_PF/01 (Grundlagen Projektmanagement)",
-										"32344_2": "BP_PM_PF/02 (Grundlagen Projektmanagement)",
-										"32344_3": "BP_PM_PF/03 (Grundlagen Projektmanagement)"
+										"33173_1": "PML (Produktionsmittel und -logistik)"
+									}
+								},
+								"M-21030 Produktionsplanung und -steuerung": {
+									"subDirectories": {
+										"Produktionsplanung und -steuerung Laborpraktikum": {
+											"events": {
+												"32933_1": "PPS L/01 (Produktionsplanung und -steuerung Laborpraktikum)",
+												"32933_2": "PPS L/02 (Produktionsplanung und -steuerung Laborpraktikum)",
+												"32933_3": "PPS L/03 (Produktionsplanung und -steuerung Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"33291_1": "PPS (Produktionsplanung und -steuerung)"
+									}
+								},
+								"M-21040 Werkzeugmaschinen": {
+									"subDirectories": {
+										"Werkzeugmaschinen Laborpraktikum": {
+											"events": {
+												"33037_1": "WZM L/01 (Werkzeugmaschinen Laborpraktikum)",
+												"33037_2": "WZM L/02 (Werkzeugmaschinen Laborpraktikum)",
+												"33037_3": "WZM L/03 (Werkzeugmaschinen Laborpraktikum)"
+											}
+										}
+									},
+									"events": {
+										"32901_1": "WZM (Werkzeugmaschinen)"
 									}
 								}
 							}
