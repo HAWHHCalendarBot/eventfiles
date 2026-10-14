@@ -10,13 +10,6 @@
 		"name": "MTL/02 (Messtechnik)",
 		"location": "302, Berliner Tor 9",
 		"description": "Dozent: Prof. Dr.-Ing. Christian Werner-Spatz\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^PG2: BFL4_K+KS (Werner-Spatz) (2. Parallelgruppe)",
-		"startTime": "2026-10-15T08:30:00",
-		"endTime": "2026-10-15T11:45:00"
-	},
-	{
-		"name": "MTL/02 (Messtechnik)",
-		"location": "302, Berliner Tor 9",
-		"description": "Dozent: Prof. Dr.-Ing. Christian Werner-Spatz\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^PG2: BFL4_K+KS (Werner-Spatz) (2. Parallelgruppe)",
 		"startTime": "2026-10-22T08:30:00",
 		"endTime": "2026-10-22T11:45:00"
 	},
@@ -96,6 +89,13 @@
 		"description": "Dozent: Prof. Dr.-Ing. Christian Werner-Spatz\nParallelgruppe: 2\nRhythmus: wöchentlich\n\nOriginaler Titel: Messtechnik ^PG2: BFL4_K+KS (Werner-Spatz) (2. Parallelgruppe)",
 		"startTime": "2027-01-21T08:30:00",
 		"endTime": "2027-01-21T11:45:00"
+	},
+	{
+		"name": "MTL/02 (Messtechnik)",
+		"location": "304, Berliner Tor 9",
+		"description": "Dozent: Prof. Dr.-Ing. Christian Werner-Spatz\nParallelgruppe: 2\nRhythmus: Einzeltermin\n\nOriginaler Titel: Messtechnik ^PG2: BFL4_K+KS (Werner-Spatz) (2. Parallelgruppe)",
+		"startTime": "2026-10-15T08:30:00",
+		"endTime": "2026-10-15T11:45:00"
 	},
 	{
 		"name": "MTL/02 (Messtechnik)",
