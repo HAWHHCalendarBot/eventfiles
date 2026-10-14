@@ -7582,6 +7582,130 @@
 					"subDirectories": {
 						"1. Semester": {
 							"subDirectories": {
+								"M-01 Verwaltungswissenschaftliche Grundlagen I": {
+									"subDirectories": {
+										"Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I": {
+											"events": {
+												"18147_1": "PM1 U1/01 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
+												"18147_2": "PM1 U1/02 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
+												"18147_3": "PM1 U1/03 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
+												"18147_4": "PM1 U1/04 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)",
+												"18147_5": "PM1 U1/05 (Unit 1: Betriebswirtschaftslehre der öffentlichen Verwaltung I)"
+											}
+										},
+										"Unit 2: Verwaltung, Staat und Gesellschaft I": {
+											"events": {
+												"18163_1": "PM1 U2/01 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
+												"18163_2": "PM1 U2/02 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
+												"18163_3": "PM1 U2/03 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
+												"18163_4": "PM1 U2/04 (Unit 2: Verwaltung, Staat und Gesellschaft I)",
+												"18163_5": "PM1 U2/05 (Unit 2: Verwaltung, Staat und Gesellschaft I)"
+											}
+										},
+										"Unit 3: Personalpsychologie I": {
+											"events": {
+												"18178_1": "PM1 U3/01 (Unit 3: Personalpsychologie I)",
+												"18178_2": "PM1 U3/02 (Unit 3: Personalpsychologie I)",
+												"18178_3": "PM1 U3/03 (Unit 3: Personalpsychologie I)",
+												"18178_4": "PM1 U3/04 (Unit 3: Personalpsychologie I)",
+												"18178_5": "PM1 U3/05 (Unit 3: Personalpsychologie I)"
+											}
+										}
+									}
+								},
+								"M-02 Methodische Grundlagen": {
+									"subDirectories": {
+										"Unit 1: Rechtsmethodik": {
+											"events": {
+												"18061_1": "PM2 U1/01 (Unit 1: Rechtsmethodik)",
+												"18061_2": "PM2 U1/02 (Unit 1: Rechtsmethodik)",
+												"18061_3": "PM2 U1/03 (Unit 1: Rechtsmethodik)",
+												"18061_4": "PM2 U1/04 (Unit 1: Rechtsmethodik)",
+												"18061_5": "PM2 U1/05 (Unit 1: Rechtsmethodik)"
+											}
+										},
+										"Unit 2: Methoden wissenschaftlichen Arbeitens": {
+											"events": {
+												"18133_1": "PM2 U2/01 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
+												"18133_2": "PM2 U2/02 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
+												"18133_3": "PM2 U2/03 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
+												"18133_4": "PM2 U2/04 (Unit 2: Methoden wissenschaftlichen Arbeitens)",
+												"18133_5": "PM2 U2/05 (Unit 2: Methoden wissenschaftlichen Arbeitens)"
+											}
+										}
+									}
+								},
+								"Unit 1: Öffentliche Finanzwirtschaft I und II": {
+									"events": {
+										"18064_1": "PM3 U1/01 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
+										"18064_2": "PM3 U1/02 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
+										"18064_3": "PM3 U1/03 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
+										"18064_4": "PM3 U1/04 (Unit 1: Öffentliche Finanzwirtschaft I und II)",
+										"18064_5": "PM3 U1/05 (Unit 1: Öffentliche Finanzwirtschaft I und II)"
+									}
+								},
+								"Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I": {
+									"events": {
+										"18117_1": "PM4 U1/01 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
+										"18117_2": "PM4 U1/02 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
+										"18117_3": "PM4 U1/03 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
+										"18117_4": "PM4 U1/04 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)",
+										"18117_5": "PM4 U1/05 (Unit 1: Grundlagen der Volkswirtschaftslehre und Wirtschaftspolitik I)"
+									}
+								},
+								"Unit 1: Einführung in die Informationstechnologie": {
+									"events": {
+										"18091_1": "PM5 U1/01 (Unit 1: Einführung in die Informationstechnologie)",
+										"18091_2": "PM5 U1/02 (Unit 1: Einführung in die Informationstechnologie)",
+										"18091_3": "PM5 U1/03 (Unit 1: Einführung in die Informationstechnologie)",
+										"18091_4": "PM5 U1/04 (Unit 1: Einführung in die Informationstechnologie)",
+										"18091_5": "PM5 U1/05 (Unit 1: Einführung in die Informationstechnologie)"
+									}
+								},
+								"M-06 Grundlagen des öffentlichen Rechts": {
+									"subDirectories": {
+										"Unit 1: Allgemeines Verwaltungsrecht I": {
+											"events": {
+												"18071_1": "PM6 U1/01 (Unit 1: Allgemeines Verwaltungsrecht I)",
+												"18071_2": "PM6 U1/02 (Unit 1: Allgemeines Verwaltungsrecht I)",
+												"18071_3": "PM6 U1/03 (Unit 1: Allgemeines Verwaltungsrecht I)",
+												"18071_4": "PM6 U1/04 (Unit 1: Allgemeines Verwaltungsrecht I)",
+												"18071_5": "PM6 U1/05 (Unit 1: Allgemeines Verwaltungsrecht I)"
+											}
+										},
+										"Unit 2: Staats- und Europarecht I": {
+											"events": {
+												"18066_1": "PM6 U2/01 (Unit 2: Staats- und Europarecht I)",
+												"18066_2": "PM6 U2/02 (Unit 2: Staats- und Europarecht I)",
+												"18066_3": "PM6 U2/03 (Unit 2: Staats- und Europarecht I)",
+												"18066_4": "PM6 U2/04 (Unit 2: Staats- und Europarecht I)",
+												"18066_5": "PM6 U2/05 (Unit 2: Staats- und Europarecht I)"
+											}
+										}
+									}
+								},
+								"M-07 Zivilrecht und Personalrecht": {
+									"subDirectories": {
+										"Unit 1: Zivilrecht I": {
+											"events": {
+												"18079_1": "PM7 U1/01 (Unit 1: Zivilrecht I)",
+												"18079_2": "PM7 U1/02 (Unit 1: Zivilrecht I)",
+												"18079_3": "PM7 U1/03 (Unit 1: Zivilrecht I)",
+												"18079_4": "PM7 U1/04 (Unit 1: Zivilrecht I)",
+												"18079_5": "PM7 U1/05 (Unit 1: Zivilrecht I)"
+											}
+										},
+										"Unit 2: Personalrecht I": {
+											"events": {
+												"18176_1": "PM7 U2/01 (Unit 2: Personalrecht I)",
+												"18176_2": "PM7 U2/02 (Unit 2: Personalrecht I)",
+												"18176_3": "PM7 U2/03 (Unit 2: Personalrecht I)",
+												"18176_4": "PM7 U2/04 (Unit 2: Personalrecht I)",
+												"18176_5": "PM7 U2/05 (Unit 2: Personalrecht I)"
+											}
+										}
+									}
+								},
 								"M-09 Wahlpflichtmodul I": {
 									"events": {
 										"18614_1": "WM9 R (Einführung in das Datenschutzrecht)",
