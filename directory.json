@@ -787,7 +787,8 @@
 										"Algorithmen und Datenstrukturen": {
 											"events": {
 												"35669_1": "ADL/01 (Algorithmen und Datenstrukturen)",
-												"35669_2": "ADL/02 (Algorithmen und Datenstrukturen)"
+												"35669_2": "ADL/02 (Algorithmen und Datenstrukturen)",
+												"35669_3": "ADL/03 (Algorithmen und Datenstrukturen)"
 											}
 										}
 									},
@@ -1394,7 +1395,8 @@
 								}
 							},
 							"events": {
-								"44219_1": "PR2 (Fortgeschrittene Programmierung in C)"
+								"44219_1": "PR2 (Fortgeschrittene Programmierung in C)",
+								"47378_1": "VP1 (Vorträge aus der Praxis I)"
 							}
 						}
 					}
@@ -6361,10 +6363,7 @@
 									"subDirectories": {
 										"": {
 											"events": {
-												"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)",
-												"33653_1": "FEM KE (Finite Elemente Methode (KE))",
-												"33831_1": "FVT (Faserverbundtechnologie)",
-												"33875_1": "AFS (Aktive Fahrwerksysteme)"
+												"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)"
 											}
 										},
 										"Dynamik": {
@@ -6403,8 +6402,7 @@
 									"subDirectories": {
 										"": {
 											"events": {
-												"33833_1": "QM (Qualitätsmanagement)",
-												"33790_1": "FZD (Fahrzeugdesign)"
+												"33833_1": "QM (Qualitätsmanagement)"
 											}
 										},
 										"Dynamik": {
@@ -6433,17 +6431,8 @@
 								"Studienschwerpunkt Nutz- und Sonderfahrzeuge": {
 									"subDirectories": {
 										"": {
-											"subDirectories": {
-												"Messtechnik": {
-													"events": {
-														"33812_1": "MTL/01 (Messtechnik)",
-														"33812_2": "MTL/02 (Messtechnik)"
-													}
-												}
-											},
 											"events": {
-												"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)",
-												"33803_1": "FEM (Finite Elemente Methode)"
+												"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)"
 											}
 										},
 										"Dynamik": {
@@ -6481,6 +6470,14 @@
 							"subDirectories": {
 								"Studienschwerpunkt Antrieb und Fahrwerk": {
 									"subDirectories": {
+										"": {
+											"events": {
+												"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)",
+												"33653_1": "FEM KE (Finite Elemente Methode (KE))",
+												"33831_1": "FVT (Faserverbundtechnologie)",
+												"33875_1": "AFS (Aktive Fahrwerksysteme)"
+											}
+										},
 										"Schwingungslehre und Akustik": {
 											"events": {
 												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
@@ -6812,6 +6809,11 @@
 								},
 								"Studienschwerpunkt Kabine und Kabinensysteme": {
 									"subDirectories": {
+										"": {
+											"events": {
+												"33601_1": "EUD (Ergonomie und Design)"
+											}
+										},
 										"Dynamik": {
 											"events": {
 												"33709_1": "TM3/01 (Dynamik)",
@@ -6850,6 +6852,11 @@
 							"subDirectories": {
 								"Studienschwerpunkt Entwurf und Leichtbau": {
 									"subDirectories": {
+										"": {
+											"events": {
+												"33818_1": "MIA (Maschinenelemente in Antriebssträngen)"
+											}
+										},
 										"Schwingungslehre und Akustik": {
 											"events": {
 												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
@@ -6877,6 +6884,11 @@
 								},
 								"Studienschwerpunkt Kabine und Kabinensysteme": {
 									"subDirectories": {
+										"": {
+											"events": {
+												"33786_1": "LFP (Labor im Flugzeugprojekt)"
+											}
+										},
 										"Schwingungslehre und Akustik": {
 											"events": {
 												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
@@ -6908,6 +6920,11 @@
 							"subDirectories": {
 								"Studienschwerpunkt Entwurf und Leichtbau": {
 									"subDirectories": {
+										"": {
+											"events": {
+												"33622_1": "FS (Flugzeugsysteme)"
+											}
+										},
 										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
 											"subDirectories": {
 												"Seminar": {
@@ -6947,6 +6964,11 @@
 								},
 								"Studienschwerpunkt Kabine und Kabinensysteme": {
 									"subDirectories": {
+										"": {
+											"events": {
+												"33622_1": "FS (Flugzeugsysteme)"
+											}
+										},
 										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
 											"subDirectories": {
 												"Seminar": {
@@ -6985,6 +7007,11 @@
 							"subDirectories": {
 								"Studienschwerpunkt Entwurf und Leichtbau": {
 									"subDirectories": {
+										"": {
+											"events": {
+												"33570_1": "CADF (CAD im Flugzeugbau)"
+											}
+										},
 										"Betriebswirtschaftslehre": {
 											"events": {
 												"33605_1": "BWL/01 (Betriebswirtschaftslehre)",
@@ -6999,6 +7026,11 @@
 								},
 								"Studienschwerpunkt Kabine und Kabinensysteme": {
 									"subDirectories": {
+										"": {
+											"events": {
+												"33570_1": "CADF (CAD im Flugzeugbau)"
+											}
+										},
 										"Betriebswirtschaftslehre": {
 											"events": {
 												"33605_1": "BWL/01 (Betriebswirtschaftslehre)",

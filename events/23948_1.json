@@ -8,44 +8,65 @@
 	},
 	{
 		"name": "GMH (Grundlagen der Medizin und Humanbiologie)",
-		"location": "(kein Raum angegeben)",
+		"location": "S 2.09 Chemie Hörsaal, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Dr. Michael Haufs\nTeilnehmer/-innen: ? / 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Grundlagen der Medizin und Humanbiologie",
 		"startTime": "2026-10-15T08:30:00",
+		"endTime": "2026-10-15T11:45:00"
+	},
+	{
+		"name": "GMH (Grundlagen der Medizin und Humanbiologie)",
+		"location": "0.45, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Dr. Michael Haufs\nTeilnehmer/-innen: ? / 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Grundlagen der Medizin und Humanbiologie",
+		"startTime": "2026-10-15T12:30:00",
 		"endTime": "2026-10-15T14:00:00"
 	},
 	{
 		"name": "GMH (Grundlagen der Medizin und Humanbiologie)",
-		"location": "(kein Raum angegeben)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Dr. Michael Haufs\nTeilnehmer/-innen: ? / 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Grundlagen der Medizin und Humanbiologie",
 		"startTime": "2026-10-22T08:30:00",
 		"endTime": "2026-10-22T14:00:00"
 	},
 	{
 		"name": "GMH (Grundlagen der Medizin und Humanbiologie)",
-		"location": "(kein Raum angegeben)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Dr. Michael Haufs\nTeilnehmer/-innen: ? / 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Grundlagen der Medizin und Humanbiologie",
 		"startTime": "2026-10-29T08:30:00",
 		"endTime": "2026-10-29T14:00:00"
 	},
 	{
 		"name": "GMH (Grundlagen der Medizin und Humanbiologie)",
-		"location": "(kein Raum angegeben)",
+		"location": "S3.04, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Dr. Michael Haufs\nTeilnehmer/-innen: ? / 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Grundlagen der Medizin und Humanbiologie",
 		"startTime": "2026-11-05T08:30:00",
 		"endTime": "2026-11-05T14:00:00"
 	},
 	{
 		"name": "GMH (Grundlagen der Medizin und Humanbiologie)",
-		"location": "(kein Raum angegeben)",
+		"location": "0.70, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Dr. Michael Haufs\nTeilnehmer/-innen: ? / 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Grundlagen der Medizin und Humanbiologie",
 		"startTime": "2026-11-12T08:30:00",
+		"endTime": "2026-11-12T11:45:00"
+	},
+	{
+		"name": "GMH (Grundlagen der Medizin und Humanbiologie)",
+		"location": "0.22, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Dr. Michael Haufs\nTeilnehmer/-innen: ? / 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Grundlagen der Medizin und Humanbiologie",
+		"startTime": "2026-11-12T12:30:00",
 		"endTime": "2026-11-12T14:00:00"
 	},
 	{
 		"name": "GMH (Grundlagen der Medizin und Humanbiologie)",
-		"location": "(kein Raum angegeben)",
+		"location": "0.70, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Dr. Michael Haufs\nTeilnehmer/-innen: ? / 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Grundlagen der Medizin und Humanbiologie",
 		"startTime": "2026-11-19T08:30:00",
+		"endTime": "2026-11-19T11:45:00"
+	},
+	{
+		"name": "GMH (Grundlagen der Medizin und Humanbiologie)",
+		"location": "0.22, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Dr. Michael Haufs\nTeilnehmer/-innen: ? / 50\nRhythmus: Einzeltermin\n\nOriginaler Titel: Grundlagen der Medizin und Humanbiologie",
+		"startTime": "2026-11-19T12:30:00",
 		"endTime": "2026-11-19T14:00:00"
 	},
 	{
