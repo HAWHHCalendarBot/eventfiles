@@ -6470,14 +6470,6 @@
 							"subDirectories": {
 								"Studienschwerpunkt Antrieb und Fahrwerk": {
 									"subDirectories": {
-										"": {
-											"events": {
-												"33574_1": "FTA (Fertigungstechnik für Fahrzeugbauer)",
-												"33653_1": "FEM KE (Finite Elemente Methode (KE))",
-												"33831_1": "FVT (Faserverbundtechnologie)",
-												"33875_1": "AFS (Aktive Fahrwerksysteme)"
-											}
-										},
 										"Schwingungslehre und Akustik": {
 											"events": {
 												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
@@ -6565,6 +6557,11 @@
 												"33565_1": "FWF (Fahrwerk/Fahrverhalten)"
 											}
 										},
+										"": {
+											"events": {
+												"33653_1": "FEM KE (Finite Elemente Methode (KE))"
+											}
+										},
 										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
 											"subDirectories": {
 												"Seminar": {
@@ -6603,6 +6600,11 @@
 								},
 								"Studienschwerpunkt Karosserieentwicklung": {
 									"subDirectories": {
+										"": {
+											"events": {
+												"33790_1": "FZD (Fahrzeugdesign)"
+											}
+										},
 										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
 											"subDirectories": {
 												"Seminar": {
@@ -6632,6 +6634,19 @@
 								},
 								"Studienschwerpunkt Nutz- und Sonderfahrzeuge": {
 									"subDirectories": {
+										"": {
+											"subDirectories": {
+												"Messtechnik": {
+													"events": {
+														"33812_1": "MTL/01 (Messtechnik)",
+														"33812_2": "MTL/02 (Messtechnik)"
+													}
+												}
+											},
+											"events": {
+												"33653_1": "FEM KE (Finite Elemente Methode (KE))"
+											}
+										},
 										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
 											"subDirectories": {
 												"Seminar": {
@@ -6671,6 +6686,12 @@
 										"Vertiefungsrichtung Antrieb": {
 											"events": {
 												"33783_1": "VML Lab (Labor Verbrennungsmotoren)"
+											}
+										},
+										"": {
+											"events": {
+												"33831_1": "FVT (Faserverbundtechnologie)",
+												"33875_1": "AFS (Aktive Fahrwerksysteme)"
 											}
 										},
 										"Betriebswirtschaftslehre": {
