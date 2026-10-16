@@ -7239,9 +7239,16 @@
 									}
 								},
 								"M-24-P Automatisierungstechnik 2": {
+									"subDirectories": {
+										"Automatisierungstechnik 2 Laborpraktikum": {
+											"events": {
+												"29428_1": "ATP2/01 (Automatisierungstechnik 2 Laborpraktikum)",
+												"29428_2": "ATP2/02 (Automatisierungstechnik 2 Laborpraktikum)"
+											}
+										}
+									},
 									"events": {
-										"29485_1": "AT2 (Automatisierungstechnik 2)",
-										"29428_1": "ATP2 (Automatisierungstechnik 2 Laborpraktikum)"
+										"29485_1": "AT2 (Automatisierungstechnik 2)"
 									}
 								},
 								"M-25-P Bussysteme": {

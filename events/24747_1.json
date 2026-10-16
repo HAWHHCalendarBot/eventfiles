@@ -96,5 +96,26 @@
 		"description": "Dozent: Prof. Dr. Birgit Peters\nRhythmus: wöchentlich\n\nOriginaler Titel: Personalmanagement",
 		"startTime": "2027-01-22T12:30:00",
 		"endTime": "2027-01-22T16:00:00"
+	},
+	{
+		"name": "PeMan (Personalmanagement)",
+		"location": "1.09, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Birgit Peters\nRhythmus: wöchentlich\n\nOriginaler Titel: Personalmanagement",
+		"startTime": "2027-01-29T12:30:00",
+		"endTime": "2027-01-29T16:00:00"
+	},
+	{
+		"name": "PeMan (Personalmanagement)",
+		"location": "1.09, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Birgit Peters\nRhythmus: wöchentlich\n\nOriginaler Titel: Personalmanagement",
+		"startTime": "2027-02-05T12:30:00",
+		"endTime": "2027-02-05T16:00:00"
+	},
+	{
+		"name": "PeMan (Personalmanagement)",
+		"location": "1.09, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Birgit Peters\nRhythmus: wöchentlich\n\nOriginaler Titel: Personalmanagement",
+		"startTime": "2027-02-12T12:30:00",
+		"endTime": "2027-02-12T16:00:00"
 	}
 ]
