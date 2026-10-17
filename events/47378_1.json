@@ -1,9 +1,16 @@
 [
 	{
 		"name": "VP1 (Vorträge aus der Praxis I)",
-		"location": "10.65, Berliner Tor 7",
-		"description": "Dozent: Julian Potthoff\nTeilnehmer/-innen: ? / 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Vorträge aus der Praxis I ^ E35",
-		"startTime": "2026-10-20T08:10:00",
-		"endTime": "2026-10-20T11:25:00"
+		"location": "10.60, Berliner Tor 7",
+		"description": "Dozent: Julian Potthoff\nTeilnehmer/-innen: ? / 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Vorträge aus der Praxis I ^ VP1",
+		"startTime": "2026-10-28T08:10:00",
+		"endTime": "2026-10-28T11:25:00"
+	},
+	{
+		"name": "VP1 (Vorträge aus der Praxis I)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Julian Potthoff\nTeilnehmer/-innen: ? / 40\nRhythmus: Einzeltermin\n\nOriginaler Titel: Vorträge aus der Praxis I ^ VP1",
+		"startTime": "2026-11-17T16:00:00",
+		"endTime": "2026-11-17T18:00:00"
 	}
 ]
