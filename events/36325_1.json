@@ -1,22 +1,22 @@
 [
 	{
-		"name": "WPM_IPL (Image Processing)",
+		"name": "WPM_IPL/01 (Image Processing)",
 		"location": "8.85, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Marc Hensel\nTeilnehmer/-innen: ? / 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Image Processing - Lab ^ IPL/01",
+		"description": "Dozent: Prof. Dr. Marc Hensel\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Image Processing - Lab ^ IPL/01 (1. Parallelgruppe)",
 		"startTime": "2026-11-09T08:10:00",
 		"endTime": "2026-11-09T11:25:00"
 	},
 	{
-		"name": "WPM_IPL (Image Processing)",
+		"name": "WPM_IPL/01 (Image Processing)",
 		"location": "8.85, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Marc Hensel\nTeilnehmer/-innen: ? / 20\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Image Processing - Lab ^ IPL/01",
+		"description": "Dozent: Prof. Dr. Marc Hensel\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 15\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Image Processing - Lab ^ IPL/01 (1. Parallelgruppe)",
 		"startTime": "2026-11-30T08:10:00",
 		"endTime": "2026-11-30T11:25:00"
 	},
 	{
-		"name": "WPM_IPL (Image Processing)",
+		"name": "WPM_IPL/01 (Image Processing)",
 		"location": "8.85, Berliner Tor 7",
-		"description": "Dozent: Prof. Dr. Marc Hensel\nTeilnehmer/-innen: ? / 20\nRhythmus: Einzeltermin\n\nOriginaler Titel: Image Processing - Lab ^ IPL/01",
+		"description": "Dozent: Prof. Dr. Marc Hensel\nParallelgruppe: 1\nTeilnehmer/-innen: ? / 15\nRhythmus: Einzeltermin\n\nOriginaler Titel: Image Processing - Lab ^ IPL/01 (1. Parallelgruppe)",
 		"startTime": "2027-01-04T08:10:00",
 		"endTime": "2027-01-04T11:25:00"
 	}

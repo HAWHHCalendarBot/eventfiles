@@ -1452,9 +1452,16 @@
 								"": {
 									"subDirectories": {
 										"M-WP-DBV-P Digitale Bildverarbeitung": {
+											"subDirectories": {
+												"Image Processing": {
+													"events": {
+														"36325_1": "WPM_IPL/01 (Image Processing)",
+														"36325_2": "WPM_IPL/02 (Image Processing)"
+													}
+												}
+											},
 											"events": {
-												"36323_1": "IP (Image Processing)",
-												"36325_1": "WPM_IPL (Image Processing)"
+												"36323_1": "IP (Image Processing)"
 											}
 										},
 										"M-WP-EDS-P Ereignisdiskrete Systeme": {
@@ -1489,9 +1496,16 @@
 								"": {
 									"subDirectories": {
 										"M-WP-DBV-P Digitale Bildverarbeitung": {
+											"subDirectories": {
+												"Image Processing": {
+													"events": {
+														"36325_1": "WPM_IPL/01 (Image Processing)",
+														"36325_2": "WPM_IPL/02 (Image Processing)"
+													}
+												}
+											},
 											"events": {
-												"36323_1": "IP (Image Processing)",
-												"36325_1": "WPM_IPL (Image Processing)"
+												"36323_1": "IP (Image Processing)"
 											}
 										},
 										"M-WP-EDS-P Ereignisdiskrete Systeme": {
@@ -1562,9 +1576,16 @@
 								"": {
 									"subDirectories": {
 										"M-WP-DBV-P Digitale Bildverarbeitung": {
+											"subDirectories": {
+												"Image Processing": {
+													"events": {
+														"36325_1": "WPM_IPL/01 (Image Processing)",
+														"36325_2": "WPM_IPL/02 (Image Processing)"
+													}
+												}
+											},
 											"events": {
-												"36323_1": "IP (Image Processing)",
-												"36325_1": "WPM_IPL (Image Processing)"
+												"36323_1": "IP (Image Processing)"
 											}
 										},
 										"M-WP-EDS-P Ereignisdiskrete Systeme": {
@@ -1595,9 +1616,16 @@
 								"": {
 									"subDirectories": {
 										"M-WP-DBV-P Digitale Bildverarbeitung": {
+											"subDirectories": {
+												"Image Processing": {
+													"events": {
+														"36325_1": "WPM_IPL/01 (Image Processing)",
+														"36325_2": "WPM_IPL/02 (Image Processing)"
+													}
+												}
+											},
 											"events": {
-												"36323_1": "IP (Image Processing)",
-												"36325_1": "WPM_IPL (Image Processing)"
+												"36323_1": "IP (Image Processing)"
 											}
 										},
 										"M-WP-EDS-P Ereignisdiskrete Systeme": {
@@ -1655,9 +1683,16 @@
 								"": {
 									"subDirectories": {
 										"M-WP-DBV-P Digitale Bildverarbeitung": {
+											"subDirectories": {
+												"Image Processing": {
+													"events": {
+														"36325_1": "WPM_IPL/01 (Image Processing)",
+														"36325_2": "WPM_IPL/02 (Image Processing)"
+													}
+												}
+											},
 											"events": {
-												"36323_1": "IP (Image Processing)",
-												"36325_1": "WPM_IPL (Image Processing)"
+												"36323_1": "IP (Image Processing)"
 											}
 										},
 										"M-WP-EDS-P Ereignisdiskrete Systeme": {
@@ -4460,9 +4495,16 @@
 									}
 								},
 								"M-04 Autonomes Fahren und Robotik": {
+									"subDirectories": {
+										"Autonomes Fahren und Robotik Praktikum": {
+											"events": {
+												"31383_1": "AFRP/01 (Autonomes Fahren und Robotik Praktikum)",
+												"31383_2": "AFRP/02 (Autonomes Fahren und Robotik Praktikum)"
+											}
+										}
+									},
 									"events": {
-										"31368_1": "AFR (Autonomes Fahren und Robotik)",
-										"31383_1": "AFRP (Autonomes Fahren und Robotik Praktikum)"
+										"31368_1": "AFR (Autonomes Fahren und Robotik)"
 									}
 								},
 								"M-06 Machine Learning": {
