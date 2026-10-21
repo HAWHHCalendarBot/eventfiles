@@ -6361,7 +6361,11 @@
 												"33551_1": "TZ/01 (Technisches Zeichnen)",
 												"33551_2": "TZ/02 (Technisches Zeichnen)"
 											}
-										},
+										}
+									}
+								},
+								"Module im 2. Semester": {
+									"subDirectories": {
 										"M-22050-FF Grundlagen der darstellenden Geometrie / Einführung in CAD": {
 											"subDirectories": {
 												"Grundlagen der darstellenden Geometrie 1b": {
@@ -6377,11 +6381,7 @@
 													}
 												}
 											}
-										}
-									}
-								},
-								"Module im 2. Semester": {
-									"subDirectories": {
+										},
 										"Mathematik 2": {
 											"events": {
 												"33465_1": "MA2/01 (Mathematik 2)",
@@ -6826,63 +6826,67 @@
 				},
 				"Bachelor Flugzeugbau (PO SoSe 2022)": {
 					"subDirectories": {
-						"1. Semester": {
+						"Gemeinsame Pflichtmodule im 1. Studienjahr": {
 							"subDirectories": {
-								"Werkstoffkunde 2": {
-									"events": {
-										"33447_1": "WK2/01 (Werkstoffkunde 2)",
-										"33447_2": "WK2/02 (Werkstoffkunde 2)"
-									}
-								},
-								"Technisches Zeichnen": {
-									"events": {
-										"33551_1": "TZ/01 (Technisches Zeichnen)",
-										"33551_2": "TZ/02 (Technisches Zeichnen)"
-									}
-								}
-							}
-						},
-						"2. Semester": {
-							"subDirectories": {
-								"Mathematik 2": {
-									"events": {
-										"33465_1": "MA2/01 (Mathematik 2)",
-										"33465_2": "MA2/02 (Mathematik 2)"
-									}
-								},
-								"Festigkeitslehre": {
-									"events": {
-										"33419_1": "TM2/01 (Festigkeitslehre)",
-										"33419_2": "TM2/02 (Festigkeitslehre)"
-									}
-								},
-								"Datenverarbeitung": {
-									"events": {
-										"33545_1": "DV/01 (Datenverarbeitung)",
-										"33545_2": "DV/02 (Datenverarbeitung)"
-									}
-								},
-								"M-22050-FF Grundlagen der darstellenden Geometrie / Einführung in CAD": {
+								"Module im 1. Semester": {
 									"subDirectories": {
-										"Grundlagen der darstellenden Geometrie 1b": {
+										"Werkstoffkunde 2": {
 											"events": {
-												"33537_1": "DG1b/01 (Grundlagen der darstellenden Geometrie 1b)",
-												"33537_2": "DG1b/02 (Grundlagen der darstellenden Geometrie 1b)"
+												"33447_1": "WK2/01 (Werkstoffkunde 2)",
+												"33447_2": "WK2/02 (Werkstoffkunde 2)"
 											}
 										},
-										"Einführung in CAD": {
+										"Technisches Zeichnen": {
 											"events": {
-												"33464_1": "CAD/01 (Einführung in CAD)",
-												"33464_2": "CAD/02 (Einführung in CAD)"
+												"33551_1": "TZ/01 (Technisches Zeichnen)",
+												"33551_2": "TZ/02 (Technisches Zeichnen)"
+											}
+										}
+									}
+								},
+								"Module im 2. Semester": {
+									"subDirectories": {
+										"M-22050-FF Grundlagen der darstellenden Geometrie / Einführung in CAD": {
+											"subDirectories": {
+												"Grundlagen der darstellenden Geometrie 1b": {
+													"events": {
+														"33537_1": "DG1b/01 (Grundlagen der darstellenden Geometrie 1b)",
+														"33537_2": "DG1b/02 (Grundlagen der darstellenden Geometrie 1b)"
+													}
+												},
+												"Einführung in CAD": {
+													"events": {
+														"33464_1": "CAD/01 (Einführung in CAD)",
+														"33464_2": "CAD/02 (Einführung in CAD)"
+													}
+												}
+											}
+										},
+										"Mathematik 2": {
+											"events": {
+												"33465_1": "MA2/01 (Mathematik 2)",
+												"33465_2": "MA2/02 (Mathematik 2)"
+											}
+										},
+										"Festigkeitslehre": {
+											"events": {
+												"33419_1": "TM2/01 (Festigkeitslehre)",
+												"33419_2": "TM2/02 (Festigkeitslehre)"
+											}
+										},
+										"Datenverarbeitung": {
+											"events": {
+												"33545_1": "DV/01 (Datenverarbeitung)",
+												"33545_2": "DV/02 (Datenverarbeitung)"
 											}
 										}
 									}
 								}
 							}
 						},
-						"3. Semester": {
+						"Studienschwerpunkt Entwurf und Leichtbau": {
 							"subDirectories": {
-								"Studienschwerpunkt Entwurf und Leichtbau": {
+								"Module im 3. Semester": {
 									"subDirectories": {
 										"Dynamik": {
 											"events": {
@@ -6916,56 +6920,8 @@
 										}
 									}
 								},
-								"Studienschwerpunkt Kabine und Kabinensysteme": {
+								"Module im 4. Semester": {
 									"subDirectories": {
-										"": {
-											"events": {
-												"33601_1": "EUD (Ergonomie und Design)"
-											}
-										},
-										"Dynamik": {
-											"events": {
-												"33709_1": "TM3/01 (Dynamik)",
-												"33709_2": "TM3/02 (Dynamik)"
-											}
-										},
-										"Maschinenelemente in Fahrzeug- und Flugzeugstrukturen": {
-											"events": {
-												"33815_1": "MFF/01 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)",
-												"33815_2": "MFF/02 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)"
-											}
-										},
-										"Strömungslehre": {
-											"events": {
-												"33688_1": "SLL/01 (Strömungslehre)",
-												"33688_2": "SLL/02 (Strömungslehre)"
-											}
-										},
-										"Thermodynamik": {
-											"events": {
-												"33566_1": "TH/01 (Thermodynamik)",
-												"33566_2": "TH/02 (Thermodynamik)"
-											}
-										},
-										"Grundlagen der Elektrotechnik": {
-											"events": {
-												"33740_1": "GET/01 (Grundlagen der Elektrotechnik)",
-												"33740_2": "GET/02 (Grundlagen der Elektrotechnik)"
-											}
-										}
-									}
-								}
-							}
-						},
-						"4. Semester": {
-							"subDirectories": {
-								"Studienschwerpunkt Entwurf und Leichtbau": {
-									"subDirectories": {
-										"": {
-											"events": {
-												"33818_1": "MIA (Maschinenelemente in Antriebssträngen)"
-											}
-										},
 										"Schwingungslehre und Akustik": {
 											"events": {
 												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
@@ -6987,53 +6943,12 @@
 										}
 									},
 									"events": {
-										"33653_1": "FEM KE (Finite Elemente Methode (KE))",
-										"33792_1": "FIL KE (Festigkeit Leichtbau (KE))"
+										"33803_1": "FEM (Finite Elemente Methode)",
+										"33957_1": "FIL EL (Festigkeit Leichtbau (EL))"
 									}
 								},
-								"Studienschwerpunkt Kabine und Kabinensysteme": {
+								"Module im 5. Semester": {
 									"subDirectories": {
-										"": {
-											"events": {
-												"33786_1": "LFP (Labor im Flugzeugprojekt)"
-											}
-										},
-										"Schwingungslehre und Akustik": {
-											"events": {
-												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
-												"33674_2": "TM4/02 (Schwingungslehre und Akustik)"
-											}
-										},
-										"Integratives Projekt": {
-											"events": {
-												"33813_1": "IP/01 (Integratives Projekt)",
-												"33813_2": "IP/02 (Integratives Projekt)",
-												"33813_3": "IP/03 (Integratives Projekt)"
-											}
-										},
-										"Messtechnik": {
-											"events": {
-												"33812_1": "MTL/01 (Messtechnik)",
-												"33812_2": "MTL/02 (Messtechnik)"
-											}
-										}
-									},
-									"events": {
-										"33965_1": "AKA (Architektur der Kabine)",
-										"33948_1": "FPR (Flugzeugprojekt)"
-									}
-								}
-							}
-						},
-						"5. Semester": {
-							"subDirectories": {
-								"Studienschwerpunkt Entwurf und Leichtbau": {
-									"subDirectories": {
-										"": {
-											"events": {
-												"33622_1": "FS (Flugzeugsysteme)"
-											}
-										},
 										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
 											"subDirectories": {
 												"Seminar": {
@@ -7071,13 +6986,125 @@
 										"33997_1": "FM (Flugmechanik)"
 									}
 								},
-								"Studienschwerpunkt Kabine und Kabinensysteme": {
+								"Module im 6. Semester": {
 									"subDirectories": {
-										"": {
+										"Betriebswirtschaftslehre": {
+											"events": {
+												"33605_1": "BWL/01 (Betriebswirtschaftslehre)",
+												"33605_2": "BWL/02 (Betriebswirtschaftslehre)"
+											}
+										}
+									},
+									"events": {
+										"33969_1": "SKO2 (Strukturkonstruktion2)",
+										"34001_1": "FE (Flugzeugentwurf)"
+									}
+								},
+								"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Entwurf und Leichtbau im Standardprofil": {
+									"subDirectories": {
+										"4. Semester": {
+											"events": {
+												"33652_1": "FTW (Flugzeugtriebwerke)"
+											}
+										},
+										"5. Semester": {
 											"events": {
 												"33622_1": "FS (Flugzeugsysteme)"
 											}
 										},
+										"6. Semester": {
+											"events": {
+												"33831_1": "FVT (Faserverbundtechnologie)"
+											}
+										}
+									}
+								},
+								"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Entwurf und Leichtbau im Konstruktionsprofil": {
+									"subDirectories": {
+										"4. Semester": {
+											"events": {
+												"33818_1": "MIA (Maschinenelemente in Antriebssträngen)"
+											}
+										},
+										"5. Semester": {
+											"events": {
+												"33622_1": "FS (Flugzeugsysteme)"
+											}
+										},
+										"6. Semester": {
+											"events": {
+												"33570_1": "CADF (CAD im Flugzeugbau)"
+											}
+										}
+									}
+								}
+							}
+						},
+						"Studienschwerpunkt Kabine und Kabinensysteme": {
+							"subDirectories": {
+								"Module im 3. Semester": {
+									"subDirectories": {
+										"Dynamik": {
+											"events": {
+												"33709_1": "TM3/01 (Dynamik)",
+												"33709_2": "TM3/02 (Dynamik)"
+											}
+										},
+										"Maschinenelemente in Fahrzeug- und Flugzeugstrukturen": {
+											"events": {
+												"33815_1": "MFF/01 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)",
+												"33815_2": "MFF/02 (Maschinenelemente in Fahrzeug- und Flugzeugstrukturen)"
+											}
+										},
+										"Strömungslehre": {
+											"events": {
+												"33688_1": "SLL/01 (Strömungslehre)",
+												"33688_2": "SLL/02 (Strömungslehre)"
+											}
+										},
+										"Thermodynamik": {
+											"events": {
+												"33566_1": "TH/01 (Thermodynamik)",
+												"33566_2": "TH/02 (Thermodynamik)"
+											}
+										},
+										"Grundlagen der Elektrotechnik": {
+											"events": {
+												"33740_1": "GET/01 (Grundlagen der Elektrotechnik)",
+												"33740_2": "GET/02 (Grundlagen der Elektrotechnik)"
+											}
+										}
+									}
+								},
+								"Module im 4. Semester": {
+									"subDirectories": {
+										"Schwingungslehre und Akustik": {
+											"events": {
+												"33674_1": "TM4/01 (Schwingungslehre und Akustik)",
+												"33674_2": "TM4/02 (Schwingungslehre und Akustik)"
+											}
+										},
+										"Integratives Projekt": {
+											"events": {
+												"33813_1": "IP/01 (Integratives Projekt)",
+												"33813_2": "IP/02 (Integratives Projekt)",
+												"33813_3": "IP/03 (Integratives Projekt)"
+											}
+										},
+										"Messtechnik": {
+											"events": {
+												"33812_1": "MTL/01 (Messtechnik)",
+												"33812_2": "MTL/02 (Messtechnik)"
+											}
+										}
+									},
+									"events": {
+										"33965_1": "AKA (Architektur der Kabine)",
+										"33948_1": "FPR (Flugzeugprojekt)"
+									}
+								},
+								"Module im 5. Semester": {
+									"subDirectories": {
 										"M-15280-FF Seminar, Planen und Präsentieren von Arbeiten": {
 											"subDirectories": {
 												"Seminar": {
@@ -7109,37 +7136,9 @@
 										"33971_1": "EKS (Elektrische Kabinensysteme)",
 										"33982_1": "FUS (Faserverbund- und Sandwichstrukturen)"
 									}
-								}
-							}
-						},
-						"6. Semester": {
-							"subDirectories": {
-								"Studienschwerpunkt Entwurf und Leichtbau": {
-									"subDirectories": {
-										"": {
-											"events": {
-												"33570_1": "CADF (CAD im Flugzeugbau)"
-											}
-										},
-										"Betriebswirtschaftslehre": {
-											"events": {
-												"33605_1": "BWL/01 (Betriebswirtschaftslehre)",
-												"33605_2": "BWL/02 (Betriebswirtschaftslehre)"
-											}
-										}
-									},
-									"events": {
-										"33969_1": "SKO2 (Strukturkonstruktion2)",
-										"34001_1": "FE (Flugzeugentwurf)"
-									}
 								},
-								"Studienschwerpunkt Kabine und Kabinensysteme": {
+								"Module im 6. Semester": {
 									"subDirectories": {
-										"": {
-											"events": {
-												"33570_1": "CADF (CAD im Flugzeugbau)"
-											}
-										},
 										"Betriebswirtschaftslehre": {
 											"events": {
 												"33605_1": "BWL/01 (Betriebswirtschaftslehre)",
@@ -7150,6 +7149,49 @@
 									"events": {
 										"33994_1": "KMO (Kabinenmodule und -monumente)",
 										"33976_1": "LKK (Labor Kabine und Kabinensysteme)"
+									}
+								},
+								"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Kabine und Kabinensysteme in der Vertiefungsrichtung Kabine": {
+									"subDirectories": {
+										"3. Semester": {
+											"events": {
+												"33601_1": "EUD (Ergonomie und Design)"
+											}
+										},
+										"4. Semester": {
+											"events": {
+												"33786_1": "LFP (Labor im Flugzeugprojekt)"
+											}
+										},
+										"5. Semester": {
+											"events": {
+												"33653_1": "FEM KE (Finite Elemente Methode (KE))"
+											}
+										},
+										"6. Semester": {
+											"events": {
+												"33570_1": "CADF (CAD im Flugzeugbau)"
+											}
+										}
+									}
+								},
+								"Empfohlene Wahlpflichtmodule für den Studienschwerpunkt Kabine und Kabinensysteme in der Vertiefungsrichtung Kabinensysteme": {
+									"subDirectories": {
+										"3. Semester": {
+											"events": {
+												"33601_1": "EUD (Ergonomie und Design)"
+											}
+										},
+										"4. Semester": {
+											"events": {
+												"33786_1": "LFP (Labor im Flugzeugprojekt)"
+											}
+										},
+										"5. Semester": {
+											"events": {
+												"33622_1": "FS (Flugzeugsysteme)"
+											}
+										}
 									}
 								}
 							}
