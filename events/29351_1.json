@@ -24,13 +24,6 @@
 		"name": "LEP (Leistungselektronik Laborpraktikum)",
 		"location": "3.01, Berliner Tor 7",
 		"description": "Dozenten: Prof. Dr. Jens Ginzel, Frank Korpel\nRhythmus: wöchentlich\n\nOriginaler Titel: Leistungselektronik Laborpraktikum ^PG1: BMT6_DynA (Ginzel;Korpel)",
-		"startTime": "2026-11-18T08:30:00",
-		"endTime": "2026-11-18T11:45:00"
-	},
-	{
-		"name": "LEP (Leistungselektronik Laborpraktikum)",
-		"location": "3.01, Berliner Tor 7",
-		"description": "Dozenten: Prof. Dr. Jens Ginzel, Frank Korpel\nRhythmus: wöchentlich\n\nOriginaler Titel: Leistungselektronik Laborpraktikum ^PG1: BMT6_DynA (Ginzel;Korpel)",
 		"startTime": "2026-12-02T08:30:00",
 		"endTime": "2026-12-02T11:45:00"
 	},
@@ -40,19 +33,5 @@
 		"description": "Dozenten: Prof. Dr. Jens Ginzel, Frank Korpel\nRhythmus: wöchentlich\n\nOriginaler Titel: Leistungselektronik Laborpraktikum ^PG1: BMT6_DynA (Ginzel;Korpel)",
 		"startTime": "2026-12-09T08:30:00",
 		"endTime": "2026-12-09T11:45:00"
-	},
-	{
-		"name": "LEP (Leistungselektronik Laborpraktikum)",
-		"location": "3.01, Berliner Tor 7",
-		"description": "Dozenten: Prof. Dr. Jens Ginzel, Frank Korpel\nRhythmus: wöchentlich\n\nOriginaler Titel: Leistungselektronik Laborpraktikum ^PG1: BMT6_DynA (Ginzel;Korpel)",
-		"startTime": "2027-01-06T08:30:00",
-		"endTime": "2027-01-06T11:45:00"
-	},
-	{
-		"name": "LEP (Leistungselektronik Laborpraktikum)",
-		"location": "3.01, Berliner Tor 7",
-		"description": "Dozenten: Prof. Dr. Jens Ginzel, Frank Korpel\nRhythmus: wöchentlich\n\nOriginaler Titel: Leistungselektronik Laborpraktikum ^PG1: BMT6_DynA (Ginzel;Korpel)",
-		"startTime": "2027-01-13T08:30:00",
-		"endTime": "2027-01-13T11:45:00"
 	}
 ]
