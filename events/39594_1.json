@@ -38,6 +38,13 @@
 		"name": "EinfHEV (Einführung in Humanernährung und Verpflegung)",
 		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Dr. Ernestine Tecklenburg\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung",
+		"startTime": "2027-01-08T08:30:00",
+		"endTime": "2027-01-08T11:45:00"
+	},
+	{
+		"name": "EinfHEV (Einführung in Humanernährung und Verpflegung)",
+		"location": "S4.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Dr. Ernestine Tecklenburg\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in Humanernährung und Verpflegung",
 		"startTime": "2027-01-15T08:30:00",
 		"endTime": "2027-01-15T11:45:00"
 	},
