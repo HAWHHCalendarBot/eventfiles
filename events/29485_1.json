@@ -52,13 +52,6 @@
 		"name": "AT2 (Automatisierungstechnik 2)",
 		"location": "110, Stiftstraße 69",
 		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nRhythmus: wöchentlich\n\nOriginaler Titel: Automatisierungstechnik 2 ^PG1: BMT5,BMT5_SP (Würger)",
-		"startTime": "2026-11-26T08:30:00",
-		"endTime": "2026-11-26T11:45:00"
-	},
-	{
-		"name": "AT2 (Automatisierungstechnik 2)",
-		"location": "110, Stiftstraße 69",
-		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nRhythmus: wöchentlich\n\nOriginaler Titel: Automatisierungstechnik 2 ^PG1: BMT5,BMT5_SP (Würger)",
 		"startTime": "2026-12-03T08:30:00",
 		"endTime": "2026-12-03T11:45:00"
 	},
@@ -66,14 +59,21 @@
 		"name": "AT2 (Automatisierungstechnik 2)",
 		"location": "110, Stiftstraße 69",
 		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nRhythmus: wöchentlich\n\nOriginaler Titel: Automatisierungstechnik 2 ^PG1: BMT5,BMT5_SP (Würger)",
-		"startTime": "2026-12-10T08:30:00",
-		"endTime": "2026-12-10T11:45:00"
+		"startTime": "2026-12-17T08:30:00",
+		"endTime": "2026-12-17T11:45:00"
 	},
 	{
 		"name": "AT2 (Automatisierungstechnik 2)",
 		"location": "110, Stiftstraße 69",
 		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nRhythmus: wöchentlich\n\nOriginaler Titel: Automatisierungstechnik 2 ^PG1: BMT5,BMT5_SP (Würger)",
-		"startTime": "2026-12-17T08:30:00",
-		"endTime": "2026-12-17T11:45:00"
+		"startTime": "2027-01-14T08:30:00",
+		"endTime": "2027-01-14T11:45:00"
+	},
+	{
+		"name": "AT2 (Automatisierungstechnik 2)",
+		"location": "110, Stiftstraße 69",
+		"description": "Dozent: Prof. Dr.-Ing. Andreas Würger\nRhythmus: wöchentlich\n\nOriginaler Titel: Automatisierungstechnik 2 ^PG1: BMT5,BMT5_SP (Würger)",
+		"startTime": "2027-01-21T08:30:00",
+		"endTime": "2027-01-21T11:45:00"
 	}
 ]
