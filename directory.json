@@ -1380,6 +1380,12 @@
 					"subDirectories": {
 						"5. Semester": {
 							"subDirectories": {
+								"M-33d Fortgeschrittene Programmierung in C": {
+									"events": {
+										"44219_1": "PR2 (Fortgeschrittene Programmierung in C)",
+										"44220_1": "PRP2 (Fortgeschrittene Programmierung in C)"
+									}
+								},
 								"M-34d Objektorientierte Programmierung in der Automatisierungstechnik": {
 									"subDirectories": {
 										"Objektorientierte Programmierung in der Automatisierungstechnik": {
@@ -1396,7 +1402,6 @@
 								}
 							},
 							"events": {
-								"44219_1": "PR2 (Fortgeschrittene Programmierung in C)",
 								"47378_1": "VP1 (Vorträge aus der Praxis I)"
 							}
 						}
