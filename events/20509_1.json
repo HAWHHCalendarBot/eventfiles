@@ -96,5 +96,19 @@
 		"description": "Dozent: Prof. Dr. Anja Behrens-Potratz\nTeilnehmer/-innen: ? / 25\nRhythmus: wöchentlich\n\nOriginaler Titel: Einführung in die BWL",
 		"startTime": "2027-01-20T10:00:00",
 		"endTime": "2027-01-20T13:15:00"
+	},
+	{
+		"name": "M5 LV (Einführung in die BWL)",
+		"location": "5.07, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Anja Behrens-Potratz\nTeilnehmer/-innen: ? / 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Einführung in die BWL",
+		"startTime": "2026-11-11T14:00:00",
+		"endTime": "2026-11-11T17:45:00"
+	},
+	{
+		"name": "M5 LV (Einführung in die BWL)",
+		"location": "5.07, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Anja Behrens-Potratz\nTeilnehmer/-innen: ? / 25\nRhythmus: Einzeltermin\n\nOriginaler Titel: Einführung in die BWL",
+		"startTime": "2026-12-09T14:00:00",
+		"endTime": "2026-12-09T17:45:00"
 	}
 ]
