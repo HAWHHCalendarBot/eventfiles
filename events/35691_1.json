@@ -75,5 +75,26 @@
 		"description": "Dozent: Prof. Dr.-Ing. Matthias Kronauge\nTeilnehmer/-innen: ? / 45\nRhythmus: wöchentlich\n\nOriginaler Titel: Digitale Signalverarbeitung ^ DP",
 		"startTime": "2026-12-15T08:10:00",
 		"endTime": "2026-12-15T11:25:00"
+	},
+	{
+		"name": "DP (Digitale Signalverarbeitung)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Matthias Kronauge\nTeilnehmer/-innen: ? / 45\nRhythmus: wöchentlich\n\nOriginaler Titel: Digitale Signalverarbeitung ^ DP",
+		"startTime": "2026-12-22T08:10:00",
+		"endTime": "2026-12-22T11:25:00"
+	},
+	{
+		"name": "DP (Digitale Signalverarbeitung)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Matthias Kronauge\nTeilnehmer/-innen: ? / 45\nRhythmus: wöchentlich\n\nOriginaler Titel: Digitale Signalverarbeitung ^ DP",
+		"startTime": "2026-12-29T08:10:00",
+		"endTime": "2026-12-29T11:25:00"
+	},
+	{
+		"name": "DP (Digitale Signalverarbeitung)",
+		"location": "12.60, Berliner Tor 7",
+		"description": "Dozent: Prof. Dr.-Ing. Matthias Kronauge\nTeilnehmer/-innen: ? / 45\nRhythmus: wöchentlich\n\nOriginaler Titel: Digitale Signalverarbeitung ^ DP",
+		"startTime": "2027-01-05T08:10:00",
+		"endTime": "2027-01-05T11:25:00"
 	}
 ]
