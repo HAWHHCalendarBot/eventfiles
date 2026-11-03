@@ -1,0 +1,44 @@
+[
+	{
+		"name": "TLV (Technologie der Lebensmittelverarbeitung I und II)",
+		"location": "S3.04, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Dr. Dr. Dr. Roland Beck, Thomas Krahl\nRhythmus: vierwöchentlich\n\nOriginaler Titel: Technologie der Lebensmittelverarbeitung I und II",
+		"startTime": "2026-10-29T08:30:00",
+		"endTime": "2026-10-29T16:00:00"
+	},
+	{
+		"name": "TLV (Technologie der Lebensmittelverarbeitung I und II)",
+		"location": "S3.04, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Dr. Dr. Dr. Roland Beck, Thomas Krahl\nRhythmus: vierwöchentlich\n\nOriginaler Titel: Technologie der Lebensmittelverarbeitung I und II",
+		"startTime": "2026-11-26T08:30:00",
+		"endTime": "2026-11-26T16:00:00"
+	},
+	{
+		"name": "TLV (Technologie der Lebensmittelverarbeitung I und II)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Dr. Dr. Dr. Roland Beck, Thomas Krahl\nRhythmus: Einzeltermin\n\nOriginaler Titel: Technologie der Lebensmittelverarbeitung I und II",
+		"startTime": "2026-10-30T08:30:00",
+		"endTime": "2026-10-30T16:00:00"
+	},
+	{
+		"name": "TLV (Technologie der Lebensmittelverarbeitung I und II)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Dr. Dr. Dr. Roland Beck, Thomas Krahl\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Technologie der Lebensmittelverarbeitung I und II",
+		"startTime": "2026-11-27T08:30:00",
+		"endTime": "2026-11-27T16:00:00"
+	},
+	{
+		"name": "TLV (Technologie der Lebensmittelverarbeitung I und II)",
+		"location": "S3.01, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Dr. Dr. Dr. Roland Beck, Thomas Krahl\nRhythmus: dreiwöchentlich\n\nOriginaler Titel: Technologie der Lebensmittelverarbeitung I und II",
+		"startTime": "2026-12-18T08:30:00",
+		"endTime": "2026-12-18T16:00:00"
+	},
+	{
+		"name": "TLV (Technologie der Lebensmittelverarbeitung I und II)",
+		"location": "0.77 Sensorik Labor, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozenten: Dr. Dr. Dr. Roland Beck, Thomas Krahl\nRhythmus: Einzeltermin\n\nOriginaler Titel: Technologie der Lebensmittelverarbeitung I und II",
+		"startTime": "2026-12-17T08:30:00",
+		"endTime": "2026-12-17T16:00:00"
+	}
+]

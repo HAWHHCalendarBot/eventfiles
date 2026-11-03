@@ -1,0 +1,44 @@
+[
+	{
+		"name": "IW (Kolloquium & Abschlusswerkstatt)",
+		"location": "ZG.10, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Bettina Radeiski\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA (M-01.LV3)",
+		"startTime": "2026-10-21T14:30:00",
+		"endTime": "2026-10-21T17:45:00"
+	},
+	{
+		"name": "IW (Kolloquium & Abschlusswerkstatt)",
+		"location": "ZG.10, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Bettina Radeiski\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA (M-01.LV3)",
+		"startTime": "2026-11-04T14:30:00",
+		"endTime": "2026-11-04T17:45:00"
+	},
+	{
+		"name": "IW (Kolloquium & Abschlusswerkstatt)",
+		"location": "ZG.10, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Bettina Radeiski\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA (M-01.LV3)",
+		"startTime": "2026-11-18T14:30:00",
+		"endTime": "2026-11-18T17:45:00"
+	},
+	{
+		"name": "IW (Kolloquium & Abschlusswerkstatt)",
+		"location": "ZG.10, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Silke Betscher\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA (M-01.LV3)",
+		"startTime": "2026-12-09T14:30:00",
+		"endTime": "2026-12-09T17:45:00"
+	},
+	{
+		"name": "IW (Kolloquium & Abschlusswerkstatt)",
+		"location": "ZG.10, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Silke Betscher\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA (M-01.LV3)",
+		"startTime": "2027-01-13T14:30:00",
+		"endTime": "2027-01-13T17:45:00"
+	},
+	{
+		"name": "IW (Kolloquium & Abschlusswerkstatt)",
+		"location": "ZG.10, Alexanderstraße 1",
+		"description": "Dozent: Prof. Dr. Silke Betscher\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA (M-01.LV3)",
+		"startTime": "2027-01-27T14:30:00",
+		"endTime": "2027-01-27T17:45:00"
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"name": "MS (Mastersalon)",
+		"location": "1.19, Alexanderstraße 1",
+		"description": "Dozent: Maike Schröder-Lüders\nRhythmus: vierwöchentlich\n\nOriginaler Titel: MASA (M-09.LV1-P)",
+		"startTime": "2026-10-20T15:30:00",
+		"endTime": "2026-10-20T17:15:00"
+	},
+	{
+		"name": "MS (Mastersalon)",
+		"location": "1.19, Alexanderstraße 1",
+		"description": "Dozent: Maike Schröder-Lüders\nRhythmus: vierwöchentlich\n\nOriginaler Titel: MASA (M-09.LV1-P)",
+		"startTime": "2026-11-17T15:30:00",
+		"endTime": "2026-11-17T17:15:00"
+	},
+	{
+		"name": "MS (Mastersalon)",
+		"location": "1.19, Alexanderstraße 1",
+		"description": "Dozent: Maike Schröder-Lüders\nRhythmus: vierwöchentlich\n\nOriginaler Titel: MASA (M-09.LV1-P)",
+		"startTime": "2026-12-15T15:30:00",
+		"endTime": "2026-12-15T17:15:00"
+	},
+	{
+		"name": "MS (Mastersalon)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Maike Schröder-Lüders\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA (M-09.LV1-P)",
+		"startTime": "2026-11-03T15:30:00",
+		"endTime": "2026-11-03T17:15:00"
+	},
+	{
+		"name": "MS (Mastersalon)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Maike Schröder-Lüders\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA (M-09.LV1-P)",
+		"startTime": "2026-12-01T15:30:00",
+		"endTime": "2026-12-01T17:15:00"
+	},
+	{
+		"name": "MS (Mastersalon)",
+		"location": "(kein Raum angegeben)",
+		"description": "Dozent: Maike Schröder-Lüders\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA (M-09.LV1-P)",
+		"startTime": "2027-01-19T15:30:00",
+		"endTime": "2027-01-19T17:15:00"
+	}
+]

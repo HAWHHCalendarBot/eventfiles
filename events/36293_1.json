@@ -1,0 +1,44 @@
+[
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "4.05, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Efthimia Panagiotidis, Maike Schröder-Lüders\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA (M-01.LV1)",
+		"startTime": "2026-10-13T14:30:00",
+		"endTime": "2026-10-13T17:45:00"
+	},
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "3.09, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Efthimia Panagiotidis, Maike Schröder-Lüders\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA (M-01.LV1)",
+		"startTime": "2026-11-10T14:30:00",
+		"endTime": "2026-11-10T17:45:00"
+	},
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "3.09, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Efthimia Panagiotidis, Maike Schröder-Lüders\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA (M-01.LV1)",
+		"startTime": "2026-12-08T14:30:00",
+		"endTime": "2026-12-08T17:45:00"
+	},
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "3.09, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Efthimia Panagiotidis, Maike Schröder-Lüders\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA (M-01.LV1)",
+		"startTime": "2027-01-05T14:30:00",
+		"endTime": "2027-01-05T17:45:00"
+	},
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "3.09, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Efthimia Panagiotidis, Maike Schröder-Lüders\nRhythmus: zweiwöchentlich\n\nOriginaler Titel: MASA (M-01.LV1)",
+		"startTime": "2027-01-19T14:30:00",
+		"endTime": "2027-01-19T17:45:00"
+	},
+	{
+		"name": "IW (Ideenwerkstatt Wissen)",
+		"location": "3.09, Alexanderstraße 1",
+		"description": "Dozenten: Prof. Dr. Efthimia Panagiotidis, Maike Schröder-Lüders\nRhythmus: Einzeltermin\n\nOriginaler Titel: MASA (M-01.LV1)",
+		"startTime": "2027-01-26T14:30:00",
+		"endTime": "2027-01-26T17:45:00"
+	}
+]
