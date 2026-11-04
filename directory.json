@@ -6941,7 +6941,7 @@
 										}
 									},
 									"events": {
-										"33803_1": "FEM FL (Finite Elemente Methode)",
+										"33803_1": "FEM FL (Finite Elemente Methode (FL))",
 										"33957_1": "FIL EL (Festigkeit Leichtbau (EL))"
 									}
 								},
@@ -7163,7 +7163,7 @@
 										},
 										"5. Semester": {
 											"events": {
-												"33803_1": "FEM FL (Finite Elemente Methode)"
+												"33803_1": "FEM FL (Finite Elemente Methode (FL))"
 											}
 										},
 										"6. Semester": {
