@@ -194,5 +194,26 @@
 		"description": "Dozent: Prof. Dr. Thomas Schiemann\nRhythmus: wöchentlich\n\nOriginaler Titel: Digitale Anwendungen",
 		"startTime": "2027-01-22T08:30:00",
 		"endTime": "2027-01-22T10:00:00"
+	},
+	{
+		"name": "DA (Digitale Anwendungen)",
+		"location": "N5.17, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Thomas Schiemann\nRhythmus: wöchentlich\n\nOriginaler Titel: Digitale Anwendungen",
+		"startTime": "2026-11-13T08:30:00",
+		"endTime": "2026-11-13T10:00:00"
+	},
+	{
+		"name": "DA (Digitale Anwendungen)",
+		"location": "N5.17, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Thomas Schiemann\nRhythmus: wöchentlich\n\nOriginaler Titel: Digitale Anwendungen",
+		"startTime": "2026-11-20T08:30:00",
+		"endTime": "2026-11-20T10:00:00"
+	},
+	{
+		"name": "DA (Digitale Anwendungen)",
+		"location": "N5.17, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Thomas Schiemann\nRhythmus: wöchentlich\n\nOriginaler Titel: Digitale Anwendungen",
+		"startTime": "2026-11-27T08:30:00",
+		"endTime": "2026-11-27T10:00:00"
 	}
 ]
