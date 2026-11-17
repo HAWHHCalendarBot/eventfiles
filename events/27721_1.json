@@ -73,13 +73,6 @@
 		"name": "FC SL (Fuel Cell Systems and their Applications)",
 		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr. Marion Siegers\nRhythmus: wöchentlich\n\nOriginaler Titel: Fuel Cell Systems and their Applications",
-		"startTime": "2026-12-17T08:30:00",
-		"endTime": "2026-12-17T10:00:00"
-	},
-	{
-		"name": "FC SL (Fuel Cell Systems and their Applications)",
-		"location": "N4.10, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr. Marion Siegers\nRhythmus: wöchentlich\n\nOriginaler Titel: Fuel Cell Systems and their Applications",
 		"startTime": "2027-01-07T08:30:00",
 		"endTime": "2027-01-07T10:00:00"
 	},
@@ -96,5 +89,12 @@
 		"description": "Dozent: Prof. Dr. Marion Siegers\nRhythmus: wöchentlich\n\nOriginaler Titel: Fuel Cell Systems and their Applications",
 		"startTime": "2027-01-21T08:30:00",
 		"endTime": "2027-01-21T10:00:00"
+	},
+	{
+		"name": "FC SL (Fuel Cell Systems and their Applications)",
+		"location": "N4.11, Ulmenliet 20, Hauptgebäude",
+		"description": "Dozent: Prof. Dr. Marion Siegers\nRhythmus: Einzeltermin\n\nOriginaler Titel: Fuel Cell Systems and their Applications",
+		"startTime": "2026-12-03T14:30:00",
+		"endTime": "2026-12-03T16:00:00"
 	}
 ]
