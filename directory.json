@@ -5094,19 +5094,6 @@
 						},
 						"3. Semester": {
 							"subDirectories": {
-								"M-15 Instrumentelle Bioanalytik": {
-									"subDirectories": {
-										"Instrumentelle Analytik Praktikum": {
-											"events": {
-												"26988_1": "IA P/01 (Instrumentelle Analytik Praktikum)",
-												"26988_2": "IA P/02 (Instrumentelle Analytik Praktikum)"
-											}
-										}
-									},
-									"events": {
-										"26940_1": "IA (Instrumentelle Analytik)"
-									}
-								},
 								"Biochemie Praktikum": {
 									"events": {
 										"39740_1": "BCP/01 (Biochemie Praktikum)",
@@ -5137,6 +5124,7 @@
 							},
 							"events": {
 								"42968_1": "Mat3 (Mathematik 3)",
+								"26940_1": "IA (Instrumentelle Analytik)",
 								"26989_1": "MiB (Angewandte Mikrobiologie)",
 								"26877_1": "BC2 (Biochemie 2)"
 							}
