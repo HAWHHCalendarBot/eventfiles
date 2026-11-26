@@ -17,43 +17,8 @@
 		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
 		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
-		"startTime": "2026-12-07T12:30:00",
-		"endTime": "2026-12-07T14:00:00"
-	},
-	{
-		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
-		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
-		"startTime": "2026-12-14T12:30:00",
-		"endTime": "2026-12-14T14:00:00"
-	},
-	{
-		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
-		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
 		"startTime": "2026-12-21T12:30:00",
 		"endTime": "2026-12-21T14:00:00"
-	},
-	{
-		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
-		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
-		"startTime": "2026-12-28T12:30:00",
-		"endTime": "2026-12-28T14:00:00"
-	},
-	{
-		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
-		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
-		"startTime": "2027-01-04T12:30:00",
-		"endTime": "2027-01-04T14:00:00"
-	},
-	{
-		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
-		"location": "N2.05, Ulmenliet 20, Hauptgebäude",
-		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
-		"startTime": "2027-01-11T12:30:00",
-		"endTime": "2027-01-11T14:00:00"
 	},
 	{
 		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
@@ -64,42 +29,28 @@
 	},
 	{
 		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
-		"location": "(kein Raum angegeben)",
+		"location": "N2.24, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
 		"startTime": "2026-12-07T14:00:00",
 		"endTime": "2026-12-07T16:00:00"
 	},
 	{
 		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
-		"location": "(kein Raum angegeben)",
+		"location": "N2.24, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
 		"startTime": "2026-12-14T14:00:00",
 		"endTime": "2026-12-14T16:00:00"
 	},
 	{
 		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
-		"startTime": "2026-12-21T14:00:00",
-		"endTime": "2026-12-21T16:00:00"
-	},
-	{
-		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
-		"location": "(kein Raum angegeben)",
-		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
-		"startTime": "2026-12-28T14:00:00",
-		"endTime": "2026-12-28T16:00:00"
-	},
-	{
-		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
-		"location": "(kein Raum angegeben)",
+		"location": "N2.24, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
 		"startTime": "2027-01-04T14:00:00",
 		"endTime": "2027-01-04T16:00:00"
 	},
 	{
 		"name": "MRTS-HI (Medical Real Time Systems, Hardware Implementations)",
-		"location": "(kein Raum angegeben)",
+		"location": "N2.24, Ulmenliet 20, Hauptgebäude",
 		"description": "Dozent: Prof. Dr.-Ing. Bernd Flick\nRhythmus: wöchentlich\n\nOriginaler Titel: Medical Real Time Systems, Hardware Implementations",
 		"startTime": "2027-01-11T14:00:00",
 		"endTime": "2027-01-11T16:00:00"
